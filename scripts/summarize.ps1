@@ -255,13 +255,8 @@ foreach ($t in $topicsConf.topics) {
         continue
     }
 
-    # 既に当日サマリがあればスキップ（再実行時の冪等性）
+    # 1日4回配信のため毎回再生成（同日内でも上書き）
     $summaryFile = Join-Path $SummariesDir "$($t.id)-$Today.json"
-    if (Test-Path $summaryFile) {
-        Write-Log "  $($t.icon) $($t.name): 既存サマリあり、スキップ"
-        $skippedCount++
-        continue
-    }
 
     # 過去N日間の見出し（コンテキスト用）
     $historyCutoff = (Get-Date).AddDays(-$apiCfg.history_days_in_context)

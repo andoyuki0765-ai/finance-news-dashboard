@@ -27,6 +27,7 @@ $LogDir       = Join-Path $Root 'logs'
 
 $Today    = Get-Date -Format 'yyyy-MM-dd'
 $TodayJp  = Get-Date -Format 'yyyy年M月d日(ddd)'
+$NowHHmm  = Get-Date -Format 'HH:mm'
 $LogFile  = Join-Path $LogDir "send-email-$Today.log"
 
 if (-not (Test-Path $LogDir)) { New-Item -ItemType Directory -Path $LogDir -Force | Out-Null }
@@ -95,8 +96,16 @@ function Get-SentimentMark { param($s)
     }
 }
 
+# 配信時刻に応じた挨拶
+$greeting = switch -regex ($NowHHmm) {
+    '^0[0-4]:'  { 'こんばんは（深夜便）。' ; break }
+    '^0[5-9]:|^10:' { 'おはようございます。' ; break }
+    '^1[1-3]:' { 'こんにちは（昼便）。' ; break }
+    default    { 'こんにちは（夕方便）。' }
+}
+
 $sb = New-Object System.Text.StringBuilder
-[void]$sb.AppendLine("おはようございます。$TodayJp の金融ニュースダイジェストです。")
+[void]$sb.AppendLine("$greeting$TodayJp $NowHHmm 時点の金融ニュースダイジェストです（直近24時間）。")
 [void]$sb.AppendLine("")
 [void]$sb.AppendLine("📊 本日の動き（$($summaries.Count)単元）")
 [void]$sb.AppendLine(("=" * 50))
@@ -128,7 +137,7 @@ $body = $sb.ToString()
 # ===== サブジェクト =====
 $posCount = ($summaries | Where-Object { $_.Sentiment -eq 'positive' }).Count
 $negCount = ($summaries | Where-Object { $_.Sentiment -eq 'negative' }).Count
-$subject  = "📊 金融ニュース日次サマリ - $TodayJp（🟢$posCount / 🔴$negCount）"
+$subject  = "📊 金融ニュース $NowHHmm 時点 - $TodayJp（🟢$posCount / 🔴$negCount）"
 
 if ($TestOnly) {
     Write-Log "===== TEST MODE: 送信せず内容のみ表示 ====="
