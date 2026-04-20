@@ -2,7 +2,7 @@
 
 無料RSSから日本の金融・経済ニュースを毎朝自動取得し、14単元別にAI要約付きダッシュボードを生成するシステムです。
 
-🌐 **公開ダッシュボード**: https://YOUR-USERNAME.github.io/finance-news-dashboard/
+🌐 **公開ダッシュボード**: https://andoyuki0765-ai.github.io/finance-news-dashboard/
 
 ## 🎯 特徴
 
@@ -36,8 +36,9 @@ news-dashboard/
 │   ├── raw/            # 日次取得した記事（JSON）
 │   ├── topics/         # 単元別の累積記事履歴
 │   └── summaries/      # 単元別AI要約（日次）
-├── output/             # 生成されたHTML（GitHub Pages公開対象）
+├── docs/               # 生成されたHTML（GitHub Pages公開対象）
 │   ├── index.html
+│   ├── robots.txt
 │   └── topics/*.html
 └── scripts/
     ├── fetch.ps1       # RSS取得

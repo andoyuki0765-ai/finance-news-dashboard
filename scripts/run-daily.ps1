@@ -51,7 +51,7 @@ foreach ($step in $steps) {
     }
 }
 
-$indexHtml = Join-Path $Root 'output\index.html'
+$indexHtml = Join-Path $Root 'docs\index.html'
 Write-Log "Daily run complete. Dashboard: $indexHtml"
 
 if ($OpenAfter -and (Test-Path $indexHtml)) {

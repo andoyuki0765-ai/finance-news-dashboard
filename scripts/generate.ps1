@@ -16,7 +16,7 @@ if ([string]::IsNullOrWhiteSpace($Root)) { $Root = Split-Path -Parent $PSScriptR
 $TopicsConfig = Join-Path $Root 'config\topics.json'
 $TopicsDir    = Join-Path $Root 'data\topics'
 $SummariesDir = Join-Path $Root 'data\summaries'
-$OutDir       = Join-Path $Root 'output'
+$OutDir       = Join-Path $Root 'docs'
 $OutTopicsDir = Join-Path $OutDir 'topics'
 $LogDir       = Join-Path $Root 'logs'
 

@@ -47,7 +47,7 @@ try {
     Write-Log "Remote: $remoteUrl"
 
     # 変更ファイルをステージング（生成物のみ。logsは.gitignore除外）
-    git add data/ output/ 2>&1 | Out-Null
+    git add data/ docs/ 2>&1 | Out-Null
 
     # 差分があるかチェック
     $diff = git diff --cached --name-only 2>&1

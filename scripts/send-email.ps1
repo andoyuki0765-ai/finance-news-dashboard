@@ -11,7 +11,7 @@
 param(
     [string]$Root = '',
     [switch]$TestOnly,
-    [string]$DashboardUrl = 'https://andoyuki0765-ai.github.io/finance-news-dashboard/output/'
+    [string]$DashboardUrl = 'https://andoyuki0765-ai.github.io/finance-news-dashboard/'
 )
 
 $ErrorActionPreference = 'Stop'
