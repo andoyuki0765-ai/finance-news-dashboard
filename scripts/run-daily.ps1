@@ -34,6 +34,8 @@ $steps = @(
     @{ Name = 'Categorize'; Script = 'categorize.ps1' }
     @{ Name = 'Summarize';  Script = 'summarize.ps1' }
     @{ Name = 'Generate';   Script = 'generate.ps1' }
+    @{ Name = 'GitPush';    Script = 'git-push.ps1' }
+    @{ Name = 'SendEmail';  Script = 'send-email.ps1' }
 )
 
 foreach ($step in $steps) {

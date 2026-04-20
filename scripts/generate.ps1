@@ -192,9 +192,10 @@ foreach ($t in $topicsConf.topics) {
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
 <title>$(HtmlEncode $t.name) - 金融ニュースダッシュボード</title>
 <style>$commonCss</style>
-<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js" integrity="sha384-e6nUZLBkQ86NJ6TVVKAeSaK8jWa3NhkYWZFomE39AvDbQWeie9PlQqM3pmYW5d1g" crossorigin="anonymous"></script>
 </head>
 <body>
 <div class="container">
@@ -336,6 +337,7 @@ $idx = New-Object System.Text.StringBuilder
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
 <title>金融ニュースダッシュボード</title>
 <style>$commonCss</style>
 </head>
