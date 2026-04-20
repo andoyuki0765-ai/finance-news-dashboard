@@ -84,8 +84,62 @@ Write-Host "   保存先: $CredFile"
 Write-Host "   暗号化: DPAPI (ユーザー: $env:USERNAME, マシン: $env:COMPUTERNAME)"
 Write-Host "   ACL: $env:USERNAME のみアクセス可"
 Write-Host ""
-Write-Host "🧪 テスト送信:"
-Write-Host "   powershell -File scripts\send-email.ps1 -TestOnly"
+
+# パスワード長チェック（Gmailアプリパスワードは16文字）
+$tmpCred = $cred.GetNetworkCredential()
+$tmpPass = $tmpCred.Password -replace '\s+', ''
+Write-Host "📏 入力したパスワードの長さ: $($tmpPass.Length) 文字"
+if ($tmpPass.Length -ne 16) {
+    Write-Host "   ⚠️  Gmailアプリパスワードは16文字ですが、$($tmpPass.Length)文字が入力されました" -ForegroundColor Yellow
+    Write-Host "   通常のGoogleパスワードを誤入力していませんか？" -ForegroundColor Yellow
+}
+
+# 接続テスト
+Write-Host ""
+Write-Host "🔌 SMTP接続テスト中..." -ForegroundColor Cyan
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+try {
+    $smtp = New-Object System.Net.Mail.SmtpClient('smtp.gmail.com', 587)
+    $smtp.EnableSsl   = $true
+    $smtp.Credentials = New-Object System.Net.NetworkCredential($emailAddr, $tmpPass)
+    $smtp.Timeout     = 15000
+
+    # ダミーメッセージで接続のみ確認（送信せずDispose）
+    $testMsg = New-Object System.Net.Mail.MailMessage($emailAddr, $emailAddr, 'connection-test', 'test')
+    $smtp.Send($testMsg)
+    $testMsg.Dispose()
+    $smtp.Dispose()
+
+    Write-Host "✅ Gmail SMTP 認証成功！テストメールが届いているはずです" -ForegroundColor Green
+    Write-Host ""
+    Write-Host "🧪 ダイジェスト送信テスト:"
+    Write-Host "   powershell -File scripts\send-email.ps1"
+} catch {
+    $errMsg = $_.Exception.Message
+    if ($_.Exception.InnerException) {
+        $errMsg += "`n    inner: " + $_.Exception.InnerException.Message
+    }
+    Write-Host ""
+    Write-Host "❌ 接続テスト失敗: $errMsg" -ForegroundColor Red
+    Write-Host ""
+    Write-Host "🔍 確認事項：" -ForegroundColor Yellow
+    Write-Host "   ① Googleアカウントの2段階認証は有効ですか？"
+    Write-Host "      https://myaccount.google.com/security"
+    Write-Host "   ② アプリパスワードは https://myaccount.google.com/apppasswords に表示されますか？"
+    Write-Host "   ③ 表示されている場合、一度削除して新規作成してください"
+    Write-Host "   ④ アプリパスワードは 16 文字の英小文字（abcd efgh ijkl mnop の形式）です"
+    Write-Host "      通常のGoogleログインパスワードでは動作しません"
+    Write-Host "   ⑤ Google Workspace（会社アカウント）の場合、管理者がアプリパスワードを無効化している可能性"
+    Write-Host ""
+    Write-Host "再試行: powershell -File scripts\setup-smtp.ps1 -Remove" -ForegroundColor Cyan
+    Write-Host "       powershell -File scripts\setup-smtp.ps1"
+}
+
+# パスワードをメモリから消去
+$tmpPass = $null
+$tmpCred = $null
+[System.GC]::Collect()
+
 Write-Host ""
 Write-Host "❌ 削除する場合:"
 Write-Host "   powershell -File scripts\setup-smtp.ps1 -Remove"

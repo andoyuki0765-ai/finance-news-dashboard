@@ -144,36 +144,56 @@ if ($TestOnly) {
 }
 
 # ===== SMTP送信 =====
+# PS 5.1 の Send-MailMessage は TLS 1.0 で接続するためGmailが拒否（5.7.0）。
+# System.Net.Mail.SmtpClient を直接使い、TLS 1.2 を強制する
 try {
     Write-Log "SMTP送信開始: $emailAddr → $emailAddr"
 
-    # PSCredentialからUTF-8 SMTPメッセージを送信
-    # Send-MailMessage は非推奨警告が出るが、PS5.1で確実に動く方法
-    $oldWarning = $WarningPreference
-    $WarningPreference = 'SilentlyContinue'
+    # TLS 1.2 を強制（Gmail必須）
+    [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
-    Send-MailMessage `
-        -SmtpServer 'smtp.gmail.com' `
-        -Port 587 `
-        -UseSsl `
-        -Credential $cred `
-        -From $emailAddr `
-        -To $emailAddr `
-        -Subject $subject `
-        -Body $body `
-        -Encoding ([System.Text.Encoding]::UTF8)
+    # NetworkCredentialに変換（SMTPはアプリパスワードを使用）
+    $networkCred = $cred.GetNetworkCredential()
+    # アプリパスワードからスペースを除去（Googleが表示するスペース区切りに対応）
+    $cleanPassword = $networkCred.Password -replace '\s+', ''
 
-    $WarningPreference = $oldWarning
+    $smtp = New-Object System.Net.Mail.SmtpClient('smtp.gmail.com', 587)
+    $smtp.EnableSsl   = $true
+    $smtp.Credentials = New-Object System.Net.NetworkCredential($emailAddr, $cleanPassword)
+    $smtp.Timeout     = 30000
+
+    $msg = New-Object System.Net.Mail.MailMessage
+    $msg.From            = New-Object System.Net.Mail.MailAddress($emailAddr, 'News Dashboard')
+    $msg.To.Add($emailAddr)
+    $msg.Subject         = $subject
+    $msg.SubjectEncoding = [System.Text.Encoding]::UTF8
+    $msg.Body            = $body
+    $msg.BodyEncoding    = [System.Text.Encoding]::UTF8
+    $msg.IsBodyHtml      = $false
+
+    $smtp.Send($msg)
 
     Write-Log "送信成功"
 } catch {
-    Write-Log "送信失敗: $($_.Exception.Message)" 'ERROR'
-    if ($_.Exception.Message -match 'authentication|5\.7\.|invalid') {
-        Write-Log "  → アプリパスワードが無効の可能性。setup-smtp.ps1 を再実行してください"
+    $msg = $_.Exception.Message
+    if ($_.Exception.InnerException) {
+        $msg += " / inner: " + $_.Exception.InnerException.Message
+    }
+    Write-Log "送信失敗: $msg" 'ERROR'
+    if ($msg -match '5\.7\.|Authentication|認証|invalid|Username') {
+        Write-Log "  → 原因として考えられるもの:" 'ERROR'
+        Write-Log "    1. Googleアカウントの2段階認証が無効（アプリパスワード自体が無効）" 'ERROR'
+        Write-Log "    2. アプリパスワードを誤入力（半角16文字、スペース除去）" 'ERROR'
+        Write-Log "    3. アプリパスワードが取り消されている" 'ERROR'
+        Write-Log "  → 対処: https://myaccount.google.com/apppasswords で再生成 → setup-smtp.ps1 -Remove → setup-smtp.ps1" 'ERROR'
     }
     exit 1
 } finally {
-    # 認証情報を明示的に破棄
+    # 認証情報を明示的に破棄（メモリから消去）
+    if ($cleanPassword) { $cleanPassword = $null }
+    if ($networkCred) { $networkCred = $null }
+    if ($smtp) { $smtp.Dispose() }
+    if ($msg -and $msg.GetType().Name -eq 'MailMessage') { $msg.Dispose() }
     $cred = $null
     [System.GC]::Collect()
 }
