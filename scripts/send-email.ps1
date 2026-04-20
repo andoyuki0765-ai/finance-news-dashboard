@@ -96,12 +96,12 @@ function Get-SentimentMark { param($s)
     }
 }
 
-# 配信時刻に応じた挨拶
+# 配信時刻に応じた挨拶（00 / 06 / 12 / 18 想定）
 $greeting = switch -regex ($NowHHmm) {
-    '^0[0-4]:'  { 'こんばんは（深夜便）。' ; break }
+    '^0[0-4]:'      { 'こんばんは（深夜便）。' ; break }
     '^0[5-9]:|^10:' { 'おはようございます。' ; break }
-    '^1[1-3]:' { 'こんにちは（昼便）。' ; break }
-    default    { 'こんにちは（夕方便）。' }
+    '^1[1-6]:'      { 'こんにちは（昼便）。' ; break }
+    default         { 'お疲れさまです（夕方便）。' }
 }
 
 $sb = New-Object System.Text.StringBuilder

@@ -1,7 +1,7 @@
 ﻿#Requires -Version 5.1
 <#
 .SYNOPSIS
-  Windowsタスクスケジューラに1日4回（00:00/06:00/12:00/16:00）実行のタスクを登録する
+  Windowsタスクスケジューラに1日4回（00:00/06:00/12:00/18:00）実行のタスクを登録する
 .DESCRIPTION
   既存タスクがあれば上書きします。管理者権限は不要です（ユーザータスクとして登録）。
 .EXAMPLE
@@ -14,7 +14,7 @@
 [CmdletBinding()]
 param(
     [string]$TaskName = 'NewsDashboardDaily',
-    [string[]]$TriggerTimes = @('00:00','06:00','12:00','16:00'),
+    [string[]]$TriggerTimes = @('00:00','06:00','12:00','18:00'),
     [switch]$Unregister
 )
 
