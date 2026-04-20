@@ -1,0 +1,98 @@
+﻿{
+    "id":  "earnings",
+    "name":  "企業業績",
+    "icon":  "💼",
+    "description":  "決算発表・業績予想",
+    "articles":  [
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "#cdata-section -------------- クラウン エステート｢隠れヒット車｣といえるワケ。発売1年の販売データから見えたシリーズを支える功労者 | ライフ | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/941006?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "半世紀以上の歴史を誇るクラウンシリーズに18年ぶりに復活したワゴンモデル｢クラウン エステート｣。SUVとして生まれ変わった新型は､発売初年度から予想以上の好調な売れ行きを記録しています。その人気と…",
+                         "publishedAt":  "2026-04-20T09:30:00+09:00",
+                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "サントリー「ギルティ炭酸 NOPE」なぜ売れた？ わずか1週間で2000万本、担当者が語る勝因",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news011.html",
+                         "description":  "サントリーの新ブランド「ギルティ炭酸 NOPE」が、発売1週間で出荷本数2000万本を突破した。なぜこれほど話題を集めたのか。開発の舞台裏などを取材したところ……。",
+                         "publishedAt":  "2026-04-20T07:00:00+09:00",
+                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "#cdata-section -------------- 絶対に言ってはいけない…粉飾決算を招く“会議のNGワード”とは？ - 組織の病気～成長を止める真犯人～ 秋山進",
+                         "url":  "https://diamond.jp/articles/-/388416",
+                         "description":  "System.Xml.XmlElement",
+                         "publishedAt":  "2026-04-20T06:30:00+09:00",
+                         "fetchedAt":  "2026-04-20T09:47:38+09:00",
+                         "matchKeyword":  "決算"
+                     },
+                     {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "ソニー発“着るクーラー”が快走 レオンポケット、売上1.5倍の理由",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news047.html",
+                         "description":  "年々、夏の暑さが厳しさを増す中、ソニーグループの新規事業プログラムから誕生した暑熱対策のウエアラブルデバイス「REON POCKET（レオンポケット）」が人気だ。",
+                         "publishedAt":  "2026-04-20T06:00:00+09:00",
+                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "#cdata-section -------------- 伊藤忠とJR東日本が不動産事業を統合／30年度に売上高3倍の野心的な目標／仕入れ難や建設費高騰に打ち勝つ秘策 | ビジネス | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/941855?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "伊藤忠商事とJR東日本が不動産事業子会社を統合し､両社の強みを融合した新会社を設立します。不動産価格や建設費が高騰する中､野心的な目標を達成することができるのか。業界の枠を超えた挑戦の行方に注目が集…",
+                         "publishedAt":  "2026-04-20T05:40:00+09:00",
+                         "fetchedAt":  "2026-04-20T09:47:38+09:00",
+                         "matchKeyword":  "売上高"
+                     },
+                     {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "小売業の「支払手数料」負担、10年で45％増加 キャッシュレス決済普及で",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news019.html",
+                         "description":  "キャッシュレス化の拡大に伴い、小売業の手数料負担が増加している。売上高に占める支払手数料は10年で約4割上昇した。",
+                         "publishedAt":  "2026-04-20T05:00:00+09:00",
+                         "fetchedAt":  "2026-04-20T09:47:38+09:00",
+                         "matchKeyword":  "売上高"
+                     },
+                     {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "なぜ「パズドラ」に続くヒット作が生み出せないのか “物言う株主”に狙われたガンホーと任天堂の違い",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news006.html",
+                         "description":  "「パズドラ」で有名なガンホー・オンライン・エンターテイメントが物言う株主に狙われている。背景にはパズドラに続く人気作を生み出せない構造にあるようだ。",
+                         "publishedAt":  "2026-04-20T05:00:00+09:00",
+                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Yahoo!ニュース 経済",
+                         "title":  "キッコーマン 印で中華売り込む訳",
+                         "url":  "https://news.yahoo.co.jp/pickup/6576848?source=rss",
+                         "description":  "",
+                         "publishedAt":  "2026-04-19T17:59:27+09:00",
+                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Yahoo!ニュース 経済",
+                         "title":  "「森永ラムネ」が売上過去最高",
+                         "url":  "https://news.yahoo.co.jp/pickup/6576841?source=rss",
+                         "description":  "",
+                         "publishedAt":  "2026-04-19T17:10:19+09:00",
+                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "メタ、5月20日に人員削減第1弾 約8000人に影響か＝関係筋",
+                         "url":  "https://jp.reuters.com/markets/world-indices/AV5UNL6HQFIKHANJK2THTFLQKA-2026-04-17/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     }
+                 ]
+}

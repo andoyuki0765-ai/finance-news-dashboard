@@ -1,0 +1,132 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>インフレ・物価 - 金融ニュースダッシュボード</title>
+<style>*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Kaku Gothic ProN","Yu Gothic Medium","メイリオ",sans-serif;background:#0f1115;color:#e6e8ec;line-height:1.6}
+a{color:inherit;text-decoration:none}
+a:hover{opacity:.8}
+.container{max-width:1280px;margin:0 auto;padding:24px}
+header{padding:24px 0 16px;border-bottom:1px solid #232732;margin-bottom:32px}
+.header-inner{display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:12px}
+h1{font-size:28px;font-weight:700;letter-spacing:.02em}
+h1 .accent{color:#5eead4}
+.meta{font-size:13px;color:#7d8595}
+nav.crumbs{margin-bottom:16px;font-size:13px;color:#7d8595}
+nav.crumbs a{color:#5eead4}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
+.card{background:#161a23;border:1px solid #232732;border-radius:12px;padding:20px;transition:transform .15s,border-color .15s}
+.card:hover{transform:translateY(-2px);border-color:#5eead4}
+.card-icon{font-size:32px;margin-bottom:8px}
+.card-title{font-size:18px;font-weight:600;margin-bottom:6px}
+.card-desc{font-size:13px;color:#9ca3af;margin-bottom:14px;min-height:38px}
+.card-stats{display:flex;gap:16px;font-size:12px;color:#7d8595;border-top:1px solid #232732;padding-top:12px}
+.card-stats b{color:#5eead4;font-size:16px;font-weight:600;display:block}
+.badge{display:inline-block;background:#1f2937;color:#5eead4;font-size:11px;padding:2px 8px;border-radius:999px;margin-left:6px}
+.badge.new{background:#5eead4;color:#0f1115;font-weight:600}
+.topic-header{display:flex;align-items:center;gap:16px;margin-bottom:8px}
+.topic-icon{font-size:48px}
+.topic-title{font-size:32px;font-weight:700}
+.topic-desc{color:#9ca3af;margin-bottom:24px}
+.section{margin-bottom:36px}
+.section-title{font-size:18px;font-weight:600;margin-bottom:12px;padding-bottom:8px;border-bottom:2px solid #232732;display:flex;align-items:center;gap:8px}
+.section-title .count{font-size:14px;color:#7d8595;font-weight:400}
+.article{background:#161a23;border:1px solid #232732;border-radius:8px;padding:14px 16px;margin-bottom:8px;transition:border-color .15s}
+.article:hover{border-color:#5eead4}
+.article.is-new{border-left:3px solid #5eead4}
+.article-title{font-size:15px;font-weight:500;margin-bottom:4px;color:#e6e8ec}
+.article-meta{display:flex;gap:10px;font-size:12px;color:#7d8595;flex-wrap:wrap}
+.article-source{color:#5eead4}
+.article-desc{font-size:13px;color:#9ca3af;margin-top:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.timeline-group{margin-bottom:28px}
+.timeline-date{font-size:13px;color:#7d8595;font-weight:600;margin-bottom:8px;padding-left:12px;border-left:3px solid #5eead4}
+.chart-wrap{background:#161a23;border:1px solid #232732;border-radius:12px;padding:20px;margin-bottom:24px}
+.chart-title{font-size:14px;color:#9ca3af;margin-bottom:12px}
+canvas{max-height:200px}
+.empty{text-align:center;color:#7d8595;padding:40px;background:#161a23;border:1px dashed #232732;border-radius:8px}
+.ai-card{background:linear-gradient(135deg,#1a2332 0%,#161a23 100%);border:1px solid #5eead4;border-radius:12px;padding:24px;margin-bottom:32px;position:relative}
+.ai-card::before{content:"🤖 AI日次レポート";position:absolute;top:-10px;left:16px;background:#5eead4;color:#0f1115;padding:2px 12px;font-size:11px;font-weight:600;border-radius:4px;letter-spacing:.05em}
+.ai-headline{font-size:22px;font-weight:700;color:#fff;margin:8px 0 16px}
+.ai-row{display:flex;gap:12px;margin-bottom:14px;align-items:flex-start}
+.ai-label{flex-shrink:0;width:90px;font-size:12px;font-weight:600;color:#5eead4;padding-top:2px}
+.ai-text{flex:1;font-size:14px;color:#e6e8ec;line-height:1.7}
+.ai-meta{display:flex;justify-content:space-between;align-items:center;font-size:11px;color:#7d8595;margin-top:14px;padding-top:12px;border-top:1px solid #232732}
+.sentiment{display:inline-block;padding:2px 8px;border-radius:999px;font-size:11px;font-weight:600}
+.sentiment.positive{background:#064e3b;color:#6ee7b7}
+.sentiment.negative{background:#4c1d24;color:#fca5a5}
+.sentiment.neutral{background:#1f2937;color:#9ca3af}
+.sentiment.mixed{background:#3f2e1a;color:#fbbf24}
+.ai-snippet{font-size:12px;color:#9ca3af;margin-top:8px;font-style:italic;line-height:1.5}
+footer{margin-top:48px;padding-top:24px;border-top:1px solid #232732;color:#7d8595;font-size:12px;text-align:center}
+@media(max-width:600px){h1{font-size:22px}.topic-title{font-size:24px}.topic-icon{font-size:36px}}</style>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<div class="container">
+<nav class="crumbs"><a href="../index.html">← ダッシュボード一覧</a></nav>
+<header>
+  <div class="topic-header">
+    <div class="topic-icon">📊</div>
+    <div>
+      <div class="topic-title">インフレ・物価</div>
+      <div class="meta">最終更新: 2026/04/20 11:11</div>
+    </div>
+  </div>
+  <div class="topic-desc">消費者物価指数・インフレ率・物価動向</div>
+</header><div class="ai-card">
+  <div class="ai-headline">原油上昇でインフレ懸念再燃</div>
+  <div class="ai-row"><div class="ai-label">📍 本日の動き</div><div class="ai-text">NY原油先物（WTI）が1バレル91ドル台に上昇。米イラン協議の不透明化が買い材料となり、市場ではインフレ懸念が同時に高まっている。エネルギー価格上昇による物価押上げ圧力が意識される局面。</div></div>
+  <div class="ai-row"><div class="ai-label">📈 過去の文脈</div><div class="ai-text">過去1週間の履歴が限定的だが、イラン情勢の緊張化が顕在化し、投資家がリスクオフの姿勢を強めている。エネルギー価格上昇とインフレ懸念が同時に浮上することで、金融市場のインフレ見通しに対する警戒感が強まりつつある。</div></div>
+  <div class="ai-row"><div class="ai-label">👀 注目点</div><div class="ai-text">今後のイラン・米国協議の進展状況と、それに伴う原油価格の方向性が重要。消費者物価指数への波及までのラグを視野に、来月以降のインフレデータの発表にも注視が必要。</div></div>
+  <div class="ai-meta">
+    <span>本日2件 / 過去0件を分析 · Claude Code (haiku)</span>
+    <span class="sentiment negative">🔴 ネガティブ</span>
+  </div>
+</div>
+<div class="chart-wrap">
+  <div class="chart-title">📊 過去30日間の記事本数推移</div>
+  <canvas id="trendChart"></canvas>
+</div>
+
+<div class="section">
+  <div class="section-title">🆕 直近24時間の動き <span class="count">2件</span></div><a class="article is-new" href="https://news.web.nhk/newsweb/na/na-k10015103241000" target="_blank" rel="noopener">
+  <div class="article-title">NY原油先物価格上昇 1バレル91ドル台に 米イラン協議不透明で</div>
+  <div class="article-meta"><span class="article-source">NHK 経済</span><span>3時間前</span><span class="badge">物価</span></div><div class="article-desc">19日のニューヨーク原油市場では、国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝91ドル台まで上昇しました。投資家の間でアメリカとイランの協議の行方が不透明になったという受け止めが広が…</div></a><a class="article is-new" href="https://toyokeizai.net/articles/-/941658?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back" target="_blank" rel="noopener">
+  <div class="article-title">#cdata-section -------------- 【米国株増収率ランキング】エヌビディアを超える高成長企業は？ AI軸に次世代テクノロジーを担うスター候補が続々 | 政治・経済・投資 | 東洋経済オンライン</div>
+  <div class="article-meta"><span class="article-source">東洋経済オンライン</span><span>4時間前</span><span class="badge">インフレ</span></div><div class="article-desc">イラン情勢の不安やインフレ懸念が高まる中､どんな企業が世界市場で生き残るのか。その鍵は｢圧倒的な増収率｣を誇る高成長にあります。AI･半導体を軸に量子コンピューター､EV､暗号資産､宇宙関連企業まで…</div></a></div><div class="section"><div class="section-title">📚 過去からの変遷 <span class="count">3件</span></div><div class="timeline-group"><div class="timeline-date">日付不明 （3件）</div><a class="article" href="https://jp.reuters.com/markets/japan/LVIZZARBNVNHPIGRIJHSTP5PPY-2026-04-17/" target="_blank" rel="noopener">
+  <div class="article-title">中東情勢でインフレ警戒、早期収束なら下期に下げ余地＝ウォラーＦＲＢ理事</div>
+  <div class="article-meta"><span class="article-source">ロイター ビジネス</span><span class="badge">インフレ</span></div></a><a class="article" href="https://jp.reuters.com/markets/japan/RBIMAJS63VPNLPKKJJJDYQICIU-2026-04-17/" target="_blank" rel="noopener">
+  <div class="article-title">ＦＲＢの12月利下げ観測強まる、ホルムズ海峡開放受け インフレ動向見極めも</div>
+  <div class="article-meta"><span class="article-source">ロイター ビジネス</span><span class="badge">インフレ</span></div></a><a class="article" href="https://jp.reuters.com/markets/japan/ZZNTJREK2VOAPLTYC6ASBDL2EM-2026-04-17/" target="_blank" rel="noopener">
+  <div class="article-title">英中銀ピル氏「インフレ対応が最優先」、総裁の様子見姿勢と対照的見解</div>
+  <div class="article-meta"><span class="article-source">ロイター ビジネス</span><span class="badge">インフレ</span></div></a></div></div><footer>金融ニュースダッシュボード &middot; Powered by RSS &middot; 2026/04/20 11:11 生成</footer>
+</div>
+<script>
+const ctx = document.getElementById('trendChart');
+new Chart(ctx, {
+  type: 'bar',
+  data: {
+    labels: ["2026-03-22","2026-03-23","2026-03-24","2026-03-25","2026-03-26","2026-03-27","2026-03-28","2026-03-29","2026-03-30","2026-03-31","2026-04-01","2026-04-02","2026-04-03","2026-04-04","2026-04-05","2026-04-06","2026-04-07","2026-04-08","2026-04-09","2026-04-10","2026-04-11","2026-04-12","2026-04-13","2026-04-14","2026-04-15","2026-04-16","2026-04-17","2026-04-18","2026-04-19","2026-04-20"],
+    datasets: [{
+      label: '記事本数',
+      data: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2],
+      backgroundColor: 'rgba(94, 234, 212, 0.6)',
+      borderColor: 'rgba(94, 234, 212, 1)',
+      borderWidth: 1
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      y: { beginAtZero: true, ticks: { color: '#7d8595' }, grid: { color: '#232732' } },
+      x: { ticks: { color: '#7d8595', maxTicksLimit: 10 }, grid: { display: false } }
+    }
+  }
+});
+</script>
+</body>
+</html>

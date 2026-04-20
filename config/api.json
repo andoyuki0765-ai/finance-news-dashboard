@@ -1,0 +1,26 @@
+{
+  "_comment": "LLMバックエンド設定。両バックエンド対応：'api'(Anthropic API/従量課金) または 'claude-code'(ローカルClaude Code CLI/Maxプラン枠を消費)",
+  "enabled": true,
+  "backend": "claude-code",
+  "_backend_options": {
+    "api": "Anthropic API (要 ANTHROPIC_API_KEY、従量課金、高速、プロンプトキャッシング有効)",
+    "claude-code": "ローカル Claude Code CLI (Maxプラン枠で実行、追加コスト$0、起動オーバーヘッドあり)"
+  },
+  "model": "claude-opus-4-7",
+  "_model_for_api": [
+    "claude-opus-4-7   ($5/$25 per 1M tokens)",
+    "claude-sonnet-4-6 ($3/$15)",
+    "claude-haiku-4-5  ($1/$5、要約に十分)"
+  ],
+  "claude_code": {
+    "_comment": "claude-code backend用設定。pathが空ならAppData配下を自動探索。modelはエイリアス可（opus/sonnet/haiku）。要約用途はhaikuで十分かつMax枠を最小消費",
+    "path": "",
+    "model": "haiku",
+    "timeout_sec": 180
+  },
+  "max_tokens_summary": 2048,
+  "max_tokens_classify": 2048,
+  "history_days_in_context": 7,
+  "max_articles_per_summary": 30,
+  "max_history_headlines": 20
+}

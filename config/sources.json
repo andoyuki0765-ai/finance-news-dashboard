@@ -1,0 +1,44 @@
+{
+  "feeds": [
+    {
+      "name": "NHK 経済",
+      "url": "https://www.nhk.or.jp/rss/news/cat5.xml",
+      "encoding": "UTF-8"
+    },
+    {
+      "name": "Yahoo!ニュース 経済",
+      "url": "https://news.yahoo.co.jp/rss/topics/business.xml",
+      "encoding": "UTF-8"
+    },
+    {
+      "name": "ITmedia ビジネス",
+      "url": "https://rss.itmedia.co.jp/rss/2.0/business.xml",
+      "encoding": "UTF-8"
+    },
+    {
+      "name": "朝日新聞 経済",
+      "url": "https://www.asahi.com/rss/asahi/business.rdf",
+      "encoding": "UTF-8"
+    },
+    {
+      "name": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/list/feed/rss",
+      "encoding": "UTF-8"
+    },
+    {
+      "name": "ダイヤモンド・オンライン",
+      "url": "https://diamond.jp/list/feed/rss/dol",
+      "encoding": "UTF-8"
+    },
+    {
+      "name": "ロイター ビジネス",
+      "url": "https://assets.wor.jp/rss/rdf/reuters/business.rdf",
+      "encoding": "UTF-8"
+    },
+    {
+      "name": "Bloomberg 日本",
+      "url": "https://assets.wor.jp/rss/rdf/bloomberg/markets.rdf",
+      "encoding": "UTF-8"
+    }
+  ]
+}

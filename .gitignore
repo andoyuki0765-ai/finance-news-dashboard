@@ -1,0 +1,23 @@
+# 個人情報・ローカルパスを含む可能性のあるファイル
+logs/
+*.log
+
+# 環境変数・秘密情報
+.env
+.env.local
+*.key
+
+# 一時ファイル
+*.tmp
+test-encoding.html
+.claude-workdir/
+
+# OSメタデータ
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# エディタ
+.vscode/
+.idea/
+*.swp

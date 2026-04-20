@@ -1,0 +1,142 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>企業業績 - 金融ニュースダッシュボード</title>
+<style>*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Kaku Gothic ProN","Yu Gothic Medium","メイリオ",sans-serif;background:#0f1115;color:#e6e8ec;line-height:1.6}
+a{color:inherit;text-decoration:none}
+a:hover{opacity:.8}
+.container{max-width:1280px;margin:0 auto;padding:24px}
+header{padding:24px 0 16px;border-bottom:1px solid #232732;margin-bottom:32px}
+.header-inner{display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:12px}
+h1{font-size:28px;font-weight:700;letter-spacing:.02em}
+h1 .accent{color:#5eead4}
+.meta{font-size:13px;color:#7d8595}
+nav.crumbs{margin-bottom:16px;font-size:13px;color:#7d8595}
+nav.crumbs a{color:#5eead4}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
+.card{background:#161a23;border:1px solid #232732;border-radius:12px;padding:20px;transition:transform .15s,border-color .15s}
+.card:hover{transform:translateY(-2px);border-color:#5eead4}
+.card-icon{font-size:32px;margin-bottom:8px}
+.card-title{font-size:18px;font-weight:600;margin-bottom:6px}
+.card-desc{font-size:13px;color:#9ca3af;margin-bottom:14px;min-height:38px}
+.card-stats{display:flex;gap:16px;font-size:12px;color:#7d8595;border-top:1px solid #232732;padding-top:12px}
+.card-stats b{color:#5eead4;font-size:16px;font-weight:600;display:block}
+.badge{display:inline-block;background:#1f2937;color:#5eead4;font-size:11px;padding:2px 8px;border-radius:999px;margin-left:6px}
+.badge.new{background:#5eead4;color:#0f1115;font-weight:600}
+.topic-header{display:flex;align-items:center;gap:16px;margin-bottom:8px}
+.topic-icon{font-size:48px}
+.topic-title{font-size:32px;font-weight:700}
+.topic-desc{color:#9ca3af;margin-bottom:24px}
+.section{margin-bottom:36px}
+.section-title{font-size:18px;font-weight:600;margin-bottom:12px;padding-bottom:8px;border-bottom:2px solid #232732;display:flex;align-items:center;gap:8px}
+.section-title .count{font-size:14px;color:#7d8595;font-weight:400}
+.article{background:#161a23;border:1px solid #232732;border-radius:8px;padding:14px 16px;margin-bottom:8px;transition:border-color .15s}
+.article:hover{border-color:#5eead4}
+.article.is-new{border-left:3px solid #5eead4}
+.article-title{font-size:15px;font-weight:500;margin-bottom:4px;color:#e6e8ec}
+.article-meta{display:flex;gap:10px;font-size:12px;color:#7d8595;flex-wrap:wrap}
+.article-source{color:#5eead4}
+.article-desc{font-size:13px;color:#9ca3af;margin-top:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.timeline-group{margin-bottom:28px}
+.timeline-date{font-size:13px;color:#7d8595;font-weight:600;margin-bottom:8px;padding-left:12px;border-left:3px solid #5eead4}
+.chart-wrap{background:#161a23;border:1px solid #232732;border-radius:12px;padding:20px;margin-bottom:24px}
+.chart-title{font-size:14px;color:#9ca3af;margin-bottom:12px}
+canvas{max-height:200px}
+.empty{text-align:center;color:#7d8595;padding:40px;background:#161a23;border:1px dashed #232732;border-radius:8px}
+.ai-card{background:linear-gradient(135deg,#1a2332 0%,#161a23 100%);border:1px solid #5eead4;border-radius:12px;padding:24px;margin-bottom:32px;position:relative}
+.ai-card::before{content:"🤖 AI日次レポート";position:absolute;top:-10px;left:16px;background:#5eead4;color:#0f1115;padding:2px 12px;font-size:11px;font-weight:600;border-radius:4px;letter-spacing:.05em}
+.ai-headline{font-size:22px;font-weight:700;color:#fff;margin:8px 0 16px}
+.ai-row{display:flex;gap:12px;margin-bottom:14px;align-items:flex-start}
+.ai-label{flex-shrink:0;width:90px;font-size:12px;font-weight:600;color:#5eead4;padding-top:2px}
+.ai-text{flex:1;font-size:14px;color:#e6e8ec;line-height:1.7}
+.ai-meta{display:flex;justify-content:space-between;align-items:center;font-size:11px;color:#7d8595;margin-top:14px;padding-top:12px;border-top:1px solid #232732}
+.sentiment{display:inline-block;padding:2px 8px;border-radius:999px;font-size:11px;font-weight:600}
+.sentiment.positive{background:#064e3b;color:#6ee7b7}
+.sentiment.negative{background:#4c1d24;color:#fca5a5}
+.sentiment.neutral{background:#1f2937;color:#9ca3af}
+.sentiment.mixed{background:#3f2e1a;color:#fbbf24}
+.ai-snippet{font-size:12px;color:#9ca3af;margin-top:8px;font-style:italic;line-height:1.5}
+footer{margin-top:48px;padding-top:24px;border-top:1px solid #232732;color:#7d8595;font-size:12px;text-align:center}
+@media(max-width:600px){h1{font-size:22px}.topic-title{font-size:24px}.topic-icon{font-size:36px}}</style>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<div class="container">
+<nav class="crumbs"><a href="../index.html">← ダッシュボード一覧</a></nav>
+<header>
+  <div class="topic-header">
+    <div class="topic-icon">💼</div>
+    <div>
+      <div class="topic-title">企業業績</div>
+      <div class="meta">最終更新: 2026/04/20 11:11</div>
+    </div>
+  </div>
+  <div class="topic-desc">決算発表・業績予想</div>
+</header><div class="ai-card">
+  <div class="ai-headline">消費好調と構造課題の対照的な展開</div>
+  <div class="ai-row"><div class="ai-label">📍 本日の動き</div><div class="ai-text">サントリーの新ブランド『ギルティ炭酸 NOPE』が発売1週間で2000万本超、ソニーのレオンポケットが売上1.5倍、森永ラムネが過去最高売上を記録。同時に伊藤忠とJR東日本が不動産事業を統合し、2030年度に売上高3倍の目標を掲げるなど、複数業種で好調が報告された。</div></div>
+  <div class="ai-row"><div class="ai-label">📈 過去の文脈</div><div class="ai-text">過去7日間の履歴がないため直近の比較困難だが、本日の記事から見ると、消費ニーズの高い商品（飲料・ウェアラブル・自動車）で販売好調が目立つ一方で、キャッシュレス決済の普及に伴い小売業の手数料負担が10年で45%増加するなど、業種・企業によって業績環境の二極化が進行している様子がうかがえる。</div></div>
+  <div class="ai-row"><div class="ai-label">👀 注目点</div><div class="ai-text">第1四半期決算発表時期が近づく中、これらの好調な新商品やサービスがQ1の業績にどれほど寄与したかが焦点。また、キャッシュレス手数料増などの構造的なコスト圧力が各社の営業利益にどう影響するか確認する必要がある。</div></div>
+  <div class="ai-meta">
+    <span>本日9件 / 過去0件を分析 · Claude Code (haiku)</span>
+    <span class="sentiment mixed">🟡 まちまち</span>
+  </div>
+</div>
+<div class="chart-wrap">
+  <div class="chart-title">📊 過去30日間の記事本数推移</div>
+  <canvas id="trendChart"></canvas>
+</div>
+
+<div class="section">
+  <div class="section-title">🆕 直近24時間の動き <span class="count">9件</span></div><a class="article is-new" href="https://toyokeizai.net/articles/-/941006?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back" target="_blank" rel="noopener">
+  <div class="article-title">#cdata-section -------------- クラウン エステート｢隠れヒット車｣といえるワケ。発売1年の販売データから見えたシリーズを支える功労者 | ライフ | 東洋経済オンライン</div>
+  <div class="article-meta"><span class="article-source">東洋経済オンライン</span><span>2時間前</span><span class="badge">[LLM分類]</span></div><div class="article-desc">半世紀以上の歴史を誇るクラウンシリーズに18年ぶりに復活したワゴンモデル｢クラウン エステート｣。SUVとして生まれ変わった新型は､発売初年度から予想以上の好調な売れ行きを記録しています。その人気と…</div></a><a class="article is-new" href="https://www.itmedia.co.jp/business/articles/2604/20/news011.html" target="_blank" rel="noopener">
+  <div class="article-title">サントリー「ギルティ炭酸 NOPE」なぜ売れた？ わずか1週間で2000万本、担当者が語る勝因</div>
+  <div class="article-meta"><span class="article-source">ITmedia ビジネス</span><span>4時間前</span><span class="badge">[LLM分類]</span></div><div class="article-desc">サントリーの新ブランド「ギルティ炭酸 NOPE」が、発売1週間で出荷本数2000万本を突破した。なぜこれほど話題を集めたのか。開発の舞台裏などを取材したところ……。</div></a><a class="article is-new" href="https://diamond.jp/articles/-/388416" target="_blank" rel="noopener">
+  <div class="article-title">#cdata-section -------------- 絶対に言ってはいけない…粉飾決算を招く“会議のNGワード”とは？ - 組織の病気～成長を止める真犯人～ 秋山進</div>
+  <div class="article-meta"><span class="article-source">ダイヤモンド・オンライン</span><span>5時間前</span><span class="badge">決算</span></div><div class="article-desc">System.Xml.XmlElement</div></a><a class="article is-new" href="https://www.itmedia.co.jp/business/articles/2604/20/news047.html" target="_blank" rel="noopener">
+  <div class="article-title">ソニー発“着るクーラー”が快走 レオンポケット、売上1.5倍の理由</div>
+  <div class="article-meta"><span class="article-source">ITmedia ビジネス</span><span>5時間前</span><span class="badge">[LLM分類]</span></div><div class="article-desc">年々、夏の暑さが厳しさを増す中、ソニーグループの新規事業プログラムから誕生した暑熱対策のウエアラブルデバイス「REON POCKET（レオンポケット）」が人気だ。</div></a><a class="article is-new" href="https://toyokeizai.net/articles/-/941855?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back" target="_blank" rel="noopener">
+  <div class="article-title">#cdata-section -------------- 伊藤忠とJR東日本が不動産事業を統合／30年度に売上高3倍の野心的な目標／仕入れ難や建設費高騰に打ち勝つ秘策 | ビジネス | 東洋経済オンライン</div>
+  <div class="article-meta"><span class="article-source">東洋経済オンライン</span><span>6時間前</span><span class="badge">売上高</span></div><div class="article-desc">伊藤忠商事とJR東日本が不動産事業子会社を統合し､両社の強みを融合した新会社を設立します。不動産価格や建設費が高騰する中､野心的な目標を達成することができるのか。業界の枠を超えた挑戦の行方に注目が集…</div></a><a class="article is-new" href="https://www.itmedia.co.jp/business/articles/2604/20/news019.html" target="_blank" rel="noopener">
+  <div class="article-title">小売業の「支払手数料」負担、10年で45％増加 キャッシュレス決済普及で</div>
+  <div class="article-meta"><span class="article-source">ITmedia ビジネス</span><span>6時間前</span><span class="badge">売上高</span></div><div class="article-desc">キャッシュレス化の拡大に伴い、小売業の手数料負担が増加している。売上高に占める支払手数料は10年で約4割上昇した。</div></a><a class="article is-new" href="https://www.itmedia.co.jp/business/articles/2604/20/news006.html" target="_blank" rel="noopener">
+  <div class="article-title">なぜ「パズドラ」に続くヒット作が生み出せないのか “物言う株主”に狙われたガンホーと任天堂の違い</div>
+  <div class="article-meta"><span class="article-source">ITmedia ビジネス</span><span>6時間前</span><span class="badge">[LLM分類]</span></div><div class="article-desc">「パズドラ」で有名なガンホー・オンライン・エンターテイメントが物言う株主に狙われている。背景にはパズドラに続く人気作を生み出せない構造にあるようだ。</div></a><a class="article is-new" href="https://news.yahoo.co.jp/pickup/6576848?source=rss" target="_blank" rel="noopener">
+  <div class="article-title">キッコーマン 印で中華売り込む訳</div>
+  <div class="article-meta"><span class="article-source">Yahoo!ニュース 経済</span><span>17時間前</span><span class="badge">[LLM分類]</span></div></a><a class="article is-new" href="https://news.yahoo.co.jp/pickup/6576841?source=rss" target="_blank" rel="noopener">
+  <div class="article-title">「森永ラムネ」が売上過去最高</div>
+  <div class="article-meta"><span class="article-source">Yahoo!ニュース 経済</span><span>18時間前</span><span class="badge">[LLM分類]</span></div></a></div><div class="section"><div class="section-title">📚 過去からの変遷 <span class="count">1件</span></div><div class="timeline-group"><div class="timeline-date">日付不明 （1件）</div><a class="article" href="https://jp.reuters.com/markets/world-indices/AV5UNL6HQFIKHANJK2THTFLQKA-2026-04-17/" target="_blank" rel="noopener">
+  <div class="article-title">メタ、5月20日に人員削減第1弾 約8000人に影響か＝関係筋</div>
+  <div class="article-meta"><span class="article-source">ロイター ビジネス</span><span class="badge">[LLM分類]</span></div></a></div></div><footer>金融ニュースダッシュボード &middot; Powered by RSS &middot; 2026/04/20 11:11 生成</footer>
+</div>
+<script>
+const ctx = document.getElementById('trendChart');
+new Chart(ctx, {
+  type: 'bar',
+  data: {
+    labels: ["2026-03-22","2026-03-23","2026-03-24","2026-03-25","2026-03-26","2026-03-27","2026-03-28","2026-03-29","2026-03-30","2026-03-31","2026-04-01","2026-04-02","2026-04-03","2026-04-04","2026-04-05","2026-04-06","2026-04-07","2026-04-08","2026-04-09","2026-04-10","2026-04-11","2026-04-12","2026-04-13","2026-04-14","2026-04-15","2026-04-16","2026-04-17","2026-04-18","2026-04-19","2026-04-20"],
+    datasets: [{
+      label: '記事本数',
+      data: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7],
+      backgroundColor: 'rgba(94, 234, 212, 0.6)',
+      borderColor: 'rgba(94, 234, 212, 1)',
+      borderWidth: 1
+    }]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      y: { beginAtZero: true, ticks: { color: '#7d8595' }, grid: { color: '#232732' } },
+      x: { ticks: { color: '#7d8595', maxTicksLimit: 10 }, grid: { display: false } }
+    }
+  }
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+﻿{
+    "id":  "employment",
+    "name":  "雇用・労働",
+    "icon":  "👥",
+    "description":  "雇用統計・失業率・賃金",
+    "articles":  [
+                     {
+                         "source":  "Yahoo!ニュース 経済",
+                         "title":  "新卒採用減らす23% 増やす上回る",
+                         "url":  "https://news.yahoo.co.jp/pickup/6576897?source=rss",
+                         "description":  "",
+                         "publishedAt":  "2026-04-20T08:10:55+09:00",
+                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "#cdata-section -------------- ｢1日10時間労働or給料減額｣社労士が語る《週休3日》普及のカギ | キャリア・教育 | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/939531?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "週休3日制が急速に注目を集めています。大手企業や自治体が導入を進める中､その背景には人材確保や社員の定着率向上という切実な課題があります。しかし､労働時間や給与体系の変化にはメリットだけでなく懸念点…",
+                         "publishedAt":  "2026-04-20T08:00:00+09:00",
+                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "学ばない社員が過半数に 管理職離れが、じわじわ進む職場のいま",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news018.html",
+                         "description":  "パーソル総合研究所は、「働く1万人の就業・成長定点調査」を実施した。その結果……。",
+                         "publishedAt":  "2026-04-20T08:00:00+09:00",
+                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "2026年度新入社員の“初任給の使い方” 3位「貯蓄」、2位「趣味」、1位は？",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news012.html",
+                         "description":  "ジェイックが2026年度の新入社員を対象に、初任給の使い方について調査した。1位は何だったのか。",
+                         "publishedAt":  "2026-04-20T06:00:00+09:00",
+                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "こんなに天引き？ 給与明細見てみると 「いざ」という時の備えに",
+                         "url":  "https://www.asahi.com/articles/ASV4H3606V4HULFA00RM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     }
+                 ]
+}

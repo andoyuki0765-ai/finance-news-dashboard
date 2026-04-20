@@ -1,0 +1,98 @@
+﻿{
+    "id":  "commodities",
+    "name":  "商品・エネルギー",
+    "icon":  "🛢️",
+    "description":  "原油・天然ガス・金属・穀物などの商品市況",
+    "articles":  [
+                     {
+                         "source":  "NHK 経済",
+                         "title":  "NY原油先物価格上昇 1バレル91ドル台に 米イラン協議不透明で",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015103241000",
+                         "description":  "19日のニューヨーク原油市場では、国際的な取り引きの指標となるWTIの先物価格が一時、1バレル＝91ドル台まで上昇しました。投資家の間でアメリカとイランの協議の行方が不透明になったという受け止めが広が…",
+                         "publishedAt":  "2026-04-20T08:13:20+09:00",
+                         "fetchedAt":  "2026-04-20T09:47:37+09:00",
+                         "matchKeyword":  "原油"
+                     },
+                     {
+                         "source":  "Yahoo!ニュース 経済",
+                         "title":  "石油節約呼びかけるべき64% ANN",
+                         "url":  "https://news.yahoo.co.jp/pickup/6576896?source=rss",
+                         "description":  "",
+                         "publishedAt":  "2026-04-20T07:55:25+09:00",
+                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "#cdata-section -------------- 日銀が利上げしなくても､実は日本は｢金融引き締め｣状態･･･政治的レトリックに覆われた実態をデータで捉える | 政治・経済・投資 | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/941666?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "政治のスローガンやメッセージが現実をどれだけ覆い隠しているのか――。高市政権の｢積極財政｣や日銀の金融政策も､その実態は\"引き締め\"状態にあります。マーシャルのkが映し出す現代日本経済の本質とは？",
+                         "publishedAt":  "2026-04-20T06:00:00+09:00",
+                         "fetchedAt":  "2026-04-20T09:47:38+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "#cdata-section -------------- ｢浅井の頭蓋骨を金箔で飾ってお披露目｣姉川の戦い勝利で見せた信長の残虐 | ライフ | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/941600?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "兄･豊臣秀吉を支えた｢理想のナンバー2｣豊臣秀長。その実像に迫る本連載第17回では､織田信長の残虐性にスポットライトを当てます。",
+                         "publishedAt":  "2026-04-19T12:00:00+09:00",
+                         "fetchedAt":  "2026-04-20T09:47:38+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "米「BBB」社債に資金流入、停戦期待でリスク選好－ジャンク債は選別",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-19/TDPGZWKIJH8Q00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "「石油化学のコメ」ナフサ 高まる供給不安の理由は？ なぜ重要か？",
+                         "url":  "https://www.asahi.com/articles/ASV4K3C5VV4KULFA00LM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "中東情勢の影響「様子見」、金利判断はイラン紛争の期間次第＝米ＳＦ連銀総裁",
+                         "url":  "https://jp.reuters.com/markets/japan/YL336J7I2JPKXFFTUIOQXMY3N4-2026-04-17/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "米財務省、ロシア産原油・石油製品の購入許可期限を更新 1カ月間",
+                         "url":  "https://www.asahi.com/articles/ASV4L0T05V4LSFVU2V2M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:38+09:00",
+                         "matchKeyword":  "原油"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "欧州主要市場でＥＶ販売急増、ガソリン高で",
+                         "url":  "https://jp.reuters.com/markets/japan/TWRGD242MJP75HC3VXKZSCMCJY-2026-04-19/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
+                         "matchKeyword":  "ガソリン"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "NY原油、一時91ドル台に上昇 イラン貨物船拿捕など緊張高まり",
+                         "url":  "https://www.asahi.com/articles/ASV4M7K4VV4MUHBI002M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:38+09:00",
+                         "matchKeyword":  "原油"
+                     }
+                 ]
+}
