@@ -5,6 +5,51 @@
     "description":  "原油・天然ガス・金属・穀物などの商品市況",
     "articles":  [
                      {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "#cdata-section -------------- 年金受給「70歳」まで遅らせるとどれだけお得？→富裕層専門税理士がズバリ回答 - ニュースな本",
+                         "url":  "https://diamond.jp/articles/-/387039",
+                         "description":  "System.Xml.XmlElement",
+                         "publishedAt":  "2026-04-21T07:00:00+09:00",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "NHK 経済",
+                         "title":  "フジドリームエアラインズ 国内線燃油サーチャージ 引き上げへ",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015104051000",
+                         "description":  "イラン情勢を受けて航空燃料の価格が高騰する中、静岡市に本社がある航空会社FDA＝フジドリームエアラインズが、国内線の運賃に上乗せする燃油サーチャージを、5月の発券分は最も高い水準に引き上げる方向で調整…",
+                         "publishedAt":  "2026-04-21T06:00:04+09:00",
+                         "fetchedAt":  "2026-04-21T09:10:25+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "#cdata-section -------------- 危険すぎて公開延期…アンソロピックの最新AI「クロード・ミトス」が日本の金融機関にもたらす「ヤバすぎるリスク」 - 今週のキーワード 真壁昭夫",
+                         "url":  "https://diamond.jp/articles/-/388483",
+                         "description":  "System.Xml.XmlElement",
+                         "publishedAt":  "2026-04-21T06:00:00+09:00",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "NHK 経済",
+                         "title":  "全日空 日本航空 国際線燃油サーチャージ引き上げ 5月に前倒し",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015103431000",
+                         "description":  "全日空と日本航空は国際線の運賃に上乗せする「燃油サーチャージ」について、当初はことし6月の発券分から最大でおよそ2倍に引き上げる予定でしたが、来月に前倒しすることを決めました。原油価格の高騰で燃料価格…",
+                         "publishedAt":  "2026-04-20T16:36:34+09:00",
+                         "fetchedAt":  "2026-04-20T18:00:02+09:00",
+                         "matchKeyword":  "原油"
+                     },
+                     {
+                         "source":  "Yahoo!ニュース 経済",
+                         "title":  "ANA サーチャージ引き上げ前倒し",
+                         "url":  "https://news.yahoo.co.jp/pickup/6576946?source=rss",
+                         "description":  "",
+                         "publishedAt":  "2026-04-20T16:16:37+09:00",
+                         "fetchedAt":  "2026-04-21T09:10:25+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
                          "source":  "NHK 経済",
                          "title":  "NY原油先物価格上昇 1バレル91ドル台に 米イラン協議不透明で",
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015103241000",
@@ -41,24 +86,6 @@
                          "matchKeyword":  "金"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "米「BBB」社債に資金流入、停戦期待でリスク選好－ジャンク債は選別",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-19/TDPGZWKIJH8Q00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "金"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "「石油化学のコメ」ナフサ 高まる供給不安の理由は？ なぜ重要か？",
-                         "url":  "https://www.asahi.com/articles/ASV4K3C5VV4KULFA00LM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
                          "source":  "ロイター ビジネス",
                          "title":  "中東情勢の影響「様子見」、金利判断はイラン紛争の期間次第＝米ＳＦ連銀総裁",
                          "url":  "https://jp.reuters.com/markets/japan/YL336J7I2JPKXFFTUIOQXMY3N4-2026-04-17/",
@@ -78,12 +105,39 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "欧州主要市場でＥＶ販売急増、ガソリン高で",
-                         "url":  "https://jp.reuters.com/markets/japan/TWRGD242MJP75HC3VXKZSCMCJY-2026-04-19/",
+                         "title":  "中国、料理宅配プラットフォームに計5億ドル超の罰金・没収処分",
+                         "url":  "https://jp.reuters.com/markets/japan/CBWWIVDJRRP2LDMAID2UV6UYUI-2026-04-20/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
-                         "matchKeyword":  "ガソリン"
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "ANAとJAL、燃油サーチャージ引き上げ前倒し 5月発券分から",
+                         "url":  "https://www.asahi.com/articles/ASV4N213JV4NULFA011M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "米「BBB」社債に資金流入、停戦期待でリスク選好－ジャンク債は選別",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-19/TDPGZWKIJH8Q00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "「石油化学のコメ」ナフサ 高まる供給不安の理由は？ なぜ重要か？",
+                         "url":  "https://www.asahi.com/articles/ASV4K3C5VV4KULFA00LM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -93,6 +147,78 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T09:47:38+09:00",
                          "matchKeyword":  "原油"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "日鉄鉱業、米の銅探鉱プロジェクトに参入契約",
+                         "url":  "https://jp.reuters.com/markets/global-markets/GYCB5H6VLRLE7FANMSJ4KNDTJQ-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "銅"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ハッキングが引き金、暗号資産版「取り付け騒ぎ」で90億ドル流出",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDSTSZT9NJLZ00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "MSワラント増加、暗号資産買いの資金も 業績不振の企業などが発行",
+                         "url":  "https://www.asahi.com/articles/ASV4F46QXV4FULFA01ZM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "政府の新金融戦略、骨子案が判明 銀行の規制緩和やベンチャー支援",
+                         "url":  "https://www.asahi.com/articles/ASV4N3R86V4NULFA00LM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "午前の日経平均は反発し5万9000円回復、前週末の米株高や原油安が支え",
+                         "url":  "https://jp.reuters.com/markets/japan/YA46DQB5UBLIZA7Q65QZTMUKFM-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "原油"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "欧州主要市場でＥＶ販売急増、ガソリン高で",
+                         "url":  "https://jp.reuters.com/markets/japan/TWRGD242MJP75HC3VXKZSCMCJY-2026-04-19/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
+                         "matchKeyword":  "ガソリン"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "次期ＦＲＢ議長候補、金融政策の独立堅持表明へ 指名承認公聴会で",
+                         "url":  "https://jp.reuters.com/markets/japan/U24BPL6FYNNVNCTOXNGGUM2NWA-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "カナダＣＰＩ、3月は前年比2.4％上昇に加速 ガソリン価格高騰響く",
+                         "url":  "https://jp.reuters.com/markets/japan/5T6ZM5GMMRKYVMGQWAN2H4YBA4-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "ガソリン"
                      }
                  ]
 }

@@ -6,6 +6,33 @@
     "articles":  [
                      {
                          "source":  "東洋経済オンライン",
+                         "title":  "#cdata-section -------------- おにぎり温めますか？ ローソンの｢冷凍おにぎり｣急拡大/一気に全国販売､海外展開も視野にアツアツ届ける開発者の挑戦 | ビジネス | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/941882?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "コンビニのおにぎりは\"常温\"が当たり前——そんな常識を覆す｢冷凍おにぎり｣が､ローソンで急速に浸透しています。物流課題への対応や\"タイパ\"需要の高まりを背景に､出来たて感や価格面でも高評価。非常識か…",
+                         "publishedAt":  "2026-04-21T05:50:00+09:00",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "#cdata-section -------------- 〈販売の苦闘〉インドのSUV化に防戦一方､スズキが静かに見直した｢重要目標｣…タタ､マヒンドラの猛攻でシェア4割陥落 | ビジネス | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/941515?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "スズキはインドで年産400万台体制を目指し､巨大工場を次々建設中。しかしSUVやEVの急成長で､販売計画に陰りが見え始めています。若者離れや新興企業の攻勢､そして輸出戦略の変化。はたしてスズキの勝算…",
+                         "publishedAt":  "2026-04-21T05:40:00+09:00",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "ワークマン、「猛暑対策スーツ」発売 暑熱対策ウェア・XShelterシリーズを普段着にも",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/21/news030.html",
+                         "description":  "ワークマンは暑熱対策ウェア「XShelter」を拡充する。作業・アウトドア中心から普段着やスーツへ広げ、2026年は販売63億円を計画する。",
+                         "publishedAt":  "2026-04-21T05:30:00+09:00",
+                         "fetchedAt":  "2026-04-21T09:10:25+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
                          "title":  "#cdata-section -------------- クラウン エステート｢隠れヒット車｣といえるワケ。発売1年の販売データから見えたシリーズを支える功労者 | ライフ | 東洋経済オンライン",
                          "url":  "https://toyokeizai.net/articles/-/941006?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
                          "description":  "半世紀以上の歴史を誇るクラウンシリーズに18年ぶりに復活したワゴンモデル｢クラウン エステート｣。SUVとして生まれ変わった新型は､発売初年度から予想以上の好調な売れ行きを記録しています。その人気と…",
@@ -51,21 +78,21 @@
                      },
                      {
                          "source":  "ITmedia ビジネス",
-                         "title":  "小売業の「支払手数料」負担、10年で45％増加 キャッシュレス決済普及で",
-                         "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news019.html",
-                         "description":  "キャッシュレス化の拡大に伴い、小売業の手数料負担が増加している。売上高に占める支払手数料は10年で約4割上昇した。",
-                         "publishedAt":  "2026-04-20T05:00:00+09:00",
-                         "fetchedAt":  "2026-04-20T09:47:38+09:00",
-                         "matchKeyword":  "売上高"
-                     },
-                     {
-                         "source":  "ITmedia ビジネス",
                          "title":  "なぜ「パズドラ」に続くヒット作が生み出せないのか “物言う株主”に狙われたガンホーと任天堂の違い",
                          "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news006.html",
                          "description":  "「パズドラ」で有名なガンホー・オンライン・エンターテイメントが物言う株主に狙われている。背景にはパズドラに続く人気作を生み出せない構造にあるようだ。",
                          "publishedAt":  "2026-04-20T05:00:00+09:00",
                          "fetchedAt":  "2026-04-20T10:38:00+09:00",
                          "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "小売業の「支払手数料」負担、10年で45％増加 キャッシュレス決済普及で",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news019.html",
+                         "description":  "キャッシュレス化の拡大に伴い、小売業の手数料負担が増加している。売上高に占める支払手数料は10年で約4割上昇した。",
+                         "publishedAt":  "2026-04-20T05:00:00+09:00",
+                         "fetchedAt":  "2026-04-20T09:47:38+09:00",
+                         "matchKeyword":  "売上高"
                      },
                      {
                          "source":  "Yahoo!ニュース 経済",
@@ -87,12 +114,66 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
+                         "title":  "インドのスマホ出荷、第1四半期は6年ぶり低水準＝民間調査",
+                         "url":  "https://jp.reuters.com/markets/japan/IX3DNVJRVFI6XEDXAX2RV4ATNM-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "四半期"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ウニクレディト、独コメルツ銀改革案提示 変化する環境に不適合",
+                         "url":  "https://jp.reuters.com/markets/world-indices/2IV4HNG2EVMWZMEVMA6DDWTGZY-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "3月コンビニ売上高は2.2％増、販促・行楽需要で飲食売れ行き好調",
+                         "url":  "https://jp.reuters.com/markets/japan/ALIWYHDELVOJFPIXJQLRGCI23A-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "売上高"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
                          "title":  "メタ、5月20日に人員削減第1弾 約8000人に影響か＝関係筋",
                          "url":  "https://jp.reuters.com/markets/world-indices/AV5UNL6HQFIKHANJK2THTFLQKA-2026-04-17/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T10:38:01+09:00",
                          "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "ニデック、決算訂正は「計算ミス」でなく意図的不正 第三者委が指摘",
+                         "url":  "https://www.asahi.com/articles/ASV4N2RZCV4NPLFA001M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "決算"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "イタリア、第1四半期は緩やかな成長 五輪効果で＝中銀報告",
+                         "url":  "https://jp.reuters.com/markets/japan/6BUGCMXP7JNI7PLPIE3L6IAQ7Q-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "四半期"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "テスラなど決算に注目、次期ＦＲＢ議長証言も＝今週の米株式市場",
+                         "url":  "https://jp.reuters.com/markets/japan/IQJSTEQMVNIBJPQNXEVB6JOB7Q-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "決算"
                      }
                  ]
 }
