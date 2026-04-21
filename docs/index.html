@@ -4,9 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
 <title>金融ニュースダッシュボード</title>
 <style>*{box-sizing:border-box;margin:0;padding:0}
-body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Kaku Gothic ProN","Yu Gothic Medium","メイリオ",sans-serif;background:#0f1115;color:#e6e8ec;line-height:1.6}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Kaku Gothic ProN","Hiragino Sans","Yu Gothic Medium","Noto Sans JP","メイリオ",sans-serif;background:#0f1115;color:#e6e8ec;line-height:1.6;-webkit-font-smoothing:antialiased}
 a{color:inherit;text-decoration:none}
 a:hover{opacity:.8}
 .container{max-width:1280px;margin:0 auto;padding:24px}
@@ -38,8 +41,8 @@ nav.crumbs a{color:#5eead4}
 .article:hover{border-color:#5eead4}
 .article.is-new{border-left:3px solid #5eead4}
 .article-title{font-size:15px;font-weight:500;margin-bottom:4px;color:#e6e8ec}
-.article-meta{display:flex;gap:10px;font-size:12px;color:#7d8595;flex-wrap:wrap}
-.article-source{color:#5eead4}
+.article-meta{display:flex;gap:10px;font-size:13px;color:#7d8595;flex-wrap:wrap;align-items:center}
+.article-source{color:#5eead4;font-weight:500;white-space:nowrap}
 .article-desc{font-size:13px;color:#9ca3af;margin-top:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .timeline-group{margin-bottom:28px}
 .timeline-date{font-size:13px;color:#7d8595;font-weight:600;margin-bottom:8px;padding-left:12px;border-left:3px solid #5eead4}
@@ -68,7 +71,7 @@ footer{margin-top:48px;padding-top:24px;border-top:1px solid #232732;color:#7d85
 <header>
   <div class="header-inner">
     <h1>📰 <span class="accent">金融</span>ニュースダッシュボード</h1>
-    <div class="meta">最終更新: 2026/04/21 14:21 ｜ 直近24h: <b style="color:#5eead4"></b> ｜ 累計: </div>
+    <div class="meta">最終更新: 2026/04/21 18:00 ｜ 直近24h: <b style="color:#5eead4"></b> ｜ 累計: </div>
   </div>
 </header>
 <div class="grid"><a class="card" href="topics/monetary-policy.html">
@@ -77,17 +80,17 @@ footer{margin-top:48px;padding-top:24px;border-top:1px solid #232732;color:#7d85
   <div class="card-desc"><b style="color:#5eead4">🤖 日銀利上げ見送りも実態は引き締め状態</b></div>
   <div class="card-stats">
     <div><b>1</b>直近24h</div>
-    <div><b>14</b>累計</div>
-    <div style="margin-left:auto;align-self:center">19時間前</div>
+    <div><b>18</b>累計</div>
+    <div style="margin-left:auto;align-self:center">23時間前</div>
   </div>
 </a><a class="card" href="topics/forex.html">
   <div class="card-icon">💱</div>
-  <div class="card-title">為替市場<span class="badge new">+1</span></div>
+  <div class="card-title">為替市場<span class="badge new">+3</span></div>
   <div class="card-desc"><b style="color:#5eead4">🤖 停戦協議睨みで円相場小幅推移</b></div>
   <div class="card-stats">
-    <div><b>1</b>直近24h</div>
-    <div><b>7</b>累計</div>
-    <div style="margin-left:auto;align-self:center">19時間前</div>
+    <div><b>3</b>直近24h</div>
+    <div><b>10</b>累計</div>
+    <div style="margin-left:auto;align-self:center">8時間前</div>
   </div>
 </a><a class="card" href="topics/stocks.html">
   <div class="card-icon">📈</div>
@@ -95,17 +98,17 @@ footer{margin-top:48px;padding-top:24px;border-top:1px solid #232732;color:#7d85
   <div class="card-desc"><b style="color:#5eead4">🤖 イラン情勢の不透明下で日経平均上昇</b></div>
   <div class="card-stats">
     <div><b>4</b>直近24h</div>
-    <div><b>21</b>累計</div>
-    <div style="margin-left:auto;align-self:center">3時間前</div>
+    <div><b>25</b>累計</div>
+    <div style="margin-left:auto;align-self:center">1時間前</div>
   </div>
 </a><a class="card" href="topics/commodities.html">
   <div class="card-icon">🛢️</div>
-  <div class="card-title">商品・エネルギー<span class="badge new">+6</span></div>
+  <div class="card-title">商品・エネルギー<span class="badge new">+9</span></div>
   <div class="card-desc"><b style="color:#5eead4">🤖 原油高で航空各社サーチャージ前倒し引き上げ</b></div>
   <div class="card-stats">
-    <div><b>6</b>直近24h</div>
-    <div><b>28</b>累計</div>
-    <div style="margin-left:auto;align-self:center">3時間前</div>
+    <div><b>9</b>直近24h</div>
+    <div><b>35</b>累計</div>
+    <div style="margin-left:auto;align-self:center">22分前</div>
   </div>
 </a><a class="card" href="topics/crypto.html">
   <div class="card-icon">₿</div>
@@ -123,25 +126,25 @@ footer{margin-top:48px;padding-top:24px;border-top:1px solid #232732;color:#7d85
   <div class="card-stats">
     <div><b>3</b>直近24h</div>
     <div><b>11</b>累計</div>
-    <div style="margin-left:auto;align-self:center">6時間前</div>
+    <div style="margin-left:auto;align-self:center">10時間前</div>
   </div>
 </a><a class="card" href="topics/employment.html">
   <div class="card-icon">👥</div>
-  <div class="card-title">雇用・労働<span class="badge new">+5</span></div>
+  <div class="card-title">雇用・労働<span class="badge new">+6</span></div>
   <div class="card-desc"><b style="color:#5eead4">🤖 賃上げ継続も採用減・昇進回避が並行進行</b></div>
   <div class="card-stats">
-    <div><b>5</b>直近24h</div>
-    <div><b>10</b>累計</div>
-    <div style="margin-left:auto;align-self:center">4時間前</div>
+    <div><b>6</b>直近24h</div>
+    <div><b>12</b>累計</div>
+    <div style="margin-left:auto;align-self:center">6時間前</div>
   </div>
 </a><a class="card" href="topics/earnings.html">
   <div class="card-icon">💼</div>
-  <div class="card-title">企業業績<span class="badge new">+4</span></div>
+  <div class="card-title">企業業績<span class="badge new">+5</span></div>
   <div class="card-desc"><b style="color:#5eead4">🤖 新製品トレンド対応が加速、構造課題との二面性</b></div>
   <div class="card-stats">
-    <div><b>4</b>直近24h</div>
-    <div><b>21</b>累計</div>
-    <div style="margin-left:auto;align-self:center">4時間前</div>
+    <div><b>5</b>直近24h</div>
+    <div><b>22</b>累計</div>
+    <div style="margin-left:auto;align-self:center">8時間前</div>
   </div>
 </a><a class="card" href="topics/tech.html">
   <div class="card-icon">💻</div>
@@ -149,17 +152,17 @@ footer{margin-top:48px;padding-top:24px;border-top:1px solid #232732;color:#7d85
   <div class="card-desc"><b style="color:#5eead4">🤖 アップル経営交代・アマゾン激増投資、AI競争加速</b></div>
   <div class="card-stats">
     <div><b>22</b>直近24h</div>
-    <div><b>38</b>累計</div>
-    <div style="margin-left:auto;align-self:center">3時間前</div>
+    <div><b>42</b>累計</div>
+    <div style="margin-left:auto;align-self:center">7時間前</div>
   </div>
 </a><a class="card" href="topics/geopolitics.html">
   <div class="card-icon">🌐</div>
-  <div class="card-title">地政学・通商<span class="badge new">+5</span></div>
+  <div class="card-title">地政学・通商<span class="badge new">+8</span></div>
   <div class="card-desc"><b style="color:#5eead4">🤖 中国技術革新と規制強化、日本企業が代替戦略で対抗</b></div>
   <div class="card-stats">
-    <div><b>5</b>直近24h</div>
-    <div><b>37</b>累計</div>
-    <div style="margin-left:auto;align-self:center">8時間前</div>
+    <div><b>8</b>直近24h</div>
+    <div><b>45</b>累計</div>
+    <div style="margin-left:auto;align-self:center">3時間前</div>
   </div>
 </a><a class="card" href="topics/real-estate.html">
   <div class="card-icon">🏠</div>
@@ -167,17 +170,17 @@ footer{margin-top:48px;padding-top:24px;border-top:1px solid #232732;color:#7d85
   <div class="card-desc"><b style="color:#5eead4">🤖 新築マンション最高更新も、建設費高騰が足枷</b></div>
   <div class="card-stats">
     <div><b>3</b>直近24h</div>
-    <div><b>10</b>累計</div>
+    <div><b>11</b>累計</div>
     <div style="margin-left:auto;align-self:center">8時間前</div>
   </div>
 </a><a class="card" href="topics/ma-ipo.html">
   <div class="card-icon">🤝</div>
-  <div class="card-title">M&amp;A・IPO<span class="badge new">+4</span></div>
+  <div class="card-title">M&amp;A・IPO<span class="badge new">+6</span></div>
   <div class="card-desc"><b style="color:#5eead4">🤖 大型M&amp;A・投資案件が相次ぐ</b></div>
   <div class="card-stats">
-    <div><b>4</b>直近24h</div>
-    <div><b>15</b>累計</div>
-    <div style="margin-left:auto;align-self:center">5時間前</div>
+    <div><b>6</b>直近24h</div>
+    <div><b>19</b>累計</div>
+    <div style="margin-left:auto;align-self:center">26分前</div>
   </div>
 </a><a class="card" href="topics/japan-economy.html">
   <div class="card-icon">🗾</div>
@@ -186,19 +189,19 @@ footer{margin-top:48px;padding-top:24px;border-top:1px solid #232732;color:#7d85
   <div class="card-stats">
     <div><b>2</b>直近24h</div>
     <div><b>9</b>累計</div>
-    <div style="margin-left:auto;align-self:center">8時間前</div>
+    <div style="margin-left:auto;align-self:center">12時間前</div>
   </div>
 </a><a class="card" href="topics/global-economy.html">
   <div class="card-icon">🌍</div>
-  <div class="card-title">世界経済<span class="badge new">+1</span></div>
+  <div class="card-title">世界経済<span class="badge new">+2</span></div>
   <div class="card-desc">米中欧の経済指標・IMF・世界銀行</div>
   <div class="card-stats">
-    <div><b>1</b>直近24h</div>
-    <div><b>2</b>累計</div>
-    <div style="margin-left:auto;align-self:center">4時間前</div>
+    <div><b>2</b>直近24h</div>
+    <div><b>3</b>累計</div>
+    <div style="margin-left:auto;align-self:center">8時間前</div>
   </div>
 </a></div>
-<footer>金融ニュースダッシュボード &middot; Powered by RSS &middot; 2026/04/21 14:21 生成</footer>
+<footer>金融ニュースダッシュボード &middot; Powered by RSS &middot; 2026/04/21 18:00 生成</footer>
 </div>
 </body>
 </html>

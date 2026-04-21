@@ -5,6 +5,15 @@
     "description":  "不動産市況・住宅価格・REIT",
     "articles":  [
                      {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "【NISA投信グランプリ2026・リート部門】国内最優秀賞は徹底したデータ主義で割安銘柄を厳選する「フィデリティ・Jリート・アクティブ・ファンド（資産成長型）」！ - ダイヤモンドZAi NISA投信グランプリ2026",
+                         "url":  "https://diamond.jp/articles/-/388099",
+                         "description":  "「ダイヤモンドZAi NISA投信グランプリ2026」リート部門の受賞投資信託4本を紹介。最優秀賞はフィデリティ・Jリート・アクティブ・ファンド（資産成長型）／フィデリティ投信、ラサール・グローバルREITファンド（1年決算型）／アモーヴァ・アセットマネジメント、優秀賞は野村Jリートファンド／野村アセットマネジメント、ダイワ米国リート・ファンドII（年1回決算型）／大和アセットマネジメントだった。",
+                         "publishedAt":  "2026-04-21T10:00:00+09:00",
+                         "fetchedAt":  "2026-04-21T18:00:10+09:00",
+                         "matchKeyword":  "REIT"
+                     },
+                     {
                          "source":  "東洋経済オンライン",
                          "title":  "【2026年版】｢福岡県の住宅地｣地価上昇率ランキングTOP300地点 3位は姪浜＆次郎丸､2位が高宮､では1位の地点は？ | ライフ | 東洋経済オンライン",
                          "url":  "https://toyokeizai.net/articles/-/942013?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
@@ -77,21 +86,21 @@
                          "matchKeyword":  "不動産"
                      },
                      {
-                         "source":  "朝日新聞 経済",
-                         "title":  "東京23区の新築マンション、平均1億3784万円で最高値 昨年度",
-                         "url":  "https://www.asahi.com/articles/ASV4N1RMZV4NULFA005M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:03+09:00",
-                         "matchKeyword":  "マンション"
-                     },
-                     {
                          "source":  "ロイター ビジネス",
                          "title":  "マクロスコープ：マンション高騰、中東危機で上振れ懸念 ますます高嶺の花に",
                          "url":  "https://jp.reuters.com/business/W5733GSGNBPTXITS5N7GILGOCE-2026-04-20/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "マンション"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "東京23区の新築マンション、平均1億3784万円で最高値 昨年度",
+                         "url":  "https://www.asahi.com/articles/ASV4N1RMZV4NULFA005M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:03+09:00",
                          "matchKeyword":  "マンション"
                      }
                  ]

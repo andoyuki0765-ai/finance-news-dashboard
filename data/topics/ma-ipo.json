@@ -5,6 +5,24 @@
     "description":  "企業買収・合併・新規上場",
     "articles":  [
                      {
+                         "source":  "NHK 経済",
+                         "title":  "ノジマ 日立の家電事業の買収を発表 買収額約1100億円の見通し",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015104691000",
+                         "description":  "家電量販大手の「ノジマ」は、日立製作所の子会社が手がける家電事業を買収すると発表しました。製品の開発力を高め、収益力を強化するねらいがあり、買収額は、およそ1100億円にのぼる見通しです。",
+                         "publishedAt":  "2026-04-21T17:34:34+09:00",
+                         "fetchedAt":  "2026-04-21T18:00:07+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "Yahoo!ニュース 経済",
+                         "title":  "ノジマ 日立の家電事業買収を発表",
+                         "url":  "https://news.yahoo.co.jp/pickup/6577082?source=rss",
+                         "description":  "",
+                         "publishedAt":  "2026-04-21T15:52:03+09:00",
+                         "fetchedAt":  "2026-04-21T18:00:07+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
                          "source":  "Yahoo!ニュース 経済",
                          "title":  "ノジマ 日立の家電事業買収を検討",
                          "url":  "https://news.yahoo.co.jp/pickup/6577040?source=rss",
@@ -50,69 +68,6 @@
                          "matchKeyword":  "買収"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ＧＭＯインターネット、新株発行価格を1株710円に決定",
-                         "url":  "https://jp.reuters.com/markets/global-markets/CMLBTLHPDJN4RALAVN2YS4NM5Q-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "仏4大通信事業者3社が残る1社に共同買収提案、条件引き上げ",
-                         "url":  "https://jp.reuters.com/markets/bonds/JSN47VILOJKNHA7H36ANLAKTKM-2026-04-17/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "アメリカン航空、ユナイテッドとの合併交渉否定 「関心ない」",
-                         "url":  "https://jp.reuters.com/markets/global-markets/HND6KD6G6VKIDA5OEJP2CAKBOQ-2026-04-17/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "合併"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ノジマ、日立の家電事業買収を検討 21日取締役会に付議",
-                         "url":  "https://jp.reuters.com/markets/global-markets/KOG3JNDFDVPFVIFA6BDIE3K7YI-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "イーライリリー、がん免疫療法開発のケロニアを70億ドルで買収",
-                         "url":  "https://jp.reuters.com/markets/global-markets/YFAGIIBOEZNMNCTMXOEKS2UAMA-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ストラテジックＣ、みずほＦＧとオリコに株主提案 「いびつな関係是正を」",
-                         "url":  "https://jp.reuters.com/markets/global-markets/5XC5TFSLTNLUTG6N4IW4NJKDRQ-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "住友ファーマ、新株発行価格を1株1990円に決定 公募増資などで1115億円調達",
-                         "url":  "https://jp.reuters.com/markets/japan/GWSOB3CSDFMPHB4MBOZFZ6GLXI-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
                          "source":  "朝日新聞 経済",
                          "title":  "家電量販大手のノジマ、日立の家電事業を買収へ 1千億円超か",
                          "url":  "https://www.asahi.com/articles/ASV4P01TMV4PULFA001M.html?ref=rss",
@@ -138,6 +93,87 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-21T09:10:26+09:00",
                          "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "エヌビディアのサプライヤー、勝宏科技が香港に重複上場－株価急伸",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTM4DKJH6V500?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ノジマ、日立の家電部門を1100億円で買収 海外事業も統合",
+                         "url":  "https://jp.reuters.com/markets/global-markets/4BSXEXJYQRNJBNNJI4BLRZ4RFI-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "アメリカン航空、ユナイテッドとの合併交渉否定 「関心ない」",
+                         "url":  "https://jp.reuters.com/markets/global-markets/HND6KD6G6VKIDA5OEJP2CAKBOQ-2026-04-17/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "合併"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "仏4大通信事業者3社が残る1社に共同買収提案、条件引き上げ",
+                         "url":  "https://jp.reuters.com/markets/bonds/JSN47VILOJKNHA7H36ANLAKTKM-2026-04-17/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＧＭＯインターネット、新株発行価格を1株710円に決定",
+                         "url":  "https://jp.reuters.com/markets/global-markets/CMLBTLHPDJN4RALAVN2YS4NM5Q-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ノジマ、日立の家電事業買収を検討 21日取締役会に付議",
+                         "url":  "https://jp.reuters.com/markets/global-markets/KOG3JNDFDVPFVIFA6BDIE3K7YI-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "住友ファーマ、新株発行価格を1株1990円に決定 公募増資などで1115億円調達",
+                         "url":  "https://jp.reuters.com/markets/japan/GWSOB3CSDFMPHB4MBOZFZ6GLXI-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ストラテジックＣ、みずほＦＧとオリコに株主提案 「いびつな関係是正を」",
+                         "url":  "https://jp.reuters.com/markets/global-markets/5XC5TFSLTNLUTG6N4IW4NJKDRQ-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "イーライリリー、がん免疫療法開発のケロニアを70億ドルで買収",
+                         "url":  "https://jp.reuters.com/markets/global-markets/YFAGIIBOEZNMNCTMXOEKS2UAMA-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
+                         "matchKeyword":  "買収"
                      }
                  ]
 }
