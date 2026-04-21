@@ -5,6 +5,15 @@
     "description":  "日本のGDP・景気指標・財政",
     "articles":  [
                      {
+                         "source":  "東洋経済オンライン",
+                         "title":  "円を圧倒する｢ユーロ｣の強さは中銀政策の違いにある。｢物価目標｣をめぐる日欧米の明らかな違いとは | 政治・経済・投資 | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/941991?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "各国の中央銀行が景気に配慮するのは常です。しかし日銀だけその度合いが強すぎることが現在の歴史的な円安の基底になっているようです。日米欧の物価目標（インフレターゲット）政策の運営の違いを分析してみまし…",
+                         "publishedAt":  "2026-04-22T06:00:00+09:00",
+                         "fetchedAt":  "2026-04-22T08:50:41+09:00",
+                         "matchKeyword":  "景気"
+                     },
+                     {
                          "source":  "ダイヤモンド・オンライン",
                          "title":  "西武渋谷店の閉店で考える「東京のデパート」と「大阪のデパート」の決定的な違い - Lifestyle Analysis",
                          "url":  "https://diamond.jp/articles/-/388287",
@@ -50,13 +59,31 @@
                          "matchKeyword":  "財政"
                      },
                      {
-                         "source":  "朝日新聞 経済",
-                         "title":  "給付付き税額控除、「最大20万円給付なら…」 東京財団が試算示す",
-                         "url":  "https://www.asahi.com/articles/ASV4N2W6ZV4NULFA012M.html?ref=rss",
+                         "source":  "Bloomberg 日本",
+                         "title":  "ヘッジファンドの持ち高解消、日本の国債市場に影響も－日銀リポート",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU0QNKJH6V600?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
+                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
+                         "matchKeyword":  "国債"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "独ＺＥＷ景気期待指数、4月は－17.2に急低下 イラン戦争が打撃",
+                         "url":  "https://jp.reuters.com/markets/japan/GJBPOR5YY5NTXPAA6N6GOJXC3M-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "景気"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ドイツ景気見通しが大幅に悪化、期待指数は2022年以来の低水準",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU7UTKJH6V600?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
+                         "matchKeyword":  "景気"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -68,13 +95,13 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "日本の防衛費、2026年度はGDP比1.9%－2%の目標には届かず",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-17/TDN37BT9NJLT00?srnd=jp-markets",
+                         "source":  "朝日新聞 経済",
+                         "title":  "給付付き税額控除、「最大20万円給付なら…」 東京財団が試算示す",
+                         "url":  "https://www.asahi.com/articles/ASV4N2W6ZV4NULFA012M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "GDP"
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -84,6 +111,15 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T09:47:39+09:00",
                          "matchKeyword":  "財政"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "日本の防衛費、2026年度はGDP比1.9%－2%の目標には届かず",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-17/TDN37BT9NJLT00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "GDP"
                      }
                  ]
 }

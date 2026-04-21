@@ -5,6 +5,24 @@
     "description":  "決算発表・業績予想",
     "articles":  [
                      {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "歯磨き市場で10年連続1位 シュミテクトが貫く「市場創造」の作法",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/22/news023.html",
+                         "description":  "日本のオーラルケア市場において、歯磨き関連で10年連続売上高1位の歯磨き粉「シュミテクト」。成熟しきった日本の歯磨き市場において、なぜ独走を続けられるのか。その裏には、社会構造の変化から潜在ニーズを掘り起こす「市場創造」の視点と、独自AIを駆使して開発プロセスを短縮したデータ経営の融合があった。責任者にインタビューする。",
+                         "publishedAt":  "2026-04-22T07:00:00+09:00",
+                         "fetchedAt":  "2026-04-22T08:50:40+09:00",
+                         "matchKeyword":  "売上高"
+                     },
+                     {
+                         "source":  "NHK 経済",
+                         "title":  "米小売統計 ガソリン高で増加 原油高の個人消費への影響焦点に",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015104991000",
+                         "description":  "アメリカの先月の小売業の売上高は、前の月と比べて1.7％増加しました。イラン情勢を受けて原油価格が急上昇する中、ガソリンスタンドでの売り上げが大きく増えたことなどが要因です。",
+                         "publishedAt":  "2026-04-21T23:48:34+09:00",
+                         "fetchedAt":  "2026-04-22T08:50:39+09:00",
+                         "matchKeyword":  "売上高"
+                     },
+                     {
                          "source":  "ダイヤモンド・オンライン",
                          "title":  "【NISA投信グランプリ2026・リート部門】国内最優秀賞は徹底したデータ主義で割安銘柄を厳選する「フィデリティ・Jリート・アクティブ・ファンド（資産成長型）」！ - ダイヤモンドZAi NISA投信グランプリ2026",
                          "url":  "https://diamond.jp/articles/-/388099",
@@ -96,21 +114,21 @@
                      },
                      {
                          "source":  "ITmedia ビジネス",
-                         "title":  "小売業の「支払手数料」負担、10年で45％増加 キャッシュレス決済普及で",
-                         "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news019.html",
-                         "description":  "キャッシュレス化の拡大に伴い、小売業の手数料負担が増加している。売上高に占める支払手数料は10年で約4割上昇した。",
-                         "publishedAt":  "2026-04-20T05:00:00+09:00",
-                         "fetchedAt":  "2026-04-20T09:47:38+09:00",
-                         "matchKeyword":  "売上高"
-                     },
-                     {
-                         "source":  "ITmedia ビジネス",
                          "title":  "なぜ「パズドラ」に続くヒット作が生み出せないのか “物言う株主”に狙われたガンホーと任天堂の違い",
                          "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news006.html",
                          "description":  "「パズドラ」で有名なガンホー・オンライン・エンターテイメントが物言う株主に狙われている。背景にはパズドラに続く人気作を生み出せない構造にあるようだ。",
                          "publishedAt":  "2026-04-20T05:00:00+09:00",
                          "fetchedAt":  "2026-04-20T10:38:00+09:00",
                          "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "小売業の「支払手数料」負担、10年で45％増加 キャッシュレス決済普及で",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news019.html",
+                         "description":  "キャッシュレス化の拡大に伴い、小売業の手数料負担が増加している。売上高に占める支払手数料は10年で約4割上昇した。",
+                         "publishedAt":  "2026-04-20T05:00:00+09:00",
+                         "fetchedAt":  "2026-04-20T09:47:38+09:00",
+                         "matchKeyword":  "売上高"
                      },
                      {
                          "source":  "Yahoo!ニュース 経済",
@@ -132,6 +150,15 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
+                         "title":  "リオティント、中東紛争で供給網リスク指摘 第1四半期鉄鉱石出荷は増加",
+                         "url":  "https://jp.reuters.com/markets/commodities/CXEF2J3HDFIEZH3DWO7T7FCXFY-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
+                         "matchKeyword":  "四半期"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
                          "title":  "インドのスマホ出荷、第1四半期は6年ぶり低水準＝民間調査",
                          "url":  "https://jp.reuters.com/markets/japan/IX3DNVJRVFI6XEDXAX2RV4ATNM-2026-04-20/",
                          "description":  "",
@@ -141,12 +168,39 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "メタ、5月20日に人員削減第1弾 約8000人に影響か＝関係筋",
-                         "url":  "https://jp.reuters.com/markets/world-indices/AV5UNL6HQFIKHANJK2THTFLQKA-2026-04-17/",
+                         "title":  "米小売売上高、3月は25年3月以来の伸び ガソリン価格高騰が押し上げ",
+                         "url":  "https://jp.reuters.com/markets/japan/YLLU2BDAGVOLZJKZQDS37QVWJQ-2026-04-21/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
-                         "matchKeyword":  "[LLM分類]"
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "売上高"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米国株式市場＝続落、中東紛争懸念が堅調な決算への楽観打ち消す",
+                         "url":  "https://jp.reuters.com/markets/japan/TFAHKELAIBMF3FVZTFRSL4DX7M-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "決算"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米ユナイテッド航空、第2四半期利益見通しが予想下回る",
+                         "url":  "https://jp.reuters.com/markets/commodities/GXNINZC32JIKJOZPKDSCUAOQMU-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "四半期"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "3月コンビニ売上高は2.2％増、販促・行楽需要で飲食売れ行き好調",
+                         "url":  "https://jp.reuters.com/markets/japan/ALIWYHDELVOJFPIXJQLRGCI23A-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "売上高"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -159,30 +213,12 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "3月コンビニ売上高は2.2％増、販促・行楽需要で飲食売れ行き好調",
-                         "url":  "https://jp.reuters.com/markets/japan/ALIWYHDELVOJFPIXJQLRGCI23A-2026-04-20/",
+                         "title":  "メタ、5月20日に人員削減第1弾 約8000人に影響か＝関係筋",
+                         "url":  "https://jp.reuters.com/markets/world-indices/AV5UNL6HQFIKHANJK2THTFLQKA-2026-04-17/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "売上高"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "テスラなど決算に注目、次期ＦＲＢ議長証言も＝今週の米株式市場",
-                         "url":  "https://jp.reuters.com/markets/japan/IQJSTEQMVNIBJPQNXEVB6JOB7Q-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "決算"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "イタリア、第1四半期は緩やかな成長 五輪効果で＝中銀報告",
-                         "url":  "https://jp.reuters.com/markets/japan/6BUGCMXP7JNI7PLPIE3L6IAQ7Q-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "四半期"
+                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -195,12 +231,21 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "リオティント、中東紛争で供給網リスク指摘 第1四半期鉄鉱石出荷は増加",
-                         "url":  "https://jp.reuters.com/markets/commodities/CXEF2J3HDFIEZH3DWO7T7FCXFY-2026-04-21/",
+                         "title":  "イタリア、第1四半期は緩やかな成長 五輪効果で＝中銀報告",
+                         "url":  "https://jp.reuters.com/markets/japan/6BUGCMXP7JNI7PLPIE3L6IAQ7Q-2026-04-20/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
                          "matchKeyword":  "四半期"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "テスラなど決算に注目、次期ＦＲＢ議長証言も＝今週の米株式市場",
+                         "url":  "https://jp.reuters.com/markets/japan/IQJSTEQMVNIBJPQNXEVB6JOB7Q-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "決算"
                      }
                  ]
 }

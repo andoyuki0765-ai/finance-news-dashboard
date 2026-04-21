@@ -5,6 +5,33 @@
     "description":  "為替レート・通貨動向・為替介入",
     "articles":  [
                      {
+                         "source":  "東洋経済オンライン",
+                         "title":  "日銀の追加利上げ､5割超のエコノミストが6月予想 中東情勢の緊迫化を受けてやや後ずれ | 政治・経済・投資 | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/942241?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "中東情勢の緊迫化が日本銀行の利上げ時期に影響を及ぼし､市場やエコノミストの予測が揺れ動いています。原油高や円安進行､物価目標の見通し修正といった難題に日銀はどう立ち向かうのか。金融政策の行方に注目で…",
+                         "publishedAt":  "2026-04-22T07:30:00+09:00",
+                         "fetchedAt":  "2026-04-22T08:50:41+09:00",
+                         "matchKeyword":  "円安"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "円を圧倒する｢ユーロ｣の強さは中銀政策の違いにある。｢物価目標｣をめぐる日欧米の明らかな違いとは | 政治・経済・投資 | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/941991?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "各国の中央銀行が景気に配慮するのは常です。しかし日銀だけその度合いが強すぎることが現在の歴史的な円安の基底になっているようです。日米欧の物価目標（インフレターゲット）政策の運営の違いを分析してみまし…",
+                         "publishedAt":  "2026-04-22T06:00:00+09:00",
+                         "fetchedAt":  "2026-04-22T08:50:41+09:00",
+                         "matchKeyword":  "円安"
+                     },
+                     {
+                         "source":  "NHK 経済",
+                         "title":  "円相場 小幅な値動きに イラン情勢見極めで",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015104741000",
+                         "description":  "21日の東京外国為替市場、イラン情勢をめぐって戦闘終結に向けたアメリカとイランの協議の進展を見極めたいとして、円相場は小幅な値動きとなりました。",
+                         "publishedAt":  "2026-04-21T18:54:43+09:00",
+                         "fetchedAt":  "2026-04-22T08:50:39+09:00",
+                         "matchKeyword":  "為替"
+                     },
+                     {
                          "source":  "ダイヤモンド・オンライン",
                          "title":  "【NISA投信グランプリ2026・世界株部門】最優秀賞はAIによる膨大な分析とリスクを抑えた運用が特徴の「AI（人工知能）活用型世界株ファンド［愛称：ディープAI］」！ - ダイヤモンドZAi NISA投信グランプリ2026",
                          "url":  "https://diamond.jp/articles/-/388097",
@@ -33,8 +60,35 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "午後3時のドルは158円後半で上昇一服、一時159円台 イラン情勢の進展待ち",
-                         "url":  "https://jp.reuters.com/markets/japan/ZFD7WPJL5VJPXHKXO4VPZTMHTY-2026-04-20/",
+                         "title":  "米ドルの基軸通貨地位「懸念なし」＝ウォラー ＦＲＢ理事",
+                         "url":  "https://jp.reuters.com/markets/japan/T4BW4WDK6JO3HBNL4OGVYS6NXQ-2026-04-17/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "通貨"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "日銀「後手」と市場判断なら円安圧力、アジア開発銀の神田氏 財政要因も指摘",
+                         "url":  "https://jp.reuters.com/markets/commodities/HJC3E3WHRBJRLK3FL4R77IU6W4-2026-04-18/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "円安"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "UAEが米と通貨スワップ協議開始､イラン戦争の影響深刻化に備え－報道",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-19/TDRF0ST9NJLS00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "通貨"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＮＹ外為市場＝ドル下落、米イラン停戦合意巡り楽観広がる",
+                         "url":  "https://jp.reuters.com/markets/japan/CBCCWBHVOVMZRDKPK7XLZ7EYNY-2026-04-20/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-21T09:10:26+09:00",
@@ -51,24 +105,6 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "ＮＹ外為市場＝ドル下落、米イラン停戦合意巡り楽観広がる",
-                         "url":  "https://jp.reuters.com/markets/japan/CBCCWBHVOVMZRDKPK7XLZ7EYNY-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "日銀「後手」と市場判断なら円安圧力、アジア開発銀の神田氏 財政要因も指摘",
-                         "url":  "https://jp.reuters.com/markets/commodities/HJC3E3WHRBJRLK3FL4R77IU6W4-2026-04-18/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "円安"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
                          "title":  "ドル／円、投機的な動きがかなりを占めている＝片山財務相",
                          "url":  "https://jp.reuters.com/markets/japan/Y6NCYHRNGRO7XAIAMPWLFHUCCY-2026-04-17/",
                          "description":  "",
@@ -77,22 +113,13 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "UAEが米と通貨スワップ協議開始､イラン戦争の影響深刻化に備え－報道",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-19/TDRF0ST9NJLS00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "通貨"
-                     },
-                     {
                          "source":  "ロイター ビジネス",
-                         "title":  "米ドルの基軸通貨地位「懸念なし」＝ウォラー ＦＲＢ理事",
-                         "url":  "https://jp.reuters.com/markets/japan/T4BW4WDK6JO3HBNL4OGVYS6NXQ-2026-04-17/",
+                         "title":  "午後3時のドルは158円後半で上昇一服、一時159円台 イラン情勢の進展待ち",
+                         "url":  "https://jp.reuters.com/markets/japan/ZFD7WPJL5VJPXHKXO4VPZTMHTY-2026-04-20/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "通貨"
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      }
                  ]
 }

@@ -6,6 +6,42 @@
     "articles":  [
                      {
                          "source":  "NHK 経済",
+                         "title":  "NYダウ293ドル安 米イランの協議不透明との見方から売り注文",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015105121000",
+                         "description":  "21日のニューヨーク株式市場では、アメリカとイランとの2回目の対面での協議の実現が不透明な状況になったとの受け止めから売り注文が出る展開となり、ダウ平均株価は前日から300ドル近い値下がりとなりました…",
+                         "publishedAt":  "2026-04-22T08:03:35+09:00",
+                         "fetchedAt":  "2026-04-22T08:50:39+09:00",
+                         "matchKeyword":  "ダウ平均"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "日経平均株価が｢5万9600円｣を一時突破､強気相場は続くのか？ ベテラン市場ウォッチャーに聞く今後の投資戦略 | 政治・経済・投資 | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/942155?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "4月16日､日経平均株価は過去最高値を更新しました。今後の投資ポイントを､ベテランの市場ウォッチャーであるストックボイス顧問の岩本秀雄氏に聞きました。",
+                         "publishedAt":  "2026-04-22T06:00:00+09:00",
+                         "fetchedAt":  "2026-04-22T08:50:41+09:00",
+                         "matchKeyword":  "日経平均"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "〈時価総額20兆円を一時突破〉株価爆上げのキオクシアが抱える｢増産ジレンマ｣とメモリーバブルの賞味期限 | ビジネス | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/941745?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "NAND型フラッシュメモリーの大手キオクシアが､株式市場で熱い視線を集めています。AIブームによるメモリー需要急増と価格高騰で､かつて業績悪化を経験した同社の業績はV字回復。しかし､過熱する市場の裏…",
+                         "publishedAt":  "2026-04-22T05:20:00+09:00",
+                         "fetchedAt":  "2026-04-22T08:50:41+09:00",
+                         "matchKeyword":  "株価"
+                     },
+                     {
+                         "source":  "NHK 経済",
+                         "title":  "イラン情勢影響 ポリ袋など購入制限の商社 食用油値上げも",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015104661000",
+                         "description":  "イラン情勢を受けた石油製品の値上がりなどを背景に、都内にある包装資材を扱う専門商社では、石油由来の原料から作られているテープなど一部の商品を21日から値上げしました。会社では安定して商品を調達するため…",
+                         "publishedAt":  "2026-04-21T20:52:11+09:00",
+                         "fetchedAt":  "2026-04-22T08:50:39+09:00",
+                         "matchKeyword":  "値上がり"
+                     },
+                     {
+                         "source":  "NHK 経済",
                          "title":  "株価 値上がり 米イラン2回目協議実現との見方から",
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015104411000",
                          "description":  "21日の東京株式市場はイラン情勢をめぐって戦闘終結に向けた協議が進展するのではないかという見方が広がり、日経平均株価は値上がりしました。",
@@ -51,30 +87,93 @@
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "インテル株、2000年以来の高値－再建期待で回復基調続く",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-17/TDN6R5T9NJLW00?srnd=jp-markets",
+                         "title":  "【米国市況】株続伸、イラン戦争終結期待で－ドル一時157円台に下落",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-17/TDN2K7KIP3L200?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＮＹ市場サマリー（17日）ドル数週間ぶり安値、利回り低下 株大幅続伸",
+                         "url":  "https://jp.reuters.com/markets/japan/OEVM3G3XCNN3LI552Y2W7E33MM-2026-04-17/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "安値"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米国株式市場＝大幅続伸、ダウ868ドル高 イランがホルムズ海峡「解放」",
+                         "url":  "https://jp.reuters.com/markets/japan/UAJC3C5NZJPNLFP7DWYKDCFXS4-2026-04-17/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "株式市場"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＮＹ外為市場＝ドル数週間ぶり安値、イランのホルムズ開放表明でリスク選好強まる",
+                         "url":  "https://jp.reuters.com/markets/japan/7L75FHQXU5JM5DFWXBKBBQH47E-2026-04-17/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "安値"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "韓国KOSPIが過去最高値、米イラン協議巡り慎重ながらも楽観広がる",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTI08KJH6V400?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
                          "matchKeyword":  "高値"
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "テスラなど決算に注目、次期ＦＲＢ議長証言も＝今週の米株式市場",
-                         "url":  "https://jp.reuters.com/markets/japan/IQJSTEQMVNIBJPQNXEVB6JOB7Q-2026-04-20/",
+                         "title":  "米国株式市場＝続落、中東紛争懸念が堅調な決算への楽観打ち消す",
+                         "url":  "https://jp.reuters.com/markets/japan/TFAHKELAIBMF3FVZTFRSL4DX7M-2026-04-21/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
                          "matchKeyword":  "株式市場"
                      },
                      {
-                         "source":  "朝日新聞 経済",
-                         "title":  "株価3.6倍超、業績も好調 セイコー社長「一過性のものではない」",
-                         "url":  "https://www.asahi.com/articles/ASV4M1HJZV4MUCVL001M.html?ref=rss",
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＮＹ外為市場＝ドル1週間ぶり高値、米イランの停戦合意巡り不透明感",
+                         "url":  "https://jp.reuters.com/markets/japan/5FFF3LUWWBOLZAKOHZCKIJHTKQ-2026-04-21/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:03+09:00",
-                         "matchKeyword":  "株価"
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "高値"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "日経平均は反発、イラン情勢の不透明感で伸び悩み",
+                         "url":  "https://jp.reuters.com/markets/japan/Z5YR3BWWKFNSTDAVDOD3WR4J24-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "日経平均"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "JPモルガン、S\u0026P500の年末目標値を引き上げ－AIへの関心再燃追い風",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU8QUKJH6V600?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
+                         "matchKeyword":  "S\u0026P500"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ビッグテック復調、S\u0026P500種を最高値へ押し上げ－米株一段高に期待",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-19/TDQTTVKK3NY800?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "S\u0026P500"
                      },
                      {
                          "source":  "Bloomberg 日本",
@@ -105,38 +204,38 @@
                      },
                      {
                          "source":  "Bloomberg 日本",
+                         "title":  "インテル株、2000年以来の高値－再建期待で回復基調続く",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-17/TDN6R5T9NJLW00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "高値"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "テスラなど決算に注目、次期ＦＲＢ議長証言も＝今週の米株式市場",
+                         "url":  "https://jp.reuters.com/markets/japan/IQJSTEQMVNIBJPQNXEVB6JOB7Q-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "株式市場"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "株価3.6倍超、業績も好調 セイコー社長「一過性のものではない」",
+                         "url":  "https://www.asahi.com/articles/ASV4M1HJZV4MUCVL001M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:03+09:00",
+                         "matchKeyword":  "株価"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
                          "title":  "市況日経平均続伸、和平とAI期待－利上げ観測薄れ債券も上昇",
                          "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTGAQKJH6V600?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-21T18:00:11+09:00",
-                         "matchKeyword":  "日経平均"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米国株式市場・序盤＝ダウ・ナスダック1％超上昇、ホルムズ海峡開放を好感",
-                         "url":  "https://jp.reuters.com/markets/japan/PECCTW5CENP4RLNOYQE7KBM2ZM-2026-04-17/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "ナスダック"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "午前の日経平均は続伸、771円高 米イランの協議進展に期待",
-                         "url":  "https://jp.reuters.com/markets/japan/SOFEGK22QVIVHJY2TIUA2LUQOM-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
-                         "matchKeyword":  "日経平均"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "午前の日経平均は反発し5万9000円回復、前週末の米株高や原油安が支え",
-                         "url":  "https://jp.reuters.com/markets/japan/YA46DQB5UBLIZA7Q65QZTMUKFM-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
                          "matchKeyword":  "日経平均"
                      },
                      {
@@ -167,66 +266,30 @@
                          "matchKeyword":  "株式市場"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "ビッグテック復調、S\u0026P500種を最高値へ押し上げ－米株一段高に期待",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-19/TDQTTVKK3NY800?srnd=jp-markets",
+                         "source":  "ロイター ビジネス",
+                         "title":  "米国株式市場・序盤＝ダウ・ナスダック1％超上昇、ホルムズ海峡開放を好感",
+                         "url":  "https://jp.reuters.com/markets/japan/PECCTW5CENP4RLNOYQE7KBM2ZM-2026-04-17/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "S\u0026P500"
+                         "matchKeyword":  "ナスダック"
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "ＮＹ外為市場＝ドル数週間ぶり安値、イランのホルムズ開放表明でリスク選好強まる",
-                         "url":  "https://jp.reuters.com/markets/japan/7L75FHQXU5JM5DFWXBKBBQH47E-2026-04-17/",
+                         "title":  "午前の日経平均は続伸、771円高 米イランの協議進展に期待",
+                         "url":  "https://jp.reuters.com/markets/japan/SOFEGK22QVIVHJY2TIUA2LUQOM-2026-04-21/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "安値"
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "日経平均"
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "米国株式市場＝大幅続伸、ダウ868ドル高 イランがホルムズ海峡「解放」",
-                         "url":  "https://jp.reuters.com/markets/japan/UAJC3C5NZJPNLFP7DWYKDCFXS4-2026-04-17/",
+                         "title":  "午前の日経平均は反発し5万9000円回復、前週末の米株高や原油安が支え",
+                         "url":  "https://jp.reuters.com/markets/japan/YA46DQB5UBLIZA7Q65QZTMUKFM-2026-04-20/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "株式市場"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "【米国市況】株続伸、イラン戦争終結期待で－ドル一時157円台に下落",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-17/TDN2K7KIP3L200?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ＮＹ市場サマリー（17日）ドル数週間ぶり安値、利回り低下 株大幅続伸",
-                         "url":  "https://jp.reuters.com/markets/japan/OEVM3G3XCNN3LI552Y2W7E33MM-2026-04-17/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "安値"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "韓国KOSPIが過去最高値、米イラン協議巡り慎重ながらも楽観広がる",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTI08KJH6V400?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
-                         "matchKeyword":  "高値"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "日経平均は反発、イラン情勢の不透明感で伸び悩み",
-                         "url":  "https://jp.reuters.com/markets/japan/Z5YR3BWWKFNSTDAVDOD3WR4J24-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
                          "matchKeyword":  "日経平均"
                      }
                  ]

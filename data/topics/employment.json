@@ -5,6 +5,24 @@
     "description":  "雇用統計・失業率・賃金",
     "articles":  [
                      {
+                         "source":  "Yahoo!ニュース 経済",
+                         "title":  "アニメ業界の低賃金 解決策どこに",
+                         "url":  "https://news.yahoo.co.jp/pickup/6577156?source=rss",
+                         "description":  "",
+                         "publishedAt":  "2026-04-22T08:37:25+09:00",
+                         "fetchedAt":  "2026-04-22T08:50:40+09:00",
+                         "matchKeyword":  "賃金"
+                     },
+                     {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "ドラクエの遊び人はなぜ賢者に？転職で「ムダな経歴」が最強の武器に変わる瞬間 - ニュースな本",
+                         "url":  "https://diamond.jp/articles/-/388048",
+                         "description":  "40代で転職を考えている人の中には、求人票と「自分のキャリアの一致度」を気にして尻込みする人も多いのではないだろうか。しかし、本当に問われているのは、そこではないのだという。転職アドバイザーが40代からの転職活動のコツを解説する。※本稿は、転職アドバイザーの安斎響市『定年までこのまま働き続けるのはちょっと…と思ったら読む 40代からの転職と副業』（扶桑社）の一部を抜粋・編集したものです。",
+                         "publishedAt":  "2026-04-22T08:00:00+09:00",
+                         "fetchedAt":  "2026-04-22T08:50:41+09:00",
+                         "matchKeyword":  "求人"
+                     },
+                     {
                          "source":  "東洋経済オンライン",
                          "title":  "｢上司ガチャ外れ｣と嘆く人は｟コミュニケーションタイプ｠をチェック！ ｟会話･時間･合意｠の3つで大きく変わる | キャリア・教育 | 東洋経済オンライン",
                          "url":  "https://toyokeizai.net/articles/-/941594?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
@@ -95,15 +113,6 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "中国の若年失業率、3月は16.9％に上昇",
-                         "url":  "https://jp.reuters.com/markets/japan/7XXNRAB6C5JXRBX5G3WPVDHDB4-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
-                         "matchKeyword":  "失業率"
-                     },
-                     {
                          "source":  "朝日新聞 経済",
                          "title":  "こんなに天引き？ 給与明細見てみると 「いざ」という時の備えに",
                          "url":  "https://www.asahi.com/articles/ASV4H3606V4HULFA00RM.html?ref=rss",
@@ -111,6 +120,15 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T10:38:00+09:00",
                          "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "中国の若年失業率、3月は16.9％に上昇",
+                         "url":  "https://jp.reuters.com/markets/japan/7XXNRAB6C5JXRBX5G3WPVDHDB4-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "失業率"
                      }
                  ]
 }
