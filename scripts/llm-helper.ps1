@@ -86,20 +86,26 @@ function Find-ClaudeCodeExe {
         return $ExplicitPath
     }
 
-    # 優先1: PATHに通っている
-    $cmd = Get-Command claude -ErrorAction SilentlyContinue
-    if ($cmd) { return $cmd.Source }
+    # 探索を最大3回試行（Claude Codeアップデート中の一時的な未検出を回避）
+    for ($attempt = 1; $attempt -le 3; $attempt++) {
+        # 優先1: PATHに通っている
+        $cmd = Get-Command claude -ErrorAction SilentlyContinue
+        if ($cmd) { return $cmd.Source }
 
-    # 優先2: AppData\Roaming\Claude\claude-code\<version>\claude.exe（最新版）
-    $base = Join-Path $env:APPDATA 'Claude\claude-code'
-    if (Test-Path $base) {
-        $latest = Get-ChildItem $base -Directory -ErrorAction SilentlyContinue |
-            Sort-Object @{Expression={ try { [Version]$_.Name } catch { [Version]'0.0.0' } }} -Descending |
-            Select-Object -First 1
-        if ($latest) {
-            $exe = Join-Path $latest.FullName 'claude.exe'
-            if (Test-Path $exe) { return $exe }
+        # 優先2: AppData\Roaming\Claude\claude-code\<version>\claude.exe（最新版）
+        $base = Join-Path $env:APPDATA 'Claude\claude-code'
+        if (Test-Path $base) {
+            # 全バージョンフォルダを新→旧の順に試す（最新版にclaude.exeが無くても次を試す）
+            $versions = Get-ChildItem $base -Directory -ErrorAction SilentlyContinue |
+                Sort-Object @{Expression={ try { [Version]$_.Name } catch { [Version]'0.0.0' } }} -Descending
+            foreach ($v in $versions) {
+                $exe = Join-Path $v.FullName 'claude.exe'
+                if (Test-Path $exe) { return $exe }
+            }
         }
+
+        # アップデート中の可能性。少し待ってリトライ
+        if ($attempt -lt 3) { Start-Sleep -Seconds 2 }
     }
 
     return $null

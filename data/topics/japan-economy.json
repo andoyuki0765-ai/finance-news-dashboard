@@ -23,6 +23,15 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
+                         "source":  "NHK 経済",
+                         "title":  "広島 廿日市 ふるさと納税の寄付額約2割減少 かき被害の影響で",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015103451000",
+                         "description":  "広島特産の養殖かきが死ぬ被害が相次いだ影響で、かきをふるさと納税の主力の返礼品としてきた広島県廿日市市では、昨年度集まった寄付の総額が前の年度からおよそ2割減ったことが分かりました。ふるさと納税の市場…",
+                         "publishedAt":  "2026-04-20T13:07:59+09:00",
+                         "fetchedAt":  "2026-04-21T09:16:05+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
                          "source":  "東洋経済オンライン",
                          "title":  "#cdata-section -------------- 50代女性が進化系カプセルホテルで実感！｢自分のために眠る｣贅沢《大人のソロ活ノート第1回》 | ライフ | 東洋経済オンライン",
                          "url":  "https://toyokeizai.net/articles/-/940474?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
@@ -39,6 +48,15 @@
                          "publishedAt":  "2026-04-20T06:00:00+09:00",
                          "fetchedAt":  "2026-04-20T09:47:38+09:00",
                          "matchKeyword":  "財政"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "給付付き税額控除、「最大20万円給付なら…」 東京財団が試算示す",
+                         "url":  "https://www.asahi.com/articles/ASV4N2W6ZV4NULFA012M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -66,15 +84,6 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T09:47:39+09:00",
                          "matchKeyword":  "財政"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "給付付き税額控除、「最大20万円給付なら…」 東京財団が試算示す",
-                         "url":  "https://www.asahi.com/articles/ASV4N2W6ZV4NULFA012M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
                      }
                  ]
 }

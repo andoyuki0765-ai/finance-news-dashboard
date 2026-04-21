@@ -5,6 +5,15 @@
     "description":  "企業買収・合併・新規上場",
     "articles":  [
                      {
+                         "source":  "Yahoo!ニュース 経済",
+                         "title":  "ノジマ 日立の家電事業買収を検討",
+                         "url":  "https://news.yahoo.co.jp/pickup/6577040?source=rss",
+                         "description":  "",
+                         "publishedAt":  "2026-04-21T09:41:28+09:00",
+                         "fetchedAt":  "2026-04-21T09:51:59+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
                          "source":  "東洋経済オンライン",
                          "title":  "#cdata-section -------------- アマゾンがアンソロピックに50億ドル追加投資､将来的には最大200億ドルに拡大 | ビジネス | 東洋経済オンライン",
                          "url":  "https://toyokeizai.net/articles/-/942107?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
@@ -42,15 +51,6 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "ありあけキャピタル、大垣共立銀・あいちＦＧ株を買い増し",
-                         "url":  "https://jp.reuters.com/markets/japan/X6E35HQ235LXHEC4ATQUZXDI5M-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
                          "title":  "住友ファーマ、新株発行価格を1株1990円に決定 公募増資などで1115億円調達",
                          "url":  "https://jp.reuters.com/markets/japan/GWSOB3CSDFMPHB4MBOZFZ6GLXI-2026-04-20/",
                          "description":  "",
@@ -68,13 +68,31 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
+                         "source":  "朝日新聞 経済",
+                         "title":  "家電量販大手のノジマ、日立の家電事業を買収へ 1千億円超か",
+                         "url":  "https://www.asahi.com/articles/ASV4P01TMV4PULFA001M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:51:59+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
                          "source":  "ロイター ビジネス",
-                         "title":  "ＧＭＯインターネット、新株発行価格を1株710円に決定",
-                         "url":  "https://jp.reuters.com/markets/global-markets/CMLBTLHPDJN4RALAVN2YS4NM5Q-2026-04-20/",
+                         "title":  "ありあけキャピタル、大垣共立銀・あいちＦＧ株を買い増し",
+                         "url":  "https://jp.reuters.com/markets/japan/X6E35HQ235LXHEC4ATQUZXDI5M-2026-04-20/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-21T09:10:26+09:00",
                          "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米ＱＸＯ、建材卸売・施工企業トップビルドを170億ドルで買収",
+                         "url":  "https://jp.reuters.com/markets/japan/PJZUOAWDUZP7HHDEFWY6O52ABM-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "買収"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -87,12 +105,12 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "米ＱＸＯ、建材卸売・施工企業トップビルドを170億ドルで買収",
-                         "url":  "https://jp.reuters.com/markets/japan/PJZUOAWDUZP7HHDEFWY6O52ABM-2026-04-20/",
+                         "title":  "ＧＭＯインターネット、新株発行価格を1株710円に決定",
+                         "url":  "https://jp.reuters.com/markets/global-markets/CMLBTLHPDJN4RALAVN2YS4NM5Q-2026-04-20/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "買収"
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "ロイター ビジネス",
