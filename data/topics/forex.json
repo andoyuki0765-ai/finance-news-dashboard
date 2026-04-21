@@ -14,33 +14,6 @@
                          "matchKeyword":  "為替"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "UAEが米と通貨スワップ協議開始､イラン戦争の影響深刻化に備え－報道",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-19/TDRF0ST9NJLS00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "通貨"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ＮＹ外為市場＝ドル下落、米イラン停戦合意巡り楽観広がる",
-                         "url":  "https://jp.reuters.com/markets/japan/CBCCWBHVOVMZRDKPK7XLZ7EYNY-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "午後3時のドルは158円後半で上昇一服、一時159円台 イラン情勢の進展待ち",
-                         "url":  "https://jp.reuters.com/markets/japan/ZFD7WPJL5VJPXHKXO4VPZTMHTY-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
                          "source":  "ロイター ビジネス",
                          "title":  "ドル／円、投機的な動きがかなりを占めている＝片山財務相",
                          "url":  "https://jp.reuters.com/markets/japan/Y6NCYHRNGRO7XAIAMPWLFHUCCY-2026-04-17/",
@@ -66,6 +39,33 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T09:47:39+09:00",
                          "matchKeyword":  "通貨"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "UAEが米と通貨スワップ協議開始､イラン戦争の影響深刻化に備え－報道",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-19/TDRF0ST9NJLS00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "通貨"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＮＹ外為市場＝ドル下落、米イラン停戦合意巡り楽観広がる",
+                         "url":  "https://jp.reuters.com/markets/japan/CBCCWBHVOVMZRDKPK7XLZ7EYNY-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "午後3時のドルは158円後半で上昇一服、一時159円台 イラン情勢の進展待ち",
+                         "url":  "https://jp.reuters.com/markets/japan/ZFD7WPJL5VJPXHKXO4VPZTMHTY-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      }
                  ]
 }
