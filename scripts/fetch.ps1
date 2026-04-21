@@ -47,6 +47,22 @@ function Get-CleanText {
     return ($clean -replace '\s+', ' ').Trim()
 }
 
+# XmlElement / CDATA / 文字列のいずれでも正しくテキストを取り出す
+function Get-XmlNodeText {
+    param($node)
+    if ($null -eq $node) { return '' }
+    if ($node -is [string]) { return $node }
+    # XmlElement の場合、InnerText で CDATA含む子ノードのテキストを再帰的に取得
+    if ($node.PSObject.Properties.Name -contains 'InnerText') {
+        return [string]$node.InnerText
+    }
+    # 配列で複数要素ある場合は最初を採用
+    if ($node -is [System.Array] -and $node.Length -gt 0) {
+        return Get-XmlNodeText $node[0]
+    }
+    return [string]$node
+}
+
 Write-Log "Fetch start. Output: $OutFile"
 
 if (-not (Test-Path $ConfigPath)) {
@@ -77,14 +93,28 @@ foreach ($feed in $config.feeds) {
 
         $count = 0
         foreach ($item in $items) {
-            $title = if ($item.title -is [string]) { $item.title } elseif ($item.title.'#text') { $item.title.'#text' } else { ($item.title | Out-String).Trim() }
-            $link  = if ($item.link -is [string]) { $item.link } elseif ($item.link.href) { $item.link.href } else { ($item.link | Out-String).Trim() }
-            $desc  = if ($item.description) { $item.description } elseif ($item.summary) { $item.summary } elseif ($item.'content:encoded') { $item.'content:encoded' } else { '' }
-            $rawDt = if ($item.pubDate) { $item.pubDate } elseif ($item.'dc:date') { $item.'dc:date' } elseif ($item.published) { $item.published } elseif ($item.updated) { $item.updated } else { $null }
+            # CDATA・XmlElement・通常文字列のすべてに対応する Get-XmlNodeText を使用
+            $title = Get-XmlNodeText $item.title
+
+            # link は Atom feed では href 属性を持つ
+            $link = if ($item.link -is [string]) { $item.link }
+                    elseif ($item.link.href) { [string]$item.link.href }
+                    else { Get-XmlNodeText $item.link }
+
+            $desc = if ($item.description) { Get-XmlNodeText $item.description }
+                    elseif ($item.summary) { Get-XmlNodeText $item.summary }
+                    elseif ($item.'content:encoded') { Get-XmlNodeText $item.'content:encoded' }
+                    else { '' }
+
+            $rawDt = if ($item.pubDate) { Get-XmlNodeText $item.pubDate }
+                     elseif ($item.'dc:date') { Get-XmlNodeText $item.'dc:date' }
+                     elseif ($item.published) { Get-XmlNodeText $item.published }
+                     elseif ($item.updated) { Get-XmlNodeText $item.updated }
+                     else { $null }
 
             $title = Get-CleanText $title
             $desc  = Get-CleanText $desc
-            $link  = if ($link) { $link.Trim() } else { '' }
+            $link  = if ($link) { ([string]$link).Trim() } else { '' }
             $dt    = ConvertTo-DateTime $rawDt
 
             if ([string]::IsNullOrWhiteSpace($title) -or [string]::IsNullOrWhiteSpace($link)) { continue }

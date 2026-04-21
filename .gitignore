@@ -9,6 +9,7 @@ logs/
 
 # 一時ファイル
 *.tmp
+*.bak
 test-encoding.html
 .claude-workdir/
 
