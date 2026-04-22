@@ -5,6 +5,15 @@
     "description":  "為替レート・通貨動向・為替介入",
     "articles":  [
                      {
+                         "source":  "NHK 経済",
+                         "title":  "円相場 小幅に値下がり 停戦協議への不透明感",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015105611000",
+                         "description":  "22日の東京外国為替市場、円相場はドルに対して小幅に値下がりしました。",
+                         "publishedAt":  "2026-04-22T18:07:40+09:00",
+                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
+                         "matchKeyword":  "為替"
+                     },
+                     {
                          "source":  "東洋経済オンライン",
                          "title":  "日銀の追加利上げ､5割超のエコノミストが6月予想 中東情勢の緊迫化を受けてやや後ずれ | 政治・経済・投資 | 東洋経済オンライン",
                          "url":  "https://toyokeizai.net/articles/-/942241?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
@@ -60,12 +69,39 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
+                         "title":  "ドル／円、投機的な動きがかなりを占めている＝片山財務相",
+                         "url":  "https://jp.reuters.com/markets/japan/Y6NCYHRNGRO7XAIAMPWLFHUCCY-2026-04-17/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "午後3時のドルは158円後半で上昇一服、一時159円台 イラン情勢の進展待ち",
+                         "url":  "https://jp.reuters.com/markets/japan/ZFD7WPJL5VJPXHKXO4VPZTMHTY-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
                          "title":  "米ドルの基軸通貨地位「懸念なし」＝ウォラー ＦＲＢ理事",
                          "url":  "https://jp.reuters.com/markets/japan/T4BW4WDK6JO3HBNL4OGVYS6NXQ-2026-04-17/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T09:47:39+09:00",
                          "matchKeyword":  "通貨"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "午前の日経平均は続伸、771円高 米イランの協議進展に期待",
+                         "url":  "https://jp.reuters.com/markets/japan/SOFEGK22QVIVHJY2TIUA2LUQOM-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "円高"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -89,33 +125,6 @@
                          "source":  "ロイター ビジネス",
                          "title":  "ＮＹ外為市場＝ドル下落、米イラン停戦合意巡り楽観広がる",
                          "url":  "https://jp.reuters.com/markets/japan/CBCCWBHVOVMZRDKPK7XLZ7EYNY-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "午前の日経平均は続伸、771円高 米イランの協議進展に期待",
-                         "url":  "https://jp.reuters.com/markets/japan/SOFEGK22QVIVHJY2TIUA2LUQOM-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
-                         "matchKeyword":  "円高"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ドル／円、投機的な動きがかなりを占めている＝片山財務相",
-                         "url":  "https://jp.reuters.com/markets/japan/Y6NCYHRNGRO7XAIAMPWLFHUCCY-2026-04-17/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "午後3時のドルは158円後半で上昇一服、一時159円台 イラン情勢の進展待ち",
-                         "url":  "https://jp.reuters.com/markets/japan/ZFD7WPJL5VJPXHKXO4VPZTMHTY-2026-04-20/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-21T09:10:26+09:00",

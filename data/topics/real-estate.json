@@ -131,13 +131,13 @@
                          "matchKeyword":  "マンション"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米中古住宅仮契約指数、3月は1.5％上昇 予想上回る",
-                         "url":  "https://jp.reuters.com/markets/world-indices/2OAHYFO4MNPWLIG7E3NSEDBN4E-2026-04-21/",
+                         "source":  "朝日新聞 経済",
+                         "title":  "木質デザインのビル着工 大阪・中之島、30年近い開発が最終段階",
+                         "url":  "https://www.asahi.com/articles/ASV4P2CD6V4PPLFA00DM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
-                         "matchKeyword":  "住宅"
+                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "Bloomberg 日本",
@@ -156,6 +156,15 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T18:00:03+09:00",
                          "matchKeyword":  "マンション"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米中古住宅仮契約指数、3月は1.5％上昇 予想上回る",
+                         "url":  "https://jp.reuters.com/markets/world-indices/2OAHYFO4MNPWLIG7E3NSEDBN4E-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "住宅"
                      }
                  ]
 }

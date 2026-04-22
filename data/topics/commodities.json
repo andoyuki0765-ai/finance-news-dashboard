@@ -6,6 +6,15 @@
     "articles":  [
                      {
                          "source":  "NHK 経済",
+                         "title":  "自粛延長のプルデンシャル生命 “改革に時間必要”会見で社長",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015105591000",
+                         "description":  "社員らによる不適切な金銭の受領が発覚した問題をめぐり、新規契約の販売をさらに半年自粛することを決めたプルデンシャル生命は22日、会見を開き、得丸博充社長は制度やルールだけでなく、会社の組織も含めた全社…",
+                         "publishedAt":  "2026-04-22T18:16:38+09:00",
+                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "NHK 経済",
                          "title":  "ガソリン価格 全国平均1リットル169.5円 170円程度の水準続く",
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015105481000",
                          "description":  "レギュラーガソリンの小売価格は20日時点の全国平均で1リットルあたり169.5円と前の週より2円値上がりしました。政府による激変緩和措置で170円程度の水準が続いています。",
@@ -69,6 +78,15 @@
                      },
                      {
                          "source":  "NHK 経済",
+                         "title":  "【きょうのおはBiz 4月22日(水)】肥料価格高騰 畜産への影響は",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015105191000",
+                         "description":  "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし…",
+                         "publishedAt":  "2026-04-22T10:57:32+09:00",
+                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "NHK 経済",
                          "title":  "ペルシャ湾内の船舶から新たに日本人乗組員4人が下船",
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015105141000",
                          "description":  "金子国土交通大臣は、ペルシャ湾内にとどまっている日本関係の船舶から新たに日本人の乗組員4人が下船したことを明らかにしました。健康状態に問題はないということです。",
@@ -113,15 +131,6 @@
                          "matchKeyword":  "原油"
                      },
                      {
-                         "source":  "東洋経済オンライン",
-                         "title":  "日銀の追加利上げ､5割超のエコノミストが6月予想 中東情勢の緊迫化を受けてやや後ずれ | 政治・経済・投資 | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/942241?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "中東情勢の緊迫化が日本銀行の利上げ時期に影響を及ぼし､市場やエコノミストの予測が揺れ動いています。原油高や円安進行､物価目標の見通し修正といった難題に日銀はどう立ち向かうのか。金融政策の行方に注目で…",
-                         "publishedAt":  "2026-04-22T07:30:00+09:00",
-                         "fetchedAt":  "2026-04-22T08:50:41+09:00",
-                         "matchKeyword":  "原油"
-                     },
-                     {
                          "source":  "ダイヤモンド・オンライン",
                          "title":  "10万円のジャケット、週1で3年着たら1回いくら？→後悔しない「お金の使い方」が深かった！ - ニュースな本",
                          "url":  "https://diamond.jp/articles/-/387889",
@@ -131,12 +140,30 @@
                          "matchKeyword":  "金"
                      },
                      {
+                         "source":  "東洋経済オンライン",
+                         "title":  "日銀の追加利上げ､5割超のエコノミストが6月予想 中東情勢の緊迫化を受けてやや後ずれ | 政治・経済・投資 | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/942241?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "中東情勢の緊迫化が日本銀行の利上げ時期に影響を及ぼし､市場やエコノミストの予測が揺れ動いています。原油高や円安進行､物価目標の見通し修正といった難題に日銀はどう立ち向かうのか。金融政策の行方に注目で…",
+                         "publishedAt":  "2026-04-22T07:30:00+09:00",
+                         "fetchedAt":  "2026-04-22T08:50:41+09:00",
+                         "matchKeyword":  "原油"
+                     },
+                     {
                          "source":  "NHK 経済",
                          "title":  "プルデンシャル生命 新規営業の自粛 半年延長を発表",
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015105091000",
                          "description":  "社員が顧客から金銭をだまし取るなど不適切な金銭の受領が判明し、新規契約の販売を自粛しているプルデンシャル生命は、5月までとしていた自粛期間をおよそ半年、延長すると発表しました。再発の防止に加え、経営の…",
                          "publishedAt":  "2026-04-22T07:16:39+09:00",
                          "fetchedAt":  "2026-04-22T08:50:39+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "｢会社と恋愛したい｣｢死ぬ気になりゃなんだってできんだよ｣…会社が自己実現と結び付いていた時代のドラマの\"異様さ\" | ライフ | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/941347?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "配信サービスの普及で昭和･平成の名作ドラマに触れることが容易になった今､私たちはその価値観のギャップに驚かされます。本記事ではZ世代の視点で『サラリーマン金太郎』を再検証し､現代と過去の｢労働観｣の…",
+                         "publishedAt":  "2026-04-22T07:00:00+09:00",
+                         "fetchedAt":  "2026-04-22T08:50:41+09:00",
                          "matchKeyword":  "金"
                      },
                      {
@@ -150,21 +177,12 @@
                      },
                      {
                          "source":  "東洋経済オンライン",
-                         "title":  "｢会社と恋愛したい｣｢死ぬ気になりゃなんだってできんだよ｣…会社が自己実現と結び付いていた時代のドラマの\"異様さ\" | ライフ | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/941347?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "配信サービスの普及で昭和･平成の名作ドラマに触れることが容易になった今､私たちはその価値観のギャップに驚かされます。本記事ではZ世代の視点で『サラリーマン金太郎』を再検証し､現代と過去の｢労働観｣の…",
-                         "publishedAt":  "2026-04-22T07:00:00+09:00",
-                         "fetchedAt":  "2026-04-22T08:50:41+09:00",
-                         "matchKeyword":  "金"
-                     },
-                     {
-                         "source":  "ダイヤモンド・オンライン",
-                         "title":  "「自転車厳罰化」の警察が言わない“ウラの狙い”とは？目的は「反則金」じゃなかった…〈弁護士が解説〉 - News\u0026Analysis",
-                         "url":  "https://diamond.jp/articles/-/388551",
-                         "description":  "2026年4月から自転車に対する「青切符（交通反則通告制度）」が導入され、罰則が厳格化され、ネット上では賛否両論が巻き起こっている。城南中央法律事務所所長の野澤隆弁護士は、この厳罰化の裏にはメディアが報じない「警察側の事情」が隠されているという。自転車規制の「本当の狙い」とは？ジャーナリストの小倉健一氏が聞いた。※本稿は、Youtube動画『弁護士が大暴露「自転車厳罰化」警察が言わないウラの狙い。野澤隆弁護士「反則金ではありません」』の一部を抜粋・編集したものです。",
+                         "title":  "エネルギーに限らない｢アジアの危機｣だ――エネ研･寺澤達也理事長が語る｢ホルムズ海峡封鎖｣の深刻度と日本の宿題 | 政治・経済・投資 | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/942193?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "ホルムズ海峡封鎖が世界経済や日本に及ぼす影響は､単なるエネルギー危機にとどまりません。石油やLNG､肥料､ヘリウムなど多岐にわたる供給網の寸断は､アジアの生産や食糧事情に深刻な打撃を与えます。日本は…",
                          "publishedAt":  "2026-04-22T06:00:00+09:00",
                          "fetchedAt":  "2026-04-22T08:50:41+09:00",
-                         "matchKeyword":  "金"
+                         "matchKeyword":  "LNG"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -176,13 +194,13 @@
                          "matchKeyword":  "金"
                      },
                      {
-                         "source":  "東洋経済オンライン",
-                         "title":  "エネルギーに限らない｢アジアの危機｣だ――エネ研･寺澤達也理事長が語る｢ホルムズ海峡封鎖｣の深刻度と日本の宿題 | 政治・経済・投資 | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/942193?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "ホルムズ海峡封鎖が世界経済や日本に及ぼす影響は､単なるエネルギー危機にとどまりません。石油やLNG､肥料､ヘリウムなど多岐にわたる供給網の寸断は､アジアの生産や食糧事情に深刻な打撃を与えます。日本は…",
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "「自転車厳罰化」の警察が言わない“ウラの狙い”とは？目的は「反則金」じゃなかった…〈弁護士が解説〉 - News\u0026Analysis",
+                         "url":  "https://diamond.jp/articles/-/388551",
+                         "description":  "2026年4月から自転車に対する「青切符（交通反則通告制度）」が導入され、罰則が厳格化され、ネット上では賛否両論が巻き起こっている。城南中央法律事務所所長の野澤隆弁護士は、この厳罰化の裏にはメディアが報じない「警察側の事情」が隠されているという。自転車規制の「本当の狙い」とは？ジャーナリストの小倉健一氏が聞いた。※本稿は、Youtube動画『弁護士が大暴露「自転車厳罰化」警察が言わないウラの狙い。野澤隆弁護士「反則金ではありません」』の一部を抜粋・編集したものです。",
                          "publishedAt":  "2026-04-22T06:00:00+09:00",
                          "fetchedAt":  "2026-04-22T08:50:41+09:00",
-                         "matchKeyword":  "LNG"
+                         "matchKeyword":  "金"
                      },
                      {
                          "source":  "NHK 経済",
@@ -347,22 +365,13 @@
                          "matchKeyword":  "金"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "ハッキングが引き金、暗号資産版「取り付け騒ぎ」で90億ドル流出",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDSTSZT9NJLZ00?srnd=jp-markets",
+                         "source":  "ロイター ビジネス",
+                         "title":  "北海ブレント先物が上げ幅縮小、トランプ氏がイランとの停戦延長表明",
+                         "url":  "https://jp.reuters.com/markets/japan/F2KMQ7MRXFL3FNOKWXBHE4CHQE-2026-04-21/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "金"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "米「BBB」社債に資金流入、停戦期待でリスク選好－ジャンク債は選別",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-19/TDPGZWKIJH8Q00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "金"
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "ブレント"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -374,40 +383,31 @@
                          "matchKeyword":  "金"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "北海ブレント先物が上げ幅縮小、トランプ氏がイランとの停戦延長表明",
-                         "url":  "https://jp.reuters.com/markets/japan/F2KMQ7MRXFL3FNOKWXBHE4CHQE-2026-04-21/",
+                         "source":  "Bloomberg 日本",
+                         "title":  "ブリヂストンが社債1200億円、金利低下で調達環境改善－延期奏功",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTGIHT9NJLT00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
-                         "matchKeyword":  "ブレント"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "中東情勢は不確実、慎重に金利設定すべき＝ＥＣＢ副総裁",
-                         "url":  "https://jp.reuters.com/markets/japan/QIZJAUYO7ZIFVFEVLD64H4YE6I-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
                          "matchKeyword":  "金"
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "午前の日経平均は反発し5万9000円回復、前週末の米株高や原油安が支え",
-                         "url":  "https://jp.reuters.com/markets/japan/YA46DQB5UBLIZA7Q65QZTMUKFM-2026-04-20/",
+                         "title":  "片山金融相、「ミトス」巡り3メガ銀などと協議へ＝ブルームバーグ",
+                         "url":  "https://jp.reuters.com/world/japan/HK6TZAVXUBNUVPD5RYXRCT6T7M-2026-04-22/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "原油"
+                         "fetchedAt":  "2026-04-22T18:00:06+09:00",
+                         "matchKeyword":  "金"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米小売売上高、3月は25年3月以来の伸び ガソリン価格高騰が押し上げ",
-                         "url":  "https://jp.reuters.com/markets/japan/YLLU2BDAGVOLZJKZQDS37QVWJQ-2026-04-21/",
+                         "source":  "Bloomberg 日本",
+                         "title":  "ハッキングが引き金、暗号資産版「取り付け騒ぎ」で90億ドル流出",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDSTSZT9NJLZ00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
-                         "matchKeyword":  "ガソリン"
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "金"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -428,30 +428,30 @@
                          "matchKeyword":  "金"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "片山金融相、「ミトス」巡り3メガ銀などと協議へ＝ブルームバーグ",
-                         "url":  "https://jp.reuters.com/world/japan/HK6TZAVXUBNUVPD5RYXRCT6T7M-2026-04-22/",
+                         "source":  "Bloomberg 日本",
+                         "title":  "米「BBB」社債に資金流入、停戦期待でリスク選好－ジャンク債は選別",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-19/TDPGZWKIJH8Q00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:00:06+09:00",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
                          "matchKeyword":  "金"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "市況TOPIX下落、中東不透明で原油高止まり警戒－債券も安い",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDU0VIKJH6V500?srnd=jp-markets",
+                         "source":  "ロイター ビジネス",
+                         "title":  "中東情勢は不確実、慎重に金利設定すべき＝ＥＣＢ副総裁",
+                         "url":  "https://jp.reuters.com/markets/japan/QIZJAUYO7ZIFVFEVLD64H4YE6I-2026-04-21/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:00:06+09:00",
-                         "matchKeyword":  "原油"
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "金"
                      },
                      {
-                         "source":  "朝日新聞 経済",
-                         "title":  "金型管理を「カイゼン」 車部品メーカーが進める廃棄とノウハウ伝授",
-                         "url":  "https://www.asahi.com/articles/ASV4P0BYTV4PULFA002M.html?ref=rss",
+                         "source":  "ロイター ビジネス",
+                         "title":  "中東情勢の影響「様子見」、金利判断はイラン紛争の期間次第＝米ＳＦ連銀総裁",
+                         "url":  "https://jp.reuters.com/markets/japan/YL336J7I2JPKXFFTUIOQXMY3N4-2026-04-17/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:00:05+09:00",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
                          "matchKeyword":  "金"
                      },
                      {
@@ -473,31 +473,31 @@
                          "matchKeyword":  "原油"
                      },
                      {
-                         "source":  "朝日新聞 経済",
-                         "title":  "経済同友会「共助成長社会」へ始動 シンクタンク機能、基金創設も",
-                         "url":  "https://www.asahi.com/articles/ASV4P2PHZV4PULFA00VM.html?ref=rss",
+                         "source":  "ロイター ビジネス",
+                         "title":  "石油資源開発、35年度までに生産量4倍増・ＲＯＥ12％＝経営計画",
+                         "url":  "https://jp.reuters.com/markets/global-markets/JF6AS6YB7FPRDLMXIAFGDW6SHQ-2026-04-22/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:09+09:00",
-                         "matchKeyword":  "金"
+                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "中東情勢の影響「様子見」、金利判断はイラン紛争の期間次第＝米ＳＦ連銀総裁",
-                         "url":  "https://jp.reuters.com/markets/japan/YL336J7I2JPKXFFTUIOQXMY3N4-2026-04-17/",
+                         "source":  "朝日新聞 経済",
+                         "title":  "エネルギー危機は脱炭素が遅れた結果 長引けば経済悪化、需要抑制も",
+                         "url":  "https://www.asahi.com/articles/ASV4P14B0V4PUPQJ010M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "金"
+                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "ブリヂストンが社債1200億円、金利低下で調達環境改善－延期奏功",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTGIHT9NJLT00?srnd=jp-markets",
+                         "title":  "市況TOPIX下落、中東不透明で原油高止まり警戒－債券も安い",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDU0VIKJH6V500?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
-                         "matchKeyword":  "金"
+                         "fetchedAt":  "2026-04-22T18:00:06+09:00",
+                         "matchKeyword":  "原油"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -518,13 +518,31 @@
                          "matchKeyword":  "金"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "豪ＢＨＰ、1─3月の鉄鉱石生産が前年比3％増 通期見通し維持",
-                         "url":  "https://jp.reuters.com/markets/commodities/WGFLT3PL5BPJNFXSUWNEPXASEI-2026-04-22/",
+                         "source":  "朝日新聞 経済",
+                         "title":  "金型管理を「カイゼン」 車部品メーカーが進める廃棄とノウハウ伝授",
+                         "url":  "https://www.asahi.com/articles/ASV4P0BYTV4PULFA002M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T12:01:43+09:00",
-                         "matchKeyword":  "鉄鉱石"
+                         "fetchedAt":  "2026-04-22T18:00:05+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "経済同友会「共助成長社会」へ始動 シンクタンク機能、基金創設も",
+                         "url":  "https://www.asahi.com/articles/ASV4P2PHZV4PULFA00VM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:09+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "午前の日経平均は反発し5万9000円回復、前週末の米株高や原油安が支え",
+                         "url":  "https://jp.reuters.com/markets/japan/YA46DQB5UBLIZA7Q65QZTMUKFM-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "原油"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -545,15 +563,6 @@
                          "matchKeyword":  "ガソリン"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "リオティント、中東紛争で供給網リスク指摘 第1四半期鉄鉱石出荷は増加",
-                         "url":  "https://jp.reuters.com/markets/commodities/CXEF2J3HDFIEZH3DWO7T7FCXFY-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
-                         "matchKeyword":  "鉄鉱石"
-                     },
-                     {
                          "source":  "朝日新聞 経済",
                          "title":  "「石油化学のコメ」ナフサ 高まる供給不安の理由は？ なぜ重要か？",
                          "url":  "https://www.asahi.com/articles/ASV4K3C5VV4KULFA00LM.html?ref=rss",
@@ -563,22 +572,22 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "朝日新聞 経済",
-                         "title":  "ANAとJAL、燃油サーチャージ引き上げ前倒し 5月発券分から",
-                         "url":  "https://www.asahi.com/articles/ASV4N213JV4NULFA011M.html?ref=rss",
+                         "source":  "ロイター ビジネス",
+                         "title":  "日鉄鉱業、米の銅探鉱プロジェクトに参入契約",
+                         "url":  "https://jp.reuters.com/markets/global-markets/GYCB5H6VLRLE7FANMSJ4KNDTJQ-2026-04-20/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
+                         "matchKeyword":  "銅"
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "中国、料理宅配プラットフォームに計5億ドル超の罰金・没収処分",
-                         "url":  "https://jp.reuters.com/markets/japan/CBWWIVDJRRP2LDMAID2UV6UYUI-2026-04-20/",
+                         "title":  "リオティント、中東紛争で供給網リスク指摘 第1四半期鉄鉱石出荷は増加",
+                         "url":  "https://jp.reuters.com/markets/commodities/CXEF2J3HDFIEZH3DWO7T7FCXFY-2026-04-21/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "金"
+                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
+                         "matchKeyword":  "鉄鉱石"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -590,12 +599,12 @@
                          "matchKeyword":  "金"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "米中古住宅販売成約、2カ月連続で上昇－金利高も在庫増が寄与",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDUK9AKJH6VR00?srnd=jp-markets",
+                         "source":  "ロイター ビジネス",
+                         "title":  "中国、料理宅配プラットフォームに計5億ドル超の罰金・没収処分",
+                         "url":  "https://jp.reuters.com/markets/japan/CBWWIVDJRRP2LDMAID2UV6UYUI-2026-04-20/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
                          "matchKeyword":  "金"
                      },
                      {
@@ -609,20 +618,38 @@
                      },
                      {
                          "source":  "朝日新聞 経済",
+                         "title":  "ANAとJAL、燃油サーチャージ引き上げ前倒し 5月発券分から",
+                         "url":  "https://www.asahi.com/articles/ASV4N213JV4NULFA011M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "米中古住宅販売成約、2カ月連続で上昇－金利高も在庫増が寄与",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDUK9AKJH6VR00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "次期ＦＲＢ議長候補、金融政策の独立堅持表明へ 指名承認公聴会で",
+                         "url":  "https://jp.reuters.com/markets/japan/U24BPL6FYNNVNCTOXNGGUM2NWA-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
                          "title":  "三菱UFJの大沢頭取、競争激化に危機感「必要以上の金利取れない」",
                          "url":  "https://www.asahi.com/articles/ASV4P2157V4PULFA02KM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-22T08:50:41+09:00",
-                         "matchKeyword":  "金"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "アングル：中東警戒でも日本株高、ＮＴ倍率が過去最高 ハイテク株に資金退避",
-                         "url":  "https://jp.reuters.com/markets/japan/6VTV2EFVONJBBMJKNF6SS635EI-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
                          "matchKeyword":  "金"
                      },
                      {
@@ -636,21 +663,30 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "次期ＦＲＢ議長候補、金融政策の独立堅持表明へ 指名承認公聴会で",
-                         "url":  "https://jp.reuters.com/markets/japan/U24BPL6FYNNVNCTOXNGGUM2NWA-2026-04-20/",
+                         "title":  "米小売売上高、3月は25年3月以来の伸び ガソリン価格高騰が押し上げ",
+                         "url":  "https://jp.reuters.com/markets/japan/YLLU2BDAGVOLZJKZQDS37QVWJQ-2026-04-21/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "金"
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "ガソリン"
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "欧州主要市場でＥＶ販売急増、ガソリン高で",
-                         "url":  "https://jp.reuters.com/markets/japan/TWRGD242MJP75HC3VXKZSCMCJY-2026-04-19/",
+                         "title":  "豪ＢＨＰ、1─3月の鉄鉱石生産が前年比3％増 通期見通し維持",
+                         "url":  "https://jp.reuters.com/markets/commodities/WGFLT3PL5BPJNFXSUWNEPXASEI-2026-04-22/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
-                         "matchKeyword":  "ガソリン"
+                         "fetchedAt":  "2026-04-22T12:01:43+09:00",
+                         "matchKeyword":  "鉄鉱石"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米社ミトス巡り近く協議、大手行などと「認識共有」＝片山金融相",
+                         "url":  "https://jp.reuters.com/markets/japan/M5EV6H5S5JIFLO4FEAEC4RUETA-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
+                         "matchKeyword":  "金"
                      },
                      {
                          "source":  "Bloomberg 日本",
@@ -662,13 +698,31 @@
                          "matchKeyword":  "原油"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "日鉄鉱業、米の銅探鉱プロジェクトに参入契約",
-                         "url":  "https://jp.reuters.com/markets/global-markets/GYCB5H6VLRLE7FANMSJ4KNDTJQ-2026-04-20/",
+                         "source":  "朝日新聞 経済",
+                         "title":  "片山金融相、高性能AI「ミュトス」めぐり金融業界と24日協議",
+                         "url":  "https://www.asahi.com/articles/ASV4Q2T05V4QULFA029M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "銅"
+                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "アングル：中東警戒でも日本株高、ＮＴ倍率が過去最高 ハイテク株に資金退避",
+                         "url":  "https://jp.reuters.com/markets/japan/6VTV2EFVONJBBMJKNF6SS635EI-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "金"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "欧州主要市場でＥＶ販売急増、ガソリン高で",
+                         "url":  "https://jp.reuters.com/markets/japan/TWRGD242MJP75HC3VXKZSCMCJY-2026-04-19/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
+                         "matchKeyword":  "ガソリン"
                      }
                  ]
 }

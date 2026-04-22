@@ -95,18 +95,18 @@
                          "matchKeyword":  "財政"
                      },
                      {
-                         "source":  "朝日新聞 経済",
-                         "title":  "給付付き税額控除、「最大20万円給付なら…」 東京財団が試算示す",
-                         "url":  "https://www.asahi.com/articles/ASV4N2W6ZV4NULFA012M.html?ref=rss",
+                         "source":  "Bloomberg 日本",
+                         "title":  "ドイツ景気見通しが大幅に悪化、期待指数は2022年以来の低水準",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU7UTKJH6V600?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
+                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
+                         "matchKeyword":  "景気"
                      },
                      {
                          "source":  "朝日新聞 経済",
-                         "title":  "冷凍食品の消費、1人あたりは年約25キロに 3年ぶりに過去最高",
-                         "url":  "https://www.asahi.com/articles/ASV4N2555V4NULFA02LM.html?ref=rss",
+                         "title":  "給付付き税額控除、「最大20万円給付なら…」 東京財団が試算示す",
+                         "url":  "https://www.asahi.com/articles/ASV4N2W6ZV4NULFA012M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-21T09:10:26+09:00",
@@ -123,21 +123,30 @@
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "ドイツ景気見通しが大幅に悪化、期待指数は2022年以来の低水準",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU7UTKJH6V600?srnd=jp-markets",
+                         "title":  "3月の輸出は11.7%増、7カ月連続プラス－市場予想上回る伸び",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTPKET9NJLS00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
-                         "matchKeyword":  "景気"
+                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "貿易収支、3月は6670億円の黒字 市場予想下回る黒字幅",
-                         "url":  "https://jp.reuters.com/markets/japan/5JF2BDZHCBNCZLZUHMHSOFEWUY-2026-04-21/",
+                         "source":  "朝日新聞 経済",
+                         "title":  "給付付き税額控除「給付だけ」の制度に 有識者会議で意見相次ぐ",
+                         "url":  "https://www.asahi.com/articles/ASV4P324WV4PULFA01WM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T12:01:43+09:00",
-                         "matchKeyword":  "貿易収支"
+                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "冷凍食品の消費、1人あたりは年約25キロに 3年ぶりに過去最高",
+                         "url":  "https://www.asahi.com/articles/ASV4N2555V4NULFA02LM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "Bloomberg 日本",
@@ -156,6 +165,24 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-22T08:50:44+09:00",
                          "matchKeyword":  "国債"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＥＵ共同債、発行拡大には財政規律必要＝ＥＣＢのレーン専務理事",
+                         "url":  "https://jp.reuters.com/markets/japan/HDNKHBLP5BLVXKZBZQ55IO2QEM-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
+                         "matchKeyword":  "財政"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "貿易収支、3月は6670億円の黒字 市場予想下回る黒字幅",
+                         "url":  "https://jp.reuters.com/markets/japan/5JF2BDZHCBNCZLZUHMHSOFEWUY-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T12:01:43+09:00",
+                         "matchKeyword":  "貿易収支"
                      },
                      {
                          "source":  "ロイター ビジネス",
