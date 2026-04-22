@@ -5,6 +5,24 @@
     "description":  "不動産市況・住宅価格・REIT",
     "articles":  [
                      {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "なぜ今、メタバースなのか？ 清水建設がバーチャルオフィス導入に踏み切った理由",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/22/news043.html",
+                         "description":  "大手ゼネコンである清水建設は2023年9月、次世代の人財育成とイノベーションの拠点として「温故創新の森 NOVARE」（ノヴァーレ以下、NOVARE）をオープンしました。同施設では、メタバース空間の提供を開始しています。どのような意図とモチベーションでメタバース空間を活用しているのか。清水建設が手掛けるリアル空間とメタバース空間についてレポートします。",
+                         "publishedAt":  "2026-04-22T09:00:00+09:00",
+                         "fetchedAt":  "2026-04-22T12:01:29+09:00",
+                         "matchKeyword":  "オフィス"
+                     },
+                     {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "東京ミッドタウン日本橋、来秋開業へ 高さ284m「都内2位タワー」の全貌",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/22/news061.html",
+                         "description":  "三井不動産と野村不動産は、東京・日本橋で来年秋に全面開業する再開発エリアの名称が「東京ミッドタウン日本橋」に決まったと発表した。",
+                         "publishedAt":  "2026-04-22T08:58:00+09:00",
+                         "fetchedAt":  "2026-04-22T12:01:29+09:00",
+                         "matchKeyword":  "不動産"
+                     },
+                     {
                          "source":  "ダイヤモンド・オンライン",
                          "title":  "【NISA投信グランプリ2026・リート部門】国内最優秀賞は徹底したデータ主義で割安銘柄を厳選する「フィデリティ・Jリート・アクティブ・ファンド（資産成長型）」！ - ダイヤモンドZAi NISA投信グランプリ2026",
                          "url":  "https://diamond.jp/articles/-/388099",
@@ -78,6 +96,15 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
+                         "title":  "マクロスコープ：マンション高騰、中東危機で上振れ懸念 ますます高嶺の花に",
+                         "url":  "https://jp.reuters.com/business/W5733GSGNBPTXITS5N7GILGOCE-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "マンション"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
                          "title":  "米中古住宅仮契約指数、3月は1.5％上昇 予想上回る",
                          "url":  "https://jp.reuters.com/markets/world-indices/2OAHYFO4MNPWLIG7E3NSEDBN4E-2026-04-21/",
                          "description":  "",
@@ -111,15 +138,6 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T18:00:04+09:00",
                          "matchKeyword":  "不動産"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "マクロスコープ：マンション高騰、中東危機で上振れ懸念 ますます高嶺の花に",
-                         "url":  "https://jp.reuters.com/business/W5733GSGNBPTXITS5N7GILGOCE-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "マンション"
                      }
                  ]
 }
