@@ -6,6 +6,24 @@
     "articles":  [
                      {
                          "source":  "NHK 経済",
+                         "title":  "今年度の国債運用 大手生保各社が方針を公表",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015105521000",
+                         "description":  "債券市場で存在感が大きい生命保険各社が、今年度の運用方針を公表し、最大手の日本生命は、利回りの低くなった国債を売って、ほかの国債に入れ替えるため、国債の運用残高は全体でいくぶん減る見通しだとしています…",
+                         "publishedAt":  "2026-04-22T17:45:49+09:00",
+                         "fetchedAt":  "2026-04-22T18:00:04+09:00",
+                         "matchKeyword":  "国債"
+                     },
+                     {
+                         "source":  "NHK 経済",
+                         "title":  "財務省 財務局長会議 景気判断維持も「中東情勢の影響注視」",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015105331000",
+                         "description":  "財務省は全国の景気の現状について最新の見方をまとめ、「緩やかに回復しつつある」という基調判断は据え置きましたが、中東情勢の影響を注視する必要があるとしています。",
+                         "publishedAt":  "2026-04-22T13:02:49+09:00",
+                         "fetchedAt":  "2026-04-22T18:00:04+09:00",
+                         "matchKeyword":  "景気"
+                     },
+                     {
+                         "source":  "NHK 経済",
                          "title":  "3月貿易統計 原油輸入は減らず 中東向けの輸出は大幅減",
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015105171000",
                          "description":  "先月の日本の貿易収支は6670億円の黒字と2か月連続で黒字となりました。品目別に見ると、原油の輸入量は去年の同じ月より増加し、財務省はホルムズ海峡が事実上、封鎖される前に現地を出発していたタンカーが到…",
@@ -77,60 +95,6 @@
                          "matchKeyword":  "財政"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "日銀「後手」と市場判断なら円安圧力、アジア開発銀の神田氏 財政要因も指摘",
-                         "url":  "https://jp.reuters.com/markets/commodities/HJC3E3WHRBJRLK3FL4R77IU6W4-2026-04-18/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "財政"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "日本の防衛費、2026年度はGDP比1.9%－2%の目標には届かず",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-17/TDN37BT9NJLT00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "GDP"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "貿易収支、3月は6670億円の黒字 市場予想下回る黒字幅",
-                         "url":  "https://jp.reuters.com/markets/japan/5JF2BDZHCBNCZLZUHMHSOFEWUY-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T12:01:43+09:00",
-                         "matchKeyword":  "貿易収支"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "独ＺＥＷ景気期待指数、4月は－17.2に急低下 イラン戦争が打撃",
-                         "url":  "https://jp.reuters.com/markets/japan/GJBPOR5YY5NTXPAA6N6GOJXC3M-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
-                         "matchKeyword":  "景気"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "ヘッジファンドの持ち高解消、日本の国債市場に影響も－日銀リポート",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU0QNKJH6V600?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
-                         "matchKeyword":  "国債"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "ドイツ景気見通しが大幅に悪化、期待指数は2022年以来の低水準",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU7UTKJH6V600?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
-                         "matchKeyword":  "景気"
-                     },
-                     {
                          "source":  "朝日新聞 経済",
                          "title":  "給付付き税額控除、「最大20万円給付なら…」 東京財団が試算示す",
                          "url":  "https://www.asahi.com/articles/ASV4N2W6ZV4NULFA012M.html?ref=rss",
@@ -147,6 +111,60 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-21T09:10:26+09:00",
                          "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "日銀「後手」と市場判断なら円安圧力、アジア開発銀の神田氏 財政要因も指摘",
+                         "url":  "https://jp.reuters.com/markets/commodities/HJC3E3WHRBJRLK3FL4R77IU6W4-2026-04-18/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "財政"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ドイツ景気見通しが大幅に悪化、期待指数は2022年以来の低水準",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU7UTKJH6V600?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
+                         "matchKeyword":  "景気"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "貿易収支、3月は6670億円の黒字 市場予想下回る黒字幅",
+                         "url":  "https://jp.reuters.com/markets/japan/5JF2BDZHCBNCZLZUHMHSOFEWUY-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T12:01:43+09:00",
+                         "matchKeyword":  "貿易収支"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "日本の防衛費、2026年度はGDP比1.9%－2%の目標には届かず",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-17/TDN37BT9NJLT00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "GDP"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ヘッジファンドの持ち高解消、日本の国債市場に影響も－日銀リポート",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU0QNKJH6V600?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
+                         "matchKeyword":  "国債"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "独ＺＥＷ景気期待指数、4月は－17.2に急低下 イラン戦争が打撃",
+                         "url":  "https://jp.reuters.com/markets/japan/GJBPOR5YY5NTXPAA6N6GOJXC3M-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "景気"
                      }
                  ]
 }

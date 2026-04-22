@@ -5,6 +5,24 @@
     "description":  "不動産市況・住宅価格・REIT",
     "articles":  [
                      {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "「相続税対策」の切り札が失速！ 不動産小口化商品の節税メリットが薄れた理由 - ぶっちゃけ相続【増補改訂版】",
+                         "url":  "https://diamond.jp/articles/-/388578",
+                         "description":  "「相続税対策」の切り札が失速！ 不動産小口化商品の節税メリットが薄れた理由。相談実績5000人超えの相続専門税理士が相続の要点を解説する。",
+                         "publishedAt":  "2026-04-22T16:00:00+09:00",
+                         "fetchedAt":  "2026-04-22T18:00:06+09:00",
+                         "matchKeyword":  "不動産"
+                     },
+                     {
+                         "source":  "NHK 経済",
+                         "title":  "3月賃貸マンション平均家賃 東京23区 単身者向け過去最高更新",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015105291000",
+                         "description":  "3月の賃貸マンションの平均家賃は東京23区の単身者向けで、およそ11万2000円と、去年より13％上昇して過去最高を更新したという民間の調査がまとまりました。調査した会社は、春の入居者が入れ替わるタイ…",
+                         "publishedAt":  "2026-04-22T13:04:17+09:00",
+                         "fetchedAt":  "2026-04-22T18:00:04+09:00",
+                         "matchKeyword":  "マンション"
+                     },
+                     {
                          "source":  "ITmedia ビジネス",
                          "title":  "なぜ今、メタバースなのか？ 清水建設がバーチャルオフィス導入に踏み切った理由",
                          "url":  "https://www.itmedia.co.jp/business/articles/2604/22/news043.html",
@@ -96,6 +114,15 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
+                         "title":  "首都圏マンション発売、3月は35.5%減 価格下落も1億円台維持＝不動産経済研",
+                         "url":  "https://jp.reuters.com/markets/japan/JKXAC7HLNRMFTDWW7WAYQMGULA-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "不動産"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
                          "title":  "マクロスコープ：マンション高騰、中東危機で上振れ懸念 ますます高嶺の花に",
                          "url":  "https://jp.reuters.com/business/W5733GSGNBPTXITS5N7GILGOCE-2026-04-20/",
                          "description":  "",
@@ -129,15 +156,6 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T18:00:03+09:00",
                          "matchKeyword":  "マンション"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "首都圏マンション発売、3月は35.5%減 価格下落も1億円台維持＝不動産経済研",
-                         "url":  "https://jp.reuters.com/markets/japan/JKXAC7HLNRMFTDWW7WAYQMGULA-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "不動産"
                      }
                  ]
 }
