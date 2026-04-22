@@ -80,34 +80,64 @@ function Invoke-ClaudeAPI {
 # ===== Claude Code CLI バックエンド =====
 function Find-ClaudeCodeExe {
     [CmdletBinding()]
-    param([string]$ExplicitPath = '')
+    param(
+        [string]$ExplicitPath = '',
+        [scriptblock]$Logger = $null  # オプションのログ出力関数
+    )
 
+    function WriteDebug($msg) {
+        if ($Logger) { & $Logger $msg }
+    }
+
+    # 優先0: 明示パス（api.jsonで指定）
     if ($ExplicitPath -and (Test-Path $ExplicitPath)) {
+        WriteDebug "Found via ExplicitPath: $ExplicitPath"
         return $ExplicitPath
     }
 
-    # 探索を最大3回試行（Claude Codeアップデート中の一時的な未検出を回避）
-    for ($attempt = 1; $attempt -le 3; $attempt++) {
+    # タスクスケジューラ実行時の USERPROFILE 環境変数不整合に対処するため
+    # $env:APPDATA が無効な場合の再構築パスを候補に含める
+    $candidateBases = New-Object System.Collections.Generic.List[string]
+    if ($env:APPDATA) { $candidateBases.Add((Join-Path $env:APPDATA 'Claude\claude-code')) }
+    if ($env:USERPROFILE) { $candidateBases.Add((Join-Path $env:USERPROFILE 'AppData\Roaming\Claude\claude-code')) }
+    # フォールバック: ハードコードのユーザーパス（複数候補）
+    $candidateBases.Add('C:\Users\PC80\AppData\Roaming\Claude\claude-code')
+
+    # 最大15回試行（30秒間）— Claude Codeアップデートは通常10〜20秒で完了
+    for ($attempt = 1; $attempt -le 15; $attempt++) {
         # 優先1: PATHに通っている
         $cmd = Get-Command claude -ErrorAction SilentlyContinue
-        if ($cmd) { return $cmd.Source }
+        if ($cmd) {
+            WriteDebug "Found via PATH (attempt $attempt): $($cmd.Source)"
+            return $cmd.Source
+        }
 
-        # 優先2: AppData\Roaming\Claude\claude-code\<version>\claude.exe（最新版）
-        $base = Join-Path $env:APPDATA 'Claude\claude-code'
-        if (Test-Path $base) {
-            # 全バージョンフォルダを新→旧の順に試す（最新版にclaude.exeが無くても次を試す）
+        # 優先2: 候補ベースディレクトリから探索
+        foreach ($base in ($candidateBases | Select-Object -Unique)) {
+            if (-not (Test-Path $base)) { continue }
             $versions = Get-ChildItem $base -Directory -ErrorAction SilentlyContinue |
                 Sort-Object @{Expression={ try { [Version]$_.Name } catch { [Version]'0.0.0' } }} -Descending
             foreach ($v in $versions) {
                 $exe = Join-Path $v.FullName 'claude.exe'
-                if (Test-Path $exe) { return $exe }
+                if (Test-Path $exe) {
+                    WriteDebug "Found via auto-discover (attempt $attempt, base=$base, version=$($v.Name)): $exe"
+                    return $exe
+                }
             }
         }
 
-        # アップデート中の可能性。少し待ってリトライ
-        if ($attempt -lt 3) { Start-Sleep -Seconds 2 }
+        if ($attempt -lt 15) { Start-Sleep -Seconds 2 }
     }
 
+    # 最終失敗時に詳細ログを出力
+    WriteDebug "Find failed after 15 attempts (30 sec). APPDATA=$env:APPDATA USERPROFILE=$env:USERPROFILE"
+    foreach ($base in ($candidateBases | Select-Object -Unique)) {
+        WriteDebug "  Candidate base: $base → Exists: $(Test-Path $base)"
+        if (Test-Path $base) {
+            $dirs = Get-ChildItem $base -Directory -ErrorAction SilentlyContinue | ForEach-Object { $_.Name }
+            WriteDebug "    Subdirs: $($dirs -join ', ')"
+        }
+    }
     return $null
 }
 

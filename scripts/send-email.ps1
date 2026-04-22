@@ -79,14 +79,9 @@ foreach ($t in $topicsConf.topics) {
     }
 }
 
-if ($summaries.Count -eq 0) {
-    Write-Log "本日のサマリがありません。メール送信スキップ" 'WARN'
-    exit 0
-}
+Write-Log "本日のサマリ $($summaries.Count) 件でメール準備中"
 
-Write-Log "本日のサマリ $($summaries.Count) 件をメール送信準備中"
-
-# ===== メール本文生成（プレーンテキスト） =====
+# ===== メール本文生成 =====
 function Get-SentimentMark { param($s)
     switch ($s) {
         'positive' { '🟢' }
@@ -96,48 +91,65 @@ function Get-SentimentMark { param($s)
     }
 }
 
-# 配信時刻に応じた挨拶（00 / 06 / 12 / 18 想定）
-$greeting = switch -regex ($NowHHmm) {
-    '^0[0-4]:'      { 'こんばんは（深夜便）。' ; break }
-    '^0[5-9]:|^10:' { 'おはようございます。' ; break }
-    '^1[1-6]:'      { 'こんにちは（昼便）。' ; break }
-    default         { 'お疲れさまです（夕方便）。' }
-}
+if ($summaries.Count -eq 0) {
+    # 失敗通知モード
+    $body = @"
+$TodayJp $NowHHmm 時点の配信ですが、本日のAIサマリが生成されていません。
 
-$sb = New-Object System.Text.StringBuilder
-[void]$sb.AppendLine("$greeting$TodayJp $NowHHmm 時点の金融ニュースダイジェストです（直近24時間）。")
-[void]$sb.AppendLine("")
-[void]$sb.AppendLine("📊 本日の動き（$($summaries.Count)単元）")
-[void]$sb.AppendLine(("=" * 50))
-[void]$sb.AppendLine("")
+原因の可能性:
+- Claude Code CLI が一時的に検出できなかった（アップデート中など）
+- LLMバックエンドの設定ミス (config/api.json)
 
-foreach ($s in $summaries) {
-    $mark = Get-SentimentMark $s.Sentiment
-    [void]$sb.AppendLine("$mark $($s.Icon) 【$($s.Name)】 $($s.Headline)")
-    if ($s.Today) {
-        [void]$sb.AppendLine("    $($s.Today)")
+次回(6時間後)の自動配信で再試行されます。
+即時対応が必要な場合はログをご確認ください:
+  logs\summarize-$Today.log
+
+ダッシュボード: $DashboardUrl
+"@
+    $subject = "⚠️ 金融ニュース サマリ生成失敗 - $TodayJp $NowHHmm"
+} else {
+    # 配信時刻に応じた挨拶（00 / 06 / 12 / 18 想定）
+    $greeting = switch -regex ($NowHHmm) {
+        '^0[0-4]:'      { 'こんばんは（深夜便）。' ; break }
+        '^0[5-9]:|^10:' { 'おはようございます。' ; break }
+        '^1[1-6]:'      { 'こんにちは（昼便）。' ; break }
+        default         { 'お疲れさまです（夕方便）。' }
     }
-    [void]$sb.AppendLine("    🔗 $($s.Url)")
-    [void]$sb.AppendLine("    （新規 $($s.NewCount)件）")
+
+    $sb = New-Object System.Text.StringBuilder
+    [void]$sb.AppendLine("$greeting$TodayJp $NowHHmm 時点の金融ニュースダイジェストです（直近24時間）。")
     [void]$sb.AppendLine("")
+    [void]$sb.AppendLine("📊 本日の動き（$($summaries.Count)単元）")
+    [void]$sb.AppendLine(("=" * 50))
+    [void]$sb.AppendLine("")
+
+    foreach ($s in $summaries) {
+        $mark = Get-SentimentMark $s.Sentiment
+        [void]$sb.AppendLine("$mark $($s.Icon) 【$($s.Name)】 $($s.Headline)")
+        if ($s.Today) {
+            [void]$sb.AppendLine("    $($s.Today)")
+        }
+        [void]$sb.AppendLine("    🔗 $($s.Url)")
+        [void]$sb.AppendLine("    （新規 $($s.NewCount)件）")
+        [void]$sb.AppendLine("")
+    }
+
+    [void]$sb.AppendLine(("=" * 50))
+    [void]$sb.AppendLine("")
+    [void]$sb.AppendLine("📱 ダッシュボード全体（モバイル対応）")
+    [void]$sb.AppendLine("$DashboardUrl")
+    [void]$sb.AppendLine("")
+    [void]$sb.AppendLine("---")
+    [void]$sb.AppendLine("このメールは自動生成されています")
+    [void]$sb.AppendLine("生成: $((Get-Date).ToString('yyyy/MM/dd HH:mm'))")
+    [void]$sb.AppendLine("送信を停止する場合: scripts\setup-smtp.ps1 -Remove")
+
+    $body = $sb.ToString()
+
+    $posCount = ($summaries | Where-Object { $_.Sentiment -eq 'positive' }).Count
+    $negCount = ($summaries | Where-Object { $_.Sentiment -eq 'negative' }).Count
+    $subject  = "📊 金融ニュース $NowHHmm 時点 - $TodayJp（🟢$posCount / 🔴$negCount）"
 }
-
-[void]$sb.AppendLine(("=" * 50))
-[void]$sb.AppendLine("")
-[void]$sb.AppendLine("📱 ダッシュボード全体（モバイル対応）")
-[void]$sb.AppendLine("$DashboardUrl")
-[void]$sb.AppendLine("")
-[void]$sb.AppendLine("---")
-[void]$sb.AppendLine("このメールは自動生成されています")
-[void]$sb.AppendLine("生成: $((Get-Date).ToString('yyyy/MM/dd HH:mm'))")
-[void]$sb.AppendLine("送信を停止する場合: scripts\setup-smtp.ps1 -Remove")
-
-$body = $sb.ToString()
-
-# ===== サブジェクト =====
-$posCount = ($summaries | Where-Object { $_.Sentiment -eq 'positive' }).Count
-$negCount = ($summaries | Where-Object { $_.Sentiment -eq 'negative' }).Count
-$subject  = "📊 金融ニュース $NowHHmm 時点 - $TodayJp（🟢$posCount / 🔴$negCount）"
 
 if ($TestOnly) {
     Write-Log "===== TEST MODE: 送信せず内容のみ表示 ====="

@@ -13,8 +13,8 @@
     "claude-haiku-4-5  ($1/$5、要約に十分)"
   ],
   "claude_code": {
-    "_comment": "claude-code backend用設定。pathが空ならAppData配下を自動探索。modelはエイリアス可（opus/sonnet/haiku）。要約用途はhaikuで十分かつMax枠を最小消費",
-    "path": "",
+    "_comment": "claude-code backend用設定。pathを明示することでタスクスケジューラ実行時の自動探索失敗を回避。Claude Codeバージョンアップ時はpathを更新するか空にして自動探索にフォールバック",
+    "path": "C:\\Users\\PC80\\AppData\\Roaming\\Claude\\claude-code\\2.1.111\\claude.exe",
     "model": "haiku",
     "timeout_sec": 180
   },

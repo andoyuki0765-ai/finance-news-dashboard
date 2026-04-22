@@ -64,11 +64,13 @@ switch ($backend) {
         Write-Log "Backend: Anthropic API (model=$($apiCfg.model))"
     }
     'claude-code' {
-        $exePath = Find-ClaudeCodeExe -ExplicitPath $apiCfg.claude_code.path
+        # Logger経由でFind-ClaudeCodeExeの内部動作を記録（タスクスケジューラ環境でのデバッグ用）
+        $findLogger = { param($m) Write-Log "  [Find-ClaudeCodeExe] $m" 'DEBUG' }
+        $exePath = Find-ClaudeCodeExe -ExplicitPath $apiCfg.claude_code.path -Logger $findLogger
         if (-not $exePath) {
-            Write-Log "backend=claude-code だが claude.exe が見つかりません。スキップします" 'WARN'
-            Write-Log "  config/api.json の claude_code.path に絶対パスを指定してください"
-            exit 0
+            Write-Log "backend=claude-code だが claude.exe が見つかりません。LLM処理をスキップします" 'ERROR'
+            Write-Log "  config/api.json の claude_code.path に絶対パスを指定してください（現在: $($apiCfg.claude_code.path))" 'ERROR'
+            exit 0  # graceful skip (次の世代はキーワード分類のみで続行)
         }
         Write-Log "Backend: Claude Code CLI (path=$exePath, model=$($apiCfg.claude_code.model))"
     }
