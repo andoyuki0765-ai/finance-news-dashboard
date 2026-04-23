@@ -5,6 +5,33 @@
     "description":  "決算発表・業績予想",
     "articles":  [
                      {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "ゲーム会社ではなく、もはや投資ファンド？ コーエーテクモ決算から読み解く「資本配分」の在り方",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/24/news033.html",
+                         "description":  "コーエーテクモが「ゲーム会社を装った投資ファンド」だと揶揄（やゆ）されている。",
+                         "publishedAt":  "2026-04-24T06:00:00+09:00",
+                         "fetchedAt":  "2026-04-24T07:39:00+09:00",
+                         "matchKeyword":  "決算"
+                     },
+                     {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "日立の家電事業をノジマが買収→「日立ブランド」と雇用はどうなる？大型M\u0026Aに潜む死角とは - サプライチェーン難問山積",
+                         "url":  "https://diamond.jp/articles/-/388818",
+                         "description":  "日立製作所の家電事業を、量販店のノジマが買収する。メーカーの力が弱くなる一方で、小売店が絶対的な販売データを基に立場を逆転するのは必然だったと思う。ノジマは野心的で、売上高3兆円を目標とする。日本企業同士がタッグを組むことで、製販一体の垂直統合は成功するのか。国内消費者に支持され、中国や韓国勢に勝てる余地が生まれるのだろうか。（未来調達研究所 坂口孝則）",
+                         "publishedAt":  "2026-04-24T06:00:00+09:00",
+                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
+                         "matchKeyword":  "売上高"
+                     },
+                     {
+                         "source":  "NHK 経済",
+                         "title":  "4月景気判断「緩やかに回復」維持 「設備投資」など上方修正",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015106591000",
+                         "description":  "政府は、4月の月例経済報告で景気の現状について「緩やかに回復しているが、中東情勢の影響を注視する必要がある」として、3月の基調判断を維持しました。",
+                         "publishedAt":  "2026-04-23T18:19:27+09:00",
+                         "fetchedAt":  "2026-04-24T07:38:59+09:00",
+                         "matchKeyword":  "上方修正"
+                     },
+                     {
                          "source":  "NHK 経済",
                          "title":  "米EVメーカー テスラ 1-3月期決算 増収増益に",
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015105841000",
@@ -87,18 +114,18 @@
                      },
                      {
                          "source":  "東洋経済オンライン",
-                         "title":  "｢インドは苦労だらけ｣…スズキ現地トップが明かす､年産400万台の\"異次元投資\"に向けた実情と確かな手応え | ビジネス | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/941793?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "インドでの年産400万台体制へ急拡大する戦略や､インフラ･土地取得の難しさ､品質にこだわる日本への逆輸出…。スズキの成長にの死角はないのか。現地トップに聞きました。",
+                         "title":  "機能を絞って50万台超の大ヒット…材料を入れるだけで本格スープできる調理家電｢自動調理ポット｣が後発でも売れたワケ | ライフ | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/941878?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "キッチン家電市場で50万台突破の大ヒットを記録したレコルトの自動調理ポット。材料を入れてボタンを押すだけで本格スープが手軽に作れる革新性と､見た目も雑貨のような親しみやすさが人気を集めています。なぜ…",
                          "publishedAt":  "2026-04-23T05:30:00+09:00",
                          "fetchedAt":  "2026-04-23T09:03:56+09:00",
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "東洋経済オンライン",
-                         "title":  "機能を絞って50万台超の大ヒット…材料を入れるだけで本格スープできる調理家電｢自動調理ポット｣が後発でも売れたワケ | ライフ | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/941878?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "キッチン家電市場で50万台突破の大ヒットを記録したレコルトの自動調理ポット。材料を入れてボタンを押すだけで本格スープが手軽に作れる革新性と､見た目も雑貨のような親しみやすさが人気を集めています。なぜ…",
+                         "title":  "｢インドは苦労だらけ｣…スズキ現地トップが明かす､年産400万台の\"異次元投資\"に向けた実情と確かな手応え | ビジネス | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/941793?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "インドでの年産400万台体制へ急拡大する戦略や､インフラ･土地取得の難しさ､品質にこだわる日本への逆輸出…。スズキの成長にの死角はないのか。現地トップに聞きました。",
                          "publishedAt":  "2026-04-23T05:30:00+09:00",
                          "fetchedAt":  "2026-04-23T09:03:56+09:00",
                          "matchKeyword":  "[LLM分類]"
@@ -276,209 +303,11 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "テスラ、加州登録台数が第1四半期に24.3％減 税額控除終了響く",
-                         "url":  "https://jp.reuters.com/markets/japan/IQBZFNCXFBN6DGXFVLW2CJSOMY-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T12:01:43+09:00",
-                         "matchKeyword":  "四半期"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "テスラなど決算に注目、次期ＦＲＢ議長証言も＝今週の米株式市場",
-                         "url":  "https://jp.reuters.com/markets/japan/IQJSTEQMVNIBJPQNXEVB6JOB7Q-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "決算"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米ユナイテッド航空、第2四半期利益見通しが予想下回る",
-                         "url":  "https://jp.reuters.com/markets/commodities/GXNINZC32JIKJOZPKDSCUAOQMU-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
-                         "matchKeyword":  "四半期"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "イタリア、第1四半期は緩やかな成長 五輪効果で＝中銀報告",
-                         "url":  "https://jp.reuters.com/markets/japan/6BUGCMXP7JNI7PLPIE3L6IAQ7Q-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "四半期"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "プルデンシャル生命、被害の申し出が倍以上に ジブラルタでも発覚",
-                         "url":  "https://www.asahi.com/articles/ASV4P2TY4V4PULFA01CM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米国株式市場＝続落、中東紛争懸念が堅調な決算への楽観打ち消す",
-                         "url":  "https://jp.reuters.com/markets/japan/TFAHKELAIBMF3FVZTFRSL4DX7M-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
-                         "matchKeyword":  "決算"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "プルデンシャル生命社長「補償額、増加する可能性」会見2時間15分",
-                         "url":  "https://www.asahi.com/articles/ASV4Q1FWYV4QULFA019M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米ボーイング、第1四半期は純損失が予想上回る改善 株価約5％高",
-                         "url":  "https://jp.reuters.com/markets/world-indices/WK6MGOLEPZINZFL64ZWOV26NHA-2026-04-22/",
+                         "title":  "テスラが投資大幅拡大へ、ＡＩ・ロボ構想で 第1四半期売上は予想未達",
+                         "url":  "https://jp.reuters.com/markets/world-indices/VM22TSSZPRJDRBEU4LZOZ5CPUA-2026-04-22/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "四半期"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ウニクレディト、独コメルツ銀改革案提示 変化する環境に不適合",
-                         "url":  "https://jp.reuters.com/markets/world-indices/2IV4HNG2EVMWZMEVMA6DDWTGZY-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "メタ、5月20日に人員削減第1弾 約8000人に影響か＝関係筋",
-                         "url":  "https://jp.reuters.com/markets/world-indices/AV5UNL6HQFIKHANJK2THTFLQKA-2026-04-17/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "韓国ＳＫハイニックス、第1四半期営業利益が5倍に 予想と一致",
-                         "url":  "https://jp.reuters.com/markets/world-indices/ZUGQJHUZEZJB3BGZFTIQG76WBU-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T12:00:04+09:00",
-                         "matchKeyword":  "営業利益"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "日経平均が初の6万円、ＡＩ・半導体株がけん引 決算見極めムードも",
-                         "url":  "https://jp.reuters.com/markets/japan/PRXYLGQ4VVKHBGU4PFLVRTH624-2026-04-23/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T12:00:04+09:00",
-                         "matchKeyword":  "決算"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ディスコ、4―6月期純利益は24％増・出荷額は過去最高を見込む",
-                         "url":  "https://jp.reuters.com/markets/world-indices/3L4BMERNSVMN3JBEBOZG22BNZ4-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
-                         "matchKeyword":  "純利益"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米小売売上高、3月は25年3月以来の伸び ガソリン価格高騰が押し上げ",
-                         "url":  "https://jp.reuters.com/markets/japan/YLLU2BDAGVOLZJKZQDS37QVWJQ-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
-                         "matchKeyword":  "売上高"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "豪ＢＨＰ、1─3月の鉄鉱石生産が前年比3％増 通期見通し維持",
-                         "url":  "https://jp.reuters.com/markets/commodities/WGFLT3PL5BPJNFXSUWNEPXASEI-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T12:01:43+09:00",
-                         "matchKeyword":  "通期"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "ニデック、決算訂正は「計算ミス」でなく意図的不正 第三者委が指摘",
-                         "url":  "https://www.asahi.com/articles/ASV4N2RZCV4NPLFA001M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "決算"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自プライベートクレジット窮地、ブルー・アウル起死回生作戦の舞台裏",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDWBFWKJH6V800?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "日本上陸20年目のIKEA 都心のSCシフトで王者ニトリと激突",
-                         "url":  "https://www.asahi.com/articles/ASV4Q3VPWV4QUDCB00QM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "実験都市「ウーブン・シティ」に開発拠点 トヨタの東富士工場を改修",
-                         "url":  "https://www.asahi.com/articles/ASV4Q2DRHV4QULFA02HM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "三菱ケミカル、ソアノール関連で26年3月期に300億円の減損計上へ",
-                         "url":  "https://jp.reuters.com/markets/world-indices/75T3EZBRXVKVZDOXXNBMG4GDJY-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "3月コンビニ売上高は2.2％増、販促・行楽需要で飲食売れ行き好調",
-                         "url":  "https://jp.reuters.com/markets/japan/ALIWYHDELVOJFPIXJQLRGCI23A-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "売上高"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "日本生命、国内債券の「積極的な積み増し考えず」－26年度も残高減少",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDGJCDKK3NY800?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "リオティント、中東紛争で供給網リスク指摘 第1四半期鉄鉱石出荷は増加",
-                         "url":  "https://jp.reuters.com/markets/commodities/CXEF2J3HDFIEZH3DWO7T7FCXFY-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
                          "matchKeyword":  "四半期"
                      },
                      {
@@ -488,15 +317,6 @@
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "四半期"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "テスラが投資大幅拡大へ、ＡＩ・ロボ構想で 第1四半期売上は予想未達",
-                         "url":  "https://jp.reuters.com/markets/world-indices/VM22TSSZPRJDRBEU4LZOZ5CPUA-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
                          "matchKeyword":  "四半期"
                      },
                      {
@@ -518,13 +338,76 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米国株式市場＝Ｓ＆Ｐ・ナスダック最高値、イラン停戦延長や堅調な決算で",
-                         "url":  "https://jp.reuters.com/markets/japan/3MKTGJ6NJBJLZPDQWK5TY2S2XY-2026-04-22/",
+                         "source":  "Bloomberg 日本",
+                         "title":  "日本生命、国内債券の「積極的な積み増し考えず」－26年度も残高減少",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDGJCDKK3NY800?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "決算"
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "3月コンビニ売上高は2.2％増、販促・行楽需要で飲食売れ行き好調",
+                         "url":  "https://jp.reuters.com/markets/japan/ALIWYHDELVOJFPIXJQLRGCI23A-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "売上高"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "リオティント、中東紛争で供給網リスク指摘 第1四半期鉄鉱石出荷は増加",
+                         "url":  "https://jp.reuters.com/markets/commodities/CXEF2J3HDFIEZH3DWO7T7FCXFY-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
+                         "matchKeyword":  "四半期"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "三菱ケミカル、ソアノール関連で26年3月期に300億円の減損計上へ",
+                         "url":  "https://jp.reuters.com/markets/world-indices/75T3EZBRXVKVZDOXXNBMG4GDJY-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米インテル、4─6月売上高見通しが予想上回る ＡＩデータセンター需要が追い風",
+                         "url":  "https://jp.reuters.com/markets/world-indices/G7CYDAVNNJMYVFGTW6KRMIOLUE-2026-04-23/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
+                         "matchKeyword":  "売上高"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ドイツ経済、中東情勢受け第2四半期は成長小幅に 中銀月報",
+                         "url":  "https://jp.reuters.com/markets/japan/O2B4STTTXROLNKH5NQ32YCN2WQ-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "四半期"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ノルウェー政府系ファンド、第1四半期は損失1.9%－テック株下落響く",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDXUVET96OSH00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
+                         "matchKeyword":  "四半期"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ノルウェー政府系ファンド、第1四半期損失680億ドル スペースＸ投資検討",
+                         "url":  "https://jp.reuters.com/markets/japan/UPYV7AK2BJKAJCWACEB7FRERJ4-2026-04-23/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
+                         "matchKeyword":  "四半期"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -536,13 +419,13 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "朝日新聞 経済",
-                         "title":  "損保大手3社からトヨタに出向中の社員、内部情報を無断で持ち出し",
-                         "url":  "https://www.asahi.com/articles/ASV4Q3QF8V4QULFA02HM.html?ref=rss",
+                         "source":  "ロイター ビジネス",
+                         "title":  "米国株式市場＝Ｓ＆Ｐ・ナスダック最高値、イラン停戦延長や堅調な決算で",
+                         "url":  "https://jp.reuters.com/markets/japan/3MKTGJ6NJBJLZPDQWK5TY2S2XY-2026-04-22/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
-                         "matchKeyword":  "[LLM分類]"
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "決算"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -554,13 +437,184 @@
                          "matchKeyword":  "下方修正"
                      },
                      {
+                         "source":  "朝日新聞 経済",
+                         "title":  "損保大手3社からトヨタに出向中の社員、内部情報を無断で持ち出し",
+                         "url":  "https://www.asahi.com/articles/ASV4Q3QF8V4QULFA02HM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "プルデンシャル生命社長「補償額、増加する可能性」会見2時間15分",
+                         "url":  "https://www.asahi.com/articles/ASV4Q1FWYV4QULFA019M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
                          "source":  "ロイター ビジネス",
-                         "title":  "ドイツ経済、中東情勢受け第2四半期は成長小幅に 中銀月報",
-                         "url":  "https://jp.reuters.com/markets/japan/O2B4STTTXROLNKH5NQ32YCN2WQ-2026-04-22/",
+                         "title":  "米国株式市場＝続落、中東紛争懸念が堅調な決算への楽観打ち消す",
+                         "url":  "https://jp.reuters.com/markets/japan/TFAHKELAIBMF3FVZTFRSL4DX7M-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "決算"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ウニクレディト、独コメルツ銀改革案提示 変化する環境に不適合",
+                         "url":  "https://jp.reuters.com/markets/world-indices/2IV4HNG2EVMWZMEVMA6DDWTGZY-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米ボーイング、第1四半期は純損失が予想上回る改善 株価約5％高",
+                         "url":  "https://jp.reuters.com/markets/world-indices/WK6MGOLEPZINZFL64ZWOV26NHA-2026-04-22/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-23T09:03:57+09:00",
                          "matchKeyword":  "四半期"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "プルデンシャル生命、被害の申し出が倍以上に ジブラルタでも発覚",
+                         "url":  "https://www.asahi.com/articles/ASV4P2TY4V4PULFA01CM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "テスラなど決算に注目、次期ＦＲＢ議長証言も＝今週の米株式市場",
+                         "url":  "https://jp.reuters.com/markets/japan/IQJSTEQMVNIBJPQNXEVB6JOB7Q-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "決算"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "テスラ、加州登録台数が第1四半期に24.3％減 税額控除終了響く",
+                         "url":  "https://jp.reuters.com/markets/japan/IQBZFNCXFBN6DGXFVLW2CJSOMY-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T12:01:43+09:00",
+                         "matchKeyword":  "四半期"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "イタリア、第1四半期は緩やかな成長 五輪効果で＝中銀報告",
+                         "url":  "https://jp.reuters.com/markets/japan/6BUGCMXP7JNI7PLPIE3L6IAQ7Q-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "四半期"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米ユナイテッド航空、第2四半期利益見通しが予想下回る",
+                         "url":  "https://jp.reuters.com/markets/commodities/GXNINZC32JIKJOZPKDSCUAOQMU-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "四半期"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "メタ、5月20日に人員削減第1弾 約8000人に影響か＝関係筋",
+                         "url":  "https://jp.reuters.com/markets/world-indices/AV5UNL6HQFIKHANJK2THTFLQKA-2026-04-17/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自プライベートクレジット窮地、ブルー・アウル起死回生作戦の舞台裏",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDWBFWKJH6V800?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "ニデック、決算訂正は「計算ミス」でなく意図的不正 第三者委が指摘",
+                         "url":  "https://www.asahi.com/articles/ASV4N2RZCV4NPLFA001M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "決算"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "実験都市「ウーブン・シティ」に開発拠点 トヨタの東富士工場を改修",
+                         "url":  "https://www.asahi.com/articles/ASV4Q2DRHV4QULFA02HM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "日本上陸20年目のIKEA 都心のSCシフトで王者ニトリと激突",
+                         "url":  "https://www.asahi.com/articles/ASV4Q3VPWV4QUDCB00QM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "豪ＢＨＰ、1─3月の鉄鉱石生産が前年比3％増 通期見通し維持",
+                         "url":  "https://jp.reuters.com/markets/commodities/WGFLT3PL5BPJNFXSUWNEPXASEI-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T12:01:43+09:00",
+                         "matchKeyword":  "通期"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "日経平均が初の6万円、ＡＩ・半導体株がけん引 決算見極めムードも",
+                         "url":  "https://jp.reuters.com/markets/japan/PRXYLGQ4VVKHBGU4PFLVRTH624-2026-04-23/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T12:00:04+09:00",
+                         "matchKeyword":  "決算"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "韓国ＳＫハイニックス、第1四半期営業利益が5倍に 予想と一致",
+                         "url":  "https://jp.reuters.com/markets/world-indices/ZUGQJHUZEZJB3BGZFTIQG76WBU-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T12:00:04+09:00",
+                         "matchKeyword":  "営業利益"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米小売売上高、3月は25年3月以来の伸び ガソリン価格高騰が押し上げ",
+                         "url":  "https://jp.reuters.com/markets/japan/YLLU2BDAGVOLZJKZQDS37QVWJQ-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "売上高"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ディスコ、4―6月期純利益は24％増・出荷額は過去最高を見込む",
+                         "url":  "https://jp.reuters.com/markets/world-indices/3L4BMERNSVMN3JBEBOZG22BNZ4-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
+                         "matchKeyword":  "純利益"
                      }
                  ]
 }
