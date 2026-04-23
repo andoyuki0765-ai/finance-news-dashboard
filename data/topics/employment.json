@@ -5,6 +5,15 @@
     "description":  "雇用統計・失業率・賃金",
     "articles":  [
                      {
+                         "source":  "東洋経済オンライン",
+                         "title":  "｢3年で辞めるはウソ？ホント？｣転職で後悔したくない人が知っておくべき｟シビアな現実｠と｟失敗しない方法｠ | キャリア・教育 | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/941593?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "｢今の職場が合わないから辞めたい｣――そんな衝動の先には､想像以上に厳しい再就職の現実が待っているかもしれません。早期離職後､正社員への復帰は半数というデータや｢ジョブ･ホッパー｣というレッテル。辞…",
+                         "publishedAt":  "2026-04-23T09:30:00+09:00",
+                         "fetchedAt":  "2026-04-23T12:00:04+09:00",
+                         "matchKeyword":  "離職"
+                     },
+                     {
                          "source":  "ダイヤモンド・オンライン",
                          "title":  "「その仕事、私の成長につながるんですか？」キャリア教育に毒された新人が背負わされる〈大きすぎる代償〉 - イライラ・モヤモヤ職場の改善法 榎本博明",
                          "url":  "https://diamond.jp/articles/-/388504",
@@ -185,6 +194,15 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
+                         "source":  "朝日新聞 経済",
+                         "title":  "首相、裁量労働制「対象のあり方見直し検討」指示 成長戦略会議",
+                         "url":  "https://www.asahi.com/articles/ASV4Q42PLV4QULFA02DM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
                          "source":  "ロイター ビジネス",
                          "title":  "中国の若年失業率、3月は16.9％に上昇",
                          "url":  "https://jp.reuters.com/markets/japan/7XXNRAB6C5JXRBX5G3WPVDHDB4-2026-04-21/",
@@ -209,15 +227,6 @@
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T10:38:00+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "首相、裁量労働制「対象のあり方見直し検討」指示 成長戦略会議",
-                         "url":  "https://www.asahi.com/articles/ASV4Q42PLV4QULFA02DM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
                          "matchKeyword":  "[LLM分類]"
                      }
                  ]

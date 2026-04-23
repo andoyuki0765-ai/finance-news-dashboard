@@ -6,6 +6,15 @@
     "articles":  [
                      {
                          "source":  "ダイヤモンド・オンライン",
+                         "title":  "【NISA投信グランプリ2026・新興国株部門】最優秀賞は南米の小国まで世界中にくまなく投資する「ピクテ新興国インカム株式ファンド（1年決算型）」！ - ダイヤモンドZAi NISA投信グランプリ2026",
+                         "url":  "https://diamond.jp/articles/-/388098",
+                         "description":  "",
+                         "publishedAt":  "2026-04-21T10:00:00+09:00",
+                         "fetchedAt":  "2026-04-21T12:00:03+09:00",
+                         "matchKeyword":  "新興国"
+                     },
+                     {
+                         "source":  "ダイヤモンド・オンライン",
                          "title":  "【NISA投信グランプリ2026・番外編】「オルカン」やS＆P500型など新NISAで買えるインデックス投資信託の信託報酬ランキング！低コスト投資信託が集結 - ダイヤモンドZAi NISA投信グランプリ2026",
                          "url":  "https://diamond.jp/articles/-/388102",
                          "description":  "「ダイヤモンドZAi NISA投信グランプリ2026」の「番外編」として、新NISAのつみたて投資枠で買える、オススメのインデックス投資信託を一挙紹介！ 大人気の「オルカン」（オール・カントリーの略）や米国株に連動する投資信託の他、日本株や新興国株も。超低コスト投資信託が目白押しだ！",
@@ -14,12 +23,30 @@
                          "matchKeyword":  "新興国"
                      },
                      {
-                         "source":  "ダイヤモンド・オンライン",
-                         "title":  "【NISA投信グランプリ2026・新興国株部門】最優秀賞は南米の小国まで世界中にくまなく投資する「ピクテ新興国インカム株式ファンド（1年決算型）」！ - ダイヤモンドZAi NISA投信グランプリ2026",
-                         "url":  "https://diamond.jp/articles/-/388098",
+                         "source":  "ロイター ビジネス",
+                         "title":  "独、26年成長率0.5％に下方修正 インフレ予想は引き上げ",
+                         "url":  "https://jp.reuters.com/markets/japan/N7FC5T6VVVPG5FUJAWQUEIRMIA-2026-04-22/",
                          "description":  "",
-                         "publishedAt":  "2026-04-21T10:00:00+09:00",
-                         "fetchedAt":  "2026-04-21T12:00:03+09:00",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "成長率"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ユーロ圏消費者信頼感指数、4月はマイナス20.6に悪化",
+                         "url":  "https://jp.reuters.com/markets/japan/35N2FRGOI5LNVA6CEL4FUOVRJI-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "ユーロ圏"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "MSCI新興国株式、イランとの戦争受けた下落分を帳消し－AI巡る楽観で",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDRUVYT9NJLU00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
                          "matchKeyword":  "新興国"
                      },
                      {
@@ -48,33 +75,6 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-23T09:03:57+09:00",
                          "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "独、26年成長率0.5％に下方修正 インフレ予想は引き上げ",
-                         "url":  "https://jp.reuters.com/markets/japan/N7FC5T6VVVPG5FUJAWQUEIRMIA-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "成長率"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ユーロ圏消費者信頼感指数、4月はマイナス20.6に悪化",
-                         "url":  "https://jp.reuters.com/markets/japan/35N2FRGOI5LNVA6CEL4FUOVRJI-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "ユーロ圏"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "MSCI新興国株式、イランとの戦争受けた下落分を帳消し－AI巡る楽観で",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDRUVYT9NJLU00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "新興国"
                      }
                  ]
 }

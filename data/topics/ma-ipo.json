@@ -5,6 +5,24 @@
     "description":  "企業買収・合併・新規上場",
     "articles":  [
                      {
+                         "source":  "NHK 経済",
+                         "title":  "政府 牧野フライスTOBに中止勧告 “国の安全損なうおそれ”",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015106171000",
+                         "description":  "アジア系の投資ファンドが予定している「牧野フライス製作所」に対するTOB＝株式公開買い付けについて、政府が中止を勧告したことが分かりました。政府は、会社が軍事転用の可能性がある高性能な工作機械を製造し…",
+                         "publishedAt":  "2026-04-23T11:39:34+09:00",
+                         "fetchedAt":  "2026-04-23T12:00:03+09:00",
+                         "matchKeyword":  "TOB"
+                     },
+                     {
+                         "source":  "Yahoo!ニュース 経済",
+                         "title":  "牧野フライス買収 政府が中止勧告",
+                         "url":  "https://news.yahoo.co.jp/pickup/6577300?source=rss",
+                         "description":  "",
+                         "publishedAt":  "2026-04-23T11:02:51+09:00",
+                         "fetchedAt":  "2026-04-23T12:00:03+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
                          "source":  "ITmedia ビジネス",
                          "title":  "Apple新CEOが継いだ「ジョブズの言葉」 その経営哲学は“ピクサー買収時の懸念”から生まれた",
                          "url":  "https://www.itmedia.co.jp/business/articles/2604/23/news042.html",
@@ -14,15 +32,6 @@
                          "matchKeyword":  "買収"
                      },
                      {
-                         "source":  "東洋経済オンライン",
-                         "title":  "みずほとオリコの｢いびつな関係｣にアクティビストが株主提案､みずほFGのカード･信販の抜本整理に発展も | ビジネス | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/942237?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "国内アクティビストがみずほFGとオリコの｢いびつな関係｣に切り込む株主提案を公表しました。ガバナンスやバーゼル規制問題､利益相反リスクにまで踏み込み､みずほFGのリテール再編に一石を投じようとしてい…",
-                         "publishedAt":  "2026-04-23T06:00:00+09:00",
-                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
                          "source":  "ダイヤモンド・オンライン",
                          "title":  "ニデックは不正会計で決算延期…村田製作所・TDK・京セラと明暗分かれる - ダイヤモンド 決算報",
                          "url":  "https://diamond.jp/articles/-/387797",
@@ -30,6 +39,15 @@
                          "publishedAt":  "2026-04-23T06:00:00+09:00",
                          "fetchedAt":  "2026-04-23T09:03:56+09:00",
                          "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "みずほとオリコの｢いびつな関係｣にアクティビストが株主提案､みずほFGのカード･信販の抜本整理に発展も | ビジネス | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/942237?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "国内アクティビストがみずほFGとオリコの｢いびつな関係｣に切り込む株主提案を公表しました。ガバナンスやバーゼル規制問題､利益相反リスクにまで踏み込み､みずほFGのリテール再編に一石を投じようとしてい…",
+                         "publishedAt":  "2026-04-23T06:00:00+09:00",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "ITmedia ビジネス",
@@ -123,8 +141,35 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "ノジマ、日立の家電事業買収を検討 21日取締役会に付議",
-                         "url":  "https://jp.reuters.com/markets/global-markets/KOG3JNDFDVPFVIFA6BDIE3K7YI-2026-04-21/",
+                         "title":  "トランプ氏、ユナイテッドとアメリカン航空の合併「好ましくない」",
+                         "url":  "https://jp.reuters.com/markets/bonds/5L2IFLN4UZL5TG6CMRQCU4ESHM-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "合併"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ドイツテレコム、米Ｔモバイルと統合交渉 上場企業で過去最大＝関係筋",
+                         "url":  "https://jp.reuters.com/markets/japan/TKW2JCJJCNLYXMFAXZ7PWV556I-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "相続税の「節税スキーム」防止へ 非上場株の評価ルール見直し検討",
+                         "url":  "https://www.asahi.com/articles/ASV4P0QCWV4PUTIL028M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T18:00:05+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "イーライリリー、がん免疫療法開発のケロニアを70億ドルで買収",
+                         "url":  "https://jp.reuters.com/markets/global-markets/YFAGIIBOEZNMNCTMXOEKS2UAMA-2026-04-20/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-21T12:00:04+09:00",
@@ -132,21 +177,57 @@
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "エヌビディアのサプライヤー、勝宏科技が香港に重複上場－株価急伸",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTM4DKJH6V500?srnd=jp-markets",
+                         "title":  "スペースX、AI新興企業カーソルを買収する権利取得－600億ドル",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDV7MVKJH6V600?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "fetchedAt":  "2026-04-22T12:01:45+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "政府がアジア系ファンドに中止勧告 牧野フライス製作所の買収で",
+                         "url":  "https://www.asahi.com/articles/ASV4R0FB4V4RULFA005M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T12:00:04+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自元芸人・井村氏の投資助言会社、近鉄グループに書簡－親子上場に懸念",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDTN5FT9NJLU00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T12:00:05+09:00",
                          "matchKeyword":  "上場"
                      },
                      {
                          "source":  "朝日新聞 経済",
-                         "title":  "家電量販大手のノジマ、日立の家電事業を買収へ 1千億円超か",
-                         "url":  "https://www.asahi.com/articles/ASV4P01TMV4PULFA001M.html?ref=rss",
+                         "title":  "かつての「看板」手放す日立 ノジマ主導で成長軌道に乗せられるか",
+                         "url":  "https://www.asahi.com/articles/ASV4P3S9CV4PULFA00GM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:51:59+09:00",
-                         "matchKeyword":  "買収"
+                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "焦点：日本で存在感増すアクティビスト、対話重視戦略で長期投資へ",
+                         "url":  "https://jp.reuters.com/markets/japan/6B64ZUQHH5KAZJXBJISH6EPQ2Y-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "イクヨ、河西工業株を追加取得へ 持ち株比率15％に",
+                         "url":  "https://jp.reuters.com/markets/japan/FXOVBW4LJ5NMHEK65QKU7GBZHA-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -167,6 +248,33 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
+                         "source":  "朝日新聞 経済",
+                         "title":  "家電量販大手のノジマ、日立の家電事業を買収へ 1千億円超か",
+                         "url":  "https://www.asahi.com/articles/ASV4P01TMV4PULFA001M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:51:59+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ノジマ、日立の家電事業買収を検討 21日取締役会に付議",
+                         "url":  "https://jp.reuters.com/markets/global-markets/KOG3JNDFDVPFVIFA6BDIE3K7YI-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "エヌビディアのサプライヤー、勝宏科技が香港に重複上場－株価急伸",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTM4DKJH6V500?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
                          "source":  "ロイター ビジネス",
                          "title":  "米ＱＸＯ、建材卸売・施工企業トップビルドを170億ドルで買収",
                          "url":  "https://jp.reuters.com/markets/japan/PJZUOAWDUZP7HHDEFWY6O52ABM-2026-04-20/",
@@ -174,33 +282,6 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T18:00:04+09:00",
                          "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ＧＭＯインターネット、新株発行価格を1株710円に決定",
-                         "url":  "https://jp.reuters.com/markets/global-markets/CMLBTLHPDJN4RALAVN2YS4NM5Q-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ストラテジックＣ、みずほＦＧとオリコに株主提案 「いびつな関係是正を」",
-                         "url":  "https://jp.reuters.com/markets/global-markets/5XC5TFSLTNLUTG6N4IW4NJKDRQ-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "アメリカン航空、ユナイテッドとの合併交渉否定 「関心ない」",
-                         "url":  "https://jp.reuters.com/markets/global-markets/HND6KD6G6VKIDA5OEJP2CAKBOQ-2026-04-17/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "合併"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -222,74 +303,29 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "イクヨ、河西工業株を追加取得へ 持ち株比率15％に",
-                         "url":  "https://jp.reuters.com/markets/japan/FXOVBW4LJ5NMHEK65QKU7GBZHA-2026-04-22/",
+                         "title":  "アメリカン航空、ユナイテッドとの合併交渉否定 「関心ない」",
+                         "url":  "https://jp.reuters.com/markets/global-markets/HND6KD6G6VKIDA5OEJP2CAKBOQ-2026-04-17/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "イーライリリー、がん免疫療法開発のケロニアを70億ドルで買収",
-                         "url":  "https://jp.reuters.com/markets/global-markets/YFAGIIBOEZNMNCTMXOEKS2UAMA-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "相続税の「節税スキーム」防止へ 非上場株の評価ルール見直し検討",
-                         "url":  "https://www.asahi.com/articles/ASV4P0QCWV4PUTIL028M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:00:05+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ドイツテレコム、米Ｔモバイルと統合交渉 上場企業で過去最大＝関係筋",
-                         "url":  "https://jp.reuters.com/markets/japan/TKW2JCJJCNLYXMFAXZ7PWV556I-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "トランプ氏、ユナイテッドとアメリカン航空の合併「好ましくない」",
-                         "url":  "https://jp.reuters.com/markets/bonds/5L2IFLN4UZL5TG6CMRQCU4ESHM-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
                          "matchKeyword":  "合併"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "スペースX、AI新興企業カーソルを買収する権利取得－600億ドル",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDV7MVKJH6V600?srnd=jp-markets",
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＧＭＯインターネット、新株発行価格を1株710円に決定",
+                         "url":  "https://jp.reuters.com/markets/global-markets/CMLBTLHPDJN4RALAVN2YS4NM5Q-2026-04-20/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T12:01:45+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "かつての「看板」手放す日立 ノジマ主導で成長軌道に乗せられるか",
-                         "url":  "https://www.asahi.com/articles/ASV4P3S9CV4PULFA00GM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "焦点：日本で存在感増すアクティビスト、対話重視戦略で長期投資へ",
-                         "url":  "https://jp.reuters.com/markets/japan/6B64ZUQHH5KAZJXBJISH6EPQ2Y-2026-04-22/",
+                         "title":  "ストラテジックＣ、みずほＦＧとオリコに株主提案 「いびつな関係是正を」",
+                         "url":  "https://jp.reuters.com/markets/global-markets/5XC5TFSLTNLUTG6N4IW4NJKDRQ-2026-04-20/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
                          "matchKeyword":  "[LLM分類]"
                      }
                  ]
