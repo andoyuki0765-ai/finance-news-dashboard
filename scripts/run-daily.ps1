@@ -29,6 +29,28 @@ Write-Log "=========================================="
 Write-Log "Daily run start: $Today"
 Write-Log "=========================================="
 
+# ===== ネットワーク接続待機（PCスリープ復帰直後対策） =====
+# タスクスケジューラがウェイク直後に起動するとDNS未確立で全fetchが失敗するため、
+# 起動時にgithub.comへの到達確認をして最大2分待機する
+Write-Log "ネットワーク接続を確認中..."
+$netReady = $false
+for ($i = 1; $i -le 24; $i++) {
+    try {
+        $r = Invoke-WebRequest -Uri 'https://github.com' -Method Head -TimeoutSec 5 -UseBasicParsing -ErrorAction Stop
+        if ($r.StatusCode -lt 400) {
+            $netReady = $true
+            Write-Log "ネットワーク到達可能 (試行 $i)"
+            break
+        }
+    } catch {
+        if ($i -eq 1) { Write-Log "  接続待機中... (DNS未確立の可能性、5秒間隔で最大2分試行)" 'WARN' }
+    }
+    Start-Sleep -Seconds 5
+}
+if (-not $netReady) {
+    Write-Log "2分間ネットワーク到達せず。とりあえず処理続行（各stepでさらにリトライ）" 'WARN'
+}
+
 $steps = @(
     @{ Name = 'Fetch';      Script = 'fetch.ps1' }
     @{ Name = 'Categorize'; Script = 'categorize.ps1' }

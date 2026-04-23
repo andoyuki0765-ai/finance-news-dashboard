@@ -76,9 +76,29 @@ $seen     = New-Object System.Collections.Generic.HashSet[string]
 
 foreach ($feed in $config.feeds) {
     Write-Log "Fetching: $($feed.name) <$($feed.url)>"
+    # DNS復旧待ちの最大3回リトライ（5秒・15秒・30秒のbackoff）
+    $response = $null
+    $lastError = $null
+    foreach ($delay in 0, 5, 15, 30) {
+        if ($delay -gt 0) {
+            Write-Log "  ${delay}秒待機後リトライ..." 'WARN'
+            Start-Sleep -Seconds $delay
+        }
+        try {
+            $headers = @{ 'User-Agent' = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) NewsDashboard/1.0' }
+            $response = Invoke-WebRequest -Uri $feed.url -Headers $headers -TimeoutSec 30 -UseBasicParsing -ErrorAction Stop
+            $lastError = $null
+            break
+        } catch {
+            $lastError = $_.Exception.Message
+            $response = $null
+        }
+    }
+    if (-not $response) {
+        Write-Log "  失敗（4回試行後諦め）: $lastError" 'WARN'
+        continue
+    }
     try {
-        $headers = @{ 'User-Agent' = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) NewsDashboard/1.0' }
-        $response = Invoke-WebRequest -Uri $feed.url -Headers $headers -TimeoutSec 30 -UseBasicParsing
         [xml]$xml = [System.Text.Encoding]::UTF8.GetString($response.RawContentStream.ToArray())
 
         # RSS 2.0 (rss/channel/item) と RDF (rdf:RDF/item) と Atom (feed/entry) の3形式に対応
