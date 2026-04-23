@@ -5,6 +5,33 @@
     "description":  "雇用統計・失業率・賃金",
     "articles":  [
                      {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "「その仕事、私の成長につながるんですか？」キャリア教育に毒された新人が背負わされる〈大きすぎる代償〉 - イライラ・モヤモヤ職場の改善法 榎本博明",
+                         "url":  "https://diamond.jp/articles/-/388504",
+                         "description":  "この時期、そろそろ今年の新人が配属されてきた部署もあるかもしれない。新人や若手社員から「この仕事、私の成長にどうつながるんですか？」と業務についてたずねられたり、「私がやりたいのはこのような仕事ではありません」と自分の配属に不満を口にする新人を見たりした……という人もいるのではないか。なぜ最近の新人はこのような発言をするのか？そこにはもっともな事情がある。",
+                         "publishedAt":  "2026-04-23T09:00:00+09:00",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "どんなに真面目でも「40代から成長しなくなる」シンプルな理由 - 40代キャリア再点火",
+                         "url":  "https://diamond.jp/articles/-/388321",
+                         "description":  "社会経験も豊富な40代。しかし、「このままで良いだろうか」「成長が感じられない」など将来のキャリアに対して漠然とした不安を抱える人が少なくない。40代からのキャリアにどう向き合えばいいのか。40代からの成長とは何か。キャリアを“再点火”する方法を考えてみよう。",
+                         "publishedAt":  "2026-04-23T07:00:00+09:00",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "大日本印刷の50代前半、課長級の年収は？【5000件の口コミ情報データ】 - ダイヤモンド・口コミ情報",
+                         "url":  "https://diamond.jp/articles/-/388484",
+                         "description":  "ダイヤモンド・口コミ情報では、年収・給与制度に関するアンケートを実施、寄せられた回答をもとに年収データを公開しています。今回は「大日本印刷の50代前半、課長級」です。",
+                         "publishedAt":  "2026-04-23T05:30:00+09:00",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
                          "source":  "Yahoo!ニュース 経済",
                          "title":  "日高屋の社長発言騒動 業界の背景",
                          "url":  "https://news.yahoo.co.jp/pickup/6577235?source=rss",
@@ -131,21 +158,21 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "ITmedia ビジネス",
-                         "title":  "学ばない社員が過半数に 管理職離れが、じわじわ進む職場のいま",
-                         "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news018.html",
-                         "description":  "パーソル総合研究所は、「働く1万人の就業・成長定点調査」を実施した。その結果……。",
-                         "publishedAt":  "2026-04-20T08:00:00+09:00",
-                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
                          "source":  "東洋経済オンライン",
                          "title":  "｢1日10時間労働or給料減額｣社労士が語る《週休3日》普及のカギ | キャリア・教育 | 東洋経済オンライン",
                          "url":  "https://toyokeizai.net/articles/-/939531?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
                          "description":  "週休3日制が急速に注目を集めています。大手企業や自治体が導入を進める中､その背景には人材確保や社員の定着率向上という切実な課題があります。しかし､労働時間や給与体系の変化にはメリットだけでなく懸念点…",
                          "publishedAt":  "2026-04-20T08:00:00+09:00",
                          "fetchedAt":  "2026-04-20T10:38:01+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "学ばない社員が過半数に 管理職離れが、じわじわ進む職場のいま",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news018.html",
+                         "description":  "パーソル総合研究所は、「働く1万人の就業・成長定点調査」を実施した。その結果……。",
+                         "publishedAt":  "2026-04-20T08:00:00+09:00",
+                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
@@ -158,6 +185,24 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
+                         "source":  "ロイター ビジネス",
+                         "title":  "中国の若年失業率、3月は16.9％に上昇",
+                         "url":  "https://jp.reuters.com/markets/japan/7XXNRAB6C5JXRBX5G3WPVDHDB4-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "失業率"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自中国の25－29歳で失業率が急上昇、労働市場悪化とAI拡大が影響",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDW14WKK3NYA00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "失業率"
+                     },
+                     {
                          "source":  "朝日新聞 経済",
                          "title":  "こんなに天引き？ 給与明細見てみると 「いざ」という時の備えに",
                          "url":  "https://www.asahi.com/articles/ASV4H3606V4HULFA00RM.html?ref=rss",
@@ -167,13 +212,13 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "中国の若年失業率、3月は16.9％に上昇",
-                         "url":  "https://jp.reuters.com/markets/japan/7XXNRAB6C5JXRBX5G3WPVDHDB4-2026-04-21/",
+                         "source":  "朝日新聞 経済",
+                         "title":  "首相、裁量労働制「対象のあり方見直し検討」指示 成長戦略会議",
+                         "url":  "https://www.asahi.com/articles/ASV4Q42PLV4QULFA02DM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
-                         "matchKeyword":  "失業率"
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      }
                  ]
 }

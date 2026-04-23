@@ -23,15 +23,6 @@
                          "matchKeyword":  "新興国"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "MSCI新興国株式、イランとの戦争受けた下落分を帳消し－AI巡る楽観で",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDRUVYT9NJLU00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "新興国"
-                     },
-                     {
                          "source":  "ロイター ビジネス",
                          "title":  "神田ＡＤＢ総裁、次期総裁選に立候補の意向表明 片山財務相「強く支持」",
                          "url":  "https://jp.reuters.com/markets/japan/3PTWKUCQE5JZDBOS76VVQV32M4-2026-04-22/",
@@ -39,6 +30,51 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-22T18:39:36+09:00",
                          "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "EU、燃料高対策で家計支援や再エネ拡大「発電から化石燃料を追放」",
+                         "url":  "https://www.asahi.com/articles/ASV4Q466RV4QUHBI02BM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "イラン戦争の影響見極めには時間必要＝ＥＣＢチーフエコノミスト",
+                         "url":  "https://jp.reuters.com/markets/japan/AB7IMGYMTNJKNN3GFUOZAY7TKY-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "独、26年成長率0.5％に下方修正 インフレ予想は引き上げ",
+                         "url":  "https://jp.reuters.com/markets/japan/N7FC5T6VVVPG5FUJAWQUEIRMIA-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "成長率"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ユーロ圏消費者信頼感指数、4月はマイナス20.6に悪化",
+                         "url":  "https://jp.reuters.com/markets/japan/35N2FRGOI5LNVA6CEL4FUOVRJI-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "ユーロ圏"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "MSCI新興国株式、イランとの戦争受けた下落分を帳消し－AI巡る楽観で",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDRUVYT9NJLU00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "新興国"
                      }
                  ]
 }

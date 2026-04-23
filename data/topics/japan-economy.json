@@ -5,6 +5,24 @@
     "description":  "日本のGDP・景気指標・財政",
     "articles":  [
                      {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "なぜ日本のサービスはこんなにレベルが高いのか？ドイツの「最低サービス」との根本的な違い - ニュースな本",
+                         "url":  "https://diamond.jp/articles/-/384565",
+                         "description":  "ドイツをはじめとする欧米諸国では、無愛想とも言える接客が珍しくない。しかし、日本人の感覚では失礼と映る対応でも、ドイツ人はほとんど気にしないという。実は、過剰な無料サービスは社会全体の幸福を高めるどころか、弊害のほうが大きい。そっけない接客でも不満を言わないドイツ人の態度から、サービス業のあるべき姿を学ぶ。※本稿は、フリージャーナリストの熊谷 徹、『GDPで日本を超えた！のんびり稼ぐドイツ人の幸せな働き方』（ぱる出版）の一部を抜粋・編集したものです。",
+                         "publishedAt":  "2026-04-23T08:00:00+09:00",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "GDP"
+                     },
+                     {
+                         "source":  "Yahoo!ニュース 経済",
+                         "title":  "外食も消費税ゼロに 業界団体訴え",
+                         "url":  "https://news.yahoo.co.jp/pickup/6577264?source=rss",
+                         "description":  "",
+                         "publishedAt":  "2026-04-22T22:23:12+09:00",
+                         "fetchedAt":  "2026-04-23T09:03:55+09:00",
+                         "matchKeyword":  "消費税"
+                     },
+                     {
                          "source":  "NHK 経済",
                          "title":  "今年度の国債運用 大手生保各社が方針を公表",
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015105521000",
@@ -95,6 +113,24 @@
                          "matchKeyword":  "財政"
                      },
                      {
+                         "source":  "朝日新聞 経済",
+                         "title":  "給付付き税額控除、「最大20万円給付なら…」 東京財団が試算示す",
+                         "url":  "https://www.asahi.com/articles/ASV4N2W6ZV4NULFA012M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ドイツ景気見通しが大幅に悪化、期待指数は2022年以来の低水準",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU7UTKJH6V600?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
+                         "matchKeyword":  "景気"
+                     },
+                     {
                          "source":  "Bloomberg 日本",
                          "title":  "ヘッジファンドの持ち高解消、日本の国債市場に影響も－日銀リポート",
                          "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU0QNKJH6V600?srnd=jp-markets",
@@ -111,6 +147,96 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T09:47:39+09:00",
                          "matchKeyword":  "GDP"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "貿易収支、3月は6670億円の黒字 市場予想下回る黒字幅",
+                         "url":  "https://jp.reuters.com/markets/japan/5JF2BDZHCBNCZLZUHMHSOFEWUY-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T12:01:43+09:00",
+                         "matchKeyword":  "貿易収支"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "家事支援サービスの国家資格創設、27年秋に第1回試験 成長戦略で",
+                         "url":  "https://www.asahi.com/articles/ASV4Q254JV4QULFA00PM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "子どものSNS利用、総務省が規制強化へ 年齢確認の義務化も検討",
+                         "url":  "https://www.asahi.com/articles/ASV4Q2PPVV4QULFA00BM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "冷凍食品の消費、1人あたりは年約25キロに 3年ぶりに過去最高",
+                         "url":  "https://www.asahi.com/articles/ASV4N2555V4NULFA02LM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "兵庫県のプレミアム付きデジタル券 県民でなくても買えたかも",
+                         "url":  "https://www.asahi.com/articles/ASV4Q3FNZV4QPIHB013M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "食料品「消費税ゼロ」なら経営懸念 農業団体が支援を求める理由とは",
+                         "url":  "https://www.asahi.com/articles/ASV4Q34RJV4QULFA028M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "消費税"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＮＺ格付け見通し「ネガティブ」に下げ、財政リスクで＝ムーディーズ",
+                         "url":  "https://jp.reuters.com/markets/treasury/MLCWGRNPAZPEJO2ZGYXON73C4Y-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "財政"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "給付付き税額控除「給付だけ」の制度に 有識者会議で意見相次ぐ",
+                         "url":  "https://www.asahi.com/articles/ASV4P324WV4PULFA01WM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "3月の輸出は11.7%増、7カ月連続プラス－市場予想上回る伸び",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTPKET9NJLS00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "欧州委、電力減税とガス備蓄調整を提案 イラン戦争の影響緩和",
+                         "url":  "https://jp.reuters.com/markets/commodities/WDZXHQZSC5K23HWWWZVAFN2KJ4-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "減税"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -132,39 +258,12 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "貿易収支、3月は6670億円の黒字 市場予想下回る黒字幅",
-                         "url":  "https://jp.reuters.com/markets/japan/5JF2BDZHCBNCZLZUHMHSOFEWUY-2026-04-21/",
+                         "title":  "日本国債は残高減少、入れ替え規模は2兆円下回る公算＝日本生命・26年度運用計画",
+                         "url":  "https://jp.reuters.com/opinion/7INHMTNGDBI2XGX6IIAM6MDJD4-2026-04-22/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T12:01:43+09:00",
-                         "matchKeyword":  "貿易収支"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "冷凍食品の消費、1人あたりは年約25キロに 3年ぶりに過去最高",
-                         "url":  "https://www.asahi.com/articles/ASV4N2555V4NULFA02LM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "給付付き税額控除、「最大20万円給付なら…」 東京財団が試算示す",
-                         "url":  "https://www.asahi.com/articles/ASV4N2W6ZV4NULFA012M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "ドイツ景気見通しが大幅に悪化、期待指数は2022年以来の低水準",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU7UTKJH6V600?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
-                         "matchKeyword":  "景気"
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "国債"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -174,24 +273,6 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T09:47:39+09:00",
                          "matchKeyword":  "財政"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "給付付き税額控除「給付だけ」の制度に 有識者会議で意見相次ぐ",
-                         "url":  "https://www.asahi.com/articles/ASV4P324WV4PULFA01WM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "3月の輸出は11.7%増、7カ月連続プラス－市場予想上回る伸び",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTPKET9NJLS00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
-                         "matchKeyword":  "[LLM分類]"
                      }
                  ]
 }
