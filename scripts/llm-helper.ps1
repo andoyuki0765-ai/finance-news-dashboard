@@ -103,8 +103,8 @@ function Find-ClaudeCodeExe {
     # フォールバック: ハードコードのユーザーパス（複数候補）
     $candidateBases.Add('C:\Users\PC80\AppData\Roaming\Claude\claude-code')
 
-    # 最大15回試行（30秒間）— Claude Codeアップデートは通常10〜20秒で完了
-    for ($attempt = 1; $attempt -le 15; $attempt++) {
+    # 最大45回試行（90秒間）— PC起動直後Claude Code Desktop初期化完了待ち
+    for ($attempt = 1; $attempt -le 45; $attempt++) {
         # 優先1: PATHに通っている
         $cmd = Get-Command claude -ErrorAction SilentlyContinue
         if ($cmd) {
@@ -126,11 +126,11 @@ function Find-ClaudeCodeExe {
             }
         }
 
-        if ($attempt -lt 15) { Start-Sleep -Seconds 2 }
+        if ($attempt -lt 45) { Start-Sleep -Seconds 2 }
     }
 
     # 最終失敗時に詳細ログを出力
-    WriteDebug "Find failed after 15 attempts (30 sec). APPDATA=$env:APPDATA USERPROFILE=$env:USERPROFILE"
+    WriteDebug "Find failed after 45 attempts (90 sec). APPDATA=$env:APPDATA USERPROFILE=$env:USERPROFILE"
     foreach ($base in ($candidateBases | Select-Object -Unique)) {
         WriteDebug "  Candidate base: $base → Exists: $(Test-Path $base)"
         if (Test-Path $base) {

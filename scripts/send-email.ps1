@@ -23,6 +23,7 @@ if ([string]::IsNullOrWhiteSpace($Root)) {
 
 $TopicsConfig = Join-Path $Root 'config\topics.json'
 $SummariesDir = Join-Path $Root 'data\summaries'
+$TopicsDir    = Join-Path $Root 'data\topics'
 $LogDir       = Join-Path $Root 'logs'
 
 $Today    = Get-Date -Format 'yyyy-MM-dd'
@@ -92,21 +93,64 @@ function Get-SentimentMark { param($s)
 }
 
 if ($summaries.Count -eq 0) {
-    # 失敗通知モード
-    $body = @"
-$TodayJp $NowHHmm 時点の配信ですが、本日のAIサマリが生成されていません。
+    # AI要約なしモード：データのある記事一覧だけでも届ける
+    Write-Log "AI要約なし。記事一覧のみで簡易ダイジェストを送信します"
 
-原因の可能性:
-- Claude Code CLI が一時的に検出できなかった（アップデート中など）
-- LLMバックエンドの設定ミス (config/api.json)
+    $Last24h = (Get-Date).AddHours(-24)
+    $rawDigest = New-Object System.Collections.Generic.List[object]
+    foreach ($t in $topicsConf.topics) {
+        $tf = Join-Path $TopicsDir "$($t.id).json"
+        if (-not (Test-Path $tf)) { continue }
+        try {
+            $td = Get-Content $tf -Raw -Encoding UTF8 | ConvertFrom-Json
+        } catch { continue }
+        $newOnes = @($td.articles | Where-Object {
+            if ($_.publishedAt) {
+                try { [DateTime]::Parse($_.publishedAt) -ge $Last24h } catch { $false }
+            } else { $false }
+        } | Select-Object -First 5)
+        if ($newOnes.Count -gt 0) {
+            $rawDigest.Add([pscustomobject]@{
+                Icon     = $t.icon
+                Name     = $t.name
+                Articles = $newOnes
+                Url      = "$DashboardUrl" + "topics/$($t.id).html"
+            }) | Out-Null
+        }
+    }
 
-次回(6時間後)の自動配信で再試行されます。
-即時対応が必要な場合はログをご確認ください:
-  logs\summarize-$Today.log
+    $sb = New-Object System.Text.StringBuilder
+    [void]$sb.AppendLine("$TodayJp $NowHHmm 時点の金融ニュース簡易ダイジェスト（直近24時間）")
+    [void]$sb.AppendLine("")
+    [void]$sb.AppendLine("⚠️ 本日のAI要約は生成できませんでした（Claude Code CLIへのアクセス不可）。")
+    [void]$sb.AppendLine("    最新の記事一覧のみお届けします。次回6時間後の自動配信で完全版を再送します。")
+    [void]$sb.AppendLine("")
+    [void]$sb.AppendLine(("=" * 50))
+    [void]$sb.AppendLine("")
 
-ダッシュボード: $DashboardUrl
-"@
-    $subject = "⚠️ 金融ニュース サマリ生成失敗 - $TodayJp $NowHHmm"
+    if ($rawDigest.Count -eq 0) {
+        [void]$sb.AppendLine("（直近24時間に取得できた記事はありません）")
+    } else {
+        foreach ($t in $rawDigest) {
+            [void]$sb.AppendLine("$($t.Icon) 【$($t.Name)】 $($t.Articles.Count)件")
+            foreach ($a in $t.Articles) {
+                [void]$sb.AppendLine("  ・ $($a.title)")
+                if ($a.source) { [void]$sb.AppendLine("    [$($a.source)]") }
+            }
+            [void]$sb.AppendLine("  🔗 $($t.Url)")
+            [void]$sb.AppendLine("")
+        }
+    }
+    [void]$sb.AppendLine(("=" * 50))
+    [void]$sb.AppendLine("")
+    [void]$sb.AppendLine("📱 ダッシュボード全体: $DashboardUrl")
+    [void]$sb.AppendLine("")
+    [void]$sb.AppendLine("---")
+    [void]$sb.AppendLine("生成: $((Get-Date).ToString('yyyy/MM/dd HH:mm'))")
+    [void]$sb.AppendLine("AI要約なしモード（次回完全版再送予定）")
+
+    $body = $sb.ToString()
+    $subject = "📰 金融ニュース簡易版 $NowHHmm - $TodayJp（AI要約なし）"
 } else {
     # 配信時刻に応じた挨拶（00 / 06 / 12 / 18 想定）
     $greeting = switch -regex ($NowHHmm) {
