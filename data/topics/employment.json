@@ -5,6 +5,15 @@
     "description":  "雇用統計・失業率・賃金",
     "articles":  [
                      {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "27年卒就活生に人気の企業は？ ニトリ4連覇、地域別では地元企業が存在感",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/24/news008.html",
+                         "description":  "マイナビと日本経済新聞社は、「2027年卒大学生就職企業人気ランキング」を発表した。その結果……",
+                         "publishedAt":  "2026-04-24T08:30:00+09:00",
+                         "fetchedAt":  "2026-04-24T10:19:02+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
                          "source":  "ダイヤモンド・オンライン",
                          "title":  "日立の家電事業をノジマが買収→「日立ブランド」と雇用はどうなる？大型M\u0026Aに潜む死角とは - サプライチェーン難問山積",
                          "url":  "https://diamond.jp/articles/-/388818",
@@ -203,12 +212,48 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "朝日新聞 経済",
-                         "title":  "こんなに天引き？ 給与明細見てみると 「いざ」という時の備えに",
-                         "url":  "https://www.asahi.com/articles/ASV4H3606V4HULFA00RM.html?ref=rss",
+                         "source":  "ロイター ビジネス",
+                         "title":  "韓国サムスン、従業員数万人が抗議 ＳＫハイニックスと賞与格差",
+                         "url":  "https://jp.reuters.com/markets/global-markets/74GW7GQO6VPTBIKMUXWU4JXWHI-2026-04-23/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "ヤマト団交拒否、配達委託の個人事業主と和解 「労働者」か認識に溝",
+                         "url":  "https://www.asahi.com/articles/ASV4R2T48V4RULFA019M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T10:19:02+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "米失業保険申請は小幅に増加、レイオフは依然抑制水準",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDY5L2T9NJLS00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自中国の25－29歳で失業率が急上昇、労働市場悪化とAI拡大が影響",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDW14WKK3NYA00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "失業率"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "首相、裁量労働制「対象のあり方見直し検討」指示 成長戦略会議",
+                         "url":  "https://www.asahi.com/articles/ASV4Q42PLV4QULFA02DM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
@@ -222,21 +267,12 @@
                      },
                      {
                          "source":  "朝日新聞 経済",
-                         "title":  "首相、裁量労働制「対象のあり方見直し検討」指示 成長戦略会議",
-                         "url":  "https://www.asahi.com/articles/ASV4Q42PLV4QULFA02DM.html?ref=rss",
+                         "title":  "こんなに天引き？ 給与明細見てみると 「いざ」という時の備えに",
+                         "url":  "https://www.asahi.com/articles/ASV4H3606V4HULFA00RM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
                          "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自中国の25－29歳で失業率が急上昇、労働市場悪化とAI拡大が影響",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDW14WKK3NYA00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "失業率"
                      }
                  ]
 }

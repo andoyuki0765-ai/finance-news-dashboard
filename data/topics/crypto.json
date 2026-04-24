@@ -6,6 +6,15 @@
     "articles":  [
                      {
                          "source":  "東洋経済オンライン",
+                         "title":  "投資家は｢2028年まで利確を待つ｣と大喜び､それでも\"ぬか喜び\"になりかねない暗号資産｢分離課税｣の小さくない落とし穴 | 政治・経済・投資 | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/942482?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "暗号資産の取引に申告分離課税を導入する税制改正法案が成立。2028年から税率が一律20.315％になり､税負担が大幅に軽減されると投資家たちは大喜び。しかし､現実はそう甘くはないようです。暗号資産の…",
+                         "publishedAt":  "2026-04-24T09:00:00+09:00",
+                         "fetchedAt":  "2026-04-24T10:19:02+09:00",
+                         "matchKeyword":  "暗号資産"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
                          "title":  "【米国株増収率ランキング】エヌビディアを超える高成長企業は？ AI軸に次世代テクノロジーを担うスター候補が続々 | 政治・経済・投資 | 東洋経済オンライン",
                          "url":  "https://toyokeizai.net/articles/-/941658?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
                          "description":  "イラン情勢の不安やインフレ懸念が高まる中､どんな企業が世界市場で生き残るのか。その鍵は｢圧倒的な増収率｣を誇る高成長にあります。AI･半導体を軸に量子コンピューター､EV､暗号資産､宇宙関連企業まで…",
@@ -15,21 +24,12 @@
                      },
                      {
                          "source":  "朝日新聞 経済",
-                         "title":  "MSワラント増加、暗号資産買いの資金も 業績不振の企業などが発行",
-                         "url":  "https://www.asahi.com/articles/ASV4F46QXV4FULFA01ZM.html?ref=rss",
+                         "title":  "元祖「爆買い」のメタプラ、ビットコイン価格低迷でもつぶれないのは",
+                         "url":  "https://www.asahi.com/articles/ASV3Z7VYHV3ZULFA004M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "暗号資産"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "ハッキングが引き金、暗号資産版「取り付け騒ぎ」で90億ドル流出",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDSTSZT9NJLZ00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "暗号資産"
+                         "fetchedAt":  "2026-04-20T18:00:03+09:00",
+                         "matchKeyword":  "ビットコイン"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -50,13 +50,22 @@
                          "matchKeyword":  "ステーブルコイン"
                      },
                      {
-                         "source":  "朝日新聞 経済",
-                         "title":  "元祖「爆買い」のメタプラ、ビットコイン価格低迷でもつぶれないのは",
-                         "url":  "https://www.asahi.com/articles/ASV3Z7VYHV3ZULFA004M.html?ref=rss",
+                         "source":  "Bloomberg 日本",
+                         "title":  "ハッキングが引き金、暗号資産版「取り付け騒ぎ」で90億ドル流出",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDSTSZT9NJLZ00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:03+09:00",
-                         "matchKeyword":  "ビットコイン"
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "暗号資産"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "MSワラント増加、暗号資産買いの資金も 業績不振の企業などが発行",
+                         "url":  "https://www.asahi.com/articles/ASV4F46QXV4FULFA01ZM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "暗号資産"
                      }
                  ]
 }
