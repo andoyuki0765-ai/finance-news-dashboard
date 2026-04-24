@@ -140,15 +140,6 @@
                          "matchKeyword":  "雇用"
                      },
                      {
-                         "source":  "ダイヤモンド・オンライン",
-                         "title":  "「中高年歓迎」はウソ？求人のウラ側と採用企業の「エグすぎる本音」とは - ニュース3面鏡",
-                         "url":  "https://diamond.jp/articles/-/388228",
-                         "description":  "",
-                         "publishedAt":  "2026-04-21T07:00:00+09:00",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "求人"
-                     },
-                     {
                          "source":  "東洋経済オンライン",
                          "title":  "企業はホワイト化しているのに｢仕事は嫌い｣｢早くリタイアしたい｣平成生まれの本音 | キャリア・教育 | 東洋経済オンライン",
                          "url":  "https://toyokeizai.net/articles/-/941116?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
@@ -156,6 +147,15 @@
                          "publishedAt":  "2026-04-21T07:00:00+09:00",
                          "fetchedAt":  "2026-04-21T09:10:26+09:00",
                          "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "「中高年歓迎」はウソ？求人のウラ側と採用企業の「エグすぎる本音」とは - ニュース3面鏡",
+                         "url":  "https://diamond.jp/articles/-/388228",
+                         "description":  "",
+                         "publishedAt":  "2026-04-21T07:00:00+09:00",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "求人"
                      },
                      {
                          "source":  "東洋経済オンライン",
@@ -185,15 +185,6 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "ITmedia ビジネス",
-                         "title":  "学ばない社員が過半数に 管理職離れが、じわじわ進む職場のいま",
-                         "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news018.html",
-                         "description":  "パーソル総合研究所は、「働く1万人の就業・成長定点調査」を実施した。その結果……。",
-                         "publishedAt":  "2026-04-20T08:00:00+09:00",
-                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
                          "source":  "東洋経済オンライン",
                          "title":  "｢1日10時間労働or給料減額｣社労士が語る《週休3日》普及のカギ | キャリア・教育 | 東洋経済オンライン",
                          "url":  "https://toyokeizai.net/articles/-/939531?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
@@ -204,48 +195,21 @@
                      },
                      {
                          "source":  "ITmedia ビジネス",
+                         "title":  "学ばない社員が過半数に 管理職離れが、じわじわ進む職場のいま",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news018.html",
+                         "description":  "パーソル総合研究所は、「働く1万人の就業・成長定点調査」を実施した。その結果……。",
+                         "publishedAt":  "2026-04-20T08:00:00+09:00",
+                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ITmedia ビジネス",
                          "title":  "2026年度新入社員の“初任給の使い方” 3位「貯蓄」、2位「趣味」、1位は？",
                          "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news012.html",
                          "description":  "ジェイックが2026年度の新入社員を対象に、初任給の使い方について調査した。1位は何だったのか。",
                          "publishedAt":  "2026-04-20T06:00:00+09:00",
                          "fetchedAt":  "2026-04-20T10:38:00+09:00",
                          "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "韓国サムスン、従業員数万人が抗議 ＳＫハイニックスと賞与格差",
-                         "url":  "https://jp.reuters.com/markets/global-markets/74GW7GQO6VPTBIKMUXWU4JXWHI-2026-04-23/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "ヤマト団交拒否、配達委託の個人事業主と和解 「労働者」か認識に溝",
-                         "url":  "https://www.asahi.com/articles/ASV4R2T48V4RULFA019M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T10:19:02+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "米失業保険申請は小幅に増加、レイオフは依然抑制水準",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDY5L2T9NJLS00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自中国の25－29歳で失業率が急上昇、労働市場悪化とAI拡大が影響",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDW14WKK3NYA00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "失業率"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -272,6 +236,42 @@
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自中国の25－29歳で失業率が急上昇、労働市場悪化とAI拡大が影響",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDW14WKK3NYA00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "失業率"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "韓国サムスン、従業員数万人が抗議 ＳＫハイニックスと賞与格差",
+                         "url":  "https://jp.reuters.com/markets/global-markets/74GW7GQO6VPTBIKMUXWU4JXWHI-2026-04-23/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "ヤマト団交拒否、配達委託の個人事業主と和解 「労働者」か認識に溝",
+                         "url":  "https://www.asahi.com/articles/ASV4R2T48V4RULFA019M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T10:19:02+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "米失業保険申請は小幅に増加、レイオフは依然抑制水準",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDY5L2T9NJLS00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
                          "matchKeyword":  "[LLM分類]"
                      }
                  ]
