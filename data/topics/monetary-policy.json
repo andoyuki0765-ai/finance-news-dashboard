@@ -59,30 +59,129 @@
                          "matchKeyword":  "日銀"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "ヘッジファンドの持ち高解消、日本の国債市場に影響も－日銀リポート",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU0QNKJH6V600?srnd=jp-markets",
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＦＲＢ議長候補ウォーシュ氏、経済の想定外に対応必要＝ＳＦ連銀総裁",
+                         "url":  "https://jp.reuters.com/markets/japan/U36C66DR7VJC3EDKTLLUOP52CI-2026-04-17/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
+                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "各国経済政策や中東情勢、海外ノンバンク部門の影響丁寧に見ていく必要ある＝日銀リポート",
+                         "url":  "https://jp.reuters.com/economy/bank-of-japan/DNSZNRIA2BJILDGU4NS5AMJI3U-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "日銀"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "日銀利上げ、4月会合では見送りの公算 中東情勢を考慮＝関係筋",
+                         "url":  "https://jp.reuters.com/world/japan/MJKWUMPTGVPPZHBWEIFLFUWQ74-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "日銀"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "トランプ氏指名の次期FRB議長、就任はいつ？ きょう注目の公聴会",
+                         "url":  "https://www.asahi.com/articles/ASV4P0J8ZV4PUHBI02LM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:09+09:00",
+                         "matchKeyword":  "FRB"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ウォーシュ次期ＦＲＢ議長候補、財務開示を修正 外資ファンド売却の意向",
+                         "url":  "https://jp.reuters.com/markets/japan/JE3HHFNOX5NS5IJXHMSW4QY4LI-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "市況日経平均続伸、和平とAI期待－利上げ観測薄れ債券も上昇",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTGAQKJH6V600?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "利上げ"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "アングル：日銀総裁、タカ派姿勢を維持 4月会合のヒントは示さず",
+                         "url":  "https://jp.reuters.com/world/japan/NR4BB4NQLVJUVKA6ND7JOCTW7U-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "日銀"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＥＣＢ総裁、紛争の影響「不利なシナリオに相当せず」 利上げに慎重姿勢",
+                         "url":  "https://jp.reuters.com/markets/japan/PCEZRRSNJNPJVN6HWUNDUDGW2A-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "利上げ"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＦＲＢの年内利下げ観測再び、ホルムズ開放宣言受け 見通し複雑も",
+                         "url":  "https://jp.reuters.com/markets/commodities/TJ2OGFF2QJNAJOOSWR5EIZOETQ-2026-04-17/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "利下げ"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "米司法省、パウエル議長の捜査打ち切り ウォーシュ氏就任近づく",
+                         "url":  "https://www.asahi.com/articles/ASV4S5DSRV4SUHBI03PM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-25T18:03:11+09:00",
+                         "matchKeyword":  "パウエル"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "日銀「後手」と市場判断なら円安圧力、アジア開発銀の神田氏 財政要因も指摘",
+                         "url":  "https://jp.reuters.com/markets/commodities/HJC3E3WHRBJRLK3FL4R77IU6W4-2026-04-18/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
                          "matchKeyword":  "日銀"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "ECBの政策判断、イラン巡る二重の不確実性で難しく－ラガルド氏",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDSXO3KK3NY900?srnd=jp-markets",
+                         "title":  "トランプ氏の思惑に反し、パウエル氏がFRBにとどまるシナリオとは",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTFR6T9NJLU00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "FRB"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ウォーシュ次期議長、FRBの「独立性にコミット」－上院委で証言へ",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDRJ0ET9NJLW00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "ECB"
+                         "matchKeyword":  "FRB"
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "ＦＲＢ独立性「不可欠」、利下げ確約せず 次期議長指名のウォーシュ氏が公聴会",
-                         "url":  "https://jp.reuters.com/markets/japan/63KMFL63TVJBRECPGJJCL37EVQ-2026-04-21/",
+                         "title":  "ＦＲＢの12月利下げ観測強まる、ホルムズ海峡開放受け インフレ動向見極めも",
+                         "url":  "https://jp.reuters.com/markets/japan/RBIMAJS63VPNLPKKJJJDYQICIU-2026-04-17/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
                          "matchKeyword":  "利下げ"
                      },
                      {
@@ -114,39 +213,39 @@
                      },
                      {
                          "source":  "Bloomberg 日本",
+                         "title":  "ヘッジファンドの持ち高解消、日本の国債市場に影響も－日銀リポート",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU0QNKJH6V600?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
+                         "matchKeyword":  "日銀"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ECBの政策判断、イラン巡る二重の不確実性で難しく－ラガルド氏",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDSXO3KK3NY900?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "ECB"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＦＲＢ独立性「不可欠」、利下げ確約せず 次期議長指名のウォーシュ氏が公聴会",
+                         "url":  "https://jp.reuters.com/markets/japan/63KMFL63TVJBRECPGJJCL37EVQ-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "利下げ"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
                          "title":  "ECB副総裁、金利設定への慎重対応を強調－イラン情勢の不確実性念頭",
                          "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU5SUT9NJLU00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-22T08:50:44+09:00",
                          "matchKeyword":  "ECB"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "情報BOX：ＦＲＢ議長候補ウォーシュ氏の上院公聴会での発言要旨",
-                         "url":  "https://jp.reuters.com/economy/federal-reserve-board/IW3BTKKTVJJJDOLCTDXIIQZBTU-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "為替のインフレ率への影響あり得る、注視している─日銀総裁＝内閣府幹部",
-                         "url":  "https://jp.reuters.com/opinion/3D3HKRM6M5JW5KJ654US2G6C6Y-2026-04-23/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
-                         "matchKeyword":  "日銀"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "銀行株に反発余地、強気シナリオ回帰の鍵は原油動向と日銀利上げ",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDXOV2KJH6V600?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T12:00:42+09:00",
-                         "matchKeyword":  "日銀"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -177,120 +276,30 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "ＦＲＢの12月利下げ観測強まる、ホルムズ海峡開放受け インフレ動向見極めも",
-                         "url":  "https://jp.reuters.com/markets/japan/RBIMAJS63VPNLPKKJJJDYQICIU-2026-04-17/",
+                         "title":  "情報BOX：ＦＲＢ議長候補ウォーシュ氏の上院公聴会での発言要旨",
+                         "url":  "https://jp.reuters.com/economy/federal-reserve-board/IW3BTKKTVJJJDOLCTDXIIQZBTU-2026-04-22/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "利下げ"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "トランプ氏指名の次期FRB議長、就任はいつ？ きょう注目の公聴会",
-                         "url":  "https://www.asahi.com/articles/ASV4P0J8ZV4PUHBI02LM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:09+09:00",
-                         "matchKeyword":  "FRB"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ウォーシュ次期ＦＲＢ議長候補、財務開示を修正 外資ファンド売却の意向",
-                         "url":  "https://jp.reuters.com/markets/japan/JE3HHFNOX5NS5IJXHMSW4QY4LI-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "市況日経平均続伸、和平とAI期待－利上げ観測薄れ債券も上昇",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTGAQKJH6V600?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
-                         "matchKeyword":  "利上げ"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ＦＲＢ議長候補ウォーシュ氏、経済の想定外に対応必要＝ＳＦ連銀総裁",
-                         "url":  "https://jp.reuters.com/markets/japan/U36C66DR7VJC3EDKTLLUOP52CI-2026-04-17/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
+                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "各国経済政策や中東情勢、海外ノンバンク部門の影響丁寧に見ていく必要ある＝日銀リポート",
-                         "url":  "https://jp.reuters.com/economy/bank-of-japan/DNSZNRIA2BJILDGU4NS5AMJI3U-2026-04-21/",
+                         "title":  "為替のインフレ率への影響あり得る、注視している─日銀総裁＝内閣府幹部",
+                         "url":  "https://jp.reuters.com/opinion/3D3HKRM6M5JW5KJ654US2G6C6Y-2026-04-23/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
-                         "matchKeyword":  "日銀"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "日銀利上げ、4月会合では見送りの公算 中東情勢を考慮＝関係筋",
-                         "url":  "https://jp.reuters.com/world/japan/MJKWUMPTGVPPZHBWEIFLFUWQ74-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "日銀"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "アングル：日銀総裁、タカ派姿勢を維持 4月会合のヒントは示さず",
-                         "url":  "https://jp.reuters.com/world/japan/NR4BB4NQLVJUVKA6ND7JOCTW7U-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "日銀"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "日銀「後手」と市場判断なら円安圧力、アジア開発銀の神田氏 財政要因も指摘",
-                         "url":  "https://jp.reuters.com/markets/commodities/HJC3E3WHRBJRLK3FL4R77IU6W4-2026-04-18/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
                          "matchKeyword":  "日銀"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "トランプ氏の思惑に反し、パウエル氏がFRBにとどまるシナリオとは",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTFR6T9NJLU00?srnd=jp-markets",
+                         "title":  "銀行株に反発余地、強気シナリオ回帰の鍵は原油動向と日銀利上げ",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDXOV2KJH6V600?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
-                         "matchKeyword":  "FRB"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "ウォーシュ次期議長、FRBの「独立性にコミット」－上院委で証言へ",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDRJ0ET9NJLW00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "FRB"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ＥＣＢ総裁、紛争の影響「不利なシナリオに相当せず」 利上げに慎重姿勢",
-                         "url":  "https://jp.reuters.com/markets/japan/PCEZRRSNJNPJVN6HWUNDUDGW2A-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "利上げ"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ＦＲＢの年内利下げ観測再び、ホルムズ開放宣言受け 見通し複雑も",
-                         "url":  "https://jp.reuters.com/markets/commodities/TJ2OGFF2QJNAJOOSWR5EIZOETQ-2026-04-17/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "利下げ"
+                         "fetchedAt":  "2026-04-24T12:00:42+09:00",
+                         "matchKeyword":  "日銀"
                      }
                  ]
 }

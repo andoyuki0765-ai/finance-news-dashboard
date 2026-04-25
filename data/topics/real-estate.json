@@ -6,6 +6,24 @@
     "articles":  [
                      {
                          "source":  "ダイヤモンド・オンライン",
+                         "title":  "税務署が見逃さない「5年の壁」、相続直前の“不動産購入”が危ない理由 - ぶっちゃけ相続【増補改訂版】",
+                         "url":  "https://diamond.jp/articles/-/388915",
+                         "description":  "税務署が見逃さない「5年の壁」、相続直前の“不動産購入”が危ない理由。相談実績5000人超えの相続専門税理士が相続の要点を解説する。",
+                         "publishedAt":  "2026-04-25T16:00:00+09:00",
+                         "fetchedAt":  "2026-04-25T18:03:17+09:00",
+                         "matchKeyword":  "不動産"
+                     },
+                     {
+                         "source":  "NHK 経済",
+                         "title":  "消費者物価指数の上昇率拡大 イラン情勢緊迫の影響で【詳報】",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015106981000",
+                         "description":  "イラン情勢の緊迫で、3月の消費者物価指数は、去年の同じ月と比べて上昇しました。今後の物価動向について、専門家は「イラン情勢の緊迫が長期化した場合、消費者に身近な食料品や住宅の価格が上がるおそれがある」…",
+                         "publishedAt":  "2026-04-24T19:29:17+09:00",
+                         "fetchedAt":  "2026-04-25T18:03:09+09:00",
+                         "matchKeyword":  "住宅"
+                     },
+                     {
+                         "source":  "ダイヤモンド・オンライン",
                          "title":  "救命率に1.9倍の差…目の前で人が倒れたとき「真っ先にすべきこと」【救命医が教える】 - News\u0026Analysis",
                          "url":  "https://diamond.jp/articles/-/388554",
                          "description":  "救急車が現場に到着するまでにかかる時間は、全国平均でおよそ10分。現場が高層マンションの場合など、救急隊が現地に到着して傷病者に接するまでにはさらに時間を要することがある。救命の可能性は、救急隊を待つ間に現場に居合わせた人（バイスタンダー）が応急手当てを行えるかどうかで大きく変わるのだ。救急医療の最前線で働く医師に、緊急事態において私たちができることを聞いた。",
@@ -132,6 +150,15 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
+                         "title":  "マクロスコープ：マンション高騰、中東危機で上振れ懸念 ますます高嶺の花に",
+                         "url":  "https://jp.reuters.com/business/W5733GSGNBPTXITS5N7GILGOCE-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "マンション"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
                          "title":  "首都圏マンション発売、3月は35.5%減 価格下落も1億円台維持＝不動産経済研",
                          "url":  "https://jp.reuters.com/markets/japan/JKXAC7HLNRMFTDWW7WAYQMGULA-2026-04-20/",
                          "description":  "",
@@ -141,12 +168,12 @@
                      },
                      {
                          "source":  "朝日新聞 経済",
-                         "title":  "木質デザインのビル着工 大阪・中之島、30年近い開発が最終段階",
-                         "url":  "https://www.asahi.com/articles/ASV4P2CD6V4PPLFA00DM.html?ref=rss",
+                         "title":  "東京23区の新築マンション、平均1億3784万円で最高値 昨年度",
+                         "url":  "https://www.asahi.com/articles/ASV4N1RMZV4NULFA005M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
-                         "matchKeyword":  "[LLM分類]"
+                         "fetchedAt":  "2026-04-20T18:00:03+09:00",
+                         "matchKeyword":  "マンション"
                      },
                      {
                          "source":  "Bloomberg 日本",
@@ -159,12 +186,12 @@
                      },
                      {
                          "source":  "朝日新聞 経済",
-                         "title":  "東京23区の新築マンション、平均1億3784万円で最高値 昨年度",
-                         "url":  "https://www.asahi.com/articles/ASV4N1RMZV4NULFA005M.html?ref=rss",
+                         "title":  "木質デザインのビル着工 大阪・中之島、30年近い開発が最終段階",
+                         "url":  "https://www.asahi.com/articles/ASV4P2CD6V4PPLFA00DM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:03+09:00",
-                         "matchKeyword":  "マンション"
+                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -174,15 +201,6 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-22T08:50:43+09:00",
                          "matchKeyword":  "住宅"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "マクロスコープ：マンション高騰、中東危機で上振れ懸念 ますます高嶺の花に",
-                         "url":  "https://jp.reuters.com/business/W5733GSGNBPTXITS5N7GILGOCE-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "マンション"
                      }
                  ]
 }
