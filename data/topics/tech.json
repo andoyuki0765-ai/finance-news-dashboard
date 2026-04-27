@@ -5,10 +5,37 @@
     "description":  "半導体・AI・テック大手の動向",
     "articles":  [
                      {
+                         "source":  "東洋経済オンライン",
+                         "title":  "アップルが環境を｢語らなくなった｣本当の理由､リサ･ジャクソン退任後に進む\"脱政治化\"と現場組み込みの戦略転換 | ビジネス | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/941960?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "毎年進化を遂げるアップルの環境報告書。2026年は圧倒的な成果とともに､カリスマ的旗手リサ･ジャクソンの不在という大きな変化も表れました。環境政策の語り口が変わった背景には何があったのか。経営と環境…",
+                         "publishedAt":  "2026-04-27T11:00:00+09:00",
+                         "fetchedAt":  "2026-04-27T12:00:05+09:00",
+                         "matchKeyword":  "アップル"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "人材育成のプロ｢AIを使わせない新人研修の注文が増えている｣ 背景に\"AIコピペ新人\"の底知れないリスク | キャリア・教育 | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/941467?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "生成AIの普及で新人研修の現場に生まれた\"AIコピペ新人\"という新たなリスク。表面上は優秀に見えても､基礎を知らず品質管理ができないままAIを頼る若手が実務で深刻な問題を引き起こし始めています。人材…",
+                         "publishedAt":  "2026-04-27T10:30:00+09:00",
+                         "fetchedAt":  "2026-04-27T12:00:05+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
                          "source":  "ITmedia ビジネス",
                          "title":  "「年間120万時間削減」 丸紅の生成AI活用が成果を出せる「4つの理由」",
                          "url":  "https://www.itmedia.co.jp/business/articles/2604/27/news046.html",
                          "description":  "総合商社・丸紅がDXに取り組む理由は「事業を成長させるため」と、とてもシンプルだ。情報、物流、食料、金属、エネルギーなど事業領域は多岐にわたる同社がDXで成果を出せる理由を語る。",
+                         "publishedAt":  "2026-04-27T08:00:00+09:00",
+                         "fetchedAt":  "2026-04-27T09:01:19+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "まるで外商？ 三越伊勢丹がECで強化する「パーソナライズAI」 効果は？",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/27/news018.html",
+                         "description":  "三越伊勢丹のEC強化施策の一つにパーソナライズAI機能がある。AIを活用し、これまでのよくあるおすすめ機能から、百貨店の強みを生かした機能へと進化させたという。",
                          "publishedAt":  "2026-04-27T08:00:00+09:00",
                          "fetchedAt":  "2026-04-27T09:01:19+09:00",
                          "matchKeyword":  "AI"
@@ -21,15 +48,6 @@
                          "publishedAt":  "2026-04-27T08:00:00+09:00",
                          "fetchedAt":  "2026-04-27T09:01:19+09:00",
                          "matchKeyword":  "Google"
-                     },
-                     {
-                         "source":  "ITmedia ビジネス",
-                         "title":  "まるで外商？ 三越伊勢丹がECで強化する「パーソナライズAI」 効果は？",
-                         "url":  "https://www.itmedia.co.jp/business/articles/2604/27/news018.html",
-                         "description":  "三越伊勢丹のEC強化施策の一つにパーソナライズAI機能がある。AIを活用し、これまでのよくあるおすすめ機能から、百貨店の強みを生かした機能へと進化させたという。",
-                         "publishedAt":  "2026-04-27T08:00:00+09:00",
-                         "fetchedAt":  "2026-04-27T09:01:19+09:00",
-                         "matchKeyword":  "AI"
                      },
                      {
                          "source":  "東洋経済オンライン",
@@ -231,18 +249,18 @@
                      },
                      {
                          "source":  "ITmedia ビジネス",
-                         "title":  "“ドラえもんのような世界”目指す 富士通が米中に伍するための“フィジカルAI”戦略の正体",
-                         "url":  "https://www.itmedia.co.jp/business/articles/2604/24/news057.html",
-                         "description":  "富士通が「フィジカルAI」の研究戦略を発表した。2030年に“ドラえもんのような世界”を目指すという。激化するフィジカルAI開発競争をどう乗り越えるのか。",
+                         "title":  "「開発時間70％削減」「新機能リリース24→5日に短縮」 Claude Codeが開発者に選ばれる、納得の理由",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/24/news018.html",
+                         "description":  "OpenAIに代わって台頭し始めたAnthropic。同社の生成AI「Claude Code」によって成果を上げる企業が登場している。本稿では、楽天とマネーフォワードの活用方法を紹介する。",
                          "publishedAt":  "2026-04-24T07:00:00+09:00",
                          "fetchedAt":  "2026-04-24T07:39:00+09:00",
                          "matchKeyword":  "AI"
                      },
                      {
                          "source":  "ITmedia ビジネス",
-                         "title":  "「開発時間70％削減」「新機能リリース24→5日に短縮」 Claude Codeが開発者に選ばれる、納得の理由",
-                         "url":  "https://www.itmedia.co.jp/business/articles/2604/24/news018.html",
-                         "description":  "OpenAIに代わって台頭し始めたAnthropic。同社の生成AI「Claude Code」によって成果を上げる企業が登場している。本稿では、楽天とマネーフォワードの活用方法を紹介する。",
+                         "title":  "“ドラえもんのような世界”目指す 富士通が米中に伍するための“フィジカルAI”戦略の正体",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/24/news057.html",
+                         "description":  "富士通が「フィジカルAI」の研究戦略を発表した。2030年に“ドラえもんのような世界”を目指すという。激化するフィジカルAI開発競争をどう乗り越えるのか。",
                          "publishedAt":  "2026-04-24T07:00:00+09:00",
                          "fetchedAt":  "2026-04-24T07:39:00+09:00",
                          "matchKeyword":  "AI"
@@ -321,18 +339,18 @@
                      },
                      {
                          "source":  "ITmedia ビジネス",
-                         "title":  "生成AI利用率を3→7割にアップ 日清食品が全管理職に伝えた「3つの心得」",
-                         "url":  "https://www.itmedia.co.jp/business/articles/2604/23/news043.html",
-                         "description":  "安藤CEOの直感から、日清食品HDの生成AI活用はスタートした。しかし、現場では生成AIの利用率が約3割からなかなか上がらないという課題に直面。生成AIの活用率を大幅に引き上げた手法とは？",
+                         "title":  "「ライバルが使えば勝てない」 日清食品HDの経営陣を驚かせた「AIエージェントの衝撃」",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/23/news044.html",
+                         "description":  "社内専用の生成AIツール「NISSIN AI-chat」を内製開発し、2023年4月から利用を開始した日清食品HD。生成AI導入に先立ち、2021年から「全社統合データベース」の構築に取り組んできた同社には、ある“危機感”があった。",
                          "publishedAt":  "2026-04-23T08:00:00+09:00",
                          "fetchedAt":  "2026-04-23T09:03:56+09:00",
                          "matchKeyword":  "AI"
                      },
                      {
                          "source":  "ITmedia ビジネス",
-                         "title":  "「ライバルが使えば勝てない」 日清食品HDの経営陣を驚かせた「AIエージェントの衝撃」",
-                         "url":  "https://www.itmedia.co.jp/business/articles/2604/23/news044.html",
-                         "description":  "社内専用の生成AIツール「NISSIN AI-chat」を内製開発し、2023年4月から利用を開始した日清食品HD。生成AI導入に先立ち、2021年から「全社統合データベース」の構築に取り組んできた同社には、ある“危機感”があった。",
+                         "title":  "生成AI利用率を3→7割にアップ 日清食品が全管理職に伝えた「3つの心得」",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/23/news043.html",
+                         "description":  "安藤CEOの直感から、日清食品HDの生成AI活用はスタートした。しかし、現場では生成AIの利用率が約3割からなかなか上がらないという課題に直面。生成AIの活用率を大幅に引き上げた手法とは？",
                          "publishedAt":  "2026-04-23T08:00:00+09:00",
                          "fetchedAt":  "2026-04-23T09:03:56+09:00",
                          "matchKeyword":  "AI"
@@ -483,21 +501,21 @@
                      },
                      {
                          "source":  "ITmedia ビジネス",
-                         "title":  "歯磨き市場で10年連続1位 シュミテクトが貫く「市場創造」の作法",
-                         "url":  "https://www.itmedia.co.jp/business/articles/2604/22/news023.html",
-                         "description":  "日本のオーラルケア市場において、歯磨き関連で10年連続売上高1位の歯磨き粉「シュミテクト」。成熟しきった日本の歯磨き市場において、なぜ独走を続けられるのか。その裏には、社会構造の変化から潜在ニーズを掘り起こす「市場創造」の視点と、独自AIを駆使して開発プロセスを短縮したデータ経営の融合があった。責任者にインタビューする。",
-                         "publishedAt":  "2026-04-22T07:00:00+09:00",
-                         "fetchedAt":  "2026-04-22T08:50:40+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "ITmedia ビジネス",
                          "title":  "自治体DXを阻む「三層分離」の壁 国主導のゼロトラスト移行に、現場が抱く“決定的な違和感”",
                          "url":  "https://www.itmedia.co.jp/business/articles/2604/22/news014.html",
                          "description":  "セキュリティ強化を目的に導入された「三層分離」。しかし今、自治体の現場では業務効率の低下やクラウド活用の制約といった新たな課題が浮き彫りになっている。CIO補佐官として全国の自治体を支援する筆者が、三層分離の実態と見直しの論点を整理する。",
                          "publishedAt":  "2026-04-22T07:00:00+09:00",
                          "fetchedAt":  "2026-04-22T08:50:40+09:00",
                          "matchKeyword":  "クラウド"
+                     },
+                     {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "歯磨き市場で10年連続1位 シュミテクトが貫く「市場創造」の作法",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/22/news023.html",
+                         "description":  "日本のオーラルケア市場において、歯磨き関連で10年連続売上高1位の歯磨き粉「シュミテクト」。成熟しきった日本の歯磨き市場において、なぜ独走を続けられるのか。その裏には、社会構造の変化から潜在ニーズを掘り起こす「市場創造」の視点と、独自AIを駆使して開発プロセスを短縮したデータ経営の融合があった。責任者にインタビューする。",
+                         "publishedAt":  "2026-04-22T07:00:00+09:00",
+                         "fetchedAt":  "2026-04-22T08:50:40+09:00",
+                         "matchKeyword":  "AI"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -546,6 +564,51 @@
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
+                         "title":  "【NISA投信グランプリ2026】人気でもダメ!?新NISAで買える“本当にいい投信”だけが残る「3つのルール」とは？ - ダイヤモンドZAi NISA投信グランプリ2026",
+                         "url":  "https://diamond.jp/articles/-/388103",
+                         "description":  "",
+                         "publishedAt":  "2026-04-21T10:00:00+09:00",
+                         "fetchedAt":  "2026-04-21T12:00:03+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "【NISA投信グランプリ2026・新興国株部門】最優秀賞は南米の小国まで世界中にくまなく投資する「ピクテ新興国インカム株式ファンド（1年決算型）」！ - ダイヤモンドZAi NISA投信グランプリ2026",
+                         "url":  "https://diamond.jp/articles/-/388098",
+                         "description":  "",
+                         "publishedAt":  "2026-04-21T10:00:00+09:00",
+                         "fetchedAt":  "2026-04-21T12:00:03+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "【NISA投信グランプリ2026・日本株総合部門】最優秀賞は独自の評価モデルで“真の割安株”を射抜く「キャッシュフロー経営評価オープン［愛称：選球眼］」！ - ダイヤモンドZAi NISA投信グランプリ2026",
+                         "url":  "https://diamond.jp/articles/-/388052",
+                         "description":  "",
+                         "publishedAt":  "2026-04-21T10:00:00+09:00",
+                         "fetchedAt":  "2026-04-21T12:00:03+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "【NISA投信グランプリ2026・世界株部門】最優秀賞はAIによる膨大な分析とリスクを抑えた運用が特徴の「AI（人工知能）活用型世界株ファンド［愛称：ディープAI］」！ - ダイヤモンドZAi NISA投信グランプリ2026",
+                         "url":  "https://diamond.jp/articles/-/388097",
+                         "description":  "",
+                         "publishedAt":  "2026-04-21T10:00:00+09:00",
+                         "fetchedAt":  "2026-04-21T12:00:03+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "【NISA投信グランプリ2026・日本中小型株部門】最優秀賞は株価が極端に割安な有望銘柄に集中投資する「イーストスプリング・ジャパン中小型厳選バリュー株ファンド」！ - ダイヤモンドZAi NISA投信グランプリ2026",
+                         "url":  "https://diamond.jp/articles/-/388095",
+                         "description":  "",
+                         "publishedAt":  "2026-04-21T10:00:00+09:00",
+                         "fetchedAt":  "2026-04-21T12:00:03+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "ダイヤモンド・オンライン",
                          "title":  "【NISA投信グランプリ2026・もっとがんばりま賞】「人気だから安心」ではない…有名投資信託3本に漂う“報われない運用”の現実 - ダイヤモンドZAi NISA投信グランプリ2026",
                          "url":  "https://diamond.jp/articles/-/388101",
                          "description":  "",
@@ -564,17 +627,8 @@
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
-                         "title":  "【NISA投信グランプリ2026・日本中小型株部門】最優秀賞は株価が極端に割安な有望銘柄に集中投資する「イーストスプリング・ジャパン中小型厳選バリュー株ファンド」！ - ダイヤモンドZAi NISA投信グランプリ2026",
-                         "url":  "https://diamond.jp/articles/-/388095",
-                         "description":  "",
-                         "publishedAt":  "2026-04-21T10:00:00+09:00",
-                         "fetchedAt":  "2026-04-21T12:00:03+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "ダイヤモンド・オンライン",
-                         "title":  "【NISA投信グランプリ2026・リート部門】国内最優秀賞は徹底したデータ主義で割安銘柄を厳選する「フィデリティ・Jリート・アクティブ・ファンド（資産成長型）」！ - ダイヤモンドZAi NISA投信グランプリ2026",
-                         "url":  "https://diamond.jp/articles/-/388099",
+                         "title":  "【NISA投信グランプリ2026・番外編】「オルカン」やS＆P500型など新NISAで買えるインデックス投資信託の信託報酬ランキング！低コスト投資信託が集結 - ダイヤモンドZAi NISA投信グランプリ2026",
+                         "url":  "https://diamond.jp/articles/-/388102",
                          "description":  "",
                          "publishedAt":  "2026-04-21T10:00:00+09:00",
                          "fetchedAt":  "2026-04-21T12:00:03+09:00",
@@ -591,44 +645,8 @@
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
-                         "title":  "【NISA投信グランプリ2026・番外編】「オルカン」やS＆P500型など新NISAで買えるインデックス投資信託の信託報酬ランキング！低コスト投資信託が集結 - ダイヤモンドZAi NISA投信グランプリ2026",
-                         "url":  "https://diamond.jp/articles/-/388102",
-                         "description":  "",
-                         "publishedAt":  "2026-04-21T10:00:00+09:00",
-                         "fetchedAt":  "2026-04-21T12:00:03+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "ダイヤモンド・オンライン",
-                         "title":  "【NISA投信グランプリ2026・新興国株部門】最優秀賞は南米の小国まで世界中にくまなく投資する「ピクテ新興国インカム株式ファンド（1年決算型）」！ - ダイヤモンドZAi NISA投信グランプリ2026",
-                         "url":  "https://diamond.jp/articles/-/388098",
-                         "description":  "",
-                         "publishedAt":  "2026-04-21T10:00:00+09:00",
-                         "fetchedAt":  "2026-04-21T12:00:03+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "ダイヤモンド・オンライン",
-                         "title":  "【NISA投信グランプリ2026】人気でもダメ!?新NISAで買える“本当にいい投信”だけが残る「3つのルール」とは？ - ダイヤモンドZAi NISA投信グランプリ2026",
-                         "url":  "https://diamond.jp/articles/-/388103",
-                         "description":  "",
-                         "publishedAt":  "2026-04-21T10:00:00+09:00",
-                         "fetchedAt":  "2026-04-21T12:00:03+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "ダイヤモンド・オンライン",
-                         "title":  "【NISA投信グランプリ2026・世界株部門】最優秀賞はAIによる膨大な分析とリスクを抑えた運用が特徴の「AI（人工知能）活用型世界株ファンド［愛称：ディープAI］」！ - ダイヤモンドZAi NISA投信グランプリ2026",
-                         "url":  "https://diamond.jp/articles/-/388097",
-                         "description":  "",
-                         "publishedAt":  "2026-04-21T10:00:00+09:00",
-                         "fetchedAt":  "2026-04-21T12:00:03+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "ダイヤモンド・オンライン",
-                         "title":  "【NISA投信グランプリ2026・日本株総合部門】最優秀賞は独自の評価モデルで“真の割安株”を射抜く「キャッシュフロー経営評価オープン［愛称：選球眼］」！ - ダイヤモンドZAi NISA投信グランプリ2026",
-                         "url":  "https://diamond.jp/articles/-/388052",
+                         "title":  "【NISA投信グランプリ2026・リート部門】国内最優秀賞は徹底したデータ主義で割安銘柄を厳選する「フィデリティ・Jリート・アクティブ・ファンド（資産成長型）」！ - ダイヤモンドZAi NISA投信グランプリ2026",
+                         "url":  "https://diamond.jp/articles/-/388099",
                          "description":  "",
                          "publishedAt":  "2026-04-21T10:00:00+09:00",
                          "fetchedAt":  "2026-04-21T12:00:03+09:00",
@@ -653,21 +671,21 @@
                          "matchKeyword":  "AI"
                      },
                      {
-                         "source":  "東洋経済オンライン",
-                         "title":  "アマゾンがアンソロピックに50億ドル追加投資､将来的には最大200億ドルに拡大 | ビジネス | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/942107?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "アマゾンとAIスタートアップのアンソロピックが､驚異的な規模で提携を拡大しました。アマゾンは最大200億ドルの追加投資を表明し､AIツール開発とクラウド技術で新たな時代を切り拓きます。巨大資本の動き…",
-                         "publishedAt":  "2026-04-21T07:00:00+09:00",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
                          "source":  "ITmedia ビジネス",
                          "title":  "LINEヤフー、新AIエージェントを発表 Gemini、ChatGPTに「負けない強み」とは？",
                          "url":  "https://www.itmedia.co.jp/business/articles/2604/21/news048.html",
                          "description":  "LINEヤフーは4月20日、AIエージェント「Agent i」の提供を始めた。ChatGPTやGeminiに負けない強みとは何なのか。",
                          "publishedAt":  "2026-04-21T07:00:00+09:00",
                          "fetchedAt":  "2026-04-21T09:10:25+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "アマゾンがアンソロピックに50億ドル追加投資､将来的には最大200億ドルに拡大 | ビジネス | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/942107?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "アマゾンとAIスタートアップのアンソロピックが､驚異的な規模で提携を拡大しました。アマゾンは最大200億ドルの追加投資を表明し､AIツール開発とクラウド技術で新たな時代を切り拓きます。巨大資本の動き…",
+                         "publishedAt":  "2026-04-21T07:00:00+09:00",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
                          "matchKeyword":  "AI"
                      },
                      {
@@ -734,19 +752,19 @@
                          "matchKeyword":  "AI"
                      },
                      {
-                         "source":  "ダイヤモンド・オンライン",
-                         "title":  "「なぜ損する？」が一気に解決、投資で負ける人の“思い込み”の正体とは - ホットニュース from ZAi",
-                         "url":  "https://diamond.jp/articles/-/388397",
-                         "description":  "",
+                         "source":  "東洋経済オンライン",
+                         "title":  "AIへの指示が下手な人は｢仕事の構造｣が見えていない。周りから高く評価される｢たたき台｣を生むプロンプト術 | キャリア・教育 | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/941249?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "生成AIの進化で｢AIに仕事を任せればいい｣と考えるビジネスパーソンが増えていますが､良いアウトプットを得る鍵は｢たたき台｣の質にあります。どの環境でも活躍する人が実践する\"叩かれるたたき台\"の極意…",
                          "publishedAt":  "2026-04-20T12:00:00+09:00",
                          "fetchedAt":  "2026-04-20T18:00:03+09:00",
                          "matchKeyword":  "AI"
                      },
                      {
-                         "source":  "東洋経済オンライン",
-                         "title":  "AIへの指示が下手な人は｢仕事の構造｣が見えていない。周りから高く評価される｢たたき台｣を生むプロンプト術 | キャリア・教育 | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/941249?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "生成AIの進化で｢AIに仕事を任せればいい｣と考えるビジネスパーソンが増えていますが､良いアウトプットを得る鍵は｢たたき台｣の質にあります。どの環境でも活躍する人が実践する\"叩かれるたたき台\"の極意…",
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "「なぜ損する？」が一気に解決、投資で負ける人の“思い込み”の正体とは - ホットニュース from ZAi",
+                         "url":  "https://diamond.jp/articles/-/388397",
+                         "description":  "",
                          "publishedAt":  "2026-04-20T12:00:00+09:00",
                          "fetchedAt":  "2026-04-20T18:00:03+09:00",
                          "matchKeyword":  "AI"
@@ -770,6 +788,15 @@
                          "matchKeyword":  "AI"
                      },
                      {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "新入社員はサイバー攻撃者にとって格好の標的？ ニセ社長やAI詐欺、巧妙化する手口への対策",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news014.html",
+                         "description":  "新年度を迎え、多くの企業で新入社員が現場に加わる4月。組織に新たな活力をもたらす一方で、サイバーセキュリティの観点では見過ごせないリスクも生じている。企業はどのように備えるべきなのか。",
+                         "publishedAt":  "2026-04-20T07:00:00+09:00",
+                         "fetchedAt":  "2026-04-20T09:47:38+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
                          "source":  "東洋経済オンライン",
                          "title":  "【米国株増収率ランキング】エヌビディアを超える高成長企業は？ AI軸に次世代テクノロジーを担うスター候補が続々 | 政治・経済・投資 | 東洋経済オンライン",
                          "url":  "https://toyokeizai.net/articles/-/941658?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
@@ -788,228 +815,48 @@
                          "matchKeyword":  "AI"
                      },
                      {
-                         "source":  "ITmedia ビジネス",
-                         "title":  "新入社員はサイバー攻撃者にとって格好の標的？ ニセ社長やAI詐欺、巧妙化する手口への対策",
-                         "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news014.html",
-                         "description":  "新年度を迎え、多くの企業で新入社員が現場に加わる4月。組織に新たな活力をもたらす一方で、サイバーセキュリティの観点では見過ごせないリスクも生じている。企業はどのように備えるべきなのか。",
-                         "publishedAt":  "2026-04-20T07:00:00+09:00",
-                         "fetchedAt":  "2026-04-20T09:47:38+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "危険すぎて非公開のAI「ミトス」 システム弱点を特定、日本も警戒",
-                         "url":  "https://www.asahi.com/articles/ASV4P1GTLV4PUHBI027M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:41+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "進むか「AI配転」 事務仕事減らし、営業強化へ 異業種に参入も",
-                         "url":  "https://www.asahi.com/articles/ASV4R2W8VV4RULLI00KM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-25T18:03:11+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "日経平均が初の6万円、ＡＩ・半導体株がけん引 決算見極めムードも",
-                         "url":  "https://jp.reuters.com/markets/japan/PRXYLGQ4VVKHBGU4PFLVRTH624-2026-04-23/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T12:00:04+09:00",
-                         "matchKeyword":  "半導体"
-                     },
-                     {
                          "source":  "Bloomberg 日本",
-                         "title":  "独自中国の25－29歳で失業率が急上昇、労働市場悪化とAI拡大が影響",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDW14WKK3NYA00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "アップル、クックCEOが退任 ターナス氏が昇格",
-                         "url":  "https://www.asahi.com/articles/ASV4N73N1V4NUHBI00DM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "アップル"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "グーグルマップ、悪質な口コミ対策強化 AIが虚偽投稿をすぐに把握",
-                         "url":  "https://www.asahi.com/articles/ASV4R240YV4RULFA01HM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:01+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "日経平均、終値5万9585円で最高値を更新 AI・半導体株に買い",
-                         "url":  "https://www.asahi.com/articles/ASV4Q0Q2KV4QULFA002M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:00:05+09:00",
-                         "matchKeyword":  "半導体"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "AIミュトスが突く社会のバグ「猶予は1～2年」 研究者が警鐘",
-                         "url":  "https://www.asahi.com/articles/ASV4S3R4TV4SULFA00QM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-25T18:03:11+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米テスラ、インテル先端半導体製造技術「１４Ａ」初の主要顧客に",
-                         "url":  "https://jp.reuters.com/markets/japan/F4Y6JSY67JLMJMYI33E7I6CSBI-2026-04-23/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T12:00:04+09:00",
-                         "matchKeyword":  "半導体"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "日経平均6万円、AI偏重の熱狂 投資家に戸惑い「ついていくしか」",
-                         "url":  "https://www.asahi.com/articles/ASV4R42W7V4RULFA01YM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:01+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "焦点：ＥＶ失速の電池メーカー、電力貯蔵事業に転換模索も高い壁",
-                         "url":  "https://jp.reuters.com/markets/global-markets/SDRHLKYECJP3FPGZLJZF7VY5GI-2026-04-18/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "インテル株、2000年以来の高値－再建期待で回復基調続く",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-17/TDN6R5T9NJLW00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "インテル"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "市況株式上昇、インテル決算受け収益期待－長期金利は上昇",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-24/TDYZ7AT9NJLX00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T12:00:42+09:00",
-                         "matchKeyword":  "インテル"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "日本市場、中東懸念残るもAI期待で株高へ－債券は月末買い期待が支え",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDVWCRT96OSH00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T12:00:05+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "片山金融相、高性能AI「ミュトス」めぐり金融業界と24日協議",
-                         "url":  "https://www.asahi.com/articles/ASV4Q2T05V4QULFA029M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自「中国のNetflix」愛奇芸、AIで動画コンテンツ制作へ－SNS型に転換",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDRYOKT9NJLS00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T12:01:45+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "スペースX、AI新興企業カーソルを買収する権利取得－600億ドル",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDV7MVKJH6V600?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T12:01:45+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "JPモルガン、S\u0026P500の年末目標値を引き上げ－AIへの関心再燃追い風",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU8QUKJH6V600?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "リガク、米半導体装置のオントゥ・イノベーションが筆頭株主に",
-                         "url":  "https://jp.reuters.com/markets/global-markets/PEYGGPY3EVJ6PE7FHTSCS24JKE-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
-                         "matchKeyword":  "半導体"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "トップの「考え方のくせ」まで再現 DeNAが「AI社長」本格展開",
-                         "url":  "https://www.asahi.com/articles/ASV4P2TG7V4PULFA00HM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:41+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "LINEに新たなAIエージェント 顧客接点の「入り口」へ各社強化",
-                         "url":  "https://www.asahi.com/articles/ASV4N2VZSV4NULFA03CM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "韓国KOSPIが過去最高値、米イラン和平合意を期待－AI巡る楽観継続",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTI08KJH6V400?srnd=jp-markets",
+                         "title":  "エヌビディアのサプライヤー、勝宏科技が香港に重複上場－株価急伸",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTM4DKJH6V500?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "エヌビディア"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米国株式市場＝Ｓ＆Ｐとナスダック最高値、インテル急伸 イラン協議期待も追い風",
+                         "url":  "https://jp.reuters.com/markets/japan/ZAFPAMNAENOS5H5CFHB53YPTWQ-2026-04-24/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-25T18:03:23+09:00",
+                         "matchKeyword":  "インテル"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "日経平均は3日続伸、中東懸念後退で最高値 ＡＩ・半導体株高い",
+                         "url":  "https://jp.reuters.com/markets/japan/VXIU4FM7PNMRPHVDQ43DR44MJU-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
+                         "matchKeyword":  "半導体"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "AI時代「革新者」への交代の必然 アップルのティム・クック氏退任",
+                         "url":  "https://www.asahi.com/articles/ASV4P1QMYV4PUHBI00RM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:09+09:00",
                          "matchKeyword":  "AI"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "MSCI新興国株式、イランとの戦争受けた下落分を帳消し－AI巡る楽観で",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDRUVYT9NJLU00?srnd=jp-markets",
+                         "title":  "日本市場、イラン情勢緊張で円下落へ－債券上値重い、AI期待で株堅調",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-19/TDREPSKJH6V400?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "アンソロピックの非公開AI「ミトス」に無許可アクセスか 米報道",
-                         "url":  "https://www.asahi.com/articles/ASV4Q0CNTV4QUHBI00JM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T12:01:32+09:00",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
                          "matchKeyword":  "AI"
                      },
                      {
@@ -1022,6 +869,15 @@
                          "matchKeyword":  "半導体"
                      },
                      {
+                         "source":  "朝日新聞 経済",
+                         "title":  "アンソロピックの非公開AI「ミトス」に無許可アクセスか 米報道",
+                         "url":  "https://www.asahi.com/articles/ASV4Q0CNTV4QUHBI00JM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T12:01:32+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
                          "source":  "Bloomberg 日本",
                          "title":  "メモリー株、AI需要で「スーパーサイクル」論争－利益急増でも低PER",
                          "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDVXS1T9NJLY00?srnd=jp-markets",
@@ -1029,15 +885,6 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-23T09:03:57+09:00",
                          "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "日米の半導体企業12社、米ビッグテックのおひざ元に共同開発拠点",
-                         "url":  "https://www.asahi.com/articles/ASV4R1Q0TV4RUHBI00FM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:01+09:00",
-                         "matchKeyword":  "半導体"
                      },
                      {
                          "source":  "Bloomberg 日本",
@@ -1049,93 +896,21 @@
                          "matchKeyword":  "半導体"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米国株式市場＝Ｓ＆Ｐとナスダック最高値、インテル急伸 イラン協議期待も追い風",
-                         "url":  "https://jp.reuters.com/markets/japan/ZAFPAMNAENOS5H5CFHB53YPTWQ-2026-04-24/",
+                         "source":  "朝日新聞 経済",
+                         "title":  "日米の半導体企業12社、米ビッグテックのおひざ元に共同開発拠点",
+                         "url":  "https://www.asahi.com/articles/ASV4R1Q0TV4RUHBI00FM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-25T18:03:23+09:00",
-                         "matchKeyword":  "インテル"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "エヌビディアのサプライヤー、勝宏科技が香港に重複上場－株価急伸",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTM4DKJH6V500?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
-                         "matchKeyword":  "エヌビディア"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "日経平均は3日続伸、中東懸念後退で最高値 ＡＩ・半導体株高い",
-                         "url":  "https://jp.reuters.com/markets/japan/VXIU4FM7PNMRPHVDQ43DR44MJU-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
+                         "fetchedAt":  "2026-04-24T07:39:01+09:00",
                          "matchKeyword":  "半導体"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "日本市場、イラン情勢緊張で円下落へ－債券上値重い、AI期待で株堅調",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-19/TDREPSKJH6V400?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
                          "source":  "朝日新聞 経済",
-                         "title":  "AI時代「革新者」への交代の必然 アップルのティム・クック氏退任",
-                         "url":  "https://www.asahi.com/articles/ASV4P1QMYV4PUHBI00RM.html?ref=rss",
+                         "title":  "納車予定だったEV、突然の発売中止 ホンダの社長が認めた「反省」",
+                         "url":  "https://www.asahi.com/articles/ASV4R04CQV4RULFA02BM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:09+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "AIミュトスは「今そこにある危機」 金融業界トップら初の官民会議",
-                         "url":  "https://www.asahi.com/articles/ASV4S31DBV4SULFA00NM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-25T18:03:11+09:00",
-                         "matchKeyword":  "AI"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米インテル、4─6月売上高見通しが予想上回る ＡＩデータセンター需要が追い風",
-                         "url":  "https://jp.reuters.com/markets/world-indices/G7CYDAVNNJMYVFGTW6KRMIOLUE-2026-04-23/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
-                         "matchKeyword":  "インテル"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "アップル次期ＣＥＯにターナス氏、ハードウェア責任者 クック氏執行会長に",
-                         "url":  "https://jp.reuters.com/markets/global-markets/DQPXYVZDMNNPNKOOFLOVYP7U5E-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "アップル"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "日経平均は反発で寄り付く、半導体株底堅い",
-                         "url":  "https://jp.reuters.com/markets/japan/RKKL57PZRFKVHF5S2VDHI4UJXY-2026-04-24/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T12:00:42+09:00",
-                         "matchKeyword":  "半導体"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米アルファベット、アンソロピックに最大400億ドル追加投資も＝報道",
-                         "url":  "https://jp.reuters.com/markets/bonds/GLK7TE6NAVPSLIUZHYSOMCUXBE-2026-04-24/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-27T09:07:06+09:00",
+                         "fetchedAt":  "2026-04-27T09:07:05+09:00",
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
@@ -1149,20 +924,20 @@
                      },
                      {
                          "source":  "朝日新聞 経済",
-                         "title":  "納車予定だったEV、突然の発売中止 ホンダの社長が認めた「反省」",
-                         "url":  "https://www.asahi.com/articles/ASV4R04CQV4RULFA02BM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-27T09:07:05+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
                          "title":  "AI活用進める大企業 約6割「配転」「人員抑制」の可能性と回答",
                          "url":  "https://www.asahi.com/articles/ASV4R04MKV4RULZU003M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-25T18:03:11+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "日本市場、AIブーム期待で株高－日米中銀会合控え円と債券もみ合いへ",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-26/TDZPWTT9NJLU00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-27T12:00:06+09:00",
                          "matchKeyword":  "AI"
                      },
                      {
@@ -1173,6 +948,258 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-22T18:39:36+09:00",
                          "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米インテル、4─6月売上高見通しが予想上回る ＡＩデータセンター需要が追い風",
+                         "url":  "https://jp.reuters.com/markets/world-indices/G7CYDAVNNJMYVFGTW6KRMIOLUE-2026-04-23/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
+                         "matchKeyword":  "インテル"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "AIミュトスは「今そこにある危機」 金融業界トップら初の官民会議",
+                         "url":  "https://www.asahi.com/articles/ASV4S31DBV4SULFA00NM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-25T18:03:11+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "アップル次期ＣＥＯにターナス氏、ハードウェア責任者 クック氏執行会長に",
+                         "url":  "https://jp.reuters.com/markets/global-markets/DQPXYVZDMNNPNKOOFLOVYP7U5E-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "アップル"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米アルファベット、アンソロピックに最大400億ドル追加投資も＝報道",
+                         "url":  "https://jp.reuters.com/markets/bonds/GLK7TE6NAVPSLIUZHYSOMCUXBE-2026-04-24/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-27T09:07:06+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "日経平均は反発で寄り付く、半導体株底堅い",
+                         "url":  "https://jp.reuters.com/markets/japan/RKKL57PZRFKVHF5S2VDHI4UJXY-2026-04-24/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T12:00:42+09:00",
+                         "matchKeyword":  "半導体"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "MSCI新興国株式、イランとの戦争受けた下落分を帳消し－AI巡る楽観で",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDRUVYT9NJLU00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "AIミュトスが突く社会のバグ「猶予は1～2年」 研究者が警鐘",
+                         "url":  "https://www.asahi.com/articles/ASV4S3R4TV4SULFA00QM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-25T18:03:11+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "日経平均、終値5万9585円で最高値を更新 AI・半導体株に買い",
+                         "url":  "https://www.asahi.com/articles/ASV4Q0Q2KV4QULFA002M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T18:00:05+09:00",
+                         "matchKeyword":  "半導体"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米テスラ、インテル先端半導体製造技術「１４Ａ」初の主要顧客に",
+                         "url":  "https://jp.reuters.com/markets/japan/F4Y6JSY67JLMJMYI33E7I6CSBI-2026-04-23/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T12:00:04+09:00",
+                         "matchKeyword":  "半導体"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "焦点：ＥＶ失速の電池メーカー、電力貯蔵事業に転換模索も高い壁",
+                         "url":  "https://jp.reuters.com/markets/global-markets/SDRHLKYECJP3FPGZLJZF7VY5GI-2026-04-18/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "日経平均6万円、AI偏重の熱狂 投資家に戸惑い「ついていくしか」",
+                         "url":  "https://www.asahi.com/articles/ASV4R42W7V4RULFA01YM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T07:39:01+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "グーグルマップ、悪質な口コミ対策強化 AIが虚偽投稿をすぐに把握",
+                         "url":  "https://www.asahi.com/articles/ASV4R240YV4RULFA01HM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T07:39:01+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "進むか「AI配転」 事務仕事減らし、営業強化へ 異業種に参入も",
+                         "url":  "https://www.asahi.com/articles/ASV4R2W8VV4RULLI00KM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-25T18:03:11+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "危険すぎて非公開のAI「ミトス」 システム弱点を特定、日本も警戒",
+                         "url":  "https://www.asahi.com/articles/ASV4P1GTLV4PUHBI027M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:41+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "日経平均が初の6万円、ＡＩ・半導体株がけん引 決算見極めムードも",
+                         "url":  "https://jp.reuters.com/markets/japan/PRXYLGQ4VVKHBGU4PFLVRTH624-2026-04-23/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T12:00:04+09:00",
+                         "matchKeyword":  "半導体"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "アップル、クックCEOが退任 ターナス氏が昇格",
+                         "url":  "https://www.asahi.com/articles/ASV4N73N1V4NUHBI00DM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "アップル"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自中国の25－29歳で失業率が急上昇、労働市場悪化とAI拡大が影響",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDW14WKK3NYA00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "リガク、米半導体装置のオントゥ・イノベーションが筆頭株主に",
+                         "url":  "https://jp.reuters.com/markets/global-markets/PEYGGPY3EVJ6PE7FHTSCS24JKE-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
+                         "matchKeyword":  "半導体"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "JPモルガン、S\u0026P500の年末目標値を引き上げ－AIへの関心再燃追い風",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU8QUKJH6V600?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "トップの「考え方のくせ」まで再現 DeNAが「AI社長」本格展開",
+                         "url":  "https://www.asahi.com/articles/ASV4P2TG7V4PULFA00HM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:41+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "韓国KOSPIが過去最高値、米イラン和平合意を期待－AI巡る楽観継続",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTI08KJH6V400?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "LINEに新たなAIエージェント 顧客接点の「入り口」へ各社強化",
+                         "url":  "https://www.asahi.com/articles/ASV4N2VZSV4NULFA03CM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "スペースX、AI新興企業カーソルを買収する権利取得－600億ドル",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDV7MVKJH6V600?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T12:01:45+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "市況株式上昇、インテル決算受け収益期待－長期金利は上昇",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-24/TDYZ7AT9NJLX00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T12:00:42+09:00",
+                         "matchKeyword":  "インテル"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "インテル株、2000年以来の高値－再建期待で回復基調続く",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-17/TDN6R5T9NJLW00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "インテル"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "日本市場、中東懸念残るもAI期待で株高へ－債券は月末買い期待が支え",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDVWCRT96OSH00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T12:00:05+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自「中国のNetflix」愛奇芸、AIで動画コンテンツ制作へ－SNS型に転換",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDRYOKT9NJLS00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T12:01:45+09:00",
+                         "matchKeyword":  "AI"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "片山金融相、高性能AI「ミュトス」めぐり金融業界と24日協議",
+                         "url":  "https://www.asahi.com/articles/ASV4Q2T05V4QULFA029M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
+                         "matchKeyword":  "AI"
                      }
                  ]
 }

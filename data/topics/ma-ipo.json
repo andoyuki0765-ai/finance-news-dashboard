@@ -5,6 +5,15 @@
     "description":  "企業買収・合併・新規上場",
     "articles":  [
                      {
+                         "source":  "Yahoo!ニュース 経済",
+                         "title":  "デンソー ローム買収撤回含め検討",
+                         "url":  "https://news.yahoo.co.jp/pickup/6577802?source=rss",
+                         "description":  "",
+                         "publishedAt":  "2026-04-27T09:43:13+09:00",
+                         "fetchedAt":  "2026-04-27T12:00:04+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
                          "source":  "ダイヤモンド・オンライン",
                          "title":  "年収が高い会社ランキング2025【従業員の平均年齢40代・トップ5】1位は2000万円超え - 注目ランキング",
                          "url":  "https://diamond.jp/articles/-/388837",
@@ -257,193 +266,13 @@
                          "matchKeyword":  "買収"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自元芸人・井村氏の投資助言会社、近鉄グループに書簡－親子上場に懸念",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDTN5FT9NJLU00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T12:00:05+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "政府がアジア系ファンドに中止勧告 牧野フライス製作所の買収で",
-                         "url":  "https://www.asahi.com/articles/ASV4R0FB4V4RULFA005M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T12:00:04+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
                          "source":  "ロイター ビジネス",
-                         "title":  "トランプ氏、ユナイテッドとアメリカン航空の合併「好ましくない」",
-                         "url":  "https://jp.reuters.com/markets/bonds/5L2IFLN4UZL5TG6CMRQCU4ESHM-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
-                         "matchKeyword":  "合併"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "アメリカン航空、ユナイテッドとの合併交渉否定 「関心ない」",
-                         "url":  "https://jp.reuters.com/markets/global-markets/HND6KD6G6VKIDA5OEJP2CAKBOQ-2026-04-17/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "合併"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ノジマ、日立の家電部門を1100億円で買収 海外事業も統合",
-                         "url":  "https://jp.reuters.com/markets/global-markets/4BSXEXJYQRNJBNNJI4BLRZ4RFI-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米ＱＸＯ、建材卸売・施工企業トップビルドを170億ドルで買収",
-                         "url":  "https://jp.reuters.com/markets/japan/PJZUOAWDUZP7HHDEFWY6O52ABM-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "スペースX、AI新興企業カーソルを買収する権利取得－600億ドル",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDV7MVKJH6V600?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T12:01:45+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "エヌビディアのサプライヤー、勝宏科技が香港に重複上場－株価急伸",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTM4DKJH6V500?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "住友ファーマ、新株発行価格を1株1990円に決定 公募増資などで1115億円調達",
-                         "url":  "https://jp.reuters.com/markets/japan/GWSOB3CSDFMPHB4MBOZFZ6GLXI-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "イーライリリー、がん免疫療法開発のケロニアを70億ドルで買収",
-                         "url":  "https://jp.reuters.com/markets/global-markets/YFAGIIBOEZNMNCTMXOEKS2UAMA-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "ワーナー株主、パラマウントの買収に賛成 巨大メディア誕生に近づく",
-                         "url":  "https://www.asahi.com/articles/ASV4R5W78V4RUHBI02HM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:01+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ストラテジックＣ、みずほＦＧとオリコに株主提案 「いびつな関係是正を」",
-                         "url":  "https://jp.reuters.com/markets/global-markets/5XC5TFSLTNLUTG6N4IW4NJKDRQ-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "焦点：スペースＸ・オープンＡＩ・アンソロピック、赤字のまま大型上場へ",
-                         "url":  "https://jp.reuters.com/markets/japan/LEJIWRA46ZP3LPBY24D44DDYRQ-2026-04-24/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-25T18:03:23+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ドイツテレコム、米Ｔモバイルと統合交渉 上場企業で過去最大＝関係筋",
-                         "url":  "https://jp.reuters.com/markets/japan/TKW2JCJJCNLYXMFAXZ7PWV556I-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "三菱電、鴻海と自動車機器事業の共同運営検討 50％出資受け入れ視野",
-                         "url":  "https://jp.reuters.com/markets/global-markets/UZKHZCWNVFMHZN74JGVEYNRL6Q-2026-04-24/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-25T18:03:23+09:00",
-                         "matchKeyword":  "出資"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "三菱電機が鴻海との提携を検討 自動車機器子会社に出資受け入れへ",
-                         "url":  "https://www.asahi.com/articles/ASV4S3WBYV4SULFA02SM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-25T18:03:11+09:00",
-                         "matchKeyword":  "出資"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "家電量販大手のノジマ、日立の家電事業を買収へ 1千億円超か",
-                         "url":  "https://www.asahi.com/articles/ASV4P01TMV4PULFA001M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:51:59+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ノジマ、日立の家電事業買収を検討 21日取締役会に付議",
-                         "url":  "https://jp.reuters.com/markets/global-markets/KOG3JNDFDVPFVIFA6BDIE3K7YI-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "相続税の「節税スキーム」防止へ 非上場株の評価ルール見直し検討",
-                         "url":  "https://www.asahi.com/articles/ASV4P0QCWV4PUTIL028M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:00:05+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "仏4大通信事業者3社が残る1社に共同買収提案、条件引き上げ",
-                         "url":  "https://jp.reuters.com/markets/bonds/JSN47VILOJKNHA7H36ANLAKTKM-2026-04-17/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "スウェーデンＥＱＴ、カカクコム買収を検討＝関係筋",
-                         "url":  "https://jp.reuters.com/markets/japan/DJQYSUM5QVM23NO7VLK3DORSNY-2026-04-23/",
+                         "title":  "アメリカン航空、ユナイテッドとの合併否定 アラスカ航空と協業も",
+                         "url":  "https://jp.reuters.com/markets/global-markets/N65LF7LHOBLYFJ6BBWI5WA7LHU-2026-04-23/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-24T07:39:04+09:00",
-                         "matchKeyword":  "買収"
+                         "matchKeyword":  "合併"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -464,13 +293,40 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
+                         "source":  "朝日新聞 経済",
+                         "title":  "相続税の「節税スキーム」防止へ 非上場株の評価ルール見直し検討",
+                         "url":  "https://www.asahi.com/articles/ASV4P0QCWV4PUTIL028M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T18:00:05+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
                          "source":  "ロイター ビジネス",
-                         "title":  "アメリカン航空、ユナイテッドとの合併否定 アラスカ航空と協業も",
-                         "url":  "https://jp.reuters.com/markets/global-markets/N65LF7LHOBLYFJ6BBWI5WA7LHU-2026-04-23/",
+                         "title":  "ノジマ、日立の家電事業買収を検討 21日取締役会に付議",
+                         "url":  "https://jp.reuters.com/markets/global-markets/KOG3JNDFDVPFVIFA6BDIE3K7YI-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "スウェーデンＥＱＴ、カカクコム買収を検討＝関係筋",
+                         "url":  "https://jp.reuters.com/markets/japan/DJQYSUM5QVM23NO7VLK3DORSNY-2026-04-23/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-24T07:39:04+09:00",
-                         "matchKeyword":  "合併"
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "仏4大通信事業者3社が残る1社に共同買収提案、条件引き上げ",
+                         "url":  "https://jp.reuters.com/markets/bonds/JSN47VILOJKNHA7H36ANLAKTKM-2026-04-17/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "買収"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -480,6 +336,42 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-22T18:39:36+09:00",
                          "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ローム株が一時16％安、デンソーが買収提案取り下げ含め検討 ＴＯＢ期待が後退",
+                         "url":  "https://jp.reuters.com/markets/japan/IYDSK4SWHNPJPJV5DX5KSCOXVI-2026-04-27/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-27T12:00:06+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "デンソー、ローム買収提案取り下げ含め検討 賛同得られておらず",
+                         "url":  "https://jp.reuters.com/markets/global-markets/C2XHHM6VGZMUPLKLZZOQAEULPI-2026-04-27/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-27T12:00:06+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "デンソーが買収提案取り下げ検討、ローム株は15年ぶり下落率",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-27/TE4KR0KGIFPZ00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-27T12:00:06+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "デンソー、ロームへの買収提案取り下げを検討 賛同得られず",
+                         "url":  "https://www.asahi.com/articles/ASV4W0C1RV4WULFA00BM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-27T12:00:05+09:00",
+                         "matchKeyword":  "買収"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -507,6 +399,159 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-22T18:39:36+09:00",
                          "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "家電量販大手のノジマ、日立の家電事業を買収へ 1千億円超か",
+                         "url":  "https://www.asahi.com/articles/ASV4P01TMV4PULFA001M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:51:59+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米ＱＸＯ、建材卸売・施工企業トップビルドを170億ドルで買収",
+                         "url":  "https://jp.reuters.com/markets/japan/PJZUOAWDUZP7HHDEFWY6O52ABM-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ノジマ、日立の家電部門を1100億円で買収 海外事業も統合",
+                         "url":  "https://jp.reuters.com/markets/global-markets/4BSXEXJYQRNJBNNJI4BLRZ4RFI-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "エヌビディアのサプライヤー、勝宏科技が香港に重複上場－株価急伸",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTM4DKJH6V500?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "スペースX、AI新興企業カーソルを買収する権利取得－600億ドル",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDV7MVKJH6V600?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T12:01:45+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "政府がアジア系ファンドに中止勧告 牧野フライス製作所の買収で",
+                         "url":  "https://www.asahi.com/articles/ASV4R0FB4V4RULFA005M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T12:00:04+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自元芸人・井村氏の投資助言会社、近鉄グループに書簡－親子上場に懸念",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDTN5FT9NJLU00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T12:00:05+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "アメリカン航空、ユナイテッドとの合併交渉否定 「関心ない」",
+                         "url":  "https://jp.reuters.com/markets/global-markets/HND6KD6G6VKIDA5OEJP2CAKBOQ-2026-04-17/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "合併"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "トランプ氏、ユナイテッドとアメリカン航空の合併「好ましくない」",
+                         "url":  "https://jp.reuters.com/markets/bonds/5L2IFLN4UZL5TG6CMRQCU4ESHM-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "合併"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ドイツテレコム、米Ｔモバイルと統合交渉 上場企業で過去最大＝関係筋",
+                         "url":  "https://jp.reuters.com/markets/japan/TKW2JCJJCNLYXMFAXZ7PWV556I-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "焦点：スペースＸ・オープンＡＩ・アンソロピック、赤字のまま大型上場へ",
+                         "url":  "https://jp.reuters.com/markets/japan/LEJIWRA46ZP3LPBY24D44DDYRQ-2026-04-24/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-25T18:03:23+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "三菱電機が鴻海との提携を検討 自動車機器子会社に出資受け入れへ",
+                         "url":  "https://www.asahi.com/articles/ASV4S3WBYV4SULFA02SM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-25T18:03:11+09:00",
+                         "matchKeyword":  "出資"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "三菱電、鴻海と自動車機器事業の共同運営検討 50％出資受け入れ視野",
+                         "url":  "https://jp.reuters.com/markets/global-markets/UZKHZCWNVFMHZN74JGVEYNRL6Q-2026-04-24/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-25T18:03:23+09:00",
+                         "matchKeyword":  "出資"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "イーライリリー、がん免疫療法開発のケロニアを70億ドルで買収",
+                         "url":  "https://jp.reuters.com/markets/global-markets/YFAGIIBOEZNMNCTMXOEKS2UAMA-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "住友ファーマ、新株発行価格を1株1990円に決定 公募増資などで1115億円調達",
+                         "url":  "https://jp.reuters.com/markets/japan/GWSOB3CSDFMPHB4MBOZFZ6GLXI-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ストラテジックＣ、みずほＦＧとオリコに株主提案 「いびつな関係是正を」",
+                         "url":  "https://jp.reuters.com/markets/global-markets/5XC5TFSLTNLUTG6N4IW4NJKDRQ-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "ワーナー株主、パラマウントの買収に賛成 巨大メディア誕生に近づく",
+                         "url":  "https://www.asahi.com/articles/ASV4R5W78V4RUHBI02HM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T07:39:01+09:00",
+                         "matchKeyword":  "買収"
                      }
                  ]
 }
