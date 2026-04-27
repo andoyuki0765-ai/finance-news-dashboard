@@ -5,6 +5,51 @@
     "description":  "消費者物価指数・インフレ率・物価動向",
     "articles":  [
                      {
+                         "source":  "ITmedia ビジネス",
+                         "title":  "食品メーカー「増収減益」が広がる 値上げだけでは守れない利益",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/27/news007.html",
+                         "description":  "東京商工リサーチは、「食料品メーカー」動向調査を実施した。その結果……。",
+                         "publishedAt":  "2026-04-27T08:00:00+09:00",
+                         "fetchedAt":  "2026-04-27T09:01:19+09:00",
+                         "matchKeyword":  "値上げ"
+                     },
+                     {
+                         "source":  "NHK 経済",
+                         "title":  "米FRB 利下げ見送りか 原油高でインフレ再加速を警戒",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015108881000",
+                         "description":  "アメリカのFRB＝連邦準備制度理事会は、今週28日から金融政策を決める会合を開きます。イラン情勢によって原油価格が高止まりする中、インフレが再加速するリスクを踏まえ、3会合連続で利下げを見送るとの見方…",
+                         "publishedAt":  "2026-04-27T07:12:16+09:00",
+                         "fetchedAt":  "2026-04-27T09:01:18+09:00",
+                         "matchKeyword":  "インフレ"
+                     },
+                     {
+                         "source":  "NHK 経済",
+                         "title":  "日銀 金融政策据え置きの方向で議論へ イラン情勢見極め",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015108771000",
+                         "description":  "日銀は27日から2日間、金融政策決定会合を開きます。イラン情勢の先行きが見通せない中、日銀内では原油価格の高騰やサプライチェーンの混乱などが経済、物価に及ぼす影響を慎重に見極めるべきだという意見が多く…",
+                         "publishedAt":  "2026-04-27T07:07:50+09:00",
+                         "fetchedAt":  "2026-04-27T09:01:18+09:00",
+                         "matchKeyword":  "物価"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "｢中堅企業が日本経済の主役､規模より付加価値を狙え｣／日本共創プラットフォーム 冨山和彦会長インタビュー | ビジネス | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/942480?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "AIの進化や人手不足､インフレといった構造変化の波が日本経済にも押し寄せる中､新たな主役として注目を集めているのが中堅企業です。｢AIによる変革が進む時代に大きなチャンスがあるのは中堅･中小企業｣と…",
+                         "publishedAt":  "2026-04-27T06:40:00+09:00",
+                         "fetchedAt":  "2026-04-27T09:01:21+09:00",
+                         "matchKeyword":  "インフレ"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "｢規模｣ではなく｢付加価値｣で稼ぐ！人手不足･インフレを逆手に取って成長する｢すごい中堅企業｣はどこが違うのか | ビジネス | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/942411?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "AIの進化や人手不足など大きな構造変化の中､中堅企業が日本経済の牽引役として台頭しています。『週刊東洋経済』5月2日･9日合併号の特集｢すごい中堅企業100 2026年版｣では､高付加価値技術や独自…",
+                         "publishedAt":  "2026-04-27T05:50:00+09:00",
+                         "fetchedAt":  "2026-04-27T09:01:21+09:00",
+                         "matchKeyword":  "インフレ"
+                     },
+                     {
                          "source":  "ダイヤモンド・オンライン",
                          "title":  "【100年データから判明】老後に不労所得がらくらく手に入る！ 世界一シンプルな最強の投資哲学「JKB」とは？ - JUST KEEP BUYING",
                          "url":  "https://diamond.jp/articles/-/382886",
@@ -150,30 +195,39 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "ユーロ圏総合ＰＭＩ、4月速報は予想外の50割れ 物価高騰で",
-                         "url":  "https://jp.reuters.com/markets/japan/QA22UPYLTFIT5PS4SE5GFTCEWE-2026-04-23/",
+                         "title":  "独、26年成長率0.5％に下方修正 インフレ予想は引き上げ",
+                         "url":  "https://jp.reuters.com/markets/japan/N7FC5T6VVVPG5FUJAWQUEIRMIA-2026-04-22/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
-                         "matchKeyword":  "物価"
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "インフレ"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "食用油に文房具、豆乳も･･･4月以降も続く値上げ、原油高で加速か",
+                         "url":  "https://www.asahi.com/articles/ASV4S0371V4SULFA01WM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T12:00:41+09:00",
+                         "matchKeyword":  "値上げ"
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "中東情勢でインフレ警戒、早期収束なら下期に下げ余地＝ウォラーＦＲＢ理事",
-                         "url":  "https://jp.reuters.com/markets/japan/LVIZZARBNVNHPIGRIJHSTP5PPY-2026-04-17/",
+                         "title":  "インフレ圧力、ＥＣＢ想定ベースと悪化シナリオの間＝ギリシャ中銀総裁",
+                         "url":  "https://jp.reuters.com/markets/japan/3XW22HJMQZNGXLA5W23JYFNGY4-2026-04-22/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
                          "matchKeyword":  "インフレ"
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "信越化学、塩化ビニール樹脂を再値上げ ホルムズ海峡封鎖で原料高騰",
-                         "url":  "https://jp.reuters.com/markets/commodities/LFDHPW4JBRMGBL64HMD7TN7Q3Y-2026-04-20/",
+                         "title":  "ＦＲＢの12月利下げ観測強まる、ホルムズ海峡開放受け インフレ動向見極めも",
+                         "url":  "https://jp.reuters.com/markets/japan/RBIMAJS63VPNLPKKJJJDYQICIU-2026-04-17/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "値上げ"
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "インフレ"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -183,6 +237,24 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T18:00:04+09:00",
                          "matchKeyword":  "インフレ"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米総合ＰＭＩ、4月は52.0に上昇 コスト急騰でインフレ加速懸念も",
+                         "url":  "https://jp.reuters.com/markets/japan/IUCGJ27PAJOJBOYW264CB6WLHE-2026-04-23/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
+                         "matchKeyword":  "インフレ"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "3月の消費者物価は1.8%上昇 ガソリンの値下がり幅が縮む",
+                         "url":  "https://www.asahi.com/articles/ASV4S0FRZV4SULFA003M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T12:00:41+09:00",
+                         "matchKeyword":  "消費者物価"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -203,39 +275,39 @@
                          "matchKeyword":  "物価"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "英インフレ率3.3%に加速、イラン情勢波及で家計圧迫－エネルギー上昇",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDVWFLT96OSH00?srnd=jp-markets",
+                         "source":  "ロイター ビジネス",
+                         "title":  "信越化学、塩化ビニール樹脂を再値上げ ホルムズ海峡封鎖で原料高騰",
+                         "url":  "https://jp.reuters.com/markets/commodities/LFDHPW4JBRMGBL64HMD7TN7Q3Y-2026-04-20/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "インフレ"
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "値上げ"
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "英中銀ピル氏「インフレ対応が最優先」、総裁の様子見姿勢と対照的見解",
-                         "url":  "https://jp.reuters.com/markets/japan/ZZNTJREK2VOAPLTYC6ASBDL2EM-2026-04-17/",
+                         "title":  "ユーロ圏総合ＰＭＩ、4月速報は予想外の50割れ 物価高騰で",
+                         "url":  "https://jp.reuters.com/markets/japan/QA22UPYLTFIT5PS4SE5GFTCEWE-2026-04-23/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
+                         "matchKeyword":  "物価"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "中東情勢でインフレ警戒、早期収束なら下期に下げ余地＝ウォラーＦＲＢ理事",
+                         "url":  "https://jp.reuters.com/markets/japan/LVIZZARBNVNHPIGRIJHSTP5PPY-2026-04-17/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T09:47:39+09:00",
                          "matchKeyword":  "インフレ"
                      },
                      {
-                         "source":  "朝日新聞 経済",
-                         "title":  "原油高騰、食品の包装材も値上げ 「包まない」「容器を持参」動きも",
-                         "url":  "https://www.asahi.com/articles/ASV4P4J5SV4PUTFL013M.html?ref=rss",
+                         "source":  "Bloomberg 日本",
+                         "title":  "英インフレ率3.3%に加速、イラン情勢波及で家計圧迫－エネルギー上昇",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDVWFLT96OSH00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
-                         "matchKeyword":  "値上げ"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "為替のインフレ率への影響あり得る、注視している─日銀総裁＝内閣府幹部",
-                         "url":  "https://jp.reuters.com/opinion/3D3HKRM6M5JW5KJ654US2G6C6Y-2026-04-23/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
                          "matchKeyword":  "インフレ"
                      },
                      {
@@ -258,35 +330,17 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "インフレ圧力、ＥＣＢ想定ベースと悪化シナリオの間＝ギリシャ中銀総裁",
-                         "url":  "https://jp.reuters.com/markets/japan/3XW22HJMQZNGXLA5W23JYFNGY4-2026-04-22/",
+                         "title":  "為替のインフレ率への影響あり得る、注視している─日銀総裁＝内閣府幹部",
+                         "url":  "https://jp.reuters.com/opinion/3D3HKRM6M5JW5KJ654US2G6C6Y-2026-04-23/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "インフレ"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "食用油に文房具、豆乳も･･･4月以降も続く値上げ、原油高で加速か",
-                         "url":  "https://www.asahi.com/articles/ASV4S0371V4SULFA01WM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T12:00:41+09:00",
-                         "matchKeyword":  "値上げ"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "独、26年成長率0.5％に下方修正 インフレ予想は引き上げ",
-                         "url":  "https://jp.reuters.com/markets/japan/N7FC5T6VVVPG5FUJAWQUEIRMIA-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
                          "matchKeyword":  "インフレ"
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "ＦＲＢの12月利下げ観測強まる、ホルムズ海峡開放受け インフレ動向見極めも",
-                         "url":  "https://jp.reuters.com/markets/japan/RBIMAJS63VPNLPKKJJJDYQICIU-2026-04-17/",
+                         "title":  "英中銀ピル氏「インフレ対応が最優先」、総裁の様子見姿勢と対照的見解",
+                         "url":  "https://jp.reuters.com/markets/japan/ZZNTJREK2VOAPLTYC6ASBDL2EM-2026-04-17/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-20T09:47:39+09:00",
@@ -294,21 +348,12 @@
                      },
                      {
                          "source":  "朝日新聞 経済",
-                         "title":  "3月の消費者物価は1.8%上昇 ガソリンの値下がり幅が縮む",
-                         "url":  "https://www.asahi.com/articles/ASV4S0FRZV4SULFA003M.html?ref=rss",
+                         "title":  "原油高騰、食品の包装材も値上げ 「包まない」「容器を持参」動きも",
+                         "url":  "https://www.asahi.com/articles/ASV4P4J5SV4PUTFL013M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T12:00:41+09:00",
-                         "matchKeyword":  "消費者物価"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米総合ＰＭＩ、4月は52.0に上昇 コスト急騰でインフレ加速懸念も",
-                         "url":  "https://jp.reuters.com/markets/japan/IUCGJ27PAJOJBOYW264CB6WLHE-2026-04-23/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
-                         "matchKeyword":  "インフレ"
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "値上げ"
                      }
                  ]
 }

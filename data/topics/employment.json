@@ -5,6 +5,15 @@
     "description":  "雇用統計・失業率・賃金",
     "articles":  [
                      {
+                         "source":  "東洋経済オンライン",
+                         "title":  "障害者の雇用率15％超と上場企業トップ､フレアス社長｢テクノロジーで健常者との差を埋める｣独自の評価制度の中身 | ビジネス | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/942206?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "障害者雇用率が引き上げられる中､企業はどのように戦力化するのか。訪問マッサージを展開するフレアスでは､視覚障害者をはじめ多様な人材が活躍し､足元の雇用率は22.52％と上場企業でトップクラス。その現…",
+                         "publishedAt":  "2026-04-27T06:00:00+09:00",
+                         "fetchedAt":  "2026-04-27T09:01:21+09:00",
+                         "matchKeyword":  "雇用"
+                     },
+                     {
                          "source":  "ITmedia ビジネス",
                          "title":  "27年卒就活生に人気の企業は？ ニトリ4連覇、地域別では地元企業が存在感",
                          "url":  "https://www.itmedia.co.jp/business/articles/2604/24/news008.html",
@@ -213,11 +222,38 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
+                         "title":  "中国の若年失業率、3月は16.9％に上昇",
+                         "url":  "https://jp.reuters.com/markets/japan/7XXNRAB6C5JXRBX5G3WPVDHDB4-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "失業率"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "こんなに天引き？ 給与明細見てみると 「いざ」という時の備えに",
+                         "url":  "https://www.asahi.com/articles/ASV4H3606V4HULFA00RM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
                          "title":  "韓国サムスン、従業員数万人が抗議 ＳＫハイニックスと賞与格差",
                          "url":  "https://jp.reuters.com/markets/global-markets/74GW7GQO6VPTBIKMUXWU4JXWHI-2026-04-23/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-24T10:19:03+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "首相、裁量労働制「対象のあり方見直し検討」指示 成長戦略会議",
+                         "url":  "https://www.asahi.com/articles/ASV4Q42PLV4QULFA02DM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
@@ -246,33 +282,6 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-23T09:03:57+09:00",
                          "matchKeyword":  "失業率"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "首相、裁量労働制「対象のあり方見直し検討」指示 成長戦略会議",
-                         "url":  "https://www.asahi.com/articles/ASV4Q42PLV4QULFA02DM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "中国の若年失業率、3月は16.9％に上昇",
-                         "url":  "https://jp.reuters.com/markets/japan/7XXNRAB6C5JXRBX5G3WPVDHDB4-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
-                         "matchKeyword":  "失業率"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "こんなに天引き？ 給与明細見てみると 「いざ」という時の備えに",
-                         "url":  "https://www.asahi.com/articles/ASV4H3606V4HULFA00RM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
-                         "matchKeyword":  "[LLM分類]"
                      }
                  ]
 }
