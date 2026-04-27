@@ -158,15 +158,6 @@
                          "matchKeyword":  "雇用"
                      },
                      {
-                         "source":  "東洋経済オンライン",
-                         "title":  "企業はホワイト化しているのに｢仕事は嫌い｣｢早くリタイアしたい｣平成生まれの本音 | キャリア・教育 | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/941116?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "日本の労働環境が大きく改善している一方､若い世代を中心に｢FIRE＝早期リタイア｣願望が広がっています。その背景には､仕事への意義や価値観の変化があると専門家は指摘します。現代人の働く目的はどこに向…",
-                         "publishedAt":  "2026-04-21T07:00:00+09:00",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
                          "source":  "ダイヤモンド・オンライン",
                          "title":  "「中高年歓迎」はウソ？求人のウラ側と採用企業の「エグすぎる本音」とは - ニュース3面鏡",
                          "url":  "https://diamond.jp/articles/-/388228",
@@ -174,6 +165,15 @@
                          "publishedAt":  "2026-04-21T07:00:00+09:00",
                          "fetchedAt":  "2026-04-21T09:10:26+09:00",
                          "matchKeyword":  "求人"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "企業はホワイト化しているのに｢仕事は嫌い｣｢早くリタイアしたい｣平成生まれの本音 | キャリア・教育 | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/941116?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "日本の労働環境が大きく改善している一方､若い世代を中心に｢FIRE＝早期リタイア｣願望が広がっています。その背景には､仕事への意義や価値観の変化があると専門家は指摘します。現代人の働く目的はどこに向…",
+                         "publishedAt":  "2026-04-21T07:00:00+09:00",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "東洋経済オンライン",
@@ -203,21 +203,21 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "東洋経済オンライン",
-                         "title":  "｢1日10時間労働or給料減額｣社労士が語る《週休3日》普及のカギ | キャリア・教育 | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/939531?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "週休3日制が急速に注目を集めています。大手企業や自治体が導入を進める中､その背景には人材確保や社員の定着率向上という切実な課題があります。しかし､労働時間や給与体系の変化にはメリットだけでなく懸念点…",
-                         "publishedAt":  "2026-04-20T08:00:00+09:00",
-                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
                          "source":  "ITmedia ビジネス",
                          "title":  "学ばない社員が過半数に 管理職離れが、じわじわ進む職場のいま",
                          "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news018.html",
                          "description":  "パーソル総合研究所は、「働く1万人の就業・成長定点調査」を実施した。その結果……。",
                          "publishedAt":  "2026-04-20T08:00:00+09:00",
                          "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "｢1日10時間労働or給料減額｣社労士が語る《週休3日》普及のカギ | キャリア・教育 | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/939531?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "週休3日制が急速に注目を集めています。大手企業や自治体が導入を進める中､その背景には人材確保や社員の定着率向上という切実な課題があります。しかし､労働時間や給与体系の変化にはメリットだけでなく懸念点…",
+                         "publishedAt":  "2026-04-20T08:00:00+09:00",
+                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
@@ -230,13 +230,40 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "韓国サムスン、従業員数万人が抗議 ＳＫハイニックスと賞与格差",
-                         "url":  "https://jp.reuters.com/markets/global-markets/74GW7GQO6VPTBIKMUXWU4JXWHI-2026-04-23/",
+                         "source":  "朝日新聞 経済",
+                         "title":  "ヤマト団交拒否、配達委託の個人事業主と和解 「労働者」か認識に溝",
+                         "url":  "https://www.asahi.com/articles/ASV4R2T48V4RULFA019M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
+                         "fetchedAt":  "2026-04-24T10:19:02+09:00",
                          "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自中国の25－29歳で失業率が急上昇、労働市場悪化とAI拡大が影響",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDW14WKK3NYA00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "失業率"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "首相、裁量労働制「対象のあり方見直し検討」指示 成長戦略会議",
+                         "url":  "https://www.asahi.com/articles/ASV4Q42PLV4QULFA02DM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "中国の若年失業率、3月は16.9％に上昇",
+                         "url":  "https://jp.reuters.com/markets/japan/7XXNRAB6C5JXRBX5G3WPVDHDB4-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "失業率"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -248,9 +275,9 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "米失業保険申請は小幅に増加、レイオフは依然抑制水準",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDY5L2T9NJLS00?srnd=jp-markets",
+                         "source":  "ロイター ビジネス",
+                         "title":  "韓国サムスン、従業員数万人が抗議 ＳＫハイニックスと賞与格差",
+                         "url":  "https://jp.reuters.com/markets/global-markets/74GW7GQO6VPTBIKMUXWU4JXWHI-2026-04-23/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-24T10:19:03+09:00",
@@ -267,38 +294,11 @@
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "独自中国の25－29歳で失業率が急上昇、労働市場悪化とAI拡大が影響",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDW14WKK3NYA00?srnd=jp-markets",
+                         "title":  "米失業保険申請は小幅に増加、レイオフは依然抑制水準",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDY5L2T9NJLS00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "失業率"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "ヤマト団交拒否、配達委託の個人事業主と和解 「労働者」か認識に溝",
-                         "url":  "https://www.asahi.com/articles/ASV4R2T48V4RULFA019M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T10:19:02+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "中国の若年失業率、3月は16.9％に上昇",
-                         "url":  "https://jp.reuters.com/markets/japan/7XXNRAB6C5JXRBX5G3WPVDHDB4-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
-                         "matchKeyword":  "失業率"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "首相、裁量労働制「対象のあり方見直し検討」指示 成長戦略会議",
-                         "url":  "https://www.asahi.com/articles/ASV4Q42PLV4QULFA02DM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
                          "matchKeyword":  "[LLM分類]"
                      }
                  ]
