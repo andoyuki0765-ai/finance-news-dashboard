@@ -41,13 +41,13 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "独、26年成長率0.5％に下方修正 インフレ予想は引き上げ",
-                         "url":  "https://jp.reuters.com/markets/japan/N7FC5T6VVVPG5FUJAWQUEIRMIA-2026-04-22/",
+                         "source":  "朝日新聞 経済",
+                         "title":  "EU、燃料高対策で家計支援や再エネ拡大「発電から化石燃料を追放」",
+                         "url":  "https://www.asahi.com/articles/ASV4Q466RV4QUHBI02BM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "成長率"
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -59,13 +59,13 @@
                          "matchKeyword":  "ユーロ圏"
                      },
                      {
-                         "source":  "朝日新聞 経済",
-                         "title":  "EU、燃料高対策で家計支援や再エネ拡大「発電から化石燃料を追放」",
-                         "url":  "https://www.asahi.com/articles/ASV4Q466RV4QUHBI02BM.html?ref=rss",
+                         "source":  "ロイター ビジネス",
+                         "title":  "独、26年成長率0.5％に下方修正 インフレ予想は引き上げ",
+                         "url":  "https://jp.reuters.com/markets/japan/N7FC5T6VVVPG5FUJAWQUEIRMIA-2026-04-22/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
-                         "matchKeyword":  "[LLM分類]"
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "成長率"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -74,6 +74,24 @@
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-24T10:19:03+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "英中銀副総裁、世界市場の下落リスク指摘－高水準の資産価格を疑問視",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-24/TDZOB0T96OSH00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-27T09:07:06+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "イラン戦争の影響見極めには時間必要＝ＥＣＢチーフエコノミスト",
+                         "url":  "https://jp.reuters.com/markets/japan/AB7IMGYMTNJKNN3GFUOZAY7TKY-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
@@ -86,24 +104,6 @@
                          "matchKeyword":  "景気後退"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "イラン戦争の影響見極めには時間必要＝ＥＣＢチーフエコノミスト",
-                         "url":  "https://jp.reuters.com/markets/japan/AB7IMGYMTNJKNN3GFUOZAY7TKY-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "MSCI新興国株式、イランとの戦争受けた下落分を帳消し－AI巡る楽観で",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDRUVYT9NJLU00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "新興国"
-                     },
-                     {
                          "source":  "Bloomberg 日本",
                          "title":  "ユーロ圏民間部門、経済活動は4月に予想外に縮小－英国は改善",
                          "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDXTZUKJH6V500?srnd=jp-markets",
@@ -114,8 +114,8 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "英消費者信頼感、4月はマイナス25に悪化 2年半ぶり低水準",
-                         "url":  "https://jp.reuters.com/markets/japan/4I2XFI6Z75LVTFNN6RMQV623NY-2026-04-23/",
+                         "title":  "英総合ＰＭＩ、4月速報は予想外に52.0まで上昇 コスト急騰",
+                         "url":  "https://jp.reuters.com/markets/japan/UDYD5P75CRLGZKITPMR4F2S6R4-2026-04-23/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-24T10:19:03+09:00",
@@ -132,8 +132,8 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "英総合ＰＭＩ、4月速報は予想外に52.0まで上昇 コスト急騰",
-                         "url":  "https://jp.reuters.com/markets/japan/UDYD5P75CRLGZKITPMR4F2S6R4-2026-04-23/",
+                         "title":  "英消費者信頼感、4月はマイナス25に悪化 2年半ぶり低水準",
+                         "url":  "https://jp.reuters.com/markets/japan/4I2XFI6Z75LVTFNN6RMQV623NY-2026-04-23/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-24T10:19:03+09:00",
@@ -150,12 +150,12 @@
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "米総合PMI上昇､拡大ペースの加速示す－販売価格は22年来の高水準",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDY8VZKJH6V900?srnd=jp-markets",
+                         "title":  "MSCI新興国株式、イランとの戦争受けた下落分を帳消し－AI巡る楽観で",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDRUVYT9NJLU00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
-                         "matchKeyword":  "[LLM分類]"
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "新興国"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -165,6 +165,15 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-25T18:03:23+09:00",
                          "matchKeyword":  "ユーロ圏"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "米総合PMI上昇､拡大ペースの加速示す－販売価格は22年来の高水準",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDY8VZKJH6V900?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      }
                  ]
 }
