@@ -72,6 +72,18 @@ switch ($backend) {
             Write-Log "  config/api.json の claude_code.path に絶対パスを指定してください（現在: $($apiCfg.claude_code.path))" 'ERROR'
             exit 0  # graceful skip (次の世代はキーワード分類のみで続行)
         }
+
+        # セルフヒーリング: 設定パスと違うものが見つかったら api.json を自動更新
+        if ($apiCfg.claude_code.path -ne $exePath) {
+            try {
+                $apiCfg.claude_code.path = $exePath
+                $apiCfg | ConvertTo-Json -Depth 10 | Out-File -FilePath $ConfigPath -Encoding UTF8
+                Write-Log "  [自動更新] api.json の claude_code.path を更新: $exePath"
+            } catch {
+                Write-Log "  [WARN] api.json 自動更新失敗（ReadOnly?）: $($_.Exception.Message)" 'WARN'
+            }
+        }
+
         Write-Log "Backend: Claude Code CLI (path=$exePath, model=$($apiCfg.claude_code.model))"
     }
     default {
