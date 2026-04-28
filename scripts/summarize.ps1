@@ -241,13 +241,19 @@ $summarySystem = @"
   "context": "過去1週間の流れの中での位置づけを2-3文で。トレンドや変化点に言及。",
   "watch": "明日以降の注目点を1-2文で。次に何を確認すべきか。",
   "sentiment": "positive | negative | neutral | mixed のいずれか",
-  "headline": "本日の動きを表す10-20文字の見出し"
+  "headline": "本日の動きを表す10-20文字の見出し",
+  "irrelevant_indices": [この単元に明らかに無関係な記事のインデックス番号を配列で。なければ []]
 }
 
 【執筆ルール】
 - 中立的・事実ベース。煽り表現や予想は避ける
 - 一次情報の出典は記事タイトルにあるので冗長な引用は不要
-- 関連性の薄い記事は無視してよい
+- 単元と無関係な記事（例: スポーツ、芸能、雑学など）は要約から除外し、必ず irrelevant_indices にそのインデックスを記載
+
+【無関係判定の例】
+- 「制裁」キーワードでヒットしたがプロレスや格闘技の試合内容 → 地政学・通商と無関係
+- 「金」キーワードでヒットしたが芸能ニュース → 商品市況と無関係
+- 「FRB」キーワードでヒットしたが個人ブログ的なコラム → 金融政策と無関係（ニュース性なし）
 "@
 
 $generatedCount = 0
@@ -283,15 +289,18 @@ foreach ($t in $topicsConf.topics) {
         } else { $false }
     } | Select-Object -First $apiCfg.max_history_headlines)
 
-    # 本日記事リスト構築
+    # 本日記事リスト構築（インデックス付き — irrelevant判定用）
     $maxArticles = $apiCfg.max_articles_per_summary
-    $todayList = ($newOnes | Select-Object -First $maxArticles | ForEach-Object {
-        $line = "・$($_.title)"
+    $todayBatch = @($newOnes | Select-Object -First $maxArticles)
+    $idx = 0
+    $todayList = ($todayBatch | ForEach-Object {
+        $line = "[{0}] ・{1}" -f $idx, $_.title
         if ($_.description) {
             $d = $_.description
             if ($d.Length -gt 150) { $d = $d.Substring(0, 150) + '…' }
             $line += " — $d"
         }
+        $idx++
         $line
     }) -join "`n"
 
@@ -351,6 +360,33 @@ $historyList
             watch     = ''
             sentiment = 'neutral'
             headline  = ''
+        }
+    }
+
+    # ===== 無関係記事の自動除外 =====
+    if ($parsed.PSObject.Properties.Name -contains 'irrelevant_indices' -and $parsed.irrelevant_indices) {
+        $irrelevantUrls = New-Object System.Collections.Generic.HashSet[string]
+        foreach ($idx in $parsed.irrelevant_indices) {
+            try {
+                $i = [int]$idx
+                if ($i -ge 0 -and $i -lt $todayBatch.Count) {
+                    [void]$irrelevantUrls.Add($todayBatch[$i].url)
+                    Write-Log "    [除外] LLMが無関係と判定: $($todayBatch[$i].title.Substring(0, [Math]::Min(40, $todayBatch[$i].title.Length)))..." 'WARN'
+                }
+            } catch {}
+        }
+        if ($irrelevantUrls.Count -gt 0) {
+            $beforeCount = @($topicData[$t.id].articles).Count
+            $topicData[$t.id].articles = @($topicData[$t.id].articles | Where-Object { -not $irrelevantUrls.Contains($_.url) })
+            $removedCount = $beforeCount - @($topicData[$t.id].articles).Count
+            # 単元ファイル更新
+            $tFile = Join-Path $TopicsDir "$($t.id).json"
+            $topicData[$t.id] | ConvertTo-Json -Depth 6 | Out-File -FilePath $tFile -Encoding UTF8
+            Write-Log "    → $($t.name) から $removedCount 件除外 (累計 $beforeCount → $(@($topicData[$t.id].articles).Count))"
+            # newOnes も再計算（新規件数を正しく報告するため）
+            $newOnes = @($topicData[$t.id].articles | Where-Object {
+                if ($_.publishedAt) { try { [DateTime]::Parse($_.publishedAt) -ge $Last24h } catch { $false } } else { $false }
+            })
         }
     }
 
