@@ -6,6 +6,33 @@
     "articles":  [
                      {
                          "source":  "NHK 経済",
+                         "title":  "消費税減税の議論進む中 赤澤経産相が「スマートレジ」体験",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015111691000",
+                         "description":  "食料品の消費税減税をめぐる議論が進められる中、赤澤経済産業大臣は30日、都内で、課題の1つとされているレジのシステム改修について税率の変更が比較的簡単にできるという「スマートレジ」を体験しました。",
+                         "publishedAt":  "2026-04-30T14:58:40+09:00",
+                         "fetchedAt":  "2026-04-30T18:00:04+09:00",
+                         "matchKeyword":  "減税"
+                     },
+                     {
+                         "source":  "NHK 経済",
+                         "title":  "長期金利2.535％まで上昇 1999年2月以来 約27年ぶり高水準",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015111661000",
+                         "description":  "30日の債券市場では長期金利が上昇し、代表的な指標である10年ものの国債の利回りが2.535％まで上昇しました。",
+                         "publishedAt":  "2026-04-30T14:52:42+09:00",
+                         "fetchedAt":  "2026-04-30T18:00:04+09:00",
+                         "matchKeyword":  "国債"
+                     },
+                     {
+                         "source":  "NHK 経済",
+                         "title":  "中国 4月製造業景況感 節目上回る 生産が増加 原油高が焦点に",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015111571000",
+                         "description":  "中国の4月の製造業の景況感を示す指数は、航空宇宙や電機などの業種で生産や受注が増加したことから、景気判断の節目となる「50」を2か月連続で上回りました。ただ、イラン情勢を背景に原油価格が高止まりしてい…",
+                         "publishedAt":  "2026-04-30T12:55:39+09:00",
+                         "fetchedAt":  "2026-04-30T18:00:04+09:00",
+                         "matchKeyword":  "景気"
+                     },
+                     {
+                         "source":  "NHK 経済",
                          "title":  "3月の鉱工業生産指数 前月を0.5％下回る 2か月連続の低下",
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015111331000",
                          "description":  "企業の生産活動を示す先月・3月の鉱工業生産指数は、2020年を100とした指数で101.9となり、前の月を0.5％下回りました。低下は2か月連続で、経済産業省は企業の生産活動の基調判断を「一進一退」で…",
@@ -195,56 +222,155 @@
                      },
                      {
                          "source":  "朝日新聞 経済",
-                         "title":  "消費減税に1%案 与党幹部は「選択肢」レジ改修期間が半分に",
-                         "url":  "https://www.asahi.com/articles/ASV4S30SWV4SULFA00GM.html?ref=rss",
+                         "title":  "子どものSNS利用、総務省が規制強化へ 年齢確認の義務化も検討",
+                         "url":  "https://www.asahi.com/articles/ASV4Q2PPVV4QULFA00BM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "日本の防衛費、2026年度はGDP比1.9%－2%の目標には届かず",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-17/TDN37BT9NJLT00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "GDP"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "貿易収支、3月は6670億円の黒字 市場予想下回る黒字幅",
+                         "url":  "https://jp.reuters.com/markets/japan/5JF2BDZHCBNCZLZUHMHSOFEWUY-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T12:01:43+09:00",
+                         "matchKeyword":  "貿易収支"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "円債は「買い目線」、2兆円弱の償還分全て再投資 残高は横ばい＝かんぽ・26年度運用計画",
+                         "url":  "https://jp.reuters.com/opinion/ITWXXKTN55MY7EYFID5NZVUVRM-2026-04-24/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-27T09:07:06+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "冷凍食品の消費、1人あたりは年約25キロに 3年ぶりに過去最高",
+                         "url":  "https://www.asahi.com/articles/ASV4N2555V4NULFA02LM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "日銀「後手」と市場判断なら円安圧力、アジア開発銀の神田氏 財政要因も指摘",
+                         "url":  "https://jp.reuters.com/markets/commodities/HJC3E3WHRBJRLK3FL4R77IU6W4-2026-04-18/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "財政"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＮＺ格付け見通し「ネガティブ」に下げ、財政リスクで＝ムーディーズ",
+                         "url":  "https://jp.reuters.com/markets/treasury/MLCWGRNPAZPEJO2ZGYXON73C4Y-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "財政"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "給付付き税額控除、「最大20万円給付なら…」 東京財団が試算示す",
+                         "url":  "https://www.asahi.com/articles/ASV4N2W6ZV4NULFA012M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "高市首相、消費減税「とにかくやる」 国民会議の参加者「本音は…」",
+                         "url":  "https://www.asahi.com/articles/ASV4X3G60V4XULFA013M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-30T08:55:26+09:00",
+                         "matchKeyword":  "減税"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ドイツ景気見通しが大幅に悪化、期待指数は2022年以来の低水準",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU7UTKJH6V600?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
+                         "matchKeyword":  "景気"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ブラックロック、日本国債をアンダーウエート－日銀追加利上げ見込む",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-30/TEA8B3KK3NYD00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-30T18:00:07+09:00",
+                         "matchKeyword":  "国債"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "【米国市況】円が160円台に下落、国債下落－FOMC据え置き、原油上昇",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-29/TE9F2IKK3NYE00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-30T08:55:27+09:00",
+                         "matchKeyword":  "国債"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "日銀会合に出席、このタイミングでのコメントは控える＝城内経済財政相",
+                         "url":  "https://jp.reuters.com/world/japan/5NP4TDZSNRLVDOYKJAUK2L27P4-2026-04-28/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T12:00:07+09:00",
+                         "matchKeyword":  "財政"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "兵庫県のプレミアム付きデジタル券 県民でなくても買えたかも",
+                         "url":  "https://www.asahi.com/articles/ASV4Q3FNZV4QPIHB013M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ヘッジファンドの持ち高解消、日本の国債市場に影響も－日銀リポート",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU0QNKJH6V600?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
+                         "matchKeyword":  "国債"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "「すべての減税は善である」 消費減税にリフレ派2人が賛意",
+                         "url":  "https://www.asahi.com/articles/ASV4S2PS2V4SULFA02CM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-25T18:03:11+09:00",
                          "matchKeyword":  "減税"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "日本国債は残高減少、入れ替え規模は2兆円下回る公算＝日本生命・26年度運用計画",
-                         "url":  "https://jp.reuters.com/opinion/7INHMTNGDBI2XGX6IIAM6MDJD4-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "国債"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "中国の財政支出、第1四半期2.6％増 25年から伸び加速",
-                         "url":  "https://jp.reuters.com/markets/japan/YXGGKW4VF5NYFAI7UICYOUTNHE-2026-04-24/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-25T18:03:23+09:00",
-                         "matchKeyword":  "財政"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "独ＺＥＷ景気期待指数、4月は－17.2に急低下 イラン戦争が打撃",
-                         "url":  "https://jp.reuters.com/markets/japan/GJBPOR5YY5NTXPAA6N6GOJXC3M-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
-                         "matchKeyword":  "景気"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "中国、適格外国投資家に国債先物解禁 リスク管理手段を拡充",
-                         "url":  "https://jp.reuters.com/markets/japan/IXL2HCDL5NOMJK4ETX523NHPUU-2026-04-24/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-25T18:03:23+09:00",
-                         "matchKeyword":  "国債"
-                     },
-                     {
                          "source":  "朝日新聞 経済",
-                         "title":  "北海道新幹線の工事「中止の水準」 1.2兆円の費用増で財務省指摘",
-                         "url":  "https://www.asahi.com/articles/ASV4R0GY4V4RULFA032M.html?ref=rss",
+                         "title":  "家事支援サービスの国家資格創設、27年秋に第1回試験 成長戦略で",
+                         "url":  "https://www.asahi.com/articles/ASV4Q254JV4QULFA00PM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T10:19:02+09:00",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
@@ -258,12 +384,12 @@
                      },
                      {
                          "source":  "朝日新聞 経済",
-                         "title":  "食料品「消費税ゼロ」なら経営懸念 農業団体が支援を求める理由とは",
-                         "url":  "https://www.asahi.com/articles/ASV4Q34RJV4QULFA028M.html?ref=rss",
+                         "title":  "北海道新幹線の工事「中止の水準」 1.2兆円の費用増で財務省指摘",
+                         "url":  "https://www.asahi.com/articles/ASV4R0GY4V4RULFA032M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
-                         "matchKeyword":  "消費税"
+                         "fetchedAt":  "2026-04-24T10:19:02+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -275,6 +401,60 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
+                         "source":  "朝日新聞 経済",
+                         "title":  "食料品「消費税ゼロ」なら経営懸念 農業団体が支援を求める理由とは",
+                         "url":  "https://www.asahi.com/articles/ASV4Q34RJV4QULFA028M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "消費税"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "中国、適格外国投資家に国債先物解禁 リスク管理手段を拡充",
+                         "url":  "https://jp.reuters.com/markets/japan/IXL2HCDL5NOMJK4ETX523NHPUU-2026-04-24/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-25T18:03:23+09:00",
+                         "matchKeyword":  "国債"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "日本国債は残高減少、入れ替え規模は2兆円下回る公算＝日本生命・26年度運用計画",
+                         "url":  "https://jp.reuters.com/opinion/7INHMTNGDBI2XGX6IIAM6MDJD4-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "国債"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "消費減税に1%案 与党幹部は「選択肢」レジ改修期間が半分に",
+                         "url":  "https://www.asahi.com/articles/ASV4S30SWV4SULFA00GM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-25T18:03:11+09:00",
+                         "matchKeyword":  "減税"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "独ＺＥＷ景気期待指数、4月は－17.2に急低下 イラン戦争が打撃",
+                         "url":  "https://jp.reuters.com/markets/japan/GJBPOR5YY5NTXPAA6N6GOJXC3M-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "景気"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "中国の財政支出、第1四半期2.6％増 25年から伸び加速",
+                         "url":  "https://jp.reuters.com/markets/japan/YXGGKW4VF5NYFAI7UICYOUTNHE-2026-04-24/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-25T18:03:23+09:00",
+                         "matchKeyword":  "財政"
+                     },
+                     {
                          "source":  "ロイター ビジネス",
                          "title":  "独経済、景気後退リスク急上昇 エネ高騰が重し＝ＩＭＫ研究所",
                          "url":  "https://jp.reuters.com/markets/japan/V2NINATTMBMUPNSGZYJRWMQDMI-2026-04-23/",
@@ -282,60 +462,6 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-24T07:39:04+09:00",
                          "matchKeyword":  "景気"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "生保の日本国債投資、26年度も慎重姿勢濃厚ー日生など長期金利3%視野",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-27/TE4G7QT96OSG00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T18:00:09+09:00",
-                         "matchKeyword":  "国債"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "鉱工業生産3月は0.5％低下、2カ月連続マイナス 無機・有機化学の減産響く",
-                         "url":  "https://jp.reuters.com/world/japan/PPKG4URXMFNVJDB3ZVFDP3CQ44-2026-04-30/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-30T12:00:05+09:00",
-                         "matchKeyword":  "鉱工業生産"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "公共事業の効果測定、諮問会議民間議員が見直し案 投資促進狙い?",
-                         "url":  "https://www.asahi.com/articles/ASV4W1SLHV4WULFA00MM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T08:57:05+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "3月の輸出は11.7%増、7カ月連続プラス－市場予想上回る伸び",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTPKET9NJLS00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "欧州委、電力減税とガス備蓄調整を提案 イラン戦争の影響緩和",
-                         "url":  "https://jp.reuters.com/markets/commodities/WDZXHQZSC5K23HWWWZVAFN2KJ4-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "減税"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "国債利回り高止まりへ、イラン戦争でインフレ長期化－ブラックロック",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-28/TE6MI8KJH6V500?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T18:00:09+09:00",
-                         "matchKeyword":  "国債"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -347,13 +473,13 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ＥＵ共同債、発行拡大には財政規律必要＝ＥＣＢのレーン専務理事",
-                         "url":  "https://jp.reuters.com/markets/japan/HDNKHBLP5BLVXKZBZQ55IO2QEM-2026-04-22/",
+                         "source":  "Bloomberg 日本",
+                         "title":  "国債利回り高止まりへ、イラン戦争でインフレ長期化－ブラックロック",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-28/TE6MI8KJH6V500?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
-                         "matchKeyword":  "財政"
+                         "fetchedAt":  "2026-04-28T18:00:09+09:00",
+                         "matchKeyword":  "国債"
                      },
                      {
                          "source":  "Bloomberg 日本",
@@ -365,148 +491,58 @@
                          "matchKeyword":  "景気"
                      },
                      {
-                         "source":  "朝日新聞 経済",
-                         "title":  "家事支援サービスの国家資格創設、27年秋に第1回試験 成長戦略で",
-                         "url":  "https://www.asahi.com/articles/ASV4Q254JV4QULFA00PM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
                          "source":  "ロイター ビジネス",
-                         "title":  "日銀「後手」と市場判断なら円安圧力、アジア開発銀の神田氏 財政要因も指摘",
-                         "url":  "https://jp.reuters.com/markets/commodities/HJC3E3WHRBJRLK3FL4R77IU6W4-2026-04-18/",
+                         "title":  "ＥＵ共同債、発行拡大には財政規律必要＝ＥＣＢのレーン専務理事",
+                         "url":  "https://jp.reuters.com/markets/japan/HDNKHBLP5BLVXKZBZQ55IO2QEM-2026-04-22/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
                          "matchKeyword":  "財政"
                      },
                      {
-                         "source":  "朝日新聞 経済",
-                         "title":  "冷凍食品の消費、1人あたりは年約25キロに 3年ぶりに過去最高",
-                         "url":  "https://www.asahi.com/articles/ASV4N2555V4NULFA02LM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "給付付き税額控除、「最大20万円給付なら…」 東京財団が試算示す",
-                         "url":  "https://www.asahi.com/articles/ASV4N2W6ZV4NULFA012M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
                          "source":  "ロイター ビジネス",
-                         "title":  "ＮＺ格付け見通し「ネガティブ」に下げ、財政リスクで＝ムーディーズ",
-                         "url":  "https://jp.reuters.com/markets/treasury/MLCWGRNPAZPEJO2ZGYXON73C4Y-2026-04-22/",
+                         "title":  "欧州委、電力減税とガス備蓄調整を提案 イラン戦争の影響緩和",
+                         "url":  "https://jp.reuters.com/markets/commodities/WDZXHQZSC5K23HWWWZVAFN2KJ4-2026-04-22/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "財政"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "日本の防衛費、2026年度はGDP比1.9%－2%の目標には届かず",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-17/TDN37BT9NJLT00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "GDP"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "子どものSNS利用、総務省が規制強化へ 年齢確認の義務化も検討",
-                         "url":  "https://www.asahi.com/articles/ASV4Q2PPVV4QULFA00BM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "円債は「買い目線」、2兆円弱の償還分全て再投資 残高は横ばい＝かんぽ・26年度運用計画",
-                         "url":  "https://jp.reuters.com/opinion/ITWXXKTN55MY7EYFID5NZVUVRM-2026-04-24/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-27T09:07:06+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "貿易収支、3月は6670億円の黒字 市場予想下回る黒字幅",
-                         "url":  "https://jp.reuters.com/markets/japan/5JF2BDZHCBNCZLZUHMHSOFEWUY-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T12:01:43+09:00",
-                         "matchKeyword":  "貿易収支"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "兵庫県のプレミアム付きデジタル券 県民でなくても買えたかも",
-                         "url":  "https://www.asahi.com/articles/ASV4Q3FNZV4QPIHB013M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "日銀会合に出席、このタイミングでのコメントは控える＝城内経済財政相",
-                         "url":  "https://jp.reuters.com/world/japan/5NP4TDZSNRLVDOYKJAUK2L27P4-2026-04-28/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T12:00:07+09:00",
-                         "matchKeyword":  "財政"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "「すべての減税は善である」 消費減税にリフレ派2人が賛意",
-                         "url":  "https://www.asahi.com/articles/ASV4S2PS2V4SULFA02CM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-25T18:03:11+09:00",
                          "matchKeyword":  "減税"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "ヘッジファンドの持ち高解消、日本の国債市場に影響も－日銀リポート",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU0QNKJH6V600?srnd=jp-markets",
+                         "source":  "ロイター ビジネス",
+                         "title":  "鉱工業生産3月は0.5％低下、2カ月連続マイナス 無機・有機化学の減産響く",
+                         "url":  "https://jp.reuters.com/world/japan/PPKG4URXMFNVJDB3ZVFDP3CQ44-2026-04-30/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
+                         "fetchedAt":  "2026-04-30T12:00:05+09:00",
+                         "matchKeyword":  "鉱工業生産"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "生保の日本国債投資、26年度も慎重姿勢濃厚ー日生など長期金利3%視野",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-27/TE4G7QT96OSG00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T18:00:09+09:00",
                          "matchKeyword":  "国債"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "ドイツ景気見通しが大幅に悪化、期待指数は2022年以来の低水準",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDU7UTKJH6V600?srnd=jp-markets",
+                         "title":  "3月の輸出は11.7%増、7カ月連続プラス－市場予想上回る伸び",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTPKET9NJLS00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
-                         "matchKeyword":  "景気"
+                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "朝日新聞 経済",
-                         "title":  "高市首相、消費減税「とにかくやる」 国民会議の参加者「本音は…」",
-                         "url":  "https://www.asahi.com/articles/ASV4X3G60V4XULFA013M.html?ref=rss",
+                         "title":  "公共事業の効果測定、諮問会議民間議員が見直し案 投資促進狙い?",
+                         "url":  "https://www.asahi.com/articles/ASV4W1SLHV4WULFA00MM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-30T08:55:26+09:00",
-                         "matchKeyword":  "減税"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "【米国市況】円が160円台に下落、国債下落－FOMC据え置き、原油上昇",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-29/TE9F2IKK3NYE00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-30T08:55:27+09:00",
-                         "matchKeyword":  "国債"
+                         "fetchedAt":  "2026-04-28T08:57:05+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      }
                  ]
 }
