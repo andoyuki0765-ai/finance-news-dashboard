@@ -229,17 +229,37 @@ function Invoke-ClaudeCode {
         $exitCode = $proc.ExitCode
 
         if ($exitCode -ne 0) {
+            # 「Not logged in」を分かりやすく検出
+            $errMsg = "Exit $exitCode. stderr: $stderr. stdout: $stdout"
+            if ($stdout -match 'Not logged in|Please run /login|Please run.*login') {
+                $errMsg = "❌ Claude Code Desktop が未ログイン状態です。Claude Code Desktopアプリを起動してサインインしてください（または /login コマンド実行）"
+            }
             return [pscustomobject]@{
                 Success = $false
                 Text    = ''
-                Error   = "Exit $exitCode. stderr: $stderr. stdout: $stdout"
+                Error   = $errMsg
                 Backend = 'claude-code'
+                LoginRequired = ($stdout -match 'Not logged in|Please run /login')
             }
         }
 
         # JSON出力をパース
         try {
             $result = $stdout | ConvertFrom-Json
+            # Claude Code の出力で is_error=true の場合もエラー扱い（exit 0でも内容エラーがある）
+            if ($result.is_error -eq $true) {
+                $errMsg = "Claude Code error: $($result.result)"
+                if ($result.result -match 'Not logged in|Please run /login') {
+                    $errMsg = "❌ Claude Code Desktop が未ログイン状態です。Claude Code Desktopアプリを起動してサインインしてください"
+                }
+                return [pscustomobject]@{
+                    Success = $false
+                    Text    = ''
+                    Error   = $errMsg
+                    Backend = 'claude-code'
+                    LoginRequired = ($result.result -match 'Not logged in|Please run /login')
+                }
+            }
             # Claude Code の --output-format json は { type, subtype, result, ... } を返す
             $text = if ($result.result) { $result.result } else { $stdout }
             return [pscustomobject]@{

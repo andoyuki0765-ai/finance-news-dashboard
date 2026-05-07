@@ -14,7 +14,7 @@
                        ],
     "claude_code":  {
                         "_comment":  "claude-code backend用設定。pathが空ならスクリプトが自動探索し、見つけた最新版を自動的にここへ書き込む（セルフヒーリング）。Claude Codeのバージョンアップに自動追従",
-                        "path":  "C:\\Users\\PC80\\AppData\\Roaming\\Claude\\claude-code\\2.1.119\\claude.exe",
+                        "path":  "C:\\Users\\PC80\\AppData\\Roaming\\Claude\\claude-code\\2.1.128\\claude.exe",
                         "model":  "haiku",
                         "timeout_sec":  180
                     },
