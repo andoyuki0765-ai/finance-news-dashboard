@@ -5,6 +5,15 @@
     "description":  "為替レート・通貨動向・為替介入",
     "articles":  [
                      {
+                         "source":  "NHK 経済",
+                         "title":  "三村財務官 連休中の円急騰 介入か明言せず 投機をけん制",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015115781000",
+                         "description":  "外国為替市場で連休中、円相場が急激に円高方向に動く場面があったことについて、財務省の三村財務官は7日朝、記者団の取材に対し「特にコメントする必要はない」と述べ、政府・日銀が市場介入を実施したかどうか明…",
+                         "publishedAt":  "2026-05-07T11:34:15+09:00",
+                         "fetchedAt":  "2026-05-07T12:00:06+09:00",
+                         "matchKeyword":  "円高"
+                     },
+                     {
                          "source":  "Yahoo!ニュース 経済",
                          "title":  "円安直撃の海外旅行 どう過ごした",
                          "url":  "https://news.yahoo.co.jp/pickup/6579062?source=rss",
@@ -249,240 +258,6 @@
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "米財務長官、湾岸諸国とアジア諸国から通貨スワップラインの要請",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDWHQKKJH6VF00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "通貨"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "円下落、一時約1年9カ月ぶりの円安水準に 1ドル160円半ば",
-                         "url":  "https://www.asahi.com/articles/ASV4Y4QTTV4YUHBI01CM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-30T08:55:26+09:00",
-                         "matchKeyword":  "円安"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米ドルの基軸通貨地位「懸念なし」＝ウォラー ＦＲＢ理事",
-                         "url":  "https://jp.reuters.com/markets/japan/T4BW4WDK6JO3HBNL4OGVYS6NXQ-2026-04-17/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "通貨"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "アジア通貨が過去最安値圏、原油高騰で売り圧力強まる",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-30/TEAI7XKJH6V400?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-30T18:00:07+09:00",
-                         "matchKeyword":  "通貨"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ドル／円、投機的な動きがかなりを占めている＝片山財務相",
-                         "url":  "https://jp.reuters.com/markets/japan/Y6NCYHRNGRO7XAIAMPWLFHUCCY-2026-04-17/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "日経平均が一時史上初の6万円台 終値は445円安、利益確定売りで",
-                         "url":  "https://www.asahi.com/articles/ASV4R01XNV4RULFA004M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:01+09:00",
-                         "matchKeyword":  "円安"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "中国人民元が円を抜く見通し、為替オプション対ドル取引－LCH",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDXLBRT96OSH00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
-                         "matchKeyword":  "為替"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "UAEが米と通貨スワップ協議開始､イラン戦争の影響深刻化に備え－報道",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-19/TDRF0ST9NJLS00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "通貨"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ＮＹ外為市場＝ドル下落、米イラン停戦合意巡り楽観広がる",
-                         "url":  "https://jp.reuters.com/markets/japan/CBCCWBHVOVMZRDKPK7XLZ7EYNY-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "為替介入実施の見方も、円が再び急騰 一時1ドル=155円台前半",
-                         "url":  "https://www.asahi.com/articles/ASV563RKJV56ULFA00GM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-07T09:12:06+09:00",
-                         "matchKeyword":  "為替"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "日銀「後手」と市場判断なら円安圧力、アジア開発銀の神田氏 財政要因も指摘",
-                         "url":  "https://jp.reuters.com/markets/commodities/HJC3E3WHRBJRLK3FL4R77IU6W4-2026-04-18/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "円安"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自モルガンＳ、仮想通貨取引を開始－割安な手数料で競合に対抗",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-06/TEM6M5T96OSH00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-07T09:12:10+09:00",
-                         "matchKeyword":  "通貨"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "円が再び急騰、一時1ドル=155円台前半 為替介入の警戒感強まる",
-                         "url":  "https://www.asahi.com/articles/ASV561R4GV56ULFA00CM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-07T09:12:06+09:00",
-                         "matchKeyword":  "為替"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "為替のインフレ率への影響あり得る、注視している─日銀総裁＝内閣府幹部",
-                         "url":  "https://jp.reuters.com/opinion/3D3HKRM6M5JW5KJ654US2G6C6Y-2026-04-23/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
-                         "matchKeyword":  "為替"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "対ポンドで慎重姿勢強まる－英中銀会合や5月地方選のリスク意識",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-27/TE5AH3T96OSJ00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T08:44:02+09:00",
-                         "matchKeyword":  "ポンド"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "為替円安「行動するときは行動」、大型連休中も対応＝片山財務相",
-                         "url":  "https://jp.reuters.com/opinion/26CX6A3TO5KJDJXNAFE6YAS37I-2026-04-28/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T12:00:07+09:00",
-                         "matchKeyword":  "円安"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "為替介入にはノーコメント、大型連休「まだ序盤」＝三村財務官",
-                         "url":  "https://jp.reuters.com/opinion/HCIBZC5IA5JPFIOK4PWYGMKTSY-2026-05-01/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-01T12:00:06+09:00",
-                         "matchKeyword":  "為替"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "前日夜の円高から一転、一時1ドル=157円台に 1日対円ドル相場",
-                         "url":  "https://www.asahi.com/articles/ASV510BXVV51ULFA007M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-01T12:00:05+09:00",
-                         "matchKeyword":  "円高"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "日経平均、半年で1万円高 AIと政権期待が先行「恩恵は富裕層に」",
-                         "url":  "https://www.asahi.com/articles/ASV4W2T82V4WULFA00VM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T08:44:01+09:00",
-                         "matchKeyword":  "円高"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "為替介入で「フリーハンド」＝片山財務相",
-                         "url":  "https://jp.reuters.com/markets/japan/ATWJMWJX7VI6JEED7ICC7RTG5U-2026-04-23/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
-                         "matchKeyword":  "為替"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "為替相場が一時1ドル155円台に急騰 財務相ら介入示唆した直後に",
-                         "url":  "https://www.asahi.com/articles/ASV4Z3RSWV4ZULFA02RM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-01T08:48:29+09:00",
-                         "matchKeyword":  "為替"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ＮＹ外為市場＝ドル上昇、米・イラン戦争の長期化懸念継続",
-                         "url":  "https://jp.reuters.com/markets/japan/JFHSIVVX5BKJTPUA6ZBBMLQXVA-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "為替円安、投機的動きには「断固として強い措置」＝片山財務相",
-                         "url":  "https://jp.reuters.com/markets/japan/U4AJSBNXUZNL7HV6NCMKSKDAKI-2026-04-24/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T12:00:42+09:00",
-                         "matchKeyword":  "円安"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "午前の日経平均は続伸、771円高 米イランの協議進展に期待",
-                         "url":  "https://jp.reuters.com/markets/japan/SOFEGK22QVIVHJY2TIUA2LUQOM-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
-                         "matchKeyword":  "円高"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米政府、湾岸・アジアの同盟国と通貨スワップ協議＝財務長官",
-                         "url":  "https://jp.reuters.com/markets/japan/GAXKDLHGOJIGBBUCQQPIG54IEE-2026-04-26/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-27T09:01:22+09:00",
-                         "matchKeyword":  "通貨"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "片山財務相､為替で米国との緊密な連携強調-市場は介入の兆候注視",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDY1OQKK3NYM00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
-                         "matchKeyword":  "為替"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
                          "title":  "円急騰で強気取引を手じまい、再び円安基調へ－TDセキュリティーズ",
                          "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-30/TEBE67KJH6V600?srnd=jp-markets",
                          "description":  "",
@@ -510,15 +285,6 @@
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "2年債入札、金融政策維持の中で需要探る－円安とタカ派に市場迷いも",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-29/TE9XZWKJH6V400?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-30T12:00:05+09:00",
-                         "matchKeyword":  "円安"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
                          "title":  "円が一時155円台に急伸、為替介入観測－片山財務相らの｢最後通告｣後",
                          "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-30/TEB150T96OSI00?srnd=jp-markets",
                          "description":  "",
@@ -527,12 +293,102 @@
                          "matchKeyword":  "為替"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "南ア、為替管理を抜本見直しへ 金融ハブ化推進・暗号資産を規制",
-                         "url":  "https://jp.reuters.com/markets/japan/W7UHUTTCZBMJ7GDHTJ6YTKZP4E-2026-04-27/",
+                         "source":  "Bloomberg 日本",
+                         "title":  "2年債入札、金融政策維持の中で需要探る－円安とタカ派に市場迷いも",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-29/TE9XZWKJH6V400?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T08:44:02+09:00",
+                         "fetchedAt":  "2026-04-30T12:00:05+09:00",
+                         "matchKeyword":  "円安"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "為替円安、投機的動きには「断固として強い措置」＝片山財務相",
+                         "url":  "https://jp.reuters.com/markets/japan/U4AJSBNXUZNL7HV6NCMKSKDAKI-2026-04-24/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T12:00:42+09:00",
+                         "matchKeyword":  "円安"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＮＹ外為市場＝ドル上昇、米・イラン戦争の長期化懸念継続",
+                         "url":  "https://jp.reuters.com/markets/japan/JFHSIVVX5BKJTPUA6ZBBMLQXVA-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "午前の日経平均は続伸、771円高 米イランの協議進展に期待",
+                         "url":  "https://jp.reuters.com/markets/japan/SOFEGK22QVIVHJY2TIUA2LUQOM-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "円高"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "片山財務相､為替で米国との緊密な連携強調-市場は介入の兆候注視",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDY1OQKK3NYM00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
+                         "matchKeyword":  "為替"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米政府、湾岸・アジアの同盟国と通貨スワップ協議＝財務長官",
+                         "url":  "https://jp.reuters.com/markets/japan/GAXKDLHGOJIGBBUCQQPIG54IEE-2026-04-26/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-27T09:01:22+09:00",
+                         "matchKeyword":  "通貨"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "午後3時のドルは158円後半で上昇一服、一時159円台 イラン情勢の進展待ち",
+                         "url":  "https://jp.reuters.com/markets/japan/ZFD7WPJL5VJPXHKXO4VPZTMHTY-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "数分で1円以上の円高に 午後3時半すぎから再び1ドル155円台",
+                         "url":  "https://www.asahi.com/articles/ASV512F8MV51ULFA01SM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-01T18:00:06+09:00",
+                         "matchKeyword":  "円高"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "財務相が為替介入示唆「断固たる措置近づいている、スマホ離さずに」",
+                         "url":  "https://www.asahi.com/articles/ASV4Z2FH9V4ZULFA007M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-30T18:00:05+09:00",
+                         "matchKeyword":  "為替"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "三村財務官、為替介入「回数を制約するルールない」－IMF基準に言及",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-07/TEN4V0KJH6V600?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-07T12:00:08+09:00",
+                         "matchKeyword":  "為替"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "財務官「引き続き変わらぬ警戒感で注視」連休中の為替変動めぐり",
+                         "url":  "https://www.asahi.com/articles/ASV570QDBV57ULFA005M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-07T12:00:07+09:00",
                          "matchKeyword":  "為替"
                      },
                      {
@@ -546,21 +402,21 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
+                         "title":  "南ア、為替管理を抜本見直しへ 金融ハブ化推進・暗号資産を規制",
+                         "url":  "https://jp.reuters.com/markets/japan/W7UHUTTCZBMJ7GDHTJ6YTKZP4E-2026-04-27/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T08:44:02+09:00",
+                         "matchKeyword":  "為替"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
                          "title":  "日産、前期営業損益500億円の黒字に 引当金取り崩しや円安寄与",
                          "url":  "https://jp.reuters.com/markets/world-indices/YITDMOFD4BLW5O7NJWD4NXPHFE-2026-04-27/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-28T08:44:02+09:00",
                          "matchKeyword":  "円安"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "「退避勧告」から2時間後に進んだ円高 介入めぐる財務省の言葉選び",
-                         "url":  "https://www.asahi.com/articles/ASV511PDHV51ULFA00QM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-01T18:00:06+09:00",
-                         "matchKeyword":  "円高"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -573,17 +429,53 @@
                      },
                      {
                          "source":  "朝日新聞 経済",
-                         "title":  "数分で1円以上の円高に 午後3時半すぎから再び1ドル155円台",
-                         "url":  "https://www.asahi.com/articles/ASV512F8MV51ULFA01SM.html?ref=rss",
+                         "title":  "「退避勧告」から2時間後に進んだ円高 介入めぐる財務省の言葉選び",
+                         "url":  "https://www.asahi.com/articles/ASV511PDHV51ULFA00QM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-05-01T18:00:06+09:00",
                          "matchKeyword":  "円高"
                      },
                      {
+                         "source":  "Bloomberg 日本",
+                         "title":  "中国人民元が円を抜く見通し、為替オプション対ドル取引－LCH",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDXLBRT96OSH00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
+                         "matchKeyword":  "為替"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "日経平均が一時史上初の6万円台 終値は445円安、利益確定売りで",
+                         "url":  "https://www.asahi.com/articles/ASV4R01XNV4RULFA004M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T07:39:01+09:00",
+                         "matchKeyword":  "円安"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "UAEが米と通貨スワップ協議開始､イラン戦争の影響深刻化に備え－報道",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-19/TDRF0ST9NJLS00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "通貨"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "為替介入実施の見方も、円が再び急騰 一時1ドル=155円台前半",
+                         "url":  "https://www.asahi.com/articles/ASV563RKJV56ULFA00GM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-07T09:12:06+09:00",
+                         "matchKeyword":  "為替"
+                     },
+                     {
                          "source":  "ロイター ビジネス",
-                         "title":  "午後3時のドルは158円後半で上昇一服、一時159円台 イラン情勢の進展待ち",
-                         "url":  "https://jp.reuters.com/markets/japan/ZFD7WPJL5VJPXHKXO4VPZTMHTY-2026-04-20/",
+                         "title":  "ＮＹ外為市場＝ドル下落、米イラン停戦合意巡り楽観広がる",
+                         "url":  "https://jp.reuters.com/markets/japan/CBCCWBHVOVMZRDKPK7XLZ7EYNY-2026-04-20/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-21T09:10:26+09:00",
@@ -591,12 +483,147 @@
                      },
                      {
                          "source":  "朝日新聞 経済",
-                         "title":  "財務相が為替介入示唆「断固たる措置近づいている、スマホ離さずに」",
-                         "url":  "https://www.asahi.com/articles/ASV4Z2FH9V4ZULFA007M.html?ref=rss",
+                         "title":  "円下落、一時約1年9カ月ぶりの円安水準に 1ドル160円半ば",
+                         "url":  "https://www.asahi.com/articles/ASV4Y4QTTV4YUHBI01CM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-30T18:00:05+09:00",
+                         "fetchedAt":  "2026-04-30T08:55:26+09:00",
+                         "matchKeyword":  "円安"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "米財務長官、湾岸諸国とアジア諸国から通貨スワップラインの要請",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDWHQKKJH6VF00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "通貨"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米ドルの基軸通貨地位「懸念なし」＝ウォラー ＦＲＢ理事",
+                         "url":  "https://jp.reuters.com/markets/japan/T4BW4WDK6JO3HBNL4OGVYS6NXQ-2026-04-17/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "通貨"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ドル／円、投機的な動きがかなりを占めている＝片山財務相",
+                         "url":  "https://jp.reuters.com/markets/japan/Y6NCYHRNGRO7XAIAMPWLFHUCCY-2026-04-17/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T10:38:01+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "アジア通貨が過去最安値圏、原油高騰で売り圧力強まる",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-30/TEAI7XKJH6V400?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-30T18:00:07+09:00",
+                         "matchKeyword":  "通貨"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "日銀「後手」と市場判断なら円安圧力、アジア開発銀の神田氏 財政要因も指摘",
+                         "url":  "https://jp.reuters.com/markets/commodities/HJC3E3WHRBJRLK3FL4R77IU6W4-2026-04-18/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "円安"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "前日夜の円高から一転、一時1ドル=157円台に 1日対円ドル相場",
+                         "url":  "https://www.asahi.com/articles/ASV510BXVV51ULFA007M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-01T12:00:05+09:00",
+                         "matchKeyword":  "円高"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "為替介入にはノーコメント、大型連休「まだ序盤」＝三村財務官",
+                         "url":  "https://jp.reuters.com/opinion/HCIBZC5IA5JPFIOK4PWYGMKTSY-2026-05-01/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-01T12:00:06+09:00",
                          "matchKeyword":  "為替"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "日経平均、半年で1万円高 AIと政権期待が先行「恩恵は富裕層に」",
+                         "url":  "https://www.asahi.com/articles/ASV4W2T82V4WULFA00VM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T08:44:01+09:00",
+                         "matchKeyword":  "円高"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "為替相場が一時1ドル155円台に急騰 財務相ら介入示唆した直後に",
+                         "url":  "https://www.asahi.com/articles/ASV4Z3RSWV4ZULFA02RM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-01T08:48:29+09:00",
+                         "matchKeyword":  "為替"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "為替介入で「フリーハンド」＝片山財務相",
+                         "url":  "https://jp.reuters.com/markets/japan/ATWJMWJX7VI6JEED7ICC7RTG5U-2026-04-23/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
+                         "matchKeyword":  "為替"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "円が再び急騰、一時1ドル=155円台前半 為替介入の警戒感強まる",
+                         "url":  "https://www.asahi.com/articles/ASV561R4GV56ULFA00CM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-07T09:12:06+09:00",
+                         "matchKeyword":  "為替"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自モルガンＳ、仮想通貨取引を開始－割安な手数料で競合に対抗",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-06/TEM6M5T96OSH00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-07T09:12:10+09:00",
+                         "matchKeyword":  "通貨"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "為替のインフレ率への影響あり得る、注視している─日銀総裁＝内閣府幹部",
+                         "url":  "https://jp.reuters.com/opinion/3D3HKRM6M5JW5KJ654US2G6C6Y-2026-04-23/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
+                         "matchKeyword":  "為替"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "為替円安「行動するときは行動」、大型連休中も対応＝片山財務相",
+                         "url":  "https://jp.reuters.com/opinion/26CX6A3TO5KJDJXNAFE6YAS37I-2026-04-28/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T12:00:07+09:00",
+                         "matchKeyword":  "円安"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "対ポンドで慎重姿勢強まる－英中銀会合や5月地方選のリスク意識",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-27/TE5AH3T96OSJ00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T08:44:02+09:00",
+                         "matchKeyword":  "ポンド"
                      }
                  ]
 }
