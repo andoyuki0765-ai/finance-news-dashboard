@@ -5,6 +5,15 @@
     "description":  "米中欧の経済指標・IMF・世界銀行",
     "articles":  [
                      {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "黒田東彦が語る「海外勤務の意義」、年金破綻に直面したIMFの意外な対処法とは？ - 黒田東彦の世界と経済の読み解き方",
+                         "url":  "https://diamond.jp/articles/-/389971",
+                         "description":  "海外勤務は知見や人脈を広げる好機である。前日本銀行総裁の黒田東彦氏が執筆する連載『黒田東彦の世界と経済の読み解き方』の今回のテーマは、「海外勤務の意義」。黒田氏が国際通貨基金（IMF）の勤務で実感した国際機関職員の地位と、培った人脈とは？",
+                         "publishedAt":  "2026-05-19T04:25:00+09:00",
+                         "fetchedAt":  "2026-05-19T08:43:28+09:00",
+                         "matchKeyword":  "IMF"
+                     },
+                     {
                          "source":  "東洋経済オンライン",
                          "title":  "容易でない｢原子力発電3倍｣の目標達成､人材不足の解消と投資の不確実性払拭が急務──OECD原子力機関事務局長に聞く | 政治・経済・投資 | 東洋経済オンライン",
                          "url":  "https://toyokeizai.net/articles/-/944676?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
@@ -114,120 +123,21 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "独経済、景気後退リスク急上昇 エネ高騰が重し＝ＩＭＫ研究所",
-                         "url":  "https://jp.reuters.com/markets/japan/V2NINATTMBMUPNSGZYJRWMQDMI-2026-04-23/",
+                         "title":  "ユーロ圏最高の公的債務水準、ギリシャからイタリアに交代へ",
+                         "url":  "https://jp.reuters.com/markets/bonds/ZS4IF4AAVBKQVCK2MLW7KWDUBE-2026-04-24/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
-                         "matchKeyword":  "景気後退"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "欧州新車販売、3月＋11.1％で2年ぶり高い伸び ＥＶ42％急増",
-                         "url":  "https://jp.reuters.com/markets/japan/N67TCN5ZYFIXTJPMXYRRQT4JDA-2026-04-23/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "アマゾン1－3月期、ＡＷＳ売上高成長率が市場予想上回る ＡＩ需要が追い風",
-                         "url":  "https://jp.reuters.com/markets/world-indices/KE652XC2PJP5VB3FOCJTOL6NKQ-2026-04-29/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-30T08:55:27+09:00",
-                         "matchKeyword":  "成長率"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "英総合ＰＭＩ、4月速報は予想外に52.0まで上昇 コスト急騰",
-                         "url":  "https://jp.reuters.com/markets/japan/UDYD5P75CRLGZKITPMR4F2S6R4-2026-04-23/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "独、26年成長率0.5％に下方修正 インフレ予想は引き上げ",
-                         "url":  "https://jp.reuters.com/markets/japan/N7FC5T6VVVPG5FUJAWQUEIRMIA-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "成長率"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ＯＥＣＤ、イラン危機によるスタグフレーション再来は想定せず",
-                         "url":  "https://jp.reuters.com/markets/japan/225XFKERPVKIBIVFGPNKOQQRCU-2026-04-23/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ユーロ圏銀行、ＡＩ悪用のサイバー攻撃巡り早急に対策を＝ＥＣＢ",
-                         "url":  "https://jp.reuters.com/markets/japan/D3KVR2ALNJKWZMWHWGSU6HINDM-2026-05-13/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-14T08:55:18+09:00",
-                         "matchKeyword":  "ユーロ圏"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "神田ＡＤＢ総裁、次期総裁選に立候補の意向表明 片山財務相「強く支持」",
-                         "url":  "https://jp.reuters.com/markets/japan/3PTWKUCQE5JZDBOS76VVQV32M4-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自IMF、中国のデフレ脱却なお見極め－より持続的な物価上昇が必要",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-01/TEAXTST9NJLT00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-01T18:00:07+09:00",
-                         "matchKeyword":  "IMF"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ユーロ圏サービス業、4月景況感5年2カ月ぶり低水準 中東情勢が打撃",
-                         "url":  "https://jp.reuters.com/markets/japan/UF5JCV77QBKMDBBIPUQIFQUR6Y-2026-05-06/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-07T09:12:09+09:00",
-                         "matchKeyword":  "ユーロ圏"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ユーロ圏銀行融資、3月は企業向けの伸び加速 中東紛争下でも底堅さ",
-                         "url":  "https://jp.reuters.com/markets/japan/OKTXUOCRNJJXDN4PHBGAIK3C4Y-2026-04-29/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-30T08:55:27+09:00",
-                         "matchKeyword":  "ユーロ圏"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ユーロ圏消費者信頼感指数、4月はマイナス20.6に悪化",
-                         "url":  "https://jp.reuters.com/markets/japan/35N2FRGOI5LNVA6CEL4FUOVRJI-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "fetchedAt":  "2026-04-25T18:03:23+09:00",
                          "matchKeyword":  "ユーロ圏"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "ユーロ圏民間部門、経済活動は4月に予想外に縮小－英国は改善",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDXTZUKJH6V500?srnd=jp-markets",
+                         "title":  "米総合PMI上昇､拡大ペースの加速示す－販売価格は22年来の高水準",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDY8VZKJH6V900?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
-                         "matchKeyword":  "ユーロ圏"
+                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
+                         "matchKeyword":  "[LLM分類]"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -266,22 +176,31 @@
                          "matchKeyword":  "IMF"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ユーロ圏最高の公的債務水準、ギリシャからイタリアに交代へ",
-                         "url":  "https://jp.reuters.com/markets/bonds/ZS4IF4AAVBKQVCK2MLW7KWDUBE-2026-04-24/",
+                         "source":  "Bloomberg 日本",
+                         "title":  "MSCI新興国株式、イランとの戦争受けた下落分を帳消し－AI巡る楽観で",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDRUVYT9NJLU00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-25T18:03:23+09:00",
-                         "matchKeyword":  "ユーロ圏"
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "新興国"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "米総合PMI上昇､拡大ペースの加速示す－販売価格は22年来の高水準",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDY8VZKJH6V900?srnd=jp-markets",
+                         "source":  "ロイター ビジネス",
+                         "title":  "英消費者信頼感、4月はマイナス25に悪化 2年半ぶり低水準",
+                         "url":  "https://jp.reuters.com/markets/japan/4I2XFI6Z75LVTFNN6RMQV623NY-2026-04-23/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-24T10:19:03+09:00",
                          "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ユーロ圏銀行、ＡＩ悪用のサイバー攻撃巡り早急に対策を＝ＥＣＢ",
+                         "url":  "https://jp.reuters.com/markets/japan/D3KVR2ALNJKWZMWHWGSU6HINDM-2026-05-13/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-14T08:55:18+09:00",
+                         "matchKeyword":  "ユーロ圏"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -311,22 +230,112 @@
                          "matchKeyword":  "景気後退"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "MSCI新興国株式、イランとの戦争受けた下落分を帳消し－AI巡る楽観で",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDRUVYT9NJLU00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "新興国"
-                     },
-                     {
                          "source":  "ロイター ビジネス",
-                         "title":  "英消費者信頼感、4月はマイナス25に悪化 2年半ぶり低水準",
-                         "url":  "https://jp.reuters.com/markets/japan/4I2XFI6Z75LVTFNN6RMQV623NY-2026-04-23/",
+                         "title":  "英総合ＰＭＩ、4月速報は予想外に52.0まで上昇 コスト急騰",
+                         "url":  "https://jp.reuters.com/markets/japan/UDYD5P75CRLGZKITPMR4F2S6R4-2026-04-23/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-24T10:19:03+09:00",
                          "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "独、26年成長率0.5％に下方修正 インフレ予想は引き上げ",
+                         "url":  "https://jp.reuters.com/markets/japan/N7FC5T6VVVPG5FUJAWQUEIRMIA-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "成長率"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＯＥＣＤ、イラン危機によるスタグフレーション再来は想定せず",
+                         "url":  "https://jp.reuters.com/markets/japan/225XFKERPVKIBIVFGPNKOQQRCU-2026-04-23/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "独経済、景気後退リスク急上昇 エネ高騰が重し＝ＩＭＫ研究所",
+                         "url":  "https://jp.reuters.com/markets/japan/V2NINATTMBMUPNSGZYJRWMQDMI-2026-04-23/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
+                         "matchKeyword":  "景気後退"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "欧州新車販売、3月＋11.1％で2年ぶり高い伸び ＥＶ42％急増",
+                         "url":  "https://jp.reuters.com/markets/japan/N67TCN5ZYFIXTJPMXYRRQT4JDA-2026-04-23/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "アマゾン1－3月期、ＡＷＳ売上高成長率が市場予想上回る ＡＩ需要が追い風",
+                         "url":  "https://jp.reuters.com/markets/world-indices/KE652XC2PJP5VB3FOCJTOL6NKQ-2026-04-29/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-30T08:55:27+09:00",
+                         "matchKeyword":  "成長率"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ユーロ圏銀行融資、3月は企業向けの伸び加速 中東紛争下でも底堅さ",
+                         "url":  "https://jp.reuters.com/markets/japan/OKTXUOCRNJJXDN4PHBGAIK3C4Y-2026-04-29/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-30T08:55:27+09:00",
+                         "matchKeyword":  "ユーロ圏"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ユーロ圏消費者信頼感指数、4月はマイナス20.6に悪化",
+                         "url":  "https://jp.reuters.com/markets/japan/35N2FRGOI5LNVA6CEL4FUOVRJI-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "ユーロ圏"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ユーロ圏民間部門、経済活動は4月に予想外に縮小－英国は改善",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDXTZUKJH6V500?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
+                         "matchKeyword":  "ユーロ圏"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "神田ＡＤＢ総裁、次期総裁選に立候補の意向表明 片山財務相「強く支持」",
+                         "url":  "https://jp.reuters.com/markets/japan/3PTWKUCQE5JZDBOS76VVQV32M4-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自IMF、中国のデフレ脱却なお見極め－より持続的な物価上昇が必要",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-01/TEAXTST9NJLT00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-01T18:00:07+09:00",
+                         "matchKeyword":  "IMF"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ユーロ圏サービス業、4月景況感5年2カ月ぶり低水準 中東情勢が打撃",
+                         "url":  "https://jp.reuters.com/markets/japan/UF5JCV77QBKMDBBIPUQIFQUR6Y-2026-05-06/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-07T09:12:09+09:00",
+                         "matchKeyword":  "ユーロ圏"
                      }
                  ]
 }
