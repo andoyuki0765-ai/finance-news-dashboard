@@ -50,21 +50,21 @@
                          "matchKeyword":  "住宅"
                      },
                      {
-                         "source":  "ダイヤモンド・オンライン",
-                         "title":  "長期金利が29年ぶり2.8％！住宅ローンは「まだ変動金利でいい」と信じる人がハマる〈恐ろしすぎる落とし穴〉 - 老後のお金クライシス！ 深田晶恵",
-                         "url":  "https://diamond.jp/articles/-/390493",
-                         "description":  "中東情勢の混乱などを背景に、長期金利が上昇している。金利上昇の局面で気になるのが、住宅ローンだ。住宅ローンには、変動金利型と固定金利型があるが、どちらを選べばよいのだろうか。複雑な仕組みをわかりやすく解説するとともに、今注意したいポイントを見ていこう。",
-                         "publishedAt":  "2026-05-21T08:00:00+09:00",
-                         "fetchedAt":  "2026-05-21T08:51:27+09:00",
-                         "matchKeyword":  "住宅"
-                     },
-                     {
                          "source":  "ITmedia ビジネス",
                          "title":  "「壊れてから呼ぶ」が変わる？ 月590円「おうち修理サービス」がじわり広がるワケ",
                          "url":  "https://www.itmedia.co.jp/business/articles/2605/21/news007.html",
                          "description":  "水漏れや漏電など、突然起きる住宅トラブル。悪質業者への不安が高まる中、月590円から利用できる「おうち修理サブスク」が契約件数を伸ばしている。“壊れてから直す”文化は変わり始めているのか。",
                          "publishedAt":  "2026-05-21T08:00:00+09:00",
                          "fetchedAt":  "2026-05-21T08:51:24+09:00",
+                         "matchKeyword":  "住宅"
+                     },
+                     {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "長期金利が29年ぶり2.8％！住宅ローンは「まだ変動金利でいい」と信じる人がハマる〈恐ろしすぎる落とし穴〉 - 老後のお金クライシス！ 深田晶恵",
+                         "url":  "https://diamond.jp/articles/-/390493",
+                         "description":  "中東情勢の混乱などを背景に、長期金利が上昇している。金利上昇の局面で気になるのが、住宅ローンだ。住宅ローンには、変動金利型と固定金利型があるが、どちらを選べばよいのだろうか。複雑な仕組みをわかりやすく解説するとともに、今注意したいポイントを見ていこう。",
+                         "publishedAt":  "2026-05-21T08:00:00+09:00",
+                         "fetchedAt":  "2026-05-21T08:51:27+09:00",
                          "matchKeyword":  "住宅"
                      },
                      {
@@ -554,21 +554,84 @@
                          "matchKeyword":  "住宅"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "フジＨＤ、26年3月期の純利益を下方修正 不動産事業の再編検討などで",
-                         "url":  "https://jp.reuters.com/markets/world-indices/LN3DUHEEBRNAXDRNTIBLLP4IY4-2026-04-27/",
+                         "source":  "朝日新聞 経済",
+                         "title":  "木質デザインのビル着工 大阪・中之島、30年近い開発が最終段階",
+                         "url":  "https://www.asahi.com/articles/ASV4P2CD6V4PPLFA00DM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T08:44:02+09:00",
+                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "三井不の専務、首都圏マンション価格「下がる要因ない」 建設費高騰",
+                         "url":  "https://www.asahi.com/articles/ASV5F2G03V5FULFA02FM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-13T18:00:08+09:00",
+                         "matchKeyword":  "マンション"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自香港の焦げ付き債権4兆円、処理急ぐ銀行－商業用不動産投げ売りも",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-12/TEUN3CKJH6V400?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-12T12:11:48+09:00",
+                         "matchKeyword":  "不動産"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "東京23区の新築マンション、平均1億3784万円で最高値 昨年度",
+                         "url":  "https://www.asahi.com/articles/ASV4N1RMZV4NULFA005M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:03+09:00",
+                         "matchKeyword":  "マンション"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "首都圏マンション、4月発売15.6％増 価格3カ月ぶり1億円割れ＝不動産経済研",
+                         "url":  "https://jp.reuters.com/markets/japan/5H736P6CXRJVPLADJUUNYVSCLY-2026-05-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-21T18:00:05+09:00",
                          "matchKeyword":  "不動産"
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "米建設支出、3月は前月比0.6％増と改善 一戸建て住宅が寄与",
-                         "url":  "https://jp.reuters.com/markets/japan/RCYUD3BFGJME7E3H5HG6M2FJWM-2026-05-07/",
+                         "title":  "首都圏マンション発売、3月は35.5%減 価格下落も1億円台維持＝不動産経済研",
+                         "url":  "https://jp.reuters.com/markets/japan/JKXAC7HLNRMFTDWW7WAYQMGULA-2026-04-20/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-05-08T13:59:38+09:00",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "不動産"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "米住宅着工件数、2024年12月以来の高水準－全ての予想を上回る",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-29/TE99LCKK3NY800?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-30T08:55:27+09:00",
+                         "matchKeyword":  "住宅"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "マクロスコープ：マンション高騰、中東危機で上振れ懸念 ますます高嶺の花に",
+                         "url":  "https://jp.reuters.com/business/W5733GSGNBPTXITS5N7GILGOCE-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "マンション"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "米中古住宅販売成約、2カ月連続で上昇－金利高も在庫増が寄与",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDUK9AKJH6VR00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
                          "matchKeyword":  "住宅"
                      },
                      {
@@ -590,6 +653,24 @@
                          "matchKeyword":  "不動産"
                      },
                      {
+                         "source":  "ロイター ビジネス",
+                         "title":  "フジＨＤ、26年3月期の純利益を下方修正 不動産事業の再編検討などで",
+                         "url":  "https://jp.reuters.com/markets/world-indices/LN3DUHEEBRNAXDRNTIBLLP4IY4-2026-04-27/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T08:44:02+09:00",
+                         "matchKeyword":  "不動産"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米建設支出、3月は前月比0.6％増と改善 一戸建て住宅が寄与",
+                         "url":  "https://jp.reuters.com/markets/japan/RCYUD3BFGJME7E3H5HG6M2FJWM-2026-05-07/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-08T13:59:38+09:00",
+                         "matchKeyword":  "住宅"
+                     },
+                     {
                          "source":  "朝日新聞 経済",
                          "title":  "フジHD、広告収入減で初の営業赤字87億円 どうなる不動産事業",
                          "url":  "https://www.asahi.com/articles/ASV5D0FJPV5DULFA00MM.html?ref=rss",
@@ -597,24 +678,6 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-05-12T18:00:04+09:00",
                          "matchKeyword":  "不動産"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米一戸建て住宅着工、3月は9.7%増の103.2万戸 13カ月ぶり高水準",
-                         "url":  "https://jp.reuters.com/markets/japan/DDN2PPJ56VMCDMAGGQYTQRXLCQ-2026-04-29/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-30T08:55:27+09:00",
-                         "matchKeyword":  "住宅"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米中古住宅仮契約指数、3月は1.5％上昇 予想上回る",
-                         "url":  "https://jp.reuters.com/markets/world-indices/2OAHYFO4MNPWLIG7E3NSEDBN4E-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
-                         "matchKeyword":  "住宅"
                      },
                      {
                          "source":  "Bloomberg 日本",
@@ -635,84 +698,21 @@
                          "matchKeyword":  "不動産"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自香港の焦げ付き債権4兆円、処理急ぐ銀行－商業用不動産投げ売りも",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-12/TEUN3CKJH6V400?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-12T12:11:48+09:00",
-                         "matchKeyword":  "不動産"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "東京23区の新築マンション、平均1億3784万円で最高値 昨年度",
-                         "url":  "https://www.asahi.com/articles/ASV4N1RMZV4NULFA005M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:03+09:00",
-                         "matchKeyword":  "マンション"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "木質デザインのビル着工 大阪・中之島、30年近い開発が最終段階",
-                         "url":  "https://www.asahi.com/articles/ASV4P2CD6V4PPLFA00DM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "三井不の専務、首都圏マンション価格「下がる要因ない」 建設費高騰",
-                         "url":  "https://www.asahi.com/articles/ASV5F2G03V5FULFA02FM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-13T18:00:08+09:00",
-                         "matchKeyword":  "マンション"
-                     },
-                     {
                          "source":  "ロイター ビジネス",
-                         "title":  "首都圏マンション、4月発売15.6％増 価格3カ月ぶり1億円割れ＝不動産経済研",
-                         "url":  "https://jp.reuters.com/markets/japan/5H736P6CXRJVPLADJUUNYVSCLY-2026-05-21/",
+                         "title":  "米一戸建て住宅着工、3月は9.7%増の103.2万戸 13カ月ぶり高水準",
+                         "url":  "https://jp.reuters.com/markets/japan/DDN2PPJ56VMCDMAGGQYTQRXLCQ-2026-04-29/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-05-21T18:00:05+09:00",
-                         "matchKeyword":  "不動産"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "マクロスコープ：マンション高騰、中東危機で上振れ懸念 ますます高嶺の花に",
-                         "url":  "https://jp.reuters.com/business/W5733GSGNBPTXITS5N7GILGOCE-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "マンション"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "米中古住宅販売成約、2カ月連続で上昇－金利高も在庫増が寄与",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDUK9AKJH6VR00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:44+09:00",
+                         "fetchedAt":  "2026-04-30T08:55:27+09:00",
                          "matchKeyword":  "住宅"
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "首都圏マンション発売、3月は35.5%減 価格下落も1億円台維持＝不動産経済研",
-                         "url":  "https://jp.reuters.com/markets/japan/JKXAC7HLNRMFTDWW7WAYQMGULA-2026-04-20/",
+                         "title":  "米中古住宅仮契約指数、3月は1.5％上昇 予想上回る",
+                         "url":  "https://jp.reuters.com/markets/world-indices/2OAHYFO4MNPWLIG7E3NSEDBN4E-2026-04-21/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "不動産"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "米住宅着工件数、2024年12月以来の高水準－全ての予想を上回る",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-29/TE99LCKK3NY800?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-30T08:55:27+09:00",
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
                          "matchKeyword":  "住宅"
                      }
                  ]
