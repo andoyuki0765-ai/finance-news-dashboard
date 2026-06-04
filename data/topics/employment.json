@@ -6,6 +6,15 @@
     "articles":  [
                      {
                          "source":  "ダイヤモンド・オンライン",
+                         "title":  "ガソリン補助金は年金生活者を不利に、政府の物価対策で「損をする人」はほかにもいる - 野口悠紀雄 新しい経済秩序を求めて",
+                         "url":  "https://diamond.jp/articles/-/391663",
+                         "description":  "政府の物価対策によってガソリン価格などが低く抑えられているが、この政策下では、公的年金のインフレスライド率が、高齢者が直面する消費者物価上昇率に追い付かず、その結果、年金の実質価値が低下する可能性が高い。この構図は最低賃金で働く人や生活保護世帯も同じだ。",
+                         "publishedAt":  "2026-06-04T06:15:00+09:00",
+                         "fetchedAt":  "2026-06-04T12:00:05+09:00",
+                         "matchKeyword":  "賃金"
+                     },
+                     {
+                         "source":  "ダイヤモンド・オンライン",
                          "title":  "優しい「ホワイト企業」なのに…優秀な若手がポロポロ離職する「本当の理由」 - News\u0026Analysis",
                          "url":  "https://diamond.jp/articles/-/391103",
                          "description":  "残業はない。ハラスメント対策もばっちり。上司も優しい。そんな「理想のホワイト企業」から、優秀な若手がなぜか次々に辞めていく――。いま日本の職場で、こんな不思議な現象が起きています。なぜでしょうか？根本的な原因に迫ると、若手のホワイト退職を防ぐために上司がやるべきことが3つ、見えてきました。",
@@ -536,15 +545,6 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "ITmedia ビジネス",
-                         "title":  "学ばない社員が過半数に 管理職離れが、じわじわ進む職場のいま",
-                         "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news018.html",
-                         "description":  "パーソル総合研究所は、「働く1万人の就業・成長定点調査」を実施した。その結果……。",
-                         "publishedAt":  "2026-04-20T08:00:00+09:00",
-                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
                          "source":  "東洋経済オンライン",
                          "title":  "｢1日10時間労働or給料減額｣社労士が語る《週休3日》普及のカギ | キャリア・教育 | 東洋経済オンライン",
                          "url":  "https://toyokeizai.net/articles/-/939531?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
@@ -555,209 +555,20 @@
                      },
                      {
                          "source":  "ITmedia ビジネス",
+                         "title":  "学ばない社員が過半数に 管理職離れが、じわじわ進む職場のいま",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news018.html",
+                         "description":  "パーソル総合研究所は、「働く1万人の就業・成長定点調査」を実施した。その結果……。",
+                         "publishedAt":  "2026-04-20T08:00:00+09:00",
+                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ITmedia ビジネス",
                          "title":  "2026年度新入社員の“初任給の使い方” 3位「貯蓄」、2位「趣味」、1位は？",
                          "url":  "https://www.itmedia.co.jp/business/articles/2604/20/news012.html",
                          "description":  "ジェイックが2026年度の新入社員を対象に、初任給の使い方について調査した。1位は何だったのか。",
                          "publishedAt":  "2026-04-20T06:00:00+09:00",
                          "fetchedAt":  "2026-04-20T10:38:00+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "サムスン非半導体労組、賃金協定投票差し止め申し立て 部門間の報酬格差が溝生む",
-                         "url":  "https://jp.reuters.com/markets/global-markets/QJB3DZ73BRPFLOJ4XYHMY2F5MQ-2026-05-26/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-27T06:00:06+09:00",
-                         "matchKeyword":  "賃金"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自中国の25－29歳で失業率が急上昇、労働市場悪化とAI拡大が影響",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDW14WKK3NYA00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "失業率"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米新規失業保険申請2.6万件減の18.9万件、労働市場の安定示唆",
-                         "url":  "https://jp.reuters.com/markets/japan/HFN5DC2IMJOSVNUWMHFIVKV5XY-2026-04-30/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-01T08:48:30+09:00",
-                         "matchKeyword":  "労働市場"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "大企業の春闘、賃上げ5.46% 額は最高1万9964円 経団連",
-                         "url":  "https://www.asahi.com/articles/ASV5W2PL0V5WULFA001M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-27T18:00:12+09:00",
-                         "matchKeyword":  "春闘"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米インフレは一段と悪化、労働市場はやや改善＝ミネアポリス連銀総裁",
-                         "url":  "https://jp.reuters.com/markets/japan/NHLEBTUDUFJ6FLXFUMHYQQPVNM-2026-05-13/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-14T08:55:18+09:00",
-                         "matchKeyword":  "労働市場"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "求人倍率、25年度平均は1.20倍 3年連続低下 物価高など響く",
-                         "url":  "https://www.asahi.com/articles/ASV4W3FT8V4WULFA020M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T12:00:05+09:00",
-                         "matchKeyword":  "求人"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "こんなに天引き？ 給与明細見てみると 「いざ」という時の備えに",
-                         "url":  "https://www.asahi.com/articles/ASV4H3606V4HULFA00RM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米雇用コスト、第1四半期は前期比0.9％上昇 福利厚生の伸びが押し上げ",
-                         "url":  "https://jp.reuters.com/markets/japan/TMPEODKRW5PRLLO5TWTNCHSKN4-2026-04-30/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-01T08:48:30+09:00",
-                         "matchKeyword":  "雇用"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米成人の73％が家計「概ね良好」、雇用不安は上昇も＝ＦＲＢ年次調査",
-                         "url":  "https://jp.reuters.com/markets/japan/SUTCNKSZN5MYZAUWOBHYYJLBXU-2026-05-13/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-14T08:55:18+09:00",
-                         "matchKeyword":  "雇用"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "特定技能人材、受け入れ停止は「死活問題」 外食団体トップが危機感",
-                         "url":  "https://www.asahi.com/articles/ASV4V33Q1V4VULFA005M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T08:57:05+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "米ADP民間雇用者数､25年1月以来の大幅増－労働市場に勢い強まる兆し",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-03/TG21ZVT9NJLU00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-04T06:00:10+09:00",
-                         "matchKeyword":  "雇用"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "米地区連銀経済報告：インフレが大半の地区で加速、雇用状況は安定",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-03/TG2INWKJH6V400?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-04T06:00:10+09:00",
-                         "matchKeyword":  "雇用"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "米失業保険申請は小幅に増加、レイオフは依然抑制水準",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDY5L2T9NJLS00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "首相、裁量労働制「対象のあり方見直し検討」指示 成長戦略会議",
-                         "url":  "https://www.asahi.com/articles/ASV4Q42PLV4QULFA02DM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "米求人件数、予想外に増加して2年ぶり高水準－レイオフは減少",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-02/TG0CD0KJH6V800?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-03T06:00:07+09:00",
-                         "matchKeyword":  "求人"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "実質賃金、4年連続マイナス 25年度、物価上昇に追いつかず",
-                         "url":  "https://www.asahi.com/articles/ASV5Q0DLWV5QULFA003M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-22T12:00:05+09:00",
-                         "matchKeyword":  "賃金"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ドイツ産業界、雇用削減続く 売上高は増加に転じる＝ＥＹ調査",
-                         "url":  "https://jp.reuters.com/business/autos/OAWJDFH74VPCBI2KDH5EEU7XSU-2026-05-25/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-25T18:00:05+09:00",
-                         "matchKeyword":  "雇用"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "米ADP民間雇用者数、1年余りで最大の伸び－労働市場の安定化示す",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-06/TEM7FMKK3NY900?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-07T09:12:10+09:00",
-                         "matchKeyword":  "雇用"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "中国の若年失業率、3月は16.9％に上昇",
-                         "url":  "https://jp.reuters.com/markets/japan/7XXNRAB6C5JXRBX5G3WPVDHDB4-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
-                         "matchKeyword":  "失業率"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米ＡＤＰ民間雇用、4月10.9万人増 15カ月ぶり大幅な伸び",
-                         "url":  "https://jp.reuters.com/markets/japan/3ANGW3AIXVLWJCKVEL2CTIPBHI-2026-05-06/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-07T09:12:09+09:00",
-                         "matchKeyword":  "雇用"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "3月の有効求人倍率1.18倍に低下、完全失業率は2.7％に悪化",
-                         "url":  "https://jp.reuters.com/world/japan/2SFDWOSF6NMQNLAFPYOIZLAJSI-2026-04-27/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T12:00:07+09:00",
-                         "matchKeyword":  "失業率"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "タクシー運転手やとび職人の給料なぜ上がる? 年収分析の専門家は",
-                         "url":  "https://www.asahi.com/articles/ASV4N0GLQV4NULFA00XM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-27T09:07:05+09:00",
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
@@ -779,57 +590,57 @@
                          "matchKeyword":  "労働市場"
                      },
                      {
+                         "source":  "ロイター ビジネス",
+                         "title":  "3月の有効求人倍率1.18倍に低下、完全失業率は2.7％に悪化",
+                         "url":  "https://jp.reuters.com/world/japan/2SFDWOSF6NMQNLAFPYOIZLAJSI-2026-04-27/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T12:00:07+09:00",
+                         "matchKeyword":  "失業率"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "タクシー運転手やとび職人の給料なぜ上がる? 年収分析の専門家は",
+                         "url":  "https://www.asahi.com/articles/ASV4N0GLQV4NULFA00XM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-27T09:07:05+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "中国の若年失業率、3月は16.9％に上昇",
+                         "url":  "https://jp.reuters.com/markets/japan/7XXNRAB6C5JXRBX5G3WPVDHDB4-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "失業率"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米ＡＤＰ民間雇用、4月10.9万人増 15カ月ぶり大幅な伸び",
+                         "url":  "https://jp.reuters.com/markets/japan/3ANGW3AIXVLWJCKVEL2CTIPBHI-2026-05-06/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-07T09:12:09+09:00",
+                         "matchKeyword":  "雇用"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "米ADP民間雇用者数、1年余りで最大の伸び－労働市場の安定化示す",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-06/TEM7FMKK3NY900?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-07T09:12:10+09:00",
+                         "matchKeyword":  "雇用"
+                     },
+                     {
                          "source":  "朝日新聞 経済",
                          "title":  "賃上げ、同一労働同一賃金…人材派遣「もうかる業界ではない」指摘も",
                          "url":  "https://www.asahi.com/articles/ASV623TF5V62ULFA01DM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-06-03T00:00:07+09:00",
-                         "matchKeyword":  "賃金"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "ヤマト団交拒否、配達委託の個人事業主と和解 「労働者」か認識に溝",
-                         "url":  "https://www.asahi.com/articles/ASV4R2T48V4RULFA019M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T10:19:02+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "韓国サムスン、従業員数万人が抗議 ＳＫハイニックスと賞与格差",
-                         "url":  "https://jp.reuters.com/markets/global-markets/74GW7GQO6VPTBIKMUXWU4JXWHI-2026-04-23/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "3月実質賃金は前年比1.0％増、3カ月連続プラス＝毎勤統計",
-                         "url":  "https://jp.reuters.com/markets/japan/3VMHJ7OI4NI5XEGAMQR3VQVF7E-2026-05-07/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-08T13:59:38+09:00",
-                         "matchKeyword":  "賃金"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "3月の実質賃金1.0%増 3カ月連続でプラスに 4年7カ月ぶり",
-                         "url":  "https://www.asahi.com/articles/ASV576S7LV57ULFA01TM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-08T08:49:40+09:00",
-                         "matchKeyword":  "賃金"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "英公的部門の賃金上昇、インフレリスクとして注視＝ＢＯＥ総裁",
-                         "url":  "https://jp.reuters.com/markets/japan/PH2Z64TN3FPHZHMHK34ZR2HUKY-2026-06-02/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-02T12:00:06+09:00",
                          "matchKeyword":  "賃金"
                      },
                      {
@@ -842,6 +653,24 @@
                          "matchKeyword":  "失業率"
                      },
                      {
+                         "source":  "ロイター ビジネス",
+                         "title":  "英公的部門の賃金上昇、インフレリスクとして注視＝ＢＯＥ総裁",
+                         "url":  "https://jp.reuters.com/markets/japan/PH2Z64TN3FPHZHMHK34ZR2HUKY-2026-06-02/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-02T12:00:06+09:00",
+                         "matchKeyword":  "賃金"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "特定技能人材、受け入れ停止は「死活問題」 外食団体トップが危機感",
+                         "url":  "https://www.asahi.com/articles/ASV4V33Q1V4VULFA005M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T08:57:05+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
                          "source":  "朝日新聞 経済",
                          "title":  "日本精工とNTNが経営統合へ ベアリング世界トップめざす",
                          "url":  "https://www.asahi.com/articles/ASV5D3DVCV5DULFA021M.html?ref=rss",
@@ -849,6 +678,186 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-05-13T06:49:31+09:00",
                          "matchKeyword":  "ベア"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "韓国サムスン、従業員数万人が抗議 ＳＫハイニックスと賞与格差",
+                         "url":  "https://jp.reuters.com/markets/global-markets/74GW7GQO6VPTBIKMUXWU4JXWHI-2026-04-23/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "ヤマト団交拒否、配達委託の個人事業主と和解 「労働者」か認識に溝",
+                         "url":  "https://www.asahi.com/articles/ASV4R2T48V4RULFA019M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T10:19:02+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "3月の実質賃金1.0%増 3カ月連続でプラスに 4年7カ月ぶり",
+                         "url":  "https://www.asahi.com/articles/ASV576S7LV57ULFA01TM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-08T08:49:40+09:00",
+                         "matchKeyword":  "賃金"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "3月実質賃金は前年比1.0％増、3カ月連続プラス＝毎勤統計",
+                         "url":  "https://jp.reuters.com/markets/japan/3VMHJ7OI4NI5XEGAMQR3VQVF7E-2026-05-07/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-08T13:59:38+09:00",
+                         "matchKeyword":  "賃金"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "求人倍率、25年度平均は1.20倍 3年連続低下 物価高など響く",
+                         "url":  "https://www.asahi.com/articles/ASV4W3FT8V4WULFA020M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T12:00:05+09:00",
+                         "matchKeyword":  "求人"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米インフレは一段と悪化、労働市場はやや改善＝ミネアポリス連銀総裁",
+                         "url":  "https://jp.reuters.com/markets/japan/NHLEBTUDUFJ6FLXFUMHYQQPVNM-2026-05-13/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-14T08:55:18+09:00",
+                         "matchKeyword":  "労働市場"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米雇用コスト、第1四半期は前期比0.9％上昇 福利厚生の伸びが押し上げ",
+                         "url":  "https://jp.reuters.com/markets/japan/TMPEODKRW5PRLLO5TWTNCHSKN4-2026-04-30/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-01T08:48:30+09:00",
+                         "matchKeyword":  "雇用"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "こんなに天引き？ 給与明細見てみると 「いざ」という時の備えに",
+                         "url":  "https://www.asahi.com/articles/ASV4H3606V4HULFA00RM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T10:38:00+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自中国の25－29歳で失業率が急上昇、労働市場悪化とAI拡大が影響",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDW14WKK3NYA00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "失業率"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "サムスン非半導体労組、賃金協定投票差し止め申し立て 部門間の報酬格差が溝生む",
+                         "url":  "https://jp.reuters.com/markets/global-markets/QJB3DZ73BRPFLOJ4XYHMY2F5MQ-2026-05-26/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-27T06:00:06+09:00",
+                         "matchKeyword":  "賃金"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "大企業の春闘、賃上げ5.46% 額は最高1万9964円 経団連",
+                         "url":  "https://www.asahi.com/articles/ASV5W2PL0V5WULFA001M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-27T18:00:12+09:00",
+                         "matchKeyword":  "春闘"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米新規失業保険申請2.6万件減の18.9万件、労働市場の安定示唆",
+                         "url":  "https://jp.reuters.com/markets/japan/HFN5DC2IMJOSVNUWMHFIVKV5XY-2026-04-30/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-01T08:48:30+09:00",
+                         "matchKeyword":  "労働市場"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "米求人件数、予想外に増加して2年ぶり高水準－レイオフは減少",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-02/TG0CD0KJH6V800?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-03T06:00:07+09:00",
+                         "matchKeyword":  "求人"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "首相、裁量労働制「対象のあり方見直し検討」指示 成長戦略会議",
+                         "url":  "https://www.asahi.com/articles/ASV4Q42PLV4QULFA02DM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:56+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ドイツ産業界、雇用削減続く 売上高は増加に転じる＝ＥＹ調査",
+                         "url":  "https://jp.reuters.com/business/autos/OAWJDFH74VPCBI2KDH5EEU7XSU-2026-05-25/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-25T18:00:05+09:00",
+                         "matchKeyword":  "雇用"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "実質賃金、4年連続マイナス 25年度、物価上昇に追いつかず",
+                         "url":  "https://www.asahi.com/articles/ASV5Q0DLWV5QULFA003M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-22T12:00:05+09:00",
+                         "matchKeyword":  "賃金"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "米ADP民間雇用者数､25年1月以来の大幅増－労働市場に勢い強まる兆し",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-03/TG21ZVT9NJLU00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-04T06:00:10+09:00",
+                         "matchKeyword":  "雇用"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米成人の73％が家計「概ね良好」、雇用不安は上昇も＝ＦＲＢ年次調査",
+                         "url":  "https://jp.reuters.com/markets/japan/SUTCNKSZN5MYZAUWOBHYYJLBXU-2026-05-13/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-14T08:55:18+09:00",
+                         "matchKeyword":  "雇用"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "米失業保険申請は小幅に増加、レイオフは依然抑制水準",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-23/TDY5L2T9NJLS00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T10:19:03+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "米地区連銀経済報告：インフレが大半の地区で加速、雇用状況は安定",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-03/TG2INWKJH6V400?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-04T06:00:10+09:00",
+                         "matchKeyword":  "雇用"
                      }
                  ]
 }
