@@ -5,6 +5,15 @@
     "description":  "企業買収・合併・新規上場",
     "articles":  [
                      {
+                         "source":  "NHK 経済",
+                         "title":  "きょうのおはBiz 6月5日(金) スペースX“史上最大”新規上場へ",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015141741000",
+                         "description":  "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし…",
+                         "publishedAt":  "2026-06-05T11:30:50+09:00",
+                         "fetchedAt":  "2026-06-05T12:00:04+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
                          "source":  "東洋経済オンライン",
                          "title":  "\"サントリー流\"で上場､サプリ新星が狙う売上高1000億円 ビタブリッドジャパン社長に聞く｢D2Cの極意｣ | ビジネス | 東洋経済オンライン",
                          "url":  "https://toyokeizai.net/articles/-/945956?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
@@ -383,15 +392,6 @@
                          "matchKeyword":  "M\u0026A"
                      },
                      {
-                         "source":  "ダイヤモンド・オンライン",
-                         "title":  "孫正義がソフトバンクG「10兆円出資」で入れ込む経営者の実名 - 今週のキーワード 真壁昭夫",
-                         "url":  "https://diamond.jp/articles/-/390868",
-                         "description":  "ソフトバンクグループの戦略に関して、主要投資家から「孫正義氏がある人物に傾倒し過ぎている」との懸念もある。その人物とは、ChatGPTの米オープンAIの創業者のひとりであるアルトマンCEOのことだ。同社に10兆円を出資している孫氏は、特定企業に賭けるリスクを十分に理解しているのだろうか？孫氏が、アルトマン氏にオープンAIの新規株式公開の早期実現を求めた狙いとは……。",
-                         "publishedAt":  "2026-05-26T06:00:00+09:00",
-                         "fetchedAt":  "2026-05-26T08:56:57+09:00",
-                         "matchKeyword":  "出資"
-                     },
-                     {
                          "source":  "ITmedia ビジネス",
                          "title":  "「ナーチャリングは限界」に “購買グループ”の「予兆」を掴む、具体的な方法【BtoBマーケの新常識】",
                          "url":  "https://www.itmedia.co.jp/business/articles/2605/26/news010.html",
@@ -399,6 +399,15 @@
                          "publishedAt":  "2026-05-26T06:00:00+09:00",
                          "fetchedAt":  "2026-05-26T08:56:52+09:00",
                          "matchKeyword":  "TOB"
+                     },
+                     {
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "孫正義がソフトバンクG「10兆円出資」で入れ込む経営者の実名 - 今週のキーワード 真壁昭夫",
+                         "url":  "https://diamond.jp/articles/-/390868",
+                         "description":  "ソフトバンクグループの戦略に関して、主要投資家から「孫正義氏がある人物に傾倒し過ぎている」との懸念もある。その人物とは、ChatGPTの米オープンAIの創業者のひとりであるアルトマンCEOのことだ。同社に10兆円を出資している孫氏は、特定企業に賭けるリスクを十分に理解しているのだろうか？孫氏が、アルトマン氏にオープンAIの新規株式公開の早期実現を求めた狙いとは……。",
+                         "publishedAt":  "2026-05-26T06:00:00+09:00",
+                         "fetchedAt":  "2026-05-26T08:56:57+09:00",
+                         "matchKeyword":  "出資"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -1491,822 +1500,12 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "りそなＨＤ、ＪＲ西日本との資本業務提携検討は事実",
-                         "url":  "https://jp.reuters.com/markets/global-markets/HRGMIE4XRJNVFJZYBHBM3EJH5Q-2026-04-28/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T18:00:09+09:00",
-                         "matchKeyword":  "提携"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "ソフトバンクG株ストップ高、出資先OPENAIやSBエナジーがIPO申請計画",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-21/TFD3TDKJH6V600?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-21T18:00:05+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "オープンＡＩ、アップル提訴も視野に選択肢検討 提携巡り＝関係筋",
-                         "url":  "https://jp.reuters.com/markets/global-markets/4DV4A7RBZFISDHHEEZEX2UZ5SE-2026-05-14/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-15T15:12:07+09:00",
-                         "matchKeyword":  "提携"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "上場企業の純利益総額が過去最高に 物価高に苦しむ家計と「2極化」",
-                         "url":  "https://www.asahi.com/articles/ASV5F1GL1V5FULFA00SM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-13T18:00:08+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "プライベートクレジット投融資の上場BDC、コロナ禍以来最大の痛み",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-17/TF5NBFT96OSI00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-18T09:05:42+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "オープンAI、22日にも上場申請へ 米紙報道、歴史的な大型上場に",
-                         "url":  "https://www.asahi.com/articles/ASV5P2FYXV5PUHBI016M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-21T18:00:04+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "マイクロソフトとオープンAI、独占提携を終了 AI競争は激化か",
-                         "url":  "https://www.asahi.com/articles/ASV4X1QHVV4XUHBI00BM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T18:00:07+09:00",
-                         "matchKeyword":  "提携"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自ソフトバンクGとアーム､AI半導体の米セレブラスに買収打診も実現せず",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-13/TEZEXXKGCTK200?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-14T08:55:18+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "ホンダ、「脱エンジン」取り下げ 26年3月期は上場後初の赤字",
-                         "url":  "https://www.asahi.com/articles/ASV5D1CZSV5DULFA001M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-14T18:00:05+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "英シェル、カナダ同業を買収へ 164億ドル投じ生産体制拡充",
-                         "url":  "https://jp.reuters.com/markets/commodities/X7F3LZLUPBLZ3G3OYCGKISVYPU-2026-04-27/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T08:44:02+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "タクシー配車GOが東証上場へ、時価総額1800億円超－DeNAなど売り出し",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-14/TF0M6AKK3NY900?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-15T06:25:27+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自スペースX、異例に低いIPO手数料で交渉―なお銀行に800億円の収入",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-02/TG08C3KK3NY800?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-03T06:00:07+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "DRAM世界4位の中国CXMT、上海IPO実施へ－少なくとも6900億円規模",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-27/TFOUNWKJH6V400?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-28T08:53:42+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自ソフトバンクGのOpenAI出資支援、関心示す銀行が増加－関係者",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-30/TEADIYT96OSG00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-30T18:00:07+09:00",
-                         "matchKeyword":  "出資"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "中国、米メタによるＡＩ企業Ｍａｎｕｓ買収を阻止",
-                         "url":  "https://jp.reuters.com/markets/japan/UG2NGA26BNJSDOEPXUYD2B2UAY-2026-04-27/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T08:44:02+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "きらぼしＦＧ、公的資金を完済 東京都出資400億円分",
-                         "url":  "https://jp.reuters.com/markets/global-markets/65MVQDB75NI7FNAFRAH6GZL5QU-2026-05-25/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-25T18:00:05+09:00",
-                         "matchKeyword":  "出資"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "豊田自動織機が臨時株主総会、非公開化へ議案可決 6月1日上場廃止",
-                         "url":  "https://www.asahi.com/articles/ASV5D22W1V5DULFA002M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-12T18:00:04+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "オリックスとカタール投資庁、共同ファンドで初案件 日本情報産業を買収",
-                         "url":  "https://jp.reuters.com/markets/global-markets/2RWESPEACFLMBGAYSHFM2RMB4M-2026-05-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-21T18:00:05+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "キオクシアHD株、流動性一段と向上の見方－ADS上場計画で裁定取引増",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-18/TF8347KJH6V600?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-19T12:00:06+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "「日の丸液晶」正念場 JDI、12年連続赤字で上場維持に暗雲",
-                         "url":  "https://www.asahi.com/articles/ASV5G36GWV5GULFA026M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-15T06:25:24+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "上場廃止控える豊田織機社長、情報開示「今まで通り」 決算会見継続",
-                         "url":  "https://www.asahi.com/articles/ASV4X2HQSV4XULFA00LM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T18:00:07+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "中国の曦智科技が香港上場、取引初日で一時400%高－AIへの関心強い",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-28/TE6KEHT96OSH00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T18:00:09+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "業界再編の足がかりに？ 国内線ネットワーク維持へ出資規制撤廃へ",
-                         "url":  "https://www.asahi.com/articles/ASV5Q31LMV5QUTIL02FM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-23T02:18:15+09:00",
-                         "matchKeyword":  "出資"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "焦点：日本で存在感増すアクティビスト、対話重視戦略で長期投資へ",
-                         "url":  "https://jp.reuters.com/markets/japan/6B64ZUQHH5KAZJXBJISH6EPQ2Y-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "エヌビディアのサプライヤー、勝宏科技が香港に重複上場－株価急伸",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTM4DKJH6V500?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "アメリカン航空、ユナイテッドとの合併否定 アラスカ航空と協業も",
-                         "url":  "https://jp.reuters.com/markets/global-markets/N65LF7LHOBLYFJ6BBWI5WA7LHU-2026-04-23/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
-                         "matchKeyword":  "合併"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "大和証Ｇ、オリックス銀を3700億円で買収 傘下銀との統合視野",
-                         "url":  "https://jp.reuters.com/markets/global-markets/QXX476JNAVOKDEKYRXTR7QAG4Q-2026-04-27/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T08:44:02+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ドイツテレコム、米Ｔモバイルと統合交渉 上場企業で過去最大＝関係筋",
-                         "url":  "https://jp.reuters.com/markets/japan/TKW2JCJJCNLYXMFAXZ7PWV556I-2026-04-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "S\u0026P、超大型IPO銘柄の指数組み入れ前倒しへ－スペースXを早期採用も",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-01/TECA79KK3NY900?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-01T18:00:07+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米ＱＸＯ、建材卸売・施工企業トップビルドを170億ドルで買収",
-                         "url":  "https://jp.reuters.com/markets/japan/PJZUOAWDUZP7HHDEFWY6O52ABM-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "アメリカン航空、ユナイテッドとの合併交渉否定 「関心ない」",
-                         "url":  "https://jp.reuters.com/markets/global-markets/HND6KD6G6VKIDA5OEJP2CAKBOQ-2026-04-17/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
-                         "matchKeyword":  "合併"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "MUFGがグーグルと提携、AIエージェント開発 「経済圏」接点に",
-                         "url":  "https://www.asahi.com/articles/ASV573J8NV57ULFA01DM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-08T08:49:40+09:00",
-                         "matchKeyword":  "提携"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "住友ファーマ、新株発行価格を1株1990円に決定 公募増資などで1115億円調達",
-                         "url":  "https://jp.reuters.com/markets/japan/GWSOB3CSDFMPHB4MBOZFZ6GLXI-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "楽天銀、みずほ銀と資本業務提携",
-                         "url":  "https://jp.reuters.com/markets/global-markets/352LROAM3VPU3LRLIJ434ITDF4-2026-05-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-20T18:00:05+09:00",
-                         "matchKeyword":  "提携"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "ワーナー株主、パラマウントの買収に賛成 巨大メディア誕生に近づく",
-                         "url":  "https://www.asahi.com/articles/ASV4R5W78V4RUHBI02HM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:01+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "東電、26年3月期決算きょう発表 どうなる経営再建、資本提携",
-                         "url":  "https://www.asahi.com/articles/ASV4Y43F4V4YULFA030M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-30T08:55:26+09:00",
-                         "matchKeyword":  "提携"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自元芸人・井村氏の投資助言会社、近鉄グループに書簡－親子上場に懸念",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDTN5FT9NJLU00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T12:00:05+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "スペースXのIPO申請で宇宙関連株急伸、NASAの月面基地契約も追い風",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-26/TFNKDZKK3NY800?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-27T12:00:05+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "スウェーデンＥＱＴ、カカクコム買収を検討＝関係筋",
-                         "url":  "https://jp.reuters.com/markets/japan/DJQYSUM5QVM23NO7VLK3DORSNY-2026-04-23/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "三井物産出資のクオンティニュアム、IPOで1670億円調達目指す",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-26/TFN5XZKK3NY800?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-27T00:06:59+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "カカクコムがEQTのTOBに賛同表明、非公開化へ－総額5900億円規模",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-12/TEX2K9KIP3QX00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-13T06:49:35+09:00",
-                         "matchKeyword":  "TOB"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "商船三井、米国初の洋上ＬＮＧ液化設備プロジェクトに3億ドル出資",
-                         "url":  "https://jp.reuters.com/markets/commodities/FCY2D4IMSNOBDODDY6OQFPJOFI-2026-06-04/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-04T18:00:05+09:00",
-                         "matchKeyword":  "出資"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "印タタ、高級ＥＶ展開で中国奇瑞と提携 プラットフォーム採用",
-                         "url":  "https://jp.reuters.com/markets/global-markets/7XY5IKRDJBIXFMJ2YOUNEGKXLI-2026-06-04/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-04T18:00:05+09:00",
-                         "matchKeyword":  "提携"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "スペースXのIPO説明動画、個人投資家にロケットやAIの構想アピール",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-04/TG3ZRYKJH6V700?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-05T08:58:25+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "PayPayが生命保険業に参入 1300億円で買収、事業を多角化",
-                         "url":  "https://www.asahi.com/articles/ASV643C5TV64ULFA021M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-05T08:58:20+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "スペースXのIPO、1株135ドルで12兆円調達狙う－仮条件レンジ踏襲せず",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-03/TG2629KJH6V500?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-04T06:00:10+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "セブン元取締役の報酬134億円 デピント氏、国内上場企業で最高",
-                         "url":  "https://www.asahi.com/articles/ASV5W2FW8V5WULFA009M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-27T18:00:12+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ソフトバンクＧ、ＡＩ・ロボット会社設立へ 年内に米上場も＝ＦＴ",
-                         "url":  "https://jp.reuters.com/markets/world-indices/37BVPAY5XBKXZM3QEBDBTJ3FKA-2026-04-30/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-30T12:00:05+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "「食べログ」運営会社に買収提案 欧州の投資会社とLINEヤフー",
-                         "url":  "https://www.asahi.com/articles/ASV5D3SX3V5DULFA028M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-13T06:49:31+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自スペースX空売り狙う投資家、IPO幹事漏れのジェフリーズに早くも接触",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-03/TG2BBTT9NJLW00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-04T06:00:10+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ノジマ、日立の家電部門を1100億円で買収 海外事業も統合",
-                         "url":  "https://jp.reuters.com/markets/global-markets/4BSXEXJYQRNJBNNJI4BLRZ4RFI-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "焦点：スペースＸ・オープンＡＩ・アンソロピック、赤字のまま大型上場へ",
-                         "url":  "https://jp.reuters.com/markets/japan/LEJIWRA46ZP3LPBY24D44DDYRQ-2026-04-24/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-25T18:03:23+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自88歳のノンバンク創業者が切望したMUFG出資、インド金融の試金石に",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-07/TEN0OWT9NJLT00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-08T13:59:38+09:00",
-                         "matchKeyword":  "出資"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "かつての「看板」手放す日立 ノジマ主導で成長軌道に乗せられるか",
-                         "url":  "https://www.asahi.com/articles/ASV4P3S9CV4PULFA00GM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ローム株が一時16％安、デンソーが買収提案取り下げ含め検討 ＴＯＢ期待が後退",
-                         "url":  "https://jp.reuters.com/markets/japan/IYDSK4SWHNPJPJV5DX5KSCOXVI-2026-04-27/",
+                         "title":  "デンソー、ローム買収提案取り下げ含め検討 賛同得られておらず",
+                         "url":  "https://jp.reuters.com/markets/global-markets/C2XHHM6VGZMUPLKLZZOQAEULPI-2026-04-27/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-27T12:00:06+09:00",
                          "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自パラマウントのワーナー買収､銀行団が490億ドル債権売り出し準備",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-20/TFAQGWKK3NY800?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-20T18:00:05+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米ＭＳ、オープンＡＩと提携見直し 独占アクセス権終了へ",
-                         "url":  "https://jp.reuters.com/markets/japan/CTIKVQ2QQZM7BASWRMPMDGCF64-2026-04-27/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T08:44:02+09:00",
-                         "matchKeyword":  "提携"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "デンソー、ロームへの買収提案を取り下げ 「ディスシナジー」影響",
-                         "url":  "https://www.asahi.com/articles/ASV4X1P1TV4XULFA00RM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T18:00:07+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "コメルツ銀株主総会、ウニクレディトの買収提案に批判相次ぐ",
-                         "url":  "https://jp.reuters.com/markets/global-markets/CJ7UFAYVBVJXDOULEZMDPQB7SE-2026-05-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-21T03:04:08+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "イーベイ、ゲームストップの買収提案拒否 「提案信頼できず」",
-                         "url":  "https://jp.reuters.com/markets/japan/KKALAQUDY5PMHO5VKYKX3JV27I-2026-05-12/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-13T06:49:35+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自アンソロピック、IPO主幹事にモルガンSとゴールドマンを起用へ",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-03/TG2FHFT96OSM00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-04T06:00:10+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "インタビュー：自主再生で取り組む、上場維持は譲らず＝岸田ニデック社長",
-                         "url":  "https://jp.reuters.com/world/interview/GHGWXK6FZBIJ5P6U4HXL3TA4ZM-2026-05-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-21T18:00:05+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "LINEヤフー、カカクコムの買収で再提案 TOB価格7%引き上げ",
-                         "url":  "https://www.asahi.com/articles/ASV5G15YQV5GULFA002M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-14T18:00:05+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "サムスン･SKハイニックス対象レバ型ETF、韓国で上場へ－ボラ上昇懸念",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-25/TFJ428T96OSG00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-25T18:00:05+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "注目のスペースX上場、仮想通貨市場でIPO前取引活況－実需手掛かりに",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-29/TFSXBJR24U8S00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-30T13:59:11+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "JR西日本が銀行サービス参入へ りそなHDとの資本業務提携で",
-                         "url":  "https://www.asahi.com/articles/ASV4X21XBV4XPLFA005M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T18:00:07+09:00",
-                         "matchKeyword":  "提携"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "三井物産出資の量子コンピューティング企業、米国でIPOを申請",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-11/TEUF7ZT9NJLV00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-11T18:00:04+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "牧野フライスの買収断念 アジア系ファンドが政府の中止勧告受け入れ",
-                         "url":  "https://www.asahi.com/articles/ASV4Z32G8V4ZULFA02GM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-01T08:48:29+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自アックマン氏のパーシング、IPO調達資金はレンジ下限50億ドル見込む",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-27/TE5VCYT9NJLS00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T08:44:02+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "イーロン・マスク氏のスペースX、ナスダック上場へ－公にIPO申請",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-20/TFCSCET9NJLW00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-21T08:51:28+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ノジマ、日立の家電事業買収を検討 21日取締役会に付議",
-                         "url":  "https://jp.reuters.com/markets/global-markets/KOG3JNDFDVPFVIFA6BDIE3K7YI-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "相続税の「節税スキーム」防止へ 非上場株の評価ルール見直し検討",
-                         "url":  "https://www.asahi.com/articles/ASV4P0QCWV4PUTIL028M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T18:00:05+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自スマートリングのオーラ、米IPOを申請－ウエアラブル端末人気追い風",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-22/TFEYNFKGCTG400?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-23T02:18:23+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自スペースXが5対1の株式分割実施、20日にもIPO関連書類を公開提出",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-16/TF4ATRT9NJLS00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-18T09:05:43+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "イーライリリー、がん免疫療法開発のケロニアを70億ドルで買収",
-                         "url":  "https://jp.reuters.com/markets/global-markets/YFAGIIBOEZNMNCTMXOEKS2UAMA-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "Ｇｕｎｏｓｙ、上場市場を東証プライムからスタンダードへ変更 29日付",
-                         "url":  "https://jp.reuters.com/markets/global-markets/CEO737BOIJMINPCHRAD7GS4CII-2026-05-22/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-23T02:18:23+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "日本生命、米ブラックストーンと提携 5年間で1.5兆円の運用委託",
-                         "url":  "https://www.asahi.com/articles/ASV633D83V63ULFA01HM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-04T00:00:05+09:00",
-                         "matchKeyword":  "提携"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "村田製作所株が上場来高値更新、1500億円上限自己株買いや増配を好感",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-30/TEAK1WT96OSK00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-30T18:00:07+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米富豪ファティータ氏企業がカジノ大手シーザーズ買収 176億ドル",
-                         "url":  "https://jp.reuters.com/markets/japan/I6AF7CDXSBJYFB5YC5HPBYDXSE-2026-05-29/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-29T18:00:05+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "LINEヤフー､カカクコムに1株3232円で非公開化再提案－TOB合戦の様相",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-14/TF02VVKGIFSE00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-14T18:00:06+09:00",
-                         "matchKeyword":  "TOB"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米ユナイテッド航空、アメリカン航空との合併模索を断念",
-                         "url":  "https://jp.reuters.com/markets/global-markets/32TTFVBZKVP47KAAPC7FHP63TY-2026-04-27/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T08:44:02+09:00",
-                         "matchKeyword":  "合併"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "みずほ、楽天銀に5%超出資 ネット銀の預金をメガの融資に「活用」",
-                         "url":  "https://www.asahi.com/articles/ASV5N3RZSV5NULFA01XM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-21T03:04:05+09:00",
-                         "matchKeyword":  "出資"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "家電量販大手のノジマ、日立の家電事業を買収へ 1千億円超か",
-                         "url":  "https://www.asahi.com/articles/ASV4P01TMV4PULFA001M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:51:59+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "東電再建へ「大胆改革」横尾新会長が意欲 外部との資本提携も視野",
-                         "url":  "https://www.asahi.com/articles/ASV622SHYV62ULFA00BM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-03T00:00:07+09:00",
-                         "matchKeyword":  "提携"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "トランプ氏、ユナイテッドとアメリカン航空の合併「好ましくない」",
-                         "url":  "https://jp.reuters.com/markets/bonds/5L2IFLN4UZL5TG6CMRQCU4ESHM-2026-04-21/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
-                         "matchKeyword":  "合併"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "パラマウント、ワーナー買収支援する海外投資家巡りＦＣＣの承認申請",
-                         "url":  "https://jp.reuters.com/markets/japan/FG5ZF7ETTJJAFJOBVRSZ77KG6M-2026-04-28/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T12:00:07+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "独自AI半導体の米セレブラス、IPO価格185ドル見通し－高い需要反映",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-13/TEZS5FT9NJLX00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-14T08:55:18+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "デンソー、ロームへの買収提案取り下げを検討 賛同得られず",
-                         "url":  "https://www.asahi.com/articles/ASV4W0C1RV4WULFA00BM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-27T12:00:05+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "大和証券G、オリックス銀行を3700億円で買収 将来的に合併へ",
-                         "url":  "https://www.asahi.com/articles/ASV4W3437V4WULFA01BM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T08:44:01+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "テラドローン、ウクライナで2社目となるドローン企業に出資",
-                         "url":  "https://jp.reuters.com/markets/global-markets/G5VCFK6WJFKX3A4X2K7K6YBJOA-2026-04-28/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T18:00:09+09:00",
-                         "matchKeyword":  "出資"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "アックマン氏、ファンド上場初日18％安巡り個人投資家を非難",
-                         "url":  "https://jp.reuters.com/markets/japan/RHGU3SFX2FP5NEKMCGH6JOV5MI-2026-05-01/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-01T12:00:06+09:00",
-                         "matchKeyword":  "上場"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -2319,11 +1518,11 @@
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "デンソー、ローム買収提案取り下げ含め検討 賛同得られておらず",
-                         "url":  "https://jp.reuters.com/markets/global-markets/C2XHHM6VGZMUPLKLZZOQAEULPI-2026-04-27/",
+                         "title":  "仏4大通信事業者3社が残る1社に共同買収提案、条件引き上げ",
+                         "url":  "https://jp.reuters.com/markets/bonds/JSN47VILOJKNHA7H36ANLAKTKM-2026-04-17/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-27T12:00:06+09:00",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
                          "matchKeyword":  "買収"
                      },
                      {
@@ -2336,13 +1535,40 @@
                          "matchKeyword":  "上場"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "仏4大通信事業者3社が残る1社に共同買収提案、条件引き上げ",
-                         "url":  "https://jp.reuters.com/markets/bonds/JSN47VILOJKNHA7H36ANLAKTKM-2026-04-17/",
+                         "source":  "朝日新聞 経済",
+                         "title":  "大和証券G、オリックス銀行を3700億円で買収 将来的に合併へ",
+                         "url":  "https://www.asahi.com/articles/ASV4W3437V4WULFA01BM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "fetchedAt":  "2026-04-28T08:44:01+09:00",
                          "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "デンソー、ロームへの買収提案取り下げを検討 賛同得られず",
+                         "url":  "https://www.asahi.com/articles/ASV4W0C1RV4WULFA00BM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-27T12:00:05+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "アックマン氏、ファンド上場初日18％安巡り個人投資家を非難",
+                         "url":  "https://jp.reuters.com/markets/japan/RHGU3SFX2FP5NEKMCGH6JOV5MI-2026-05-01/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-01T12:00:06+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "テラドローン、ウクライナで2社目となるドローン企業に出資",
+                         "url":  "https://jp.reuters.com/markets/global-markets/G5VCFK6WJFKX3A4X2K7K6YBJOA-2026-04-28/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T18:00:09+09:00",
+                         "matchKeyword":  "出資"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -2354,40 +1580,13 @@
                          "matchKeyword":  "[LLM分類]"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "スペースX投資で3000%超リターン、IPOで米ワシントン大に巨額利益も",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-21/TFEH2KT9NJLS00?srnd=jp-markets",
+                         "source":  "朝日新聞 経済",
+                         "title":  "三菱電機が鴻海との提携を検討 自動車機器子会社に出資受け入れへ",
+                         "url":  "https://www.asahi.com/articles/ASV4S3WBYV4SULFA02SM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-05-22T08:58:25+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "スペースXのIPO、指数早期組み入れへ追い風－FTSEラッセルが規則変更",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-27/TFO1X9KK3NYF00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-27T18:00:18+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ストラテジックＣ、みずほＦＧとオリコに株主提案 「いびつな関係是正を」",
-                         "url":  "https://jp.reuters.com/markets/global-markets/5XC5TFSLTNLUTG6N4IW4NJKDRQ-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ＪＡＬ、ライフネット生命と資本業務提携 294億円で株式取得",
-                         "url":  "https://jp.reuters.com/markets/global-markets/OO3WRLWUMBJGPGALSR4Y5QU55Y-2026-04-30/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-30T18:00:07+09:00",
-                         "matchKeyword":  "提携"
+                         "fetchedAt":  "2026-04-25T18:03:11+09:00",
+                         "matchKeyword":  "出資"
                      },
                      {
                          "source":  "Bloomberg 日本",
@@ -2400,12 +1599,12 @@
                      },
                      {
                          "source":  "朝日新聞 経済",
-                         "title":  "三菱電機が鴻海との提携を検討 自動車機器子会社に出資受け入れへ",
-                         "url":  "https://www.asahi.com/articles/ASV4S3WBYV4SULFA02SM.html?ref=rss",
+                         "title":  "日経平均、終値1879円高 オープンAIの「上場準備」報道を好感",
+                         "url":  "https://www.asahi.com/articles/ASV5P05V2V5PULFA007M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-25T18:03:11+09:00",
-                         "matchKeyword":  "出資"
+                         "fetchedAt":  "2026-05-21T18:00:04+09:00",
+                         "matchKeyword":  "上場"
                      },
                      {
                          "source":  "ロイター ビジネス",
@@ -2417,22 +1616,382 @@
                          "matchKeyword":  "買収"
                      },
                      {
-                         "source":  "朝日新聞 経済",
-                         "title":  "日経平均、終値1879円高 オープンAIの「上場準備」報道を好感",
-                         "url":  "https://www.asahi.com/articles/ASV5P05V2V5PULFA007M.html?ref=rss",
+                         "source":  "Bloomberg 日本",
+                         "title":  "スペースXのIPO、指数早期組み入れへ追い風－FTSEラッセルが規則変更",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-27/TFO1X9KK3NYF00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-05-21T18:00:04+09:00",
+                         "fetchedAt":  "2026-05-27T18:00:18+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "スペースX投資で3000%超リターン、IPOで米ワシントン大に巨額利益も",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-21/TFEH2KT9NJLS00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-22T08:58:25+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＪＡＬ、ライフネット生命と資本業務提携 294億円で株式取得",
+                         "url":  "https://jp.reuters.com/markets/global-markets/OO3WRLWUMBJGPGALSR4Y5QU55Y-2026-04-30/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-30T18:00:07+09:00",
+                         "matchKeyword":  "提携"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ストラテジックＣ、みずほＦＧとオリコに株主提案 「いびつな関係是正を」",
+                         "url":  "https://jp.reuters.com/markets/global-markets/5XC5TFSLTNLUTG6N4IW4NJKDRQ-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "Ｇｕｎｏｓｙ、上場市場を東証プライムからスタンダードへ変更 29日付",
+                         "url":  "https://jp.reuters.com/markets/global-markets/CEO737BOIJMINPCHRAD7GS4CII-2026-05-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-23T02:18:23+09:00",
                          "matchKeyword":  "上場"
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "米メディア企業ピープル、ＭＧＭに買収提案 180億ドルと評価",
-                         "url":  "https://jp.reuters.com/markets/japan/TN6MBNP3CRP3JAOKB5IWWGBJGQ-2026-06-01/",
+                         "title":  "イーライリリー、がん免疫療法開発のケロニアを70億ドルで買収",
+                         "url":  "https://jp.reuters.com/markets/global-markets/YFAGIIBOEZNMNCTMXOEKS2UAMA-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "村田製作所株が上場来高値更新、1500億円上限自己株買いや増配を好感",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-30/TEAK1WT96OSK00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-30T18:00:07+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "日本生命、米ブラックストーンと提携 5年間で1.5兆円の運用委託",
+                         "url":  "https://www.asahi.com/articles/ASV633D83V63ULFA01HM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-04T00:00:05+09:00",
+                         "matchKeyword":  "提携"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "相続税の「節税スキーム」防止へ 非上場株の評価ルール見直し検討",
+                         "url":  "https://www.asahi.com/articles/ASV4P0QCWV4PUTIL028M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T18:00:05+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ノジマ、日立の家電事業買収を検討 21日取締役会に付議",
+                         "url":  "https://jp.reuters.com/markets/global-markets/KOG3JNDFDVPFVIFA6BDIE3K7YI-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T12:00:04+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自スペースXが5対1の株式分割実施、20日にもIPO関連書類を公開提出",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-16/TF4ATRT9NJLS00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-18T09:05:43+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自スマートリングのオーラ、米IPOを申請－ウエアラブル端末人気追い風",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-22/TFEYNFKGCTG400?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-23T02:18:23+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米富豪ファティータ氏企業がカジノ大手シーザーズ買収 176億ドル",
+                         "url":  "https://jp.reuters.com/markets/japan/I6AF7CDXSBJYFB5YC5HPBYDXSE-2026-05-29/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-29T18:00:05+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "トランプ氏、ユナイテッドとアメリカン航空の合併「好ましくない」",
+                         "url":  "https://jp.reuters.com/markets/bonds/5L2IFLN4UZL5TG6CMRQCU4ESHM-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T08:50:43+09:00",
+                         "matchKeyword":  "合併"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "東電再建へ「大胆改革」横尾新会長が意欲 外部との資本提携も視野",
+                         "url":  "https://www.asahi.com/articles/ASV622SHYV62ULFA00BM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-03T00:00:07+09:00",
+                         "matchKeyword":  "提携"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自AI半導体の米セレブラス、IPO価格185ドル見通し－高い需要反映",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-13/TEZS5FT9NJLX00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-14T08:55:18+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "パラマウント、ワーナー買収支援する海外投資家巡りＦＣＣの承認申請",
+                         "url":  "https://jp.reuters.com/markets/japan/FG5ZF7ETTJJAFJOBVRSZ77KG6M-2026-04-28/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T12:00:07+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米ユナイテッド航空、アメリカン航空との合併模索を断念",
+                         "url":  "https://jp.reuters.com/markets/global-markets/32TTFVBZKVP47KAAPC7FHP63TY-2026-04-27/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T08:44:02+09:00",
+                         "matchKeyword":  "合併"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "LINEヤフー､カカクコムに1株3232円で非公開化再提案－TOB合戦の様相",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-14/TF02VVKGIFSE00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-14T18:00:06+09:00",
+                         "matchKeyword":  "TOB"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "家電量販大手のノジマ、日立の家電事業を買収へ 1千億円超か",
+                         "url":  "https://www.asahi.com/articles/ASV4P01TMV4PULFA001M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:51:59+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "みずほ、楽天銀に5%超出資 ネット銀の預金をメガの融資に「活用」",
+                         "url":  "https://www.asahi.com/articles/ASV5N3RZSV5NULFA01XM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-21T03:04:05+09:00",
+                         "matchKeyword":  "出資"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "英イージージェット、買収提案あれば検討 株安に「乗じた」米投資会社",
+                         "url":  "https://jp.reuters.com/markets/global-markets/SHIE54EMBZKGPLLPQEBQK2OBI4-2026-06-01/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-02T00:00:06+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "スペースXとテスラ、IPO後の事業統合｢時間の問題｣－初期投資家が語る",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-27/TFPTTCKK3NY800?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-28T12:00:05+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "マスク氏のスペースX、IPOで12兆円の資金調達へ 史上最大か",
+                         "url":  "https://www.asahi.com/articles/ASV637CZMV63BQBQ20CM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-04T12:00:04+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "デンソーが買収提案取り下げ検討、ローム株は15年ぶり下落率",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-27/TE4KR0KGIFPZ00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-27T12:00:06+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "マスク氏のスペースX、750億ドル規模のIPO計画を開示－史上最大へ",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-03/TG2PFHT9NJLZ00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-04T12:00:05+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "大和証G社長、銀行買収で証券業務強化－米モルガン目指すべきモデル",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-21/TFBAUGKK3NYA00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-21T18:00:05+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "ライフネット生命、JALと資本業務提携 マイル活用した保険視野",
+                         "url":  "https://www.asahi.com/articles/ASV4Z369CV4ZULFA01QM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-01T08:48:29+09:00",
+                         "matchKeyword":  "提携"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米デューク・エナジー、原発建設でＩＴ大手と提携模索 リスク分担狙う",
+                         "url":  "https://jp.reuters.com/world/interview/HSADTG2AWVLATFE5FKTXR3JKE4-2026-06-02/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-06-02T12:00:06+09:00",
+                         "matchKeyword":  "提携"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自タクシー配車GOのIPO、時価総額2000億円前後を目指す方針－関係者",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-08/TEO726KJH6VD00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-08T18:13:22+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "政府がアジア系ファンドに中止勧告 牧野フライス製作所の買収で",
+                         "url":  "https://www.asahi.com/articles/ASV4R0FB4V4RULFA005M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T12:00:04+09:00",
                          "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ありあけキャピタル、大垣共立銀・あいちＦＧ株を買い増し",
+                         "url":  "https://jp.reuters.com/markets/japan/X6E35HQ235LXHEC4ATQUZXDI5M-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "スペースXなど超大型IPO株、S\u0026P指数採用は1年以上先に－例外扱いせず",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-05/TG4Q56T9NJLS00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-05T12:00:05+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＫＤＤＩ、auフィナンシャルホールディングスの上場準備を開始",
+                         "url":  "https://jp.reuters.com/markets/japan/ONY24JHFFJNDFKBE4IZRL5WSUU-2026-05-12/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-13T06:49:35+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "オリンパス、イスラエル医療機器会社を買収 約433億円",
+                         "url":  "https://jp.reuters.com/markets/global-markets/YOJ3OB7MHNL5ZDSTRT2BYL56UQ-2026-05-26/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-27T06:00:06+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "丸紅、沖縄ツーリストを買収 海外拠点でインバウンドの呼び込み強化",
+                         "url":  "https://www.asahi.com/articles/ASV621RNKV62ULFA014M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-03T00:00:07+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "みずほ、楽天銀行に出資検討 証券・カードでの連携、ネット銀に拡大",
+                         "url":  "https://www.asahi.com/articles/ASV5L1VS3V5LULFA00RM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-18T18:00:10+09:00",
+                         "matchKeyword":  "出資"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自OpenAI、IPOに向けた準備でシティやJPモルガンと協議－関係者",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-30/TFTENET96OSN00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-31T12:00:12+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "独ＤＨＬ、米郵政公社と米国内配送で提携合意 100億ドル超で",
+                         "url":  "https://jp.reuters.com/markets/global-markets/E2PPXRKODZKZTE2SVWMX4G2UQ4-2026-05-29/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-29T18:00:05+09:00",
+                         "matchKeyword":  "提携"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ソフトバンクGがAI企業Rozeの米上場計画、評価額1000億ドル目指す-FT",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-29/TEA486T9NJLT00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-30T12:00:05+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "ユニ・チャーム、世界3位のペット市場に参入 ブラジルの会社を買収",
+                         "url":  "https://www.asahi.com/articles/ASV5L2VWWV5LULFA021M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-19T08:43:26+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "マスク氏､世界初のトリオネアに－スペースXのIPOで資産1兆ドル突破へ",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-21/TFCWLZT9NJMB00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-21T18:00:05+09:00",
+                         "matchKeyword":  "IPO"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -2444,12 +2003,12 @@
                          "matchKeyword":  "買収"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "デンソーが自己株TOB､最大約3136億円－ローム買収提案は取り下げ",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-28/TE6M82T9NJLS00?srnd=jp-markets",
+                         "source":  "ロイター ビジネス",
+                         "title":  "米メディア企業ピープル、ＭＧＭに買収提案 180億ドルと評価",
+                         "url":  "https://jp.reuters.com/markets/japan/TN6MBNP3CRP3JAOKB5IWWGBJGQ-2026-06-01/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-28T18:00:09+09:00",
+                         "fetchedAt":  "2026-06-02T12:00:06+09:00",
                          "matchKeyword":  "買収"
                      },
                      {
@@ -2463,38 +2022,11 @@
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "ソフトバンクGがAI企業Rozeの米上場計画、評価額1000億ドル目指す-FT",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-29/TEA486T9NJLT00?srnd=jp-markets",
+                         "title":  "デンソーが自己株TOB､最大約3136億円－ローム買収提案は取り下げ",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-28/TE6M82T9NJLS00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-30T12:00:05+09:00",
-                         "matchKeyword":  "上場"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "独ＤＨＬ、米郵政公社と米国内配送で提携合意 100億ドル超で",
-                         "url":  "https://jp.reuters.com/markets/global-markets/E2PPXRKODZKZTE2SVWMX4G2UQ4-2026-05-29/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-29T18:00:05+09:00",
-                         "matchKeyword":  "提携"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "マスク氏､世界初のトリオネアに－スペースXのIPOで資産1兆ドル突破へ",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-21/TFCWLZT9NJMB00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-21T18:00:05+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "ユニ・チャーム、世界3位のペット市場に参入 ブラジルの会社を買収",
-                         "url":  "https://www.asahi.com/articles/ASV5L2VWWV5LULFA021M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-19T08:43:26+09:00",
+                         "fetchedAt":  "2026-04-28T18:00:09+09:00",
                          "matchKeyword":  "買収"
                      },
                      {
@@ -2507,39 +2039,12 @@
                          "matchKeyword":  "IPO"
                      },
                      {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ＧＭＯインターネット、新株発行価格を1株710円に決定",
-                         "url":  "https://jp.reuters.com/markets/global-markets/CMLBTLHPDJN4RALAVN2YS4NM5Q-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
                          "source":  "Bloomberg 日本",
-                         "title":  "スペースXの大型IPO、主幹事筆頭はゴールドマン－関係者",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-20/TFB355T9NJLS00?srnd=jp-markets",
+                         "title":  "AI半導体のセレブラス上場、株価68%高－今年最大IPOでCEOの資産急増",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-15/TF1NT1KJH6VE00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-05-20T18:00:05+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "スペースX、AI新興企業カーソルを買収する権利取得－600億ドル",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDV7MVKJH6V600?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-22T12:01:45+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ＡＩ半導体セレブラスがナスダック上場、初値350ドル ＩＰＯ価格89％高",
-                         "url":  "https://jp.reuters.com/markets/japan/CXRYAWKKDBK25PPL5WODRTD5VU-2026-05-14/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-15T06:25:27+09:00",
+                         "fetchedAt":  "2026-05-15T15:12:07+09:00",
                          "matchKeyword":  "上場"
                      },
                      {
@@ -2552,13 +2057,13 @@
                          "matchKeyword":  "出資"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "AI半導体のセレブラス上場、株価68%高－今年最大IPOでCEOの資産急増",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-15/TF1NT1KJH6VE00?srnd=jp-markets",
+                         "source":  "ロイター ビジネス",
+                         "title":  "ワーナー株主、パラマウントによる買収案を承認 規制当局の審査焦点に",
+                         "url":  "https://jp.reuters.com/markets/japan/SSGDX5QJ6VP3TI473GKQ5F4YDM-2026-04-23/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-05-15T15:12:07+09:00",
-                         "matchKeyword":  "上場"
+                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
+                         "matchKeyword":  "買収"
                      },
                      {
                          "source":  "Bloomberg 日本",
@@ -2570,9 +2075,576 @@
                          "matchKeyword":  "IPO"
                      },
                      {
+                         "source":  "Bloomberg 日本",
+                         "title":  "スペースXの大型IPO、主幹事筆頭はゴールドマン－関係者",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-20/TFB355T9NJLS00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-20T18:00:05+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
                          "source":  "ロイター ビジネス",
-                         "title":  "ワーナー株主、パラマウントによる買収案を承認 規制当局の審査焦点に",
-                         "url":  "https://jp.reuters.com/markets/japan/SSGDX5QJ6VP3TI473GKQ5F4YDM-2026-04-23/",
+                         "title":  "ＧＭＯインターネット、新株発行価格を1株710円に決定",
+                         "url":  "https://jp.reuters.com/markets/global-markets/CMLBTLHPDJN4RALAVN2YS4NM5Q-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ＡＩ半導体セレブラスがナスダック上場、初値350ドル ＩＰＯ価格89％高",
+                         "url":  "https://jp.reuters.com/markets/japan/CXRYAWKKDBK25PPL5WODRTD5VU-2026-05-14/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-15T06:25:27+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "スペースX、AI新興企業カーソルを買収する権利取得－600億ドル",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDV7MVKJH6V600?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T12:01:45+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "イーロン・マスク氏のスペースX、ナスダック上場へ－公にIPO申請",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-20/TFCSCET9NJLW00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-21T08:51:28+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "業界再編の足がかりに？ 国内線ネットワーク維持へ出資規制撤廃へ",
+                         "url":  "https://www.asahi.com/articles/ASV5Q31LMV5QUTIL02FM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-23T02:18:15+09:00",
+                         "matchKeyword":  "出資"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "中国の曦智科技が香港上場、取引初日で一時400%高－AIへの関心強い",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-28/TE6KEHT96OSH00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T18:00:09+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "エヌビディアのサプライヤー、勝宏科技が香港に重複上場－株価急伸",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-21/TDTM4DKJH6V500?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "焦点：日本で存在感増すアクティビスト、対話重視戦略で長期投資へ",
+                         "url":  "https://jp.reuters.com/markets/japan/6B64ZUQHH5KAZJXBJISH6EPQ2Y-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T18:39:36+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "キオクシアHD株、流動性一段と向上の見方－ADS上場計画で裁定取引増",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-18/TF8347KJH6V600?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-19T12:00:06+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "オリックスとカタール投資庁、共同ファンドで初案件 日本情報産業を買収",
+                         "url":  "https://jp.reuters.com/markets/global-markets/2RWESPEACFLMBGAYSHFM2RMB4M-2026-05-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-21T18:00:05+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "上場廃止控える豊田織機社長、情報開示「今まで通り」 決算会見継続",
+                         "url":  "https://www.asahi.com/articles/ASV4X2HQSV4XULFA00LM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T18:00:07+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "「日の丸液晶」正念場 JDI、12年連続赤字で上場維持に暗雲",
+                         "url":  "https://www.asahi.com/articles/ASV5G36GWV5GULFA026M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-15T06:25:24+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "アメリカン航空、ユナイテッドとの合併否定 アラスカ航空と協業も",
+                         "url":  "https://jp.reuters.com/markets/global-markets/N65LF7LHOBLYFJ6BBWI5WA7LHU-2026-04-23/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T07:39:04+09:00",
+                         "matchKeyword":  "合併"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "MUFGがグーグルと提携、AIエージェント開発 「経済圏」接点に",
+                         "url":  "https://www.asahi.com/articles/ASV573J8NV57ULFA01DM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-08T08:49:40+09:00",
+                         "matchKeyword":  "提携"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "アメリカン航空、ユナイテッドとの合併交渉否定 「関心ない」",
+                         "url":  "https://jp.reuters.com/markets/global-markets/HND6KD6G6VKIDA5OEJP2CAKBOQ-2026-04-17/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T09:47:39+09:00",
+                         "matchKeyword":  "合併"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "楽天銀、みずほ銀と資本業務提携",
+                         "url":  "https://jp.reuters.com/markets/global-markets/352LROAM3VPU3LRLIJ434ITDF4-2026-05-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-20T18:00:05+09:00",
+                         "matchKeyword":  "提携"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "住友ファーマ、新株発行価格を1株1990円に決定 公募増資などで1115億円調達",
+                         "url":  "https://jp.reuters.com/markets/japan/GWSOB3CSDFMPHB4MBOZFZ6GLXI-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ドイツテレコム、米Ｔモバイルと統合交渉 上場企業で過去最大＝関係筋",
+                         "url":  "https://jp.reuters.com/markets/japan/TKW2JCJJCNLYXMFAXZ7PWV556I-2026-04-22/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T09:03:57+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "大和証Ｇ、オリックス銀を3700億円で買収 傘下銀との統合視野",
+                         "url":  "https://jp.reuters.com/markets/global-markets/QXX476JNAVOKDEKYRXTR7QAG4Q-2026-04-27/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T08:44:02+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米ＱＸＯ、建材卸売・施工企業トップビルドを170億ドルで買収",
+                         "url":  "https://jp.reuters.com/markets/japan/PJZUOAWDUZP7HHDEFWY6O52ABM-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "S\u0026P、超大型IPO銘柄の指数組み入れ前倒しへ－スペースXを早期採用も",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-01/TECA79KK3NY900?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-01T18:00:07+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "オープンAI、22日にも上場申請へ 米紙報道、歴史的な大型上場に",
+                         "url":  "https://www.asahi.com/articles/ASV5P2FYXV5PUHBI016M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-21T18:00:04+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "プライベートクレジット投融資の上場BDC、コロナ禍以来最大の痛み",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-17/TF5NBFT96OSI00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-18T09:05:42+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自ソフトバンクGとアーム､AI半導体の米セレブラスに買収打診も実現せず",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-13/TEZEXXKGCTK200?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-14T08:55:18+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "マイクロソフトとオープンAI、独占提携を終了 AI競争は激化か",
+                         "url":  "https://www.asahi.com/articles/ASV4X1QHVV4XUHBI00BM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T18:00:07+09:00",
+                         "matchKeyword":  "提携"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ソフトバンクG株ストップ高、出資先OPENAIやSBエナジーがIPO申請計画",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-21/TFD3TDKJH6V600?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-21T18:00:05+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "りそなＨＤ、ＪＲ西日本との資本業務提携検討は事実",
+                         "url":  "https://jp.reuters.com/markets/global-markets/HRGMIE4XRJNVFJZYBHBM3EJH5Q-2026-04-28/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T18:00:09+09:00",
+                         "matchKeyword":  "提携"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "上場企業の純利益総額が過去最高に 物価高に苦しむ家計と「2極化」",
+                         "url":  "https://www.asahi.com/articles/ASV5F1GL1V5FULFA00SM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-13T18:00:08+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "オープンＡＩ、アップル提訴も視野に選択肢検討 提携巡り＝関係筋",
+                         "url":  "https://jp.reuters.com/markets/global-markets/4DV4A7RBZFISDHHEEZEX2UZ5SE-2026-05-14/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-15T15:12:07+09:00",
+                         "matchKeyword":  "提携"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "ホンダ、「脱エンジン」取り下げ 26年3月期は上場後初の赤字",
+                         "url":  "https://www.asahi.com/articles/ASV5D1CZSV5DULFA001M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-14T18:00:05+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "中国、米メタによるＡＩ企業Ｍａｎｕｓ買収を阻止",
+                         "url":  "https://jp.reuters.com/markets/japan/UG2NGA26BNJSDOEPXUYD2B2UAY-2026-04-27/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T08:44:02+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自ソフトバンクGのOpenAI出資支援、関心示す銀行が増加－関係者",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-30/TEADIYT96OSG00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-30T18:00:07+09:00",
+                         "matchKeyword":  "出資"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "豊田自動織機が臨時株主総会、非公開化へ議案可決 6月1日上場廃止",
+                         "url":  "https://www.asahi.com/articles/ASV5D22W1V5DULFA002M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-12T18:00:04+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "きらぼしＦＧ、公的資金を完済 東京都出資400億円分",
+                         "url":  "https://jp.reuters.com/markets/global-markets/65MVQDB75NI7FNAFRAH6GZL5QU-2026-05-25/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-25T18:00:05+09:00",
+                         "matchKeyword":  "出資"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "タクシー配車GOが東証上場へ、時価総額1800億円超－DeNAなど売り出し",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-14/TF0M6AKK3NY900?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-15T06:25:27+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "英シェル、カナダ同業を買収へ 164億ドル投じ生産体制拡充",
+                         "url":  "https://jp.reuters.com/markets/commodities/X7F3LZLUPBLZ3G3OYCGKISVYPU-2026-04-27/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T08:44:02+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "DRAM世界4位の中国CXMT、上海IPO実施へ－少なくとも6900億円規模",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-27/TFOUNWKJH6V400?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-28T08:53:42+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自スペースX、異例に低いIPO手数料で交渉―なお銀行に800億円の収入",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-02/TG08C3KK3NY800?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-03T06:00:07+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "ワーナー株主、パラマウントの買収に賛成 巨大メディア誕生に近づく",
+                         "url":  "https://www.asahi.com/articles/ASV4R5W78V4RUHBI02HM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-24T07:39:01+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "デンソー、ロームへの買収提案を取り下げ 「ディスシナジー」影響",
+                         "url":  "https://www.asahi.com/articles/ASV4X1P1TV4XULFA00RM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T18:00:07+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米ＭＳ、オープンＡＩと提携見直し 独占アクセス権終了へ",
+                         "url":  "https://jp.reuters.com/markets/japan/CTIKVQ2QQZM7BASWRMPMDGCF64-2026-04-27/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T08:44:02+09:00",
+                         "matchKeyword":  "提携"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "イーベイ、ゲームストップの買収提案拒否 「提案信頼できず」",
+                         "url":  "https://jp.reuters.com/markets/japan/KKALAQUDY5PMHO5VKYKX3JV27I-2026-05-12/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-13T06:49:35+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "コメルツ銀株主総会、ウニクレディトの買収提案に批判相次ぐ",
+                         "url":  "https://jp.reuters.com/markets/global-markets/CJ7UFAYVBVJXDOULEZMDPQB7SE-2026-05-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-21T03:04:08+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "かつての「看板」手放す日立 ノジマ主導で成長軌道に乗せられるか",
+                         "url":  "https://www.asahi.com/articles/ASV4P3S9CV4PULFA00GM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-22T18:39:35+09:00",
+                         "matchKeyword":  "[LLM分類]"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自88歳のノンバンク創業者が切望したMUFG出資、インド金融の試金石に",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-07/TEN0OWT9NJLT00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-08T13:59:38+09:00",
+                         "matchKeyword":  "出資"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自パラマウントのワーナー買収､銀行団が490億ドル債権売り出し準備",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-20/TFAQGWKK3NY800?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-20T18:00:05+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ローム株が一時16％安、デンソーが買収提案取り下げ含め検討 ＴＯＢ期待が後退",
+                         "url":  "https://jp.reuters.com/markets/japan/IYDSK4SWHNPJPJV5DX5KSCOXVI-2026-04-27/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-27T12:00:06+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自アンソロピック、IPO主幹事にモルガンSとゴールドマンを起用へ",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-03/TG2FHFT96OSM00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-04T06:00:10+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "三井物産出資の量子コンピューティング企業、米国でIPOを申請",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-11/TEUF7ZT9NJLV00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-11T18:00:04+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "JR西日本が銀行サービス参入へ りそなHDとの資本業務提携で",
+                         "url":  "https://www.asahi.com/articles/ASV4X21XBV4XPLFA005M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T18:00:07+09:00",
+                         "matchKeyword":  "提携"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自アックマン氏のパーシング、IPO調達資金はレンジ下限50億ドル見込む",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-27/TE5VCYT9NJLS00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-28T08:44:02+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "牧野フライスの買収断念 アジア系ファンドが政府の中止勧告受け入れ",
+                         "url":  "https://www.asahi.com/articles/ASV4Z32G8V4ZULFA02GM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-01T08:48:29+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "LINEヤフー、カカクコムの買収で再提案 TOB価格7%引き上げ",
+                         "url":  "https://www.asahi.com/articles/ASV5G15YQV5GULFA002M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-14T18:00:05+09:00",
+                         "matchKeyword":  "買収"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "インタビュー：自主再生で取り組む、上場維持は譲らず＝岸田ニデック社長",
+                         "url":  "https://jp.reuters.com/world/interview/GHGWXK6FZBIJ5P6U4HXL3TA4ZM-2026-05-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-21T18:00:05+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "注目のスペースX上場、仮想通貨市場でIPO前取引活況－実需手掛かりに",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-29/TFSXBJR24U8S00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-30T13:59:11+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "サムスン･SKハイニックス対象レバ型ETF、韓国で上場へ－ボラ上昇懸念",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-25/TFJ428T96OSG00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-25T18:00:05+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "カカクコムがEQTのTOBに賛同表明、非公開化へ－総額5900億円規模",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-12/TEX2K9KIP3QX00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-13T06:49:35+09:00",
+                         "matchKeyword":  "TOB"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "三井物産出資のクオンティニュアム、IPOで1670億円調達目指す",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-26/TFN5XZKK3NY800?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-27T00:06:59+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "印タタ、高級ＥＶ展開で中国奇瑞と提携 プラットフォーム採用",
+                         "url":  "https://jp.reuters.com/markets/global-markets/7XY5IKRDJBIXFMJ2YOUNEGKXLI-2026-06-04/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-04T18:00:05+09:00",
+                         "matchKeyword":  "提携"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "商船三井、米国初の洋上ＬＮＧ液化設備プロジェクトに3億ドル出資",
+                         "url":  "https://jp.reuters.com/markets/commodities/FCY2D4IMSNOBDODDY6OQFPJOFI-2026-06-04/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-04T18:00:05+09:00",
+                         "matchKeyword":  "出資"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自元芸人・井村氏の投資助言会社、近鉄グループに書簡－親子上場に懸念",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-22/TDTN5FT9NJLU00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-23T12:00:05+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "東電、26年3月期決算きょう発表 どうなる経営再建、資本提携",
+                         "url":  "https://www.asahi.com/articles/ASV4Y43F4V4YULFA030M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-30T08:55:26+09:00",
+                         "matchKeyword":  "提携"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "スウェーデンＥＱＴ、カカクコム買収を検討＝関係筋",
+                         "url":  "https://jp.reuters.com/markets/japan/DJQYSUM5QVM23NO7VLK3DORSNY-2026-04-23/",
                          "description":  "",
                          "publishedAt":  "",
                          "fetchedAt":  "2026-04-24T07:39:04+09:00",
@@ -2580,146 +2652,92 @@
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "大和証G社長、銀行買収で証券業務強化－米モルガン目指すべきモデル",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-21/TFBAUGKK3NYA00?srnd=jp-markets",
+                         "title":  "スペースXのIPO申請で宇宙関連株急伸、NASAの月面基地契約も追い風",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-26/TFNKDZKK3NY800?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-05-21T18:00:05+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "マスク氏のスペースX、750億ドル規模のIPO計画を開示－史上最大へ",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-03/TG2PFHT9NJLZ00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-04T12:00:05+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米デューク・エナジー、原発建設でＩＴ大手と提携模索 リスク分担狙う",
-                         "url":  "https://jp.reuters.com/world/interview/HSADTG2AWVLATFE5FKTXR3JKE4-2026-06-02/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-02T12:00:06+09:00",
-                         "matchKeyword":  "提携"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "ライフネット生命、JALと資本業務提携 マイル活用した保険視野",
-                         "url":  "https://www.asahi.com/articles/ASV4Z369CV4ZULFA01QM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-01T08:48:29+09:00",
-                         "matchKeyword":  "提携"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "スペースXとテスラ、IPO後の事業統合｢時間の問題｣－初期投資家が語る",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-27/TFPTTCKK3NY800?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-28T12:00:05+09:00",
-                         "matchKeyword":  "IPO"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "英イージージェット、買収提案あれば検討 株安に「乗じた」米投資会社",
-                         "url":  "https://jp.reuters.com/markets/global-markets/SHIE54EMBZKGPLLPQEBQK2OBI4-2026-06-01/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-02T00:00:06+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "デンソーが買収提案取り下げ検討、ローム株は15年ぶり下落率",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-27/TE4KR0KGIFPZ00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-27T12:00:06+09:00",
-                         "matchKeyword":  "買収"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "マスク氏のスペースX、IPOで12兆円の資金調達へ 史上最大か",
-                         "url":  "https://www.asahi.com/articles/ASV637CZMV63BQBQ20CM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-04T12:00:04+09:00",
+                         "fetchedAt":  "2026-05-27T12:00:05+09:00",
                          "matchKeyword":  "IPO"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "独自タクシー配車GOのIPO、時価総額2000億円前後を目指す方針－関係者",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-08/TEO726KJH6VD00?srnd=jp-markets",
+                         "title":  "スペースXのIPO説明動画、個人投資家にロケットやAIの構想アピール",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-04/TG3ZRYKJH6V700?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-05-08T18:13:22+09:00",
+                         "fetchedAt":  "2026-06-05T08:58:25+09:00",
+                         "matchKeyword":  "IPO"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自スペースX空売り狙う投資家、IPO幹事漏れのジェフリーズに早くも接触",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-03/TG2BBTT9NJLW00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-04T06:00:10+09:00",
                          "matchKeyword":  "IPO"
                      },
                      {
                          "source":  "朝日新聞 経済",
-                         "title":  "丸紅、沖縄ツーリストを買収 海外拠点でインバウンドの呼び込み強化",
-                         "url":  "https://www.asahi.com/articles/ASV621RNKV62ULFA014M.html?ref=rss",
+                         "title":  "「食べログ」運営会社に買収提案 欧州の投資会社とLINEヤフー",
+                         "url":  "https://www.asahi.com/articles/ASV5D3SX3V5DULFA028M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-03T00:00:07+09:00",
+                         "fetchedAt":  "2026-05-13T06:49:31+09:00",
                          "matchKeyword":  "買収"
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "オリンパス、イスラエル医療機器会社を買収 約433億円",
-                         "url":  "https://jp.reuters.com/markets/global-markets/YOJ3OB7MHNL5ZDSTRT2BYL56UQ-2026-05-26/",
+                         "title":  "焦点：スペースＸ・オープンＡＩ・アンソロピック、赤字のまま大型上場へ",
+                         "url":  "https://jp.reuters.com/markets/japan/LEJIWRA46ZP3LPBY24D44DDYRQ-2026-04-24/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-05-27T06:00:06+09:00",
+                         "fetchedAt":  "2026-04-25T18:03:23+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ノジマ、日立の家電部門を1100億円で買収 海外事業も統合",
+                         "url":  "https://jp.reuters.com/markets/global-markets/4BSXEXJYQRNJBNNJI4BLRZ4RFI-2026-04-21/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T18:00:11+09:00",
                          "matchKeyword":  "買収"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "独自OpenAI、IPOに向けた準備でシティやJPモルガンと協議－関係者",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-30/TFTENET96OSN00?srnd=jp-markets",
+                         "title":  "スペースXのIPO、1株135ドルで12兆円調達狙う－仮条件レンジ踏襲せず",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-03/TG2629KJH6V500?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-05-31T12:00:12+09:00",
+                         "fetchedAt":  "2026-06-04T06:00:10+09:00",
                          "matchKeyword":  "IPO"
                      },
                      {
                          "source":  "朝日新聞 経済",
-                         "title":  "みずほ、楽天銀行に出資検討 証券・カードでの連携、ネット銀に拡大",
-                         "url":  "https://www.asahi.com/articles/ASV5L1VS3V5LULFA00RM.html?ref=rss",
+                         "title":  "PayPayが生命保険業に参入 1300億円で買収、事業を多角化",
+                         "url":  "https://www.asahi.com/articles/ASV643C5TV64ULFA021M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-05-18T18:00:10+09:00",
-                         "matchKeyword":  "出資"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ありあけキャピタル、大垣共立銀・あいちＦＧ株を買い増し",
-                         "url":  "https://jp.reuters.com/markets/japan/X6E35HQ235LXHEC4ATQUZXDI5M-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "[LLM分類]"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "政府がアジア系ファンドに中止勧告 牧野フライス製作所の買収で",
-                         "url":  "https://www.asahi.com/articles/ASV4R0FB4V4RULFA005M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-23T12:00:04+09:00",
+                         "fetchedAt":  "2026-06-05T08:58:20+09:00",
                          "matchKeyword":  "買収"
                      },
                      {
                          "source":  "ロイター ビジネス",
-                         "title":  "ＫＤＤＩ、auフィナンシャルホールディングスの上場準備を開始",
-                         "url":  "https://jp.reuters.com/markets/japan/ONY24JHFFJNDFKBE4IZRL5WSUU-2026-05-12/",
+                         "title":  "ソフトバンクＧ、ＡＩ・ロボット会社設立へ 年内に米上場も＝ＦＴ",
+                         "url":  "https://jp.reuters.com/markets/world-indices/37BVPAY5XBKXZM3QEBDBTJ3FKA-2026-04-30/",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-05-13T06:49:35+09:00",
+                         "fetchedAt":  "2026-04-30T12:00:05+09:00",
+                         "matchKeyword":  "上場"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "セブン元取締役の報酬134億円 デピント氏、国内上場企業で最高",
+                         "url":  "https://www.asahi.com/articles/ASV5W2FW8V5WULFA009M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-27T18:00:12+09:00",
                          "matchKeyword":  "上場"
                      }
                  ]
