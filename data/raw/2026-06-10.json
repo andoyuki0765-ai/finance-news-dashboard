@@ -1,15 +1,31 @@
 ﻿{
-    "generatedAt":  "2026-06-10T08:43:59+09:00",
-    "cutoffAt":  "2026-06-09T08:43:51+09:00",
-    "articleCount":  116,
+    "generatedAt":  "2026-06-10T12:00:06+09:00",
+    "cutoffAt":  "2026-06-09T12:00:03+09:00",
+    "articleCount":  115,
     "articles":  [
+                     {
+                         "source":  "NHK 経済",
+                         "title":  "NTT 次世代技術「IOWN」普及へファンド設立 AI新興企業に投資",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015145851000",
+                         "description":  "NTTは、次世代のIT技術「IOWN」を国際的に普及させるため、国内外のおよそ20の企業が出資する新たなファンドを設立すると発表しました。日本と、アメリカのシリコンバレーに拠点を置き、AIや半導体など…",
+                         "publishedAt":  "2026-06-10T11:47:33+09:00",
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
+                     },
+                     {
+                         "source":  "NHK 経済",
+                         "title":  "5月企業物価指数 前年同月比6.3％上昇 中東情勢で上昇幅拡大",
+                         "url":  "https://news.web.nhk/newsweb/na/na-k10015145741000",
+                         "description":  "企業の間で取り引きされるモノの価格を示す5月の企業物価指数は、去年の同じ月と比べて6.3％上昇しました。中東情勢の影響で石油関連製品の取引価格が値上がりしていることが要因で、上昇幅は2023年3月以来…",
+                         "publishedAt":  "2026-06-10T11:33:21+09:00",
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
+                     },
                      {
                          "source":  "NHK 経済",
                          "title":  "米アンソロピック ミュトス級AIを一般提供開始 安全対策加えて",
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015145721000",
                          "description":  "アメリカのAI新興企業「アンソロピック」は9日、高性能なAIモデル「クロード・ミュトス」と同等のモデルについて、一般の顧客向けに提供を始めたと発表しました。「ミュトス」についてはサイバー攻撃に悪用され…",
                          "publishedAt":  "2026-06-10T08:39:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:56+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "NHK 経済",
@@ -17,7 +33,7 @@
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015145351000",
                          "description":  "経団連の筒井会長は、いわゆる「台湾有事」をめぐる国会答弁をきっかけに悪化した日中関係について「中国との新しいビジネスの話が枯渇しかけていることに懸念を強く持っている」と述べ、経済界としても関係の改善を…",
                          "publishedAt":  "2026-06-10T07:31:59+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:56+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "NHK 経済",
@@ -25,7 +41,7 @@
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015145341000",
                          "description":  "インターネット上のひぼう中傷などの投稿について、SNSを運営する事業者の対応状況が公表されました。利用者からの申し出を受けて削除を行った件数は事業者によってばらつきがあり、専門家は改善点などを検討すべ…",
                          "publishedAt":  "2026-06-10T07:17:25+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:56+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "NHK 経済",
@@ -33,7 +49,7 @@
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015145181000",
                          "description":  "JR東日本は、今使われている磁気付きの切符について、来年春に、QRコードが記載された切符に切り替えると発表しました。",
                          "publishedAt":  "2026-06-09T18:29:43+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:56+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "NHK 経済",
@@ -41,7 +57,7 @@
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015145261000",
                          "description":  "9日の東京外国為替市場、円相場は1ドル＝160円台の前半での値動きになりました。",
                          "publishedAt":  "2026-06-09T18:12:58+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:56+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "NHK 経済",
@@ -49,7 +65,7 @@
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015145031000",
                          "description":  "中東情勢の日本国内への経済影響が続いています。福岡市の家電販売店ではエアコンの注文を受けてから取り付け工事を行うまで1か月ほど顧客に待ってもらう対応をとっています。また熊本県内の酪農家からは、飼料とな…",
                          "publishedAt":  "2026-06-09T17:53:06+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:56+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "NHK 経済",
@@ -57,15 +73,15 @@
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015145171000",
                          "description":  "「ナフサ」に由来する化学製品などで流通の「目詰まり」が指摘されていることに関して、赤澤経済産業大臣は9日の閣議のあとの会見で「大事なのは、量は足りていると発信を続けることだ」と述べ、関係業界と連携しな…",
                          "publishedAt":  "2026-06-09T16:40:34+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:56+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "NHK 経済",
-                         "title":  "日銀 利上げを最終判断へ 来週の金融政策決定会合で",
+                         "title":  "日銀 “政策金利１％程度へ” 来週の会合で利上げを最終判断へ",
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015145141000",
                          "description":  "日銀は来週15日から開く金融政策決定会合で利上げの実施を最終判断することにしています。イラン情勢の悪化で原油高や円安傾向が続く中、この先、物価が大幅に上昇するリスクに対応する必要があるとして、政策金利…",
                          "publishedAt":  "2026-06-09T16:37:50+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:56+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "NHK 経済",
@@ -73,7 +89,7 @@
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015144761000",
                          "description":  "9日の東京株式市場、半導体関連の銘柄を中心に買い注文が広がり、日経平均株価は8日より1300円以上値上がりしました。",
                          "publishedAt":  "2026-06-09T16:30:28+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:56+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "NHK 経済",
@@ -81,7 +97,7 @@
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015145071000",
                          "description":  "ことし夏の「骨太の方針」に向けて、自民党の議員連盟は物価高から国民生活を守るため、食料品の消費税率を必ずゼロにすることなどを求める提言を城内成長戦略担当大臣に手渡しました。",
                          "publishedAt":  "2026-06-09T15:02:49+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:56+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "NHK 経済",
@@ -89,7 +105,7 @@
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015145101000",
                          "description":  "中国の5月の輸出額は、東南アジア向けが大きく伸び、アメリカ向けも大幅に増加したことから、去年の同じ月と比べて19％余り増えました。今後はイラン情勢を背景とした原油価格の高止まりがどう影響するかが焦点と…",
                          "publishedAt":  "2026-06-09T14:58:44+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:56+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "NHK 経済",
@@ -97,7 +113,7 @@
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015144821000",
                          "description":  "NHKニュース「おはよう日本」で平日朝に放送している経済ニュースコーナー「おはBiz」。最新のビジネストレンドや働き方、お役立ちサービスやスタートアップ企業の情報など、ギュギュっとコンパクトにお届けし…",
                          "publishedAt":  "2026-06-09T12:35:57+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:56+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "NHK 経済",
@@ -105,39 +121,15 @@
                          "url":  "https://news.web.nhk/newsweb/na/na-k10015144881000",
                          "description":  "国土交通省は、イラン情勢に伴う石油関連製品の供給の偏りや「目詰まり」に関して、自動車整備や住宅などの分野で9500件の相談が寄せられ、このうち850件について状況を特定し、解消に向けて取り組んでいると…",
                          "publishedAt":  "2026-06-09T12:05:12+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:56+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
-                         "source":  "NHK 経済",
-                         "title":  "オープンAI 新規株式公開を申請 評価額は3月末時点で約136兆円",
-                         "url":  "https://news.web.nhk/newsweb/na/na-k10015144701000",
-                         "description":  "生成AI「ChatGPT」の開発を手がけるアメリカの「オープンAI」は、証券取引委員会に対し、IPO＝新規株式公開の申請を非公開で行ったことを明らかにしました。この企業の評価額はことし3月末時点でおよ…",
-                         "publishedAt":  "2026-06-09T11:51:45+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:56+09:00"
-                     },
-                     {
-                         "source":  "NHK 経済",
-                         "title":  "赤澤経産相“原発建て替えへ立地自治体などの理解求めていく”",
-                         "url":  "https://news.web.nhk/newsweb/na/na-k10015144861000",
-                         "description":  "赤澤経済産業大臣は9日の閣議のあとの会見で、2040年代までに最大で5基の原子力発電所を建て替える必要があるとする見通しについて、「エネルギー安全保障に寄与し、原子力人材の強化を図るために重要だ」と述…",
-                         "publishedAt":  "2026-06-09T11:27:57+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:56+09:00"
-                     },
-                     {
-                         "source":  "NHK 経済",
-                         "title":  "円相場 160円台前半に 片山財務相「常に断固たる措置」",
-                         "url":  "https://news.web.nhk/newsweb/na/na-k10015144811000",
-                         "description":  "外国為替市場で1ドル＝160円台前半まで円安ドル高が進んでいることについて、片山財務大臣は「常に断固たる措置をとる用意がある」と述べ、市場の動きを強くけん制しました。",
-                         "publishedAt":  "2026-06-09T11:07:52+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:56+09:00"
-                     },
-                     {
-                         "source":  "NHK 経済",
-                         "title":  "水田政策見直し提言 鈴木農相「予算編成で検討深める」",
-                         "url":  "https://news.web.nhk/newsweb/na/na-k10015144801000",
-                         "description":  "コメの安定供給を目指して、主食用の生産を抑える機能を果たしてきた補助金を見直すべきなどとする自民党からの提言を受けて、鈴木農林水産大臣は来年度の予算編成の中で、具体的な仕組みの検討を深める考えを示しま…",
-                         "publishedAt":  "2026-06-09T10:46:28+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:56+09:00"
+                         "source":  "Yahoo!ニュース 経済",
+                         "title":  "ラピダス 英伊と研究開発で協力へ",
+                         "url":  "https://news.yahoo.co.jp/pickup/6583642?source=rss",
+                         "description":  "",
+                         "publishedAt":  "2026-06-10T10:01:03+09:00",
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "Yahoo!ニュース 経済",
@@ -145,7 +137,7 @@
                          "url":  "https://news.yahoo.co.jp/pickup/6583597?source=rss",
                          "description":  "",
                          "publishedAt":  "2026-06-09T20:57:26+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "Yahoo!ニュース 経済",
@@ -153,7 +145,7 @@
                          "url":  "https://news.yahoo.co.jp/pickup/6583596?source=rss",
                          "description":  "",
                          "publishedAt":  "2026-06-09T20:54:04+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "Yahoo!ニュース 経済",
@@ -161,7 +153,7 @@
                          "url":  "https://news.yahoo.co.jp/pickup/6583626?source=rss",
                          "description":  "",
                          "publishedAt":  "2026-06-10T07:40:33+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "Yahoo!ニュース 経済",
@@ -169,7 +161,15 @@
                          "url":  "https://news.yahoo.co.jp/pickup/6583591?source=rss",
                          "description":  "",
                          "publishedAt":  "2026-06-09T19:47:26+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
+                     },
+                     {
+                         "source":  "Yahoo!ニュース 経済",
+                         "title":  "まねきねこ 単価安い若年層狙う訳",
+                         "url":  "https://news.yahoo.co.jp/pickup/6583655?source=rss",
+                         "description":  "",
+                         "publishedAt":  "2026-06-10T11:55:52+09:00",
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "Yahoo!ニュース 経済",
@@ -177,15 +177,7 @@
                          "url":  "https://news.yahoo.co.jp/pickup/6583565?source=rss",
                          "description":  "",
                          "publishedAt":  "2026-06-09T16:30:51+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
-                     },
-                     {
-                         "source":  "Yahoo!ニュース 経済",
-                         "title":  "JR東「QR乗車券」のイメージ公開",
-                         "url":  "https://news.yahoo.co.jp/pickup/6583558?source=rss",
-                         "description":  "",
-                         "publishedAt":  "2026-06-09T15:34:02+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "Yahoo!ニュース 経済",
@@ -193,15 +185,15 @@
                          "url":  "https://news.yahoo.co.jp/pickup/6583630?source=rss",
                          "description":  "",
                          "publishedAt":  "2026-06-10T08:11:01+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
-                         "source":  "Yahoo!ニュース 経済",
-                         "title":  "ブルダック 累計販売100億個突破",
-                         "url":  "https://news.yahoo.co.jp/pickup/6583593?source=rss",
-                         "description":  "",
-                         "publishedAt":  "2026-06-09T20:28:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
+                         "source":  "ITmedia ビジネス",
+                         "title":  "東武なのに近鉄、近鉄なのに東武 異色コラボの裏にある私鉄の「集客戦略」",
+                         "url":  "https://www.itmedia.co.jp/business/articles/2606/10/news059.html",
+                         "description":  "関西の私鉄大手の近畿日本鉄道（近鉄）で広く親しまれているカラーリングやデザインをあしらった電車が4月から東京都内を走行している。",
+                         "publishedAt":  "2026-06-10T08:30:00+09:00",
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "ITmedia ビジネス",
@@ -209,7 +201,7 @@
                          "url":  "https://www.itmedia.co.jp/business/articles/2606/10/news014.html",
                          "description":  "契約業務系のリーガルテックは、大きく分けて「契約レビュー」と「契約管理」の2つ。このうち、契約レビューは生成AIの影響が早期に表れたSaaS領域の一つだ。明暗を分けた線は、どこにあるのか。",
                          "publishedAt":  "2026-06-10T08:00:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "ITmedia ビジネス",
@@ -217,7 +209,7 @@
                          "url":  "https://www.itmedia.co.jp/business/articles/2606/10/news027.html",
                          "description":  "経理業務のデジタル化が進む一方で、現場では依然として担当者の経験や記憶に頼った業務運用が残っている。TOKIUMの調査では、経理担当者の約3人に2人が仕訳入力の判断基準が属人化していると回答。マニュアル化が十分に進んでいない実態も浮かび上がった。",
                          "publishedAt":  "2026-06-10T08:00:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "ITmedia ビジネス",
@@ -225,7 +217,7 @@
                          "url":  "https://www.itmedia.co.jp/business/articles/2606/10/news019.html",
                          "description":  "2019年の記事で、「コンビニの書店強化」が既存の書店にも悪影響を及ぼすと予想していた筆者。約7年経ち、その状況はどうなっているかというと……。",
                          "publishedAt":  "2026-06-10T08:00:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "ITmedia ビジネス",
@@ -233,7 +225,7 @@
                          "url":  "https://www.itmedia.co.jp/business/articles/2606/10/news039.html",
                          "description":  "プログラミング知識ゼロの非エンジニアが、話題のAIツールを用いた「バイブコーディング」で支出管理アプリの開発に挑戦。わずか4.5時間でプロトタイプが完成した一方で、個人開発の限界と、既存SaaSの「見えない価値」が浮き彫りになった。",
                          "publishedAt":  "2026-06-10T08:00:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "ITmedia ビジネス",
@@ -241,7 +233,7 @@
                          "url":  "https://www.itmedia.co.jp/business/articles/2606/10/news032.html",
                          "description":  "AIエージェント製品に注力する米Salesforce。日本法人社長も「日常的に使っている」という。その活用方法とは。",
                          "publishedAt":  "2026-06-10T07:00:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "ITmedia ビジネス",
@@ -249,7 +241,7 @@
                          "url":  "https://www.itmedia.co.jp/business/articles/2606/10/news021.html",
                          "description":  "定型業務や高度なコンサル業務すら生成AIに代替され、ホワイトカラーの市場価値がリセットされつつある。既存の「情報処理型」組織から脱却し、企業が持続的に成長するためのタレントマネジメントとは何か。教育改革実践家・藤原和博氏が登壇したセミナーから、他者と異なる「希少性」を掛け算して組織の付加価値を最大化し、社員の時給を100倍に引き上げるための「情報編集力」の磨き方を考える。",
                          "publishedAt":  "2026-06-10T07:00:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "ITmedia ビジネス",
@@ -257,7 +249,7 @@
                          "url":  "https://www.itmedia.co.jp/business/articles/2606/10/news017.html",
                          "description":  "生成AIの進化により、ソフトウェアの弱点が発見されるようになり、サイバー攻撃を取り巻く環境は大きく変わりつつある。これまでなら見過ごされていた問題が明らかになる一方で、AIを活用した攻撃の自動化も進み「防ぎ切ること」を前提とした従来の対策だけでは十分とは言えなくなってきた。AI時代のサイバー攻撃の実態と、自治体に求められる新たな防衛の在り方を考察する。",
                          "publishedAt":  "2026-06-10T07:00:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "ITmedia ビジネス",
@@ -265,7 +257,7 @@
                          "url":  "https://www.itmedia.co.jp/business/articles/2606/10/news033.html",
                          "description":  "転職サービス「doda」を運営するパーソルキャリアは、22～59歳のビジネスパーソンを対象に「転職したい会社」を調査した。その結果……。",
                          "publishedAt":  "2026-06-10T06:00:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "ITmedia ビジネス",
@@ -273,15 +265,23 @@
                          "url":  "https://www.itmedia.co.jp/business/articles/2606/09/news110.html",
                          "description":  "米Appleは6月9日（現地時間）、長らく延期されていたSiriの大規模刷新を発表した。アップグレードしたアシスタントによって、AI競争において大手テクノロジー企業や新興企業との格差を縮めることを狙う。",
                          "publishedAt":  "2026-06-09T18:40:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
-                         "source":  "ITmedia ビジネス",
-                         "title":  "東京都水道局のアプリ「評価2.1→4.5」 230万ユーザー獲得までの”泥臭いユーザーファースト”",
-                         "url":  "https://www.itmedia.co.jp/business/articles/2606/09/news031.html",
-                         "description":  "2022年10月にリリースされた東京都水道局のアプリ、当初のストア内評価は「2.1」だったが、そこから「4.5」にV字回復を遂げた。どのような取り組みがあったのか、取材した。",
-                         "publishedAt":  "2026-06-09T09:38:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
+                         "source":  "朝日新聞 経済",
+                         "title":  "企業物価、5月も6.3%上昇 原油高の影響、より最終製品に近づく",
+                         "url":  "https://www.asahi.com/articles/ASV6B0GS7V6BULFA006M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "中東の混乱が「かつお節」を直撃 石油不足や高騰が揺らす日本の食卓",
+                         "url":  "https://www.asahi.com/articles/ASV68412GV68OXIE058M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -289,7 +289,7 @@
                          "url":  "https://www.asahi.com/articles/ASV693JX8V69PLFA00SM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:57+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -297,7 +297,7 @@
                          "url":  "https://www.asahi.com/articles/ASV6936VDV69UCVL02DM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -305,7 +305,7 @@
                          "url":  "https://www.asahi.com/articles/ASV6935XBV69ULFA00ZM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -313,7 +313,7 @@
                          "url":  "https://www.asahi.com/articles/ASV692WDLV69ULFA01CM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -321,7 +321,7 @@
                          "url":  "https://www.asahi.com/articles/ASV690CWKV69PLPB001M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -329,7 +329,7 @@
                          "url":  "https://www.asahi.com/articles/ASV690SNJV69ULFA00BM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -337,7 +337,7 @@
                          "url":  "https://www.asahi.com/articles/ASV65334XV65UJHB001M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -345,7 +345,7 @@
                          "url":  "https://www.asahi.com/articles/ASV6520GGV65OXIE01HM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -353,7 +353,7 @@
                          "url":  "https://www.asahi.com/articles/ASV6832S6V68ULFA007M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -361,7 +361,7 @@
                          "url":  "https://www.asahi.com/articles/ASV683HN6V68ULFA027M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -369,7 +369,7 @@
                          "url":  "https://www.asahi.com/articles/ASV6541D7V65ULFA02FM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -377,7 +377,7 @@
                          "url":  "https://www.asahi.com/articles/ASV690V41V69UHBI00BM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -385,7 +385,7 @@
                          "url":  "https://www.asahi.com/articles/ASV6823ZCV68TTHB001M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -393,7 +393,7 @@
                          "url":  "https://www.asahi.com/articles/ASV6825NBV68TTHB001M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -401,7 +401,7 @@
                          "url":  "https://www.asahi.com/articles/ASV683HS5V68TPJB001M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -409,7 +409,7 @@
                          "url":  "https://www.asahi.com/articles/ASV683DBVV68ULFA01BM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -417,7 +417,7 @@
                          "url":  "https://www.asahi.com/articles/ASV683HFYV68ULFA02GM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -425,7 +425,7 @@
                          "url":  "https://www.asahi.com/articles/ASV6832MLV68ULFA00ZM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -433,7 +433,7 @@
                          "url":  "https://www.asahi.com/articles/ASV680QQ2V68PITB010M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -441,7 +441,7 @@
                          "url":  "https://www.asahi.com/articles/ASV68346HV68OXIE01ZM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -449,7 +449,7 @@
                          "url":  "https://www.asahi.com/articles/ASV6831LNV68PLFA004M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -457,7 +457,7 @@
                          "url":  "https://www.asahi.com/articles/ASV6825ZXV68ULFA01LM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -465,7 +465,7 @@
                          "url":  "https://www.asahi.com/articles/ASV6815CFV68ULFA00MM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -473,7 +473,7 @@
                          "url":  "https://www.asahi.com/articles/ASV6802F2V68ULFA003M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "朝日新聞 経済",
@@ -481,15 +481,79 @@
                          "url":  "https://www.asahi.com/articles/ASV681S84V68ULFA00XM.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
-                         "source":  "朝日新聞 経済",
-                         "title":  "年率1.8%増に下方修正 1～3月期GDP改定値、設備投資が減少",
-                         "url":  "https://www.asahi.com/articles/ASV680GZVV68ULFA004M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "source":  "東洋経済オンライン",
+                         "title":  "新潟イタリアン､名古屋あんかけスパに続く？ だしとみそがコクを生む､長野の老舗の新境地｢ミートソースそば｣の実力 | ライフ | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/947232?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "長野駅前の老舗そば店｢そば亭 油や｣が生み出した新感覚メニュー｢ミートソースそば｣が､意外にも日本人客から熱い支持を集めています。伝統と革新が融合した一皿は､なぜここまで人々を惹きつけるのでしょうか…",
+                         "publishedAt":  "2026-06-10T11:30:00+09:00",
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "【動画】日経平均7万円時代に勝つ株､7万円目前で｢足踏み｣する相場の中で注目すべき銘柄とは？ | ビジネス | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/947512?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "2026年6月13日号の｢週刊東洋経済｣は､注目の会社四季報｢夏号｣を一足早く特集。必読のポイントとは？",
+                         "publishedAt":  "2026-06-10T11:00:00+09:00",
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "重要なのは｢何をやるか｣ではなく｢何をやめるか｣ 50歳を過ぎたら心に刻むべき《人生後半の勝ち筋》の見極め方 | キャリア・教育 | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/946470?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "｢努力はいつか報われる｣という信念は､現代社会において必ずしも通用しなくなってきました。人生の後半では､拡張から収縮へと戦略を転換し､限りある資源を最適に配分することが不可欠です。勝つことより\"負け…",
+                         "publishedAt":  "2026-06-10T11:00:00+09:00",
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "最終的には｢寝たきり｣につながることも…専門医が力説する､《飲みこむ力》の低下を絶対に侮ってはいけない理由 | ライフ | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/945026?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "加齢とともに心身が衰える\"フレイル\"は､適切な対応で進行を食い止めることができます。特に､日常の小さな口の変化が見逃されがちな｢オーラルフレイル｣は､生活の質や全身の健康にも深く影響します。気づいて…",
+                         "publishedAt":  "2026-06-10T10:30:00+09:00",
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "｢20代の持ち家率が過去最高｣は本当に\"明るい\"ニュースか？ \"婚姻数半減\"と並べた瞬間に見える｢全く別の景色｣ | ライフ | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/946901?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "｢20代の持ち家率が過去最高｣というニュースが話題ですが､その数字の裏側には､婚姻数減少や経済的格差の拡大など､見逃せない現実があります。統計を鵜呑みにせず､本当に自分の人生に必要な知恵をどう身につ…",
+                         "publishedAt":  "2026-06-10T10:00:00+09:00",
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "会社四季報｢夏号｣超先取りランキング④｢有望｣出遅れ100､業績好調なのに株価は年初より低く今後の上昇に期待 | ビジネス | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/946818?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "業績が堅調にもかかわらず､株価が低迷している企業に着目し､市場がまだ見過ごしている\"お宝銘柄\"を厳選。『会社四季報』の独自予想を基に､3期連続営業増益ながら株価が年初来でマイナスとなっている銘柄のラ…",
+                         "publishedAt":  "2026-06-10T10:00:00+09:00",
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "｢ヤバイ…やらかしました｣が825万再生… 閉店寸前だった地方の総菜屋が｢広告費ゼロ｣｢週3営業｣でも大繁盛の秘密 | ライフ | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/946854?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "10年前は閉店寸前だった家族経営の総菜店｢フードショップヒライ｣。SNSで\"やらかし\"や飾らない日常を発信し続けたことで､今や開店前に80人が並び､1時間半で完売する人気店に。V字回復の舞台裏､その…",
+                         "publishedAt":  "2026-06-10T09:30:00+09:00",
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "｢開店1時間前から大行列｣煮物､白和え､味ご飯の｢映えない総菜｣が 40分で完売…\"町の小さな総菜屋\"に客が殺到する訳 | ライフ | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/946853?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "三重県津市の住宅街に､開店前から長蛇の列ができる｢フードショップヒライ｣。家庭の温かさ漂う総菜と話題のスイーツは､なぜ多くの人を惹きつけるのでしょうか。閉店危機から繁盛店に転じた驚きの逆転劇､その秘…",
+                         "publishedAt":  "2026-06-10T09:30:00+09:00",
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
+                         "title":  "｢すぐ怒る人｣は\"口グセ\"でわかる！吉本一怒られてきた芸人のスゴい\"地雷回避術\" | ライフ | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/946720?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "｢吉本一怒られてきた芸人｣が語る､どんな逆境にも負けずに復活する思考法｢ゾンビメンタル｣。あなたも｢自分のメンタルを守るコツ｣身につけませんか？",
+                         "publishedAt":  "2026-06-10T09:00:00+09:00",
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "東洋経済オンライン",
@@ -497,7 +561,7 @@
                          "url":  "https://toyokeizai.net/articles/-/947384?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
                          "description":  "仕事や家事に毎日追われ、生活がどんどん雑になっていく――。「丁寧な生活」が美しいとされる風潮もある中、自らの「丁寧とは言えない暮らし」に、なんだか後ろめたいような、モヤモヤした思いを持つ人も少なくな…",
                          "publishedAt":  "2026-06-10T08:30:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "東洋経済オンライン",
@@ -505,7 +569,7 @@
                          "url":  "https://toyokeizai.net/articles/-/946868?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
                          "description":  "明治時代､日本初の看護婦になるべく困難に立ち向かった大関和と鈴木雅。女性への偏見や現場の常識を覆し､近代看護の礎を築いた二人がどのように成長していったのか――リアルな葛藤と熱い志に迫ります。",
                          "publishedAt":  "2026-06-10T08:00:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "東洋経済オンライン",
@@ -513,7 +577,7 @@
                          "url":  "https://toyokeizai.net/articles/-/946886?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
                          "description":  "7年ぶりに三菱自動車の名車｢パジェロ｣が復活します。過酷なオフロードで培われた伝統と､ファン待望の声が背中を押した再出発。その背景には､苦戦する業績と事業規模ゆえにブランド再生への切実な期待が。果た…",
                          "publishedAt":  "2026-06-10T07:30:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "東洋経済オンライン",
@@ -521,7 +585,7 @@
                          "url":  "https://toyokeizai.net/articles/-/944840?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
                          "description":  "｢もう処置法がなく､自由に暮らした方がよい｣。余命宣告を受けた60代男性は､医師のこの言葉に深く戸惑った。治療が尽きたとき､患者と医療者の間に生じるすれ違いはどうすれば解決できるのか。専門医が緩和ケ…",
                          "publishedAt":  "2026-06-10T07:30:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "東洋経済オンライン",
@@ -529,7 +593,7 @@
                          "url":  "https://toyokeizai.net/articles/-/947432?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
                          "description":  "2025年に｢大阪･関西万博｣で世界から注目を集めた大阪。しかし実は､ドラマや映画の撮影地としては意外と選ばれていなかった街でもあります。そんな大阪を舞台に文学と謎解きが交差する異色ドラマ『月夜行路…",
                          "publishedAt":  "2026-06-10T07:15:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "東洋経済オンライン",
@@ -537,7 +601,7 @@
                          "url":  "https://toyokeizai.net/articles/-/947425?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
                          "description":  "｢停戦｣という言葉に私たちは安堵を覚えがちです。しかし､中東では停戦合意の裏で戦闘が絶えず､多くの犠牲者が出ています。指導者の思惑が絡み合い､和平は遠のくばかりです。",
                          "publishedAt":  "2026-06-10T07:00:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "東洋経済オンライン",
@@ -545,7 +609,7 @@
                          "url":  "https://toyokeizai.net/articles/-/947079?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
                          "description":  "スターバックス全盛の今､1杯1300円のコーヒーと2000円超のケーキセットを提供する椿屋珈琲。都心店舗はいつも満員。その人気の裏には､急かされずに過ごせる上質な空間や\"時間の価値\"へのニーズが隠れ…",
                          "publishedAt":  "2026-06-10T07:00:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "東洋経済オンライン",
@@ -553,7 +617,7 @@
                          "url":  "https://toyokeizai.net/articles/-/946616?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
                          "description":  "2026年後半に日本上陸が決定したホンダの新型SUV｢パスポート｣。圧倒的なボディサイズと本格オフロード性能､最上級グレード｢TRAILSPORT ELITE｣にアメリカで試乗。日本の道やライフスタ…",
                          "publishedAt":  "2026-06-10T06:45:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "東洋経済オンライン",
@@ -561,7 +625,7 @@
                          "url":  "https://toyokeizai.net/articles/-/947202?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
                          "description":  "中東の不安定な情勢が続く中､日本のエネルギー安全保障には大きなリスクが潜んでいます。自衛隊での合成燃料の導入は､石油依存からの脱却と経済安全保障への重要な一手となるでしょう。果たして新たな燃料戦略が…",
                          "publishedAt":  "2026-06-10T06:30:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "東洋経済オンライン",
@@ -569,7 +633,7 @@
                          "url":  "https://toyokeizai.net/articles/-/947076?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
                          "description":  "家計も心も軽やかに―物価高に悩む今､｢3000円でスーパーのお惣菜を楽しむ｣という遊び心あふれる節約術を実践する大木奈ハル子さん。小さな工夫が､思わぬ幸せをもたらすその理由とは。（このリード文はAI…",
                          "publishedAt":  "2026-06-10T06:30:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
                          "source":  "東洋経済オンライン",
@@ -577,79 +641,31 @@
                          "url":  "https://toyokeizai.net/articles/-/947396?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
                          "description":  "親からの虐待や共依存に苦しむ人々へ､逃げることは恥ではなく､自分の人生を守る大切な選択肢だと著者は語ります。愛されたくて縁を切れない葛藤､実際の逃げ方､支援の壁――あなたならどう生き抜きますか？（こ…",
                          "publishedAt":  "2026-06-10T06:15:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:05+09:00"
                      },
                      {
-                         "source":  "東洋経済オンライン",
-                         "title":  "｢じっとり､背中に嫌な汗をかいた…｣ 吉本ばなな氏がnoteで被虐待･共依存を告白､虐待サバイバーの30歳女性が感じたこと | ライフ | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/947393?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "日本を代表する作家･吉本ばななさんがnoteで綴った衝撃の自叙伝｢クラウドファンディング｣に共感と議論が集まっています。虐待や家族の共依存､依存対象の変遷に悩む経験が､生々しく綴られる2万字。あなた…",
-                         "publishedAt":  "2026-06-10T06:15:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "「AIでドラマを作れば俳優は要らない？」～日テレの制作現場で今、何が起きているのか - 酒井真弓のDX最前線",
+                         "url":  "https://diamond.jp/articles/-/392148",
+                         "description":  "「生成AIがクリエイターの仕事を奪う」という説がある。2026年1月に放送された実写×生成AIドラマ「TOKYO 巫女忍者」は、まるでその序章のように思えた。だが現場を少し覗いてみると、見えてきたのは想像とかなり違った風景だった。現在、日本テレビではさまざまな現場でAI動画生成を試しているという。ドラマづくりの最前線で今、何が起きているのか？日本テレビのAIクリエイター・古谷康佑さんと、同社のAI共創プラットフォームを開発した川上皓平さんに取材した。",
+                         "publishedAt":  "2026-06-10T11:30:00+09:00",
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
-                         "source":  "東洋経済オンライン",
-                         "title":  "利下げ期待後退で米政策金利の予想値は軒並み上方修正､利上げも緩やかで短期的な調整後に日米株はいずれ上昇 | 政治・経済・投資 | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/947400?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "米FRBの利下げ期待が一転して利上げ観測に変化し､世界のマーケットは緊張感を強めています。原油価格上昇や労働市場の安定､政策金利見通しへの疑念など､複数の要因が重なる中､株式市場や為替にどのような影…",
-                         "publishedAt":  "2026-06-10T06:00:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "「この臆病者」ウソまみれの人気記者への一言にスカッと…でも筆者はモヤモヤが止まらない〈風、薫る第53回〉 - 続・続朝ドライフ",
+                         "url":  "https://diamond.jp/articles/-/391891",
+                         "description":  "今日の朝ドラ見た？ 日常の話題のひとつに最適な朝ドラに関する著書を2冊出版し、毎日レビューを続けて12年めの著者による「読んだらもっと朝ドラが見たくなる」「誰かと話したくなる」連載です。本日は第53回（2026年6月10日放送）「風、薫る」レビューです。",
+                         "publishedAt":  "2026-06-10T11:30:00+09:00",
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
-                         "source":  "東洋経済オンライン",
-                         "title":  "JCB｢インスタ｣で社内資料が拡散､日テレ･西日本シティ銀行…相次ぐSNSからの情報流出《企業に求められる根気の教育》 | ビジネス | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/947391?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "SNSが普及する現代､社内情報の流出が相次ぎ､大手企業でも深刻な問題となっています。InstagramのストーリーズやBeRealといった\"ありのまま\"をシェアする投稿機能が､思わぬ形で機密漏洩を招…",
-                         "publishedAt":  "2026-06-10T06:00:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
-                     },
-                     {
-                         "source":  "東洋経済オンライン",
-                         "title":  "産休代替として学校に…もう常勤はムリ｢特別支援学級の担任｣を赴任前日に追加された中学校教員が受けた不条理の数々 | キャリア・教育 | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/945159?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "教育現場の過酷なリアルをご存じでしょうか。竹中有子さん（仮名）は産休代替要員として常勤講師を務め､不条理な業務や過酷な労働環境に直面しました。もう常勤はムリと話しますが､なぜ彼女は今も教壇を離れず､…",
-                         "publishedAt":  "2026-06-10T06:00:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
-                     },
-                     {
-                         "source":  "東洋経済オンライン",
-                         "title":  "AIはすごすぎて脅威なのか､それとも欠陥があるから問題か？AIをとりまく〈ナラティブ〉を読み解く3つの視点 | ビジネス | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/946887?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "AIの進化につれて､｢AI失業｣｢AIリストラ｣をはじめ､AIが社会にもたらす負の面がクローズされています。ゆくゆくは人間を凌駕する能力を持つことも懸念されています。こうしたAIの語られ方＝ナラティ…",
-                         "publishedAt":  "2026-06-10T05:50:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
-                     },
-                     {
-                         "source":  "東洋経済オンライン",
-                         "title":  "カワチ薬品が｢社長解任の株主提案｣を受けるに至った内憂外患…ドラッグストア業界の先駆者が直面する壁 | ビジネス | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/947332?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "カワチ薬品がアメリカの投資ファンドであるカナメ･キャピタルから｢社長解任の株主提案｣を突きつけられています。郊外型ドラッグストアの原型を築き､かつて業界2番手の売上高を誇ったカワチ薬品がなぜ｢標的｣…",
-                         "publishedAt":  "2026-06-10T05:35:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
-                     },
-                     {
-                         "source":  "東洋経済オンライン",
-                         "title":  "｢飲食物の持ち込みOK｣｢コア層はZ世代｣なのにナゼ…？ \"カラオケまねきねこ\"が｢高利益率｣を叩き出すカラクリ | ビジネス | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/947065?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "｢飲食物持ち込み自由｣｢室料0円｣など型破りな施策で注目を集めるカラオケまねきねこ。若年層向け戦略で店舗数と利益率を驚異的に伸ばしています。一見大胆な取り組みの裏に隠された高収益のカラクリとは？業界…",
-                         "publishedAt":  "2026-06-10T05:31:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
-                     },
-                     {
-                         "source":  "東洋経済オンライン",
-                         "title":  "カラオケなのに室料＋1078円で｢お酒飲み放題｣… \"まねきねこ\"が破格の｢セルフアルコールバー｣を始めたワケ | ビジネス | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/947062?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "カラオケチェーン最大手｢まねきねこ｣が新たに導入した｢セルフアルコールバー｣が話題を集めています。自分で好きなドリンクを作れる秘密基地のような空間は､SNSでも絶賛の声が続出。その背景には､カラオケ…",
-                         "publishedAt":  "2026-06-10T05:30:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
-                     },
-                     {
-                         "source":  "東洋経済オンライン",
-                         "title":  "曲がり角の｢医療モール内薬局｣､調剤報酬改定で揺らぐビジネスモデル 国が迫る\"立地依存脱却\" | 政治・経済・投資 | 東洋経済オンライン",
-                         "url":  "https://toyokeizai.net/articles/-/946702?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
-                         "description":  "2026年の調剤報酬改定では､医療モールが見直しの対象に含まれました。立地に頼った薬局経営はビジネスモデルの転換が迫られています。大手調剤薬局チェーンは激変する環境で､どのような生存戦略を進めるので…",
-                         "publishedAt":  "2026-06-10T05:30:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:58+09:00"
+                         "source":  "ダイヤモンド・オンライン",
+                         "title":  "「まさか上場日に買わなくていいんだ！」当たった人も外れた人も知りたい、スペースX IPOで儲ける新戦略！ - ホットニュース from ZAi",
+                         "url":  "https://diamond.jp/articles/-/392132",
+                         "description":  "スペースXのIPO（新規株式公開）が、いよいよ目前に迫ってきた。公開価格は1株135ドル（約2万1600円）、上場予定日は2026年6月12日だ。前回記事「『まさか日本でも買えるなんて！』イーロン・マスクのスペースX IPO 日本人も楽天・SBI・みずほで争奪戦に参戦可能！」でも紹介した通り、日本ではみずほ証券、楽天証券、SBI証券の3社で申し込みできるようになる見通しだ。気になるのは、「このIPOは本当に申し込んでいいのか」「公開価格は割高ではないのか」「上場後はどう動くべきか」という3点だろう。IPOに詳しいザイアナリストの小林大純さんと、米国株のプロ、マンハッタン・グローバル・フィナンシャルCEOの森崇さんに解説してもらった。",
+                         "publishedAt":  "2026-06-10T11:00:00+09:00",
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -657,7 +673,7 @@
                          "url":  "https://diamond.jp/articles/-/390210",
                          "description":  "「会議で最初に発言させることはパワハラ？」。令和時代の“会議の進め方”とは？ それを語るのは、「感じのいい人」に生まれ変われるとっておきのコツを紹介する書籍『気づかいの壁』の著者・川原礼子さん。この連載では、「顧客ロイヤルティ（お客さまとの信頼関係づくり）」をベースに、ビジネスセミナーへの登壇やコミュニケーションスキルの研修講師を通して、全国200社・2万人以上のビジネスパーソンに向けて教えてきたノウハウを、さらにわかりやすくお伝えします。",
                          "publishedAt":  "2026-06-10T07:40:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -665,7 +681,7 @@
                          "url":  "https://diamond.jp/articles/-/390714",
                          "description":  "どうすればお金をかけずに、売上や利益をもっと増やせるのか？ この切実なお悩みに答えるのが、人気の販促コンサルタント・岡本達彦氏の最新刊『客単価アップ大事典 「つい買ってしまう」販促の仕掛け75』（ダイヤモンド社刊）です。同書は、「行動経済学×現場目線」で「つい買いたくなる」販促の仕掛けとは何かを言語化した初の書。本書が提示するのは、「お客様の購買行動そのものを変える設計とは？」です。どうすれば、「利益が残る経営」へと変われるのか？ 本連載では、『客単価アップ大事典』に収録しきれなかった事例の中から、現場ですぐに導入でき、成果につながりやすい客単価アップの仕掛けを厳選してご紹介していきます。",
                          "publishedAt":  "2026-06-10T07:35:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -673,7 +689,7 @@
                          "url":  "https://diamond.jp/articles/-/391928",
                          "description":  "上司として成果を出すためのリーダーシップとマネジメントの基本を解説。管理職に必要なスキルはプレイヤーとは別物。初心者として学び直す重要性を具体例とともに示し、誰もが自信を持って一歩踏み出せる勇気を持てる。新米リーダーからベテラン経営者まで、あらゆる上司の不安を解消する、基本スキルを紹介します。",
                          "publishedAt":  "2026-06-10T07:20:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -681,7 +697,7 @@
                          "url":  "https://diamond.jp/articles/-/391978",
                          "description":  "スタートアップが成功できるか、失敗して消えてしまうか？ それを決めるのは、Product Market Fit（PMF：プロダクト・マーケット・フィット／市場で顧客に愛される製品・サービスを作ること）を達成できるかどうかにかかっている。『増補改訂版 起業の科学 スタートアップサイエンスVer.2』（田所雅之著、ダイヤモンド社）は、起業家の8割が読み、5割が実践する起業本のベストセラー『起業の科学』を9年ぶりに大改訂した最新版。本連載では同書から抜粋して、スタートアップの成長を加速するポイントについて、わかりやすくお伝えしていきます。",
                          "publishedAt":  "2026-06-10T06:50:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -689,7 +705,7 @@
                          "url":  "https://diamond.jp/articles/-/391968",
                          "description":  "「構想力・イノベーション講座」（運営Aoba-BBT）の人気講師で、シンガポールを拠点に活躍する戦略コンサルタント坂田幸樹氏の最新刊『戦略のデザイン ゼロから「勝ち筋」を導き出す10の問い』（ダイヤモンド社）は、新規事業の立案や自社の課題解決に役立つ戦略の立て方をわかりやすく解説する入門書。戦略とは何か。変化の時代に、企業は何を問い直すべきなのか。本連載では、さまざまな経営や組織の悩みについて坂田氏に話を聞きながら、同書の考え方を現在進行形の課題へと結びつけていく。",
                          "publishedAt":  "2026-06-10T06:45:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -697,7 +713,7 @@
                          "url":  "https://diamond.jp/articles/-/391453",
                          "description":  "優秀なマネージャーは、「少しだけ演技」する。あえて「演じること」を選べば、「部下に信頼される」「会社に評価される」「自分も疲れない」職場になる。そんなリーダーの実践的なふるまい方をまとめたのが、『3000件の職場の悩みを解決したプロが教える リーダーのふるまい大全』（本田淳也著）である。本稿では、同書の内容を一部抜粋して紹介する。",
                          "publishedAt":  "2026-06-10T06:40:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -705,7 +721,7 @@
                          "url":  "https://diamond.jp/articles/-/392136",
                          "description":  "ライター業の傍ら、スキマバイトでさまざまな職場で働いている筆者が仕事を通じて見えた悲喜こもごもをつづる本連載。今回は、とある駅構内にある「立ち食いそば屋」での体験をレポートしよう。「安くて早い！」をフル稼働で支える店長から、深刻な人手不足の実情を学ぶことになった。",
                          "publishedAt":  "2026-06-10T06:30:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -713,7 +729,7 @@
                          "url":  "https://diamond.jp/articles/-/391672",
                          "description":  "「人こそ最大の資産」と掲げる会社ほど、なぜ人を活かしきれないのか。ドラッカーは、その原因を一つの「取り違え」に見ていた。",
                          "publishedAt":  "2026-06-10T06:25:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -721,7 +737,7 @@
                          "url":  "https://diamond.jp/articles/-/391982",
                          "description":  "毎日ただ仕事・家事をしているだけであっという間に1日、1週間、1カ月が過ぎている。「私の人生、このままでいいのか？」――そんなふうにふと、人生を立ち止まりたくなった人におすすめの1冊があります。書籍『人生アップデート大全――停滞した自分を変える66の習慣』（池田貴将著）は、「世間から見た成功」ではなく「自分にとっての成功」を軸に、1度きりの人生を心から満足のいくものにするための1冊です。本書の発売を記念して、本書より一部抜粋・再編集して紹介します。",
                          "publishedAt":  "2026-06-10T06:20:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -729,7 +745,7 @@
                          "url":  "https://diamond.jp/articles/-/391313",
                          "description":  "松屋の「ソーセージエッグW定食」がボリューム満点でおいしい！目玉焼きが2個とソーセージ、選べる小鉢がついてライスが進むんです。朝からお腹いっぱいになれてエネルギーチャージにピッタリ！",
                          "publishedAt":  "2026-06-10T06:11:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -737,7 +753,7 @@
                          "url":  "https://diamond.jp/articles/-/391667",
                          "description":  "「すぐに感情的になる人」と「いつも穏やかな人」は何が違うのか。何事に対しても、心穏やかに冷静に対処できる人が持っている「考え方」とは？ 幸福研究の第一人者として知られた米イリノイ大学心理学名誉教授のエド・ディーナー氏らの研究、スイス・チューリヒ大学のハネス・シュワント氏の研究をもとに、「人生において幸福感や満足感を持つ秘訣」を心理学者の内藤誼人さんが解説する。",
                          "publishedAt":  "2026-06-10T06:00:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -745,7 +761,7 @@
                          "url":  "https://diamond.jp/articles/-/391312",
                          "description":  "あなたは普段、どんな“飲みもの”を口にしているだろうか。実は飲むと認知症予防になるものと、反対に発症リスクを高めるものがある。また認知症リスクを下げる飲みものは全身の健康にも良く、逆も然り。確かな研究報告をもとに専門家が解説する。",
                          "publishedAt":  "2026-06-10T06:00:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -753,7 +769,7 @@
                          "url":  "https://diamond.jp/articles/-/391917",
                          "description":  "ダイヤモンド・口コミ情報では、年収・給与制度に関するアンケートを実施、寄せられた回答をもとに年収データを公開しています。今回は「日本ヒューレット・パッカードの50代後半、部長級」です。",
                          "publishedAt":  "2026-06-10T05:55:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -761,15 +777,15 @@
                          "url":  "https://diamond.jp/articles/-/391961",
                          "description":  "ダイヤモンド・口コミ情報では、年収・給与制度に関するアンケートを実施、寄せられた回答をもとに年収データを公開しています。今回は「フォーティエンスコンサルティングの30代前半、シニアコンサルタント級」です。",
                          "publishedAt":  "2026-06-10T05:30:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
-                         "title":  "「神になりたい」億万長者の悪趣味発言→商社エリートの「切り返し」が見事すぎた【マンガ】 - マネーの拳で学ぶ起業経営リアル塾",
+                         "title":  "さすがに悪趣味すぎんか？大金持ちの「道楽遊び」に商社エリートがドン引きしたワケ【マンガ】 - マネーの拳で学ぶ起業経営リアル塾",
                          "url":  "https://diamond.jp/articles/-/391817",
                          "description":  "三田紀房の起業マンガ『マネーの拳』を題材に、ダイヤモンド・オンライン編集委員の岩本有平が起業や経営を解説する連載「マネーの拳で学ぶ起業経営リアル塾」。第67回では、大株主の権限について解説する。",
                          "publishedAt":  "2026-06-10T05:30:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -777,7 +793,7 @@
                          "url":  "https://diamond.jp/articles/-/392115",
                          "description":  "インドの特徴は、英語と数学に強い人が多いことである。その恩恵を受けるかたちで、現在のテクノロジー業界でインドの強みが生きている。",
                          "publishedAt":  "2026-06-10T05:15:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -785,7 +801,7 @@
                          "url":  "https://diamond.jp/articles/-/392104",
                          "description":  "AIは、経済学分野、特に経済政策立案にどのような影響を与えるのだろうか。",
                          "publishedAt":  "2026-06-10T05:10:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -793,7 +809,7 @@
                          "url":  "https://diamond.jp/articles/-/392105",
                          "description":  "麻酔は「深い眠りに就かせるもの」と一般的に考えられている。しかし新たな研究によると、実際には、これまで考えられていたよりも昏睡（こんすい）状態に近い可能性があるという。",
                          "publishedAt":  "2026-06-10T05:05:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -801,7 +817,7 @@
                          "url":  "https://diamond.jp/articles/-/392106",
                          "description":  "米国の学校では、カフェテリアで食事中の生徒の写真を撮影してSNSに投稿する新たないじめが起きている。",
                          "publishedAt":  "2026-06-10T05:00:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -809,7 +825,7 @@
                          "url":  "https://diamond.jp/articles/-/392107",
                          "description":  "家電量販店業界に「巨大連合」が誕生する。6月5日、ヤマダホールディングス（HD）とエディオンは、経営統合に向けて基本合意したことを発表した。なぜ今、2社は経営統合へとかじを切ったのか。エディオンがヤマダの提案を受け入れた事情と両社を待ち受ける難路を解説する。",
                          "publishedAt":  "2026-06-10T04:55:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -817,7 +833,7 @@
                          "url":  "https://diamond.jp/articles/-/392058",
                          "description":  "巨大企業が並んだ上位層に対し、下位層には果たしてどんな顔触れが並ぶのか――。ダイヤモンド編集部が報酬、兼務社数、時価総額など六つの指標から独自試算し、1000点満点で社外取の実力を完全序列化。「全10821人」を網羅した実名ランキングは、生活に身近な有名企業から地域経済を支える地方銀行まで多種多彩な面々が混在する展開となった。今回は総合ランキングの後編として、5001～10821位の実名と総得点を一挙に公開する。",
                          "publishedAt":  "2026-06-10T04:50:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "ダイヤモンド・オンライン",
@@ -825,111 +841,87 @@
                          "url":  "https://diamond.jp/articles/-/391832",
                          "description":  "地方銀行の再編は、大手・中堅地銀による“攻め”の広域化だけで進んでいるわけではない。その背後で再編圧力を強めているのが金融庁だ。同庁が特に懸念するのは、人口減少地域で単独生き残りの道筋を描きにくい中小地銀、いわば“売れ残り地銀”である。金融庁は2024年秋から、地銀トップに持続可能性を問う対話を本格化し、経営統合を含む踏み込んだ判断を促している。金融庁は地銀トップに何を問い、どんなメッセージを投げ掛けているのか。その対話の狙いと、今後の地銀再編で金融庁が果たすべき役割を読み解く。",
                          "publishedAt":  "2026-06-10T04:45:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
-                     },
-                     {
-                         "source":  "ダイヤモンド・オンライン",
-                         "title":  "サントリー食品事業会社が上場！当時社長の鳥井信宏氏が明かす、持ち株会社ではなく子会社を上場させた理由 - ダイヤモンドで読み解く企業興亡史【サントリー編】",
-                         "url":  "https://diamond.jp/articles/-/392063",
-                         "description":  "昨年、サントリーホールディングスで10年ぶりに創業家出身者がトップに就任する“大政奉還”があった。創業120年超の歴史を誇る日本屈指の同族企業、サントリーの足跡をダイヤモンドの厳選記事を基にひもといていく。本稿では、「週刊ダイヤモンド」2013年8月10日・17日合併号のサントリー食品インターナショナル、鳥井信宏社長のインタビュー記事「M＆A、設備投資等も含め 5000億円を戦略投資に」を紹介する。13年、サントリーホールディングス（HD）の食品事業子会社、サントリー食品インターナショナル（現サントリービバレッジ＆フード）が上場を果たした。記事では、昨年、サントリーHDの社長に就任した鳥井氏がトップとしてインタビューに応じ、上場で調達した資金の使途や、親会社であるサントリーHDではなく食品事業子会社を上場させた理由などを語っている。",
-                         "publishedAt":  "2026-06-10T04:40:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
-                     },
-                     {
-                         "source":  "ダイヤモンド・オンライン",
-                         "title":  "AIブームが生む株価急騰の疑念、見過ごされる「富の企業集中」が生む最終需要なき成長 - Diamond マーケットラボ",
-                         "url":  "https://diamond.jp/articles/-/391905",
-                         "description":  "日米の株式市場はAIブームを追い風に高値更新を続けている。日本株も半導体やデータセンター関連を中心に買われ、市場には「新たな産業革命」が始まったとの期待が広がる。だが、その熱狂の一方で、経済全体の成長率や家計所得の伸びには、まだ明確な変化が見えない。株価上昇を支える企業利益の拡大が、GDPや雇用者報酬の伸びと乖離しつつある現実に注目することで、AI投資の果実が誰に分配され、最終的に誰がAIサービスの需要を支えるのかを考察する。",
-                         "publishedAt":  "2026-06-10T04:35:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
-                     },
-                     {
-                         "source":  "ダイヤモンド・オンライン",
-                         "title":  "日銀金融政策と高市財政政策“ヤマ場”の6月、責任ある積極財政の目安は「GDP比2％程度」の財政出動 - 経済分析の哲人が斬る！市場トピックの深層",
-                         "url":  "https://diamond.jp/articles/-/392099",
-                         "description":  "6月は金融政策では利上げの有無や長期国債買い入れ減額計画の中間評価、財政政策では「骨太の方針2026年」の閣議決定が注目される。長期金利や為替の安定性の観点からは、（1）今後の継続的な利上げ方針が示されか、（2）骨太の方針で「責任ある」財政運営姿勢が示されるか―が焦点となる。「GDP比2％程度」の財政出動に収まるかが「責任ある」と評価する上での一つの目安だ。",
-                         "publishedAt":  "2026-06-10T04:30:00+09:00",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "スペースXなど超大型IPO、上場後低迷のジンクス破るか－買い時いつ",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-09/TGD6OIKIUPV400?srnd=jp-markets",
+                         "title":  "独自米スターバックスが日本事業の売却など検討、5000億円規模も－関係者",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-10/TGCRXQT96OSG00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "高市首相の｢脱・補正｣に身構える霞が関、100兆円超の国家予算に転機",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-09/TFQDMVT96OSJ00?srnd=jp-markets",
+                         "title":  "独自スペースX上場でマスク氏が目指す「AI宇宙産業帝国」とは何か－渦巻く期待、根強い懐疑論",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-10/TGC3MVT96OSJ00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "米株急落、一過性とみるのは早計－ゴールドマンとバークレイズが警告",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-09/TGD4MWKK3NY800?srnd=jp-markets",
+                         "title":  "アシックス、｢オニツカタイガー｣事業を分社化－｢ポジティブ｣と識者",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-10/TGE3BWT96OSL00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "AI株下落は投資家への「警鐘」､集中投資のリスク浮き彫り- ウェルズF",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-09/TGDFJ3T96OSG00?srnd=jp-markets",
+                         "title":  "独自ソフトバンクG、OpenAI株担保の60億ドル融資計画の協議停滞－関係者",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-10/TG3RLCT9NJLS00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "独自スペースXのIPO、注文が募集株数の数倍に－機関投資家から応募殺到",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-09/TGDG89KJH6V600?srnd=jp-markets",
+                         "title":  "韓国中銀と金融監督院、外為取引扱う主要行の検査開始－ウォン安受け",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-10/TGE4D8KK3NYH00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "ビットコイン、週間でFTX破綻以来の急落－「暗号資産の冬」に警戒感",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-09/TGD5MTKIJH9B00?srnd=jp-markets",
+                         "title":  "市況株反落、米ハイテク株安でAI売り再び－長期金利が上昇",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-10/TGDZINT96OSS00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "【米国市況】S\u0026P下落、テック株から資金シフト－原油下落で金利低下",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-09/TGDBR4KIUPTN00?srnd=jp-markets",
+                         "title":  "「スシロータワー」中国SNSで拡散－入店5時間待つ若者も、安さが人気",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-09/TGBMC6KK3NYD00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "米中古住宅販売、5月は年初来の高水準－全ての市場予想を上回る",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-09/TGDAZ9VTTD4400?srnd=jp-markets",
+                         "title":  "市況日本市場、大手ハイテク株需給懸念やイラン情勢で株安へ－円も軟調",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-09/TGCYL1T96OSI00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "米国株でショート積み増し加速､ハイテク株の強気姿勢なお過熱-シティ",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-09/TGCX4EKK3NY800?srnd=jp-markets",
+                         "title":  "独自米利上げ、9月のFOMC会合も視野に－債券トレーダーの持ち高が示唆",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-09/TGDWBIKK3NYC00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "韓国株が急反発、KOSPIは8%高－半導体中心に押し目買い広がる",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-09/TGCUQBKK3NYB00?srnd=jp-markets",
+                         "title":  "AI相場第2章は脱キオクシア・脱ソフトバンクG、高変動率銘柄を敬遠へ",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-09/TGCMKDKK3NYH00?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00"
+                         "fetchedAt":  "2026-06-10T12:00:06+09:00"
                      }
                  ]
 }
