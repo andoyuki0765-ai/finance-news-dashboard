@@ -6,6 +6,15 @@
     "articles":  [
                      {
                          "source":  "東洋経済オンライン",
+                         "title":  "【衝撃】トランプ大統領は2025年だけで暗号資産関連投資から14億ドル（2277億円）の収入を得ていた | 政治・経済・投資 | 東洋経済オンライン",
+                         "url":  "https://toyokeizai.net/articles/-/949881?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
+                         "description":  "2025年､トランプ前大統領が暗号資産やミームコイン関連事業から14億ドル超の収入を報告し､ビジネス界に衝撃が走りました。",
+                         "publishedAt":  "2026-07-01T12:01:00+09:00",
+                         "fetchedAt":  "2026-07-01T12:43:11+09:00",
+                         "matchKeyword":  "暗号資産"
+                     },
+                     {
+                         "source":  "東洋経済オンライン",
                          "title":  "おぼれる高市首相はW杯にすがる？ ｢前代未聞の陳述書提出｣で終盤国会は大混乱､身内も冷笑する自業自得の大ピンチ図鑑 | 政治・経済・投資 | 東洋経済オンライン",
                          "url":  "https://toyokeizai.net/articles/-/949370?utm_source=rss\u0026utm_medium=http\u0026utm_campaign=link_back",
                          "description":  "中傷動画や暗号資産｢サナエトークン｣の疑惑をめぐって国会審議が前例のない混乱に包まれています。秘書の陳述書提出という異例の対応に野党が猛反発し､重要法案の行方にも影響必至。高市首相の対応は疑惑払拭と…",
@@ -69,129 +78,30 @@
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "米財務長官、イラン関連制裁で暗号資産3億4400万ドル相当凍結と発表",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-25/TE14XSKJH6V400?srnd=jp-markets",
+                         "title":  "ビットコイン、8万ドル付近に上値の壁－オプショントレーダーが形成",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-30/TE9OWEKIP3L100?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-25T18:03:24+09:00",
-                         "matchKeyword":  "暗号資産"
+                         "fetchedAt":  "2026-04-30T18:00:07+09:00",
+                         "matchKeyword":  "ビットコイン"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "独自モルガンＳ、仮想通貨取引を開始－割安な手数料で競合に対抗",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-06/TEM6M5T96OSH00?srnd=jp-markets",
+                         "title":  "米キャンター系SPAC、ビットコイン保有企業との統合巡る株主投票延期",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-25/TH5UDJKJH6V400?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-05-07T09:12:10+09:00",
+                         "fetchedAt":  "2026-06-25T18:00:05+09:00",
+                         "matchKeyword":  "ビットコイン"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "注目のスペースX上場、仮想通貨市場でIPO前取引活況－実需手掛かりに",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-29/TFSXBJR24U8S00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-30T13:59:11+09:00",
                          "matchKeyword":  "仮想通貨"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "MSワラント増加、暗号資産買いの資金も 業績不振の企業などが発行",
-                         "url":  "https://www.asahi.com/articles/ASV4F46QXV4FULFA01ZM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "暗号資産"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "ビットコイン、週間でFTX破綻以来の急落－「暗号資産の冬」に警戒感",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-09/TGD5MTKIJH9B00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-10T08:43:59+09:00",
-                         "matchKeyword":  "ビットコイン"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "米ストラテジー幹部、ビットコイン売却に転換示唆－資本戦略見直し",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-06/TELNJ2KK3NYI00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-07T09:12:10+09:00",
-                         "matchKeyword":  "ビットコイン"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "ハッキングが引き金、暗号資産版「取り付け騒ぎ」で90億ドル流出",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDSTSZT9NJLZ00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
-                         "matchKeyword":  "暗号資産"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "米上院銀行委、暗号資産規制明確化法案の本会議送付を承認",
-                         "url":  "https://jp.reuters.com/markets/japan/7UFYWPHNBBNGVOFL4EYAAG37P4-2026-05-14/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-15T15:12:07+09:00",
-                         "matchKeyword":  "暗号資産"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "企業の暗号資産「爆買い」どう評価 専門家「一時的なブームだが…」",
-                         "url":  "https://www.asahi.com/articles/ASV3Z7TZCV3ZULFA00YM.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:03+09:00",
-                         "matchKeyword":  "暗号資産"
-                     },
-                     {
-                         "source":  "ロイター ビジネス",
-                         "title":  "ステーブルコインの国際協調「極めて重要」、ＢＩＳ総支配人が訴え",
-                         "url":  "https://jp.reuters.com/opinion/YCDONZ4XPBLZLOAG2C4632MQQE-2026-04-20/",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
-                         "matchKeyword":  "ステーブルコイン"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "ステーブルコインで資金を保有するMMF2本、米ブラックロックが計画",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-11/TEUFAMKJH6V400?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-11T18:00:04+09:00",
-                         "matchKeyword":  "ステーブルコイン"
-                     },
-                     {
-                         "source":  "朝日新聞 経済",
-                         "title":  "元祖「爆買い」のメタプラ、ビットコイン価格低迷でもつぶれないのは",
-                         "url":  "https://www.asahi.com/articles/ASV3Z7VYHV3ZULFA004M.html?ref=rss",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-04-20T18:00:03+09:00",
-                         "matchKeyword":  "ビットコイン"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "ビットコイン、6週間ぶり安値－中東情勢懸念とETF資金流出が重し",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-28/TFQ86IKK3NY900?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-05-28T18:00:06+09:00",
-                         "matchKeyword":  "ビットコイン"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "ビットコイン5%超下落、イラン紛争開始前以来の安値－中東で衝突再燃",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-04/TG32CGKJH6VA00?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-04T18:00:06+09:00",
-                         "matchKeyword":  "ビットコイン"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "AI株高の陰で下げ続けるビットコイン、ストラテジーの売却で拍車",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-04/TG2TQ7KJH6V600?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-04T18:00:06+09:00",
-                         "matchKeyword":  "ビットコイン"
                      },
                      {
                          "source":  "Bloomberg 日本",
@@ -221,31 +131,31 @@
                          "matchKeyword":  "暗号資産"
                      },
                      {
-                         "source":  "Bloomberg 日本",
-                         "title":  "ビットコイン、8万ドル付近に上値の壁－オプショントレーダーが形成",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-30/TE9OWEKIP3L100?srnd=jp-markets",
+                         "source":  "朝日新聞 経済",
+                         "title":  "トランプ氏、暗号資産で1627億円 25年の資産公開で明らかに",
+                         "url":  "https://www.asahi.com/articles/ASV710J85V71UHBI006M.html?ref=rss",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-04-30T18:00:07+09:00",
+                         "fetchedAt":  "2026-07-01T12:43:10+09:00",
+                         "matchKeyword":  "暗号資産"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ビットコイン6万ドル割れ､ストラテジーの調達モデル見直しで不安再燃",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-07-01/THGTBUKJH6V500?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-07-01T12:43:13+09:00",
                          "matchKeyword":  "ビットコイン"
                      },
                      {
                          "source":  "Bloomberg 日本",
-                         "title":  "注目のスペースX上場、仮想通貨市場でIPO前取引活況－実需手掛かりに",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-29/TFSXBJR24U8S00?srnd=jp-markets",
+                         "title":  "トランプ大統領、暗号資産関連で2277億円以上の収入－2025年資産開示",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-30/THGREAKJH6V600?srnd=jp-markets",
                          "description":  "",
                          "publishedAt":  "",
-                         "fetchedAt":  "2026-05-30T13:59:11+09:00",
-                         "matchKeyword":  "仮想通貨"
-                     },
-                     {
-                         "source":  "Bloomberg 日本",
-                         "title":  "米キャンター系SPAC、ビットコイン保有企業との統合巡る株主投票延期",
-                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-25/TH5UDJKJH6V400?srnd=jp-markets",
-                         "description":  "",
-                         "publishedAt":  "",
-                         "fetchedAt":  "2026-06-25T18:00:05+09:00",
-                         "matchKeyword":  "ビットコイン"
+                         "fetchedAt":  "2026-07-01T12:43:13+09:00",
+                         "matchKeyword":  "暗号資産"
                      },
                      {
                          "source":  "Bloomberg 日本",
@@ -273,6 +183,132 @@
                          "publishedAt":  "",
                          "fetchedAt":  "2026-06-30T08:55:54+09:00",
                          "matchKeyword":  "ビットコイン"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "AI株高の陰で下げ続けるビットコイン、ストラテジーの売却で拍車",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-04/TG2TQ7KJH6V600?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-04T18:00:06+09:00",
+                         "matchKeyword":  "ビットコイン"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ビットコイン、週間でFTX破綻以来の急落－「暗号資産の冬」に警戒感",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-09/TGD5MTKIJH9B00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-10T08:43:59+09:00",
+                         "matchKeyword":  "ビットコイン"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "米ストラテジー幹部、ビットコイン売却に転換示唆－資本戦略見直し",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-06/TELNJ2KK3NYI00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-07T09:12:10+09:00",
+                         "matchKeyword":  "ビットコイン"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ハッキングが引き金、暗号資産版「取り付け騒ぎ」で90億ドル流出",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-20/TDSTSZT9NJLZ00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "暗号資産"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "米財務長官、イラン関連制裁で暗号資産3億4400万ドル相当凍結と発表",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-04-25/TE14XSKJH6V400?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-25T18:03:24+09:00",
+                         "matchKeyword":  "暗号資産"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "独自モルガンＳ、仮想通貨取引を開始－割安な手数料で競合に対抗",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-06/TEM6M5T96OSH00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-07T09:12:10+09:00",
+                         "matchKeyword":  "仮想通貨"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "MSワラント増加、暗号資産買いの資金も 業績不振の企業などが発行",
+                         "url":  "https://www.asahi.com/articles/ASV4F46QXV4FULFA01ZM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-21T09:10:26+09:00",
+                         "matchKeyword":  "暗号資産"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "米上院銀行委、暗号資産規制明確化法案の本会議送付を承認",
+                         "url":  "https://jp.reuters.com/markets/japan/7UFYWPHNBBNGVOFL4EYAAG37P4-2026-05-14/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-15T15:12:07+09:00",
+                         "matchKeyword":  "暗号資産"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "元祖「爆買い」のメタプラ、ビットコイン価格低迷でもつぶれないのは",
+                         "url":  "https://www.asahi.com/articles/ASV3Z7VYHV3ZULFA004M.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:03+09:00",
+                         "matchKeyword":  "ビットコイン"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ビットコイン、6週間ぶり安値－中東情勢懸念とETF資金流出が重し",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-28/TFQ86IKK3NY900?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-28T18:00:06+09:00",
+                         "matchKeyword":  "ビットコイン"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ビットコイン5%超下落、イラン紛争開始前以来の安値－中東で衝突再燃",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-06-04/TG32CGKJH6VA00?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-06-04T18:00:06+09:00",
+                         "matchKeyword":  "ビットコイン"
+                     },
+                     {
+                         "source":  "朝日新聞 経済",
+                         "title":  "企業の暗号資産「爆買い」どう評価 専門家「一時的なブームだが…」",
+                         "url":  "https://www.asahi.com/articles/ASV3Z7TZCV3ZULFA00YM.html?ref=rss",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:03+09:00",
+                         "matchKeyword":  "暗号資産"
+                     },
+                     {
+                         "source":  "ロイター ビジネス",
+                         "title":  "ステーブルコインの国際協調「極めて重要」、ＢＩＳ総支配人が訴え",
+                         "url":  "https://jp.reuters.com/opinion/YCDONZ4XPBLZLOAG2C4632MQQE-2026-04-20/",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-04-20T18:00:04+09:00",
+                         "matchKeyword":  "ステーブルコイン"
+                     },
+                     {
+                         "source":  "Bloomberg 日本",
+                         "title":  "ステーブルコインで資金を保有するMMF2本、米ブラックロックが計画",
+                         "url":  "https://www.bloomberg.com/jp/news/articles/2026-05-11/TEUFAMKJH6V400?srnd=jp-markets",
+                         "description":  "",
+                         "publishedAt":  "",
+                         "fetchedAt":  "2026-05-11T18:00:04+09:00",
+                         "matchKeyword":  "ステーブルコイン"
                      }
                  ]
 }
